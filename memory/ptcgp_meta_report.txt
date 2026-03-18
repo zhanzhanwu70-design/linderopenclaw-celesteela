@@ -1,0 +1,44 @@
+🐢 **PTCGP Meta Report** - 30 decks analyzed
+
+📊 **Top 10 by Usage Rate:**
+1. **Suicune ex Baxcalibur** - 13.42% (WR: 50.1%, 3803-3636-158)
+2. **Mega Altaria ex Greninja** - 11.73% (WR: 51.4%, 3489-3134-170)
+3. **Magnezone Bellibolt ex** - 8.96% (WR: 52.8%, 2837-2399-139)
+4. **Bellibolt ex Zeraora** - 6.66% (WR: 51.3%, 1926-1738-93)
+5. **Hydreigon Mega Absol ex** - 5.87% (WR: 51.3%, 1763-1603-70)
+6. **Greninja Mega Absol ex** - 5.60% (WR: 52.6%, 1715-1465-80)
+7. **Mega Altaria ex Gourgeist** - 3.70% (WR: 54.3%, 1204-936-77)
+8. **Mega Altaria ex Chingling** - 2.13% (WR: 49.8%, 571-537-38)
+9. **Meowscarada ex Meowscarada** - 1.95% (WR: 41.2%, 374-524-9)
+10. **Mega Lopunny ex Annihilape** - 1.78% (WR: 43.0%, 387-506-7)
+
+🔥 **Top 10 by Win Rate (100+ games):**
+1. **Mega Altaria ex** - 56.4% (343-247-18, 608 games)
+2. **Mega Altaria ex Altaria** - 54.7% (163-122-13, 298 games)
+3. **Mega Altaria ex Gourgeist** - 54.3% (1204-936-77, 2217 games)
+4. **Magnezone Bellibolt ex** - 52.8% (2837-2399-139, 5375 games)
+5. **Greninja Mega Absol ex** - 52.6% (1715-1465-80, 3260 games)
+6. **Magnezone Oricorio** - 52.6% (317-274-12, 603 games)
+7. **Leafeon ex Teal Mask Ogerpon ex** - 51.9% (200-178-7, 385 games)
+8. **Gourgeist Houndstone** - 51.8% (417-370-18, 805 games)
+9. **Mega Altaria ex Greninja** - 51.4% (3489-3134-170, 6793 games)
+10. **Hydreigon Mega Absol ex** - 51.3% (1763-1603-70, 3436 games)
+
+⚡ **Top 10 by Adjusted Win Rate (Bayesian, 100+ games):**
+1. **Mega Altaria ex** - 56.1% (raw: 56.4%)
+2. **Mega Altaria ex Gourgeist** - 54.2% (raw: 54.3%)
+3. **Mega Altaria ex Altaria** - 54.2% (raw: 54.7%)
+4. **Magnezone Bellibolt ex** - 52.8% (raw: 52.8%)
+5. **Greninja Mega Absol ex** - 52.6% (raw: 52.6%)
+6. **Magnezone Oricorio** - 52.4% (raw: 52.6%)
+7. **Leafeon ex Teal Mask Ogerpon ex** - 51.7% (raw: 51.9%)
+8. **Gourgeist Houndstone** - 51.7% (raw: 51.8%)
+9. **Mega Altaria ex Greninja** - 51.3% (raw: 51.4%)
+10. **Hydreigon Mega Absol ex** - 51.3% (raw: 51.3%)
+
+📈 **Meta Insights:**
+• Most popular: Suicune ex Baxcalibur (13.4%)
+• Highest win rate: Mega Altaria ex (56.4%)
+• Best adjusted: Mega Altaria ex (56.1%)
+
+Data from play.limitlesstcg.com

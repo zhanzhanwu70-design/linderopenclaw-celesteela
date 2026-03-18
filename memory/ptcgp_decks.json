@@ -1,0 +1,20 @@
+{
+  "deck_007": {
+    "name": "草系猫猫牌组 (Meowscarada)",
+    "pokemon": [
+      {"name": "草猫", "en": "Sprigatito", "qty": 2},
+      {"name": "蒂蕾喵", "en": "Floragato", "qty": 1},
+      {"name": "魔幻假面喵 ex", "en": "Meowscarada ex", "qty": 2},
+      {"name": "魔幻假面喵", "en": "Meowscarada", "qty": 1}
+    ],
+    "trainers": [
+      {"name": "赤日", "en": "Cyrus", "qty": 2},
+      {"name": "博士的研究", "en": "Professor's Research", "qty": 2},
+      {"name": "莉莉艾", "en": "Lillie", "qty": 1},
+      {"name": "古兹马", "en": "Guzma", "qty": 1},
+      {"name": "神奇糖果", "en": "Rare Candy", "qty": 2},
+      {"name": "叶子斗篷", "en": "Leaf Cape", "qty": 2},
+      {"name": "桌台市", "en": "Mesagoza", "qty": 1}
+    ]
+  }
+}

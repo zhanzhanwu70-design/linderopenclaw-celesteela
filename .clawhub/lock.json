@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "llmwhisperer": {
+      "version": "0.0.7",
+      "installedAt": 1773492491326
+    },
+    "deepread-form-fill": {
+      "version": "1.0.0",
+      "installedAt": 1773492550240
+    }
+  }
+}

@@ -1,0 +1,1299 @@
+{
+  "cards": [
+    {
+      "english_name": "Bulbasaur",
+      "chinese_name": "妙蛙种子",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Ivysaur",
+      "chinese_name": "妙蛙草",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Venusaur",
+      "chinese_name": "妙蛙花",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Charmander",
+      "chinese_name": "小火龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Charmeleon",
+      "chinese_name": "火恐龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Charizard",
+      "chinese_name": "喷火龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Squirtle",
+      "chinese_name": "杰尼龟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Wartortle",
+      "chinese_name": "卡咪龟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Blastoise",
+      "chinese_name": "水箭龟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Caterpie",
+      "chinese_name": "绿毛虫",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Metapod",
+      "chinese_name": "铁甲蛹",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Butterfree",
+      "chinese_name": "巴大蝶",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Weedle",
+      "chinese_name": "独角虫",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Kakuna",
+      "chinese_name": "铁壳蛹",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Beedrill",
+      "chinese_name": "大针蜂",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Pidgey",
+      "chinese_name": "波波",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Pidgeotto",
+      "chinese_name": "比比鸟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Pidgeot",
+      "chinese_name": "大比鸟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Rattata",
+      "chinese_name": "小拉达",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Raticate",
+      "chinese_name": "拉达",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Spearow",
+      "chinese_name": "烈雀",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Fearow",
+      "chinese_name": "大嘴雀",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Ekans",
+      "chinese_name": "阿柏蛇",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Arbok",
+      "chinese_name": "阿柏怪",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Pikachu",
+      "chinese_name": "皮卡丘",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Raichu",
+      "chinese_name": "雷丘",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Sandshrew",
+      "chinese_name": "穿山鼠",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Sandslash",
+      "chinese_name": "穿山王",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Nidoran♀",
+      "chinese_name": "尼多兰",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Nidorina",
+      "chinese_name": "尼多娜",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Nidoqueen",
+      "chinese_name": "尼多后",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Nidoran♂",
+      "chinese_name": "尼多朗",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Nidorino",
+      "chinese_name": "尼多力诺",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Nidoking",
+      "chinese_name": "尼多王",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Clefairy",
+      "chinese_name": "皮皮",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Clefable",
+      "chinese_name": "皮可西",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Vulpix",
+      "chinese_name": "六尾",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Ninetales",
+      "chinese_name": "九尾",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Jigglypuff",
+      "chinese_name": "胖丁",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Wigglytuff",
+      "chinese_name": "胖可丁",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Zubat",
+      "chinese_name": "超音蝠",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Golbat",
+      "chinese_name": "大嘴蝠",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Oddish",
+      "chinese_name": "走路草",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Gloom",
+      "chinese_name": "臭臭花",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Vileplume",
+      "chinese_name": "霸王花",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Paras",
+      "chinese_name": "派拉斯",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Parasect",
+      "chinese_name": "派拉斯特",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Venonat",
+      "chinese_name": "毛球",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Venomoth",
+      "chinese_name": "摩鲁蛾",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Diglett",
+      "chinese_name": "地鼠",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Dugtrio",
+      "chinese_name": "三地鼠",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Meowth",
+      "chinese_name": "喵喵",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Persian",
+      "chinese_name": "猫老大",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Psyduck",
+      "chinese_name": "可达鸭",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Golduck",
+      "chinese_name": "哥达鸭",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Mankey",
+      "chinese_name": "猴怪",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Primeape",
+      "chinese_name": "火爆猴",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Growlithe",
+      "chinese_name": "卡蒂狗",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Arcanine",
+      "chinese_name": "风速狗",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Poliwag",
+      "chinese_name": "蚊香蝌蚪",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Poliwhirl",
+      "chinese_name": "蚊香君",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Poliwrath",
+      "chinese_name": "蚊香泳士",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Abra",
+      "chinese_name": "凯西",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Kadabra",
+      "chinese_name": "勇基拉",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Alakazam",
+      "chinese_name": "胡地",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Machop",
+      "chinese_name": "腕力",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Machoke",
+      "chinese_name": "豪力",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Machamp",
+      "chinese_name": "怪力",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Bellsprout",
+      "chinese_name": "喇叭花",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Weepinbell",
+      "chinese_name": "口呆花",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Victreebel",
+      "chinese_name": "大食花",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Tentacool",
+      "chinese_name": "玛瑙水母",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Tentacruel",
+      "chinese_name": "毒刺水母",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Geodude",
+      "chinese_name": "小拳石",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Graveler",
+      "chinese_name": "隆隆石",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Golem",
+      "chinese_name": "隆隆岩",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Ponyta",
+      "chinese_name": "小火马",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Rapidash",
+      "chinese_name": "烈焰马",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Slowpoke",
+      "chinese_name": "呆呆兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Slowbro",
+      "chinese_name": "呆壳兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Magnemite",
+      "chinese_name": "小磁怪",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Magneton",
+      "chinese_name": "三合一磁怪",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Farfetch'd",
+      "chinese_name": "大葱鸭",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Doduo",
+      "chinese_name": "嘟嘟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Dodrio",
+      "chinese_name": "嘟嘟利",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Seel",
+      "chinese_name": "小海狮",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Dewgong",
+      "chinese_name": "白海狮",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Grimer",
+      "chinese_name": "臭泥",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Muk",
+      "chinese_name": "臭臭泥",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Shellder",
+      "chinese_name": "大蛇贝",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Cloyster",
+      "chinese_name": "刺甲贝",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Gastly",
+      "chinese_name": "鬼斯",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Haunter",
+      "chinese_name": "鬼斯通",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Gengar",
+      "chinese_name": "耿鬼",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Onix",
+      "chinese_name": "大岩蛇",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Drowzee",
+      "chinese_name": "催眠貘",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Hypno",
+      "chinese_name": "引梦貘",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Krabby",
+      "chinese_name": "大钳蟹",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Kingler",
+      "chinese_name": "巨钳蟹",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Voltorb",
+      "chinese_name": "霹雳电球",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Electrode",
+      "chinese_name": "顽皮雷弹",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Exeggcute",
+      "chinese_name": "蛋蛋",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Exeggutor",
+      "chinese_name": "椰蛋树",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Cubone",
+      "chinese_name": "卡拉卡拉",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Marowak",
+      "chinese_name": "嘎啦嘎啦",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Hitmonlee",
+      "chinese_name": "飞腿郎",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Hitmonchan",
+      "chinese_name": "快拳郎",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Lickitung",
+      "chinese_name": "大舌头",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Koffing",
+      "chinese_name": "瓦斯弹",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Weezing",
+      "chinese_name": "双弹瓦斯",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Rhyhorn",
+      "chinese_name": "独角犀牛",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Rhydon",
+      "chinese_name": "钻角犀兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Chansey",
+      "chinese_name": "吉利蛋",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Tangela",
+      "chinese_name": "蔓藤怪",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Kangaskhan",
+      "chinese_name": "袋兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Horsea",
+      "chinese_name": "墨海马",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Seadra",
+      "chinese_name": "海刺龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Goldeen",
+      "chinese_name": "角金鱼",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Seaking",
+      "chinese_name": "金鱼王",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Staryu",
+      "chinese_name": "海星星",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Starmie",
+      "chinese_name": "宝石海星",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Mr. Mime",
+      "chinese_name": "魔墙人偶",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Scyther",
+      "chinese_name": "飞天螳螂",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Jynx",
+      "chinese_name": "迷唇姐",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Electabuzz",
+      "chinese_name": "电击兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Magmar",
+      "chinese_name": "鸭嘴火兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Pinsir",
+      "chinese_name": "凯罗斯",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Tauros",
+      "chinese_name": "肯泰罗",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Magikarp",
+      "chinese_name": "鲤鱼王",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Gyarados",
+      "chinese_name": "暴鲤龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Lapras",
+      "chinese_name": "拉普拉斯",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Ditto",
+      "chinese_name": "百变怪",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Eevee",
+      "chinese_name": "伊布",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Vaporeon",
+      "chinese_name": "水伊布",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Jolteon",
+      "chinese_name": "雷伊布",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Flareon",
+      "chinese_name": "火伊布",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Porygon",
+      "chinese_name": "多边兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Omanyte",
+      "chinese_name": "菊石兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Omastar",
+      "chinese_name": "多刺菊石兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Kabuto",
+      "chinese_name": "化石盔",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Kabutops",
+      "chinese_name": "镰刀盔",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Aerodactyl",
+      "chinese_name": "化石翼龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Snorlax",
+      "chinese_name": "卡比兽",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Articuno",
+      "chinese_name": "急冻鸟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Zapdos",
+      "chinese_name": "闪电鸟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Moltres",
+      "chinese_name": "火焰鸟",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Dratini",
+      "chinese_name": "迷你龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Dragonair",
+      "chinese_name": "哈克龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Dragonite",
+      "chinese_name": "快龙",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Mewtwo",
+      "chinese_name": "超梦",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Mew",
+      "chinese_name": "梦幻",
+      "source": "pokemon_go_gen1"
+    },
+    {
+      "english_name": "Chikorita",
+      "chinese_name": "橘草叶",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Bayleef",
+      "chinese_name": "月桂叶",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Meganium",
+      "chinese_name": "大菊花",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Cyndaquil",
+      "chinese_name": "火球鼠",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Quilava",
+      "chinese_name": "火岩鼠",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Typhlosion",
+      "chinese_name": "火爆獸",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Totodile",
+      "chinese_name": "小锯鳄",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Croconaw",
+      "chinese_name": "蓝鳄",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Feraligatr",
+      "chinese_name": "大力鳄",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Sentret",
+      "chinese_name": "尾立",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Furret",
+      "chinese_name": "大尾立",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Hoothoot",
+      "chinese_name": "咕咕",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Noctowl",
+      "chinese_name": "猫头夜鹰",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Ledyba",
+      "chinese_name": "芭瓢虫",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Ledian",
+      "chinese_name": "安瓢虫",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Spinarak",
+      "chinese_name": "线球",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Ariados",
+      "chinese_name": "阿利多斯",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Crobat",
+      "chinese_name": "叉字蝠",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Chinchou",
+      "chinese_name": "灯笼鱼",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Lanturn",
+      "chinese_name": "电灯怪",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Pichu",
+      "chinese_name": "皮丘",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Cleffa",
+      "chinese_name": "皮宝宝",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Igglybuff",
+      "chinese_name": "宝宝丁",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Togepi",
+      "chinese_name": "波克比",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Togetic",
+      "chinese_name": "波克基古",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Natu",
+      "chinese_name": "天然雀",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Xatu",
+      "chinese_name": "天然鸟",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Mareep",
+      "chinese_name": "咩利羊",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Flaaffy",
+      "chinese_name": "绵绵",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Ampharos",
+      "chinese_name": "电龙",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Bellossom",
+      "chinese_name": "美丽花",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Marill",
+      "chinese_name": "玛力露",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Azumarill",
+      "chinese_name": "玛力露露",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Sudowoodo",
+      "chinese_name": "胡说树",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Politoed",
+      "chinese_name": "水蛙君",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Hoppip",
+      "chinese_name": "毽子草",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Skiploom",
+      "chinese_name": "毽子花",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Jumpluff",
+      "chinese_name": "毽子棉",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Aipom",
+      "chinese_name": "长尾怪手",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Sunkern",
+      "chinese_name": "向日种子",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Sunflora",
+      "chinese_name": "向日花怪",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Yanma",
+      "chinese_name": "阳阳玛",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Wooper",
+      "chinese_name": "乌波",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Quagsire",
+      "chinese_name": "沼王",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Espeon",
+      "chinese_name": "太阳精灵",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Umbreon",
+      "chinese_name": "月精灵",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Murkrow",
+      "chinese_name": "黑暗鸦",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Slowking",
+      "chinese_name": "河马王",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Misdreavus",
+      "chinese_name": "梦妖",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Unown",
+      "chinese_name": "未知图腾",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Wobbuffet",
+      "chinese_name": "果然翁",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Girafarig",
+      "chinese_name": "麒麟奇",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Pineco",
+      "chinese_name": "榛果球",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Forretress",
+      "chinese_name": "佛列托斯",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Dunsparce",
+      "chinese_name": "土龙弟弟",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Gligar",
+      "chinese_name": "天蝎",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Steelix",
+      "chinese_name": "大钢蛇",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Snubbull",
+      "chinese_name": "布卢",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Granbull",
+      "chinese_name": "布卢皇",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Qwilfish",
+      "chinese_name": "千针鱼",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Scizor",
+      "chinese_name": "巨钳螳螂",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Shuckle",
+      "chinese_name": "壶壶",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Heracross",
+      "chinese_name": "赫拉克罗斯",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Sneasel",
+      "chinese_name": "狃拉",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Teddiursa",
+      "chinese_name": "熊宝宝",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Ursaring",
+      "chinese_name": "圈圈熊",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Slugma",
+      "chinese_name": "熔岩虫",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Magcargo",
+      "chinese_name": "熔岩蜗牛",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Swinub",
+      "chinese_name": "小山猪",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Piloswine",
+      "chinese_name": "长毛猪",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Corsola",
+      "chinese_name": "太阳珊瑚",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Remoraid",
+      "chinese_name": "铁炮鱼",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Octillery",
+      "chinese_name": "章鱼桶",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Delibird",
+      "chinese_name": "信使鸟",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Mantine",
+      "chinese_name": "巨翅飞鱼",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Skarmory",
+      "chinese_name": "盔甲鸟",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Houndour",
+      "chinese_name": "戴鲁比",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Houndoom",
+      "chinese_name": "黑鲁加",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Kingdra",
+      "chinese_name": "刺龙王",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Phanpy",
+      "chinese_name": "小小象",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Donphan",
+      "chinese_name": "顿甲",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Porygon2",
+      "chinese_name": "3D龙2",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Stantler",
+      "chinese_name": "惊角鹿",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Smeargle",
+      "chinese_name": "图图犬",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Tyrogue",
+      "chinese_name": "巴尔郎",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Hitmontop",
+      "chinese_name": "柯波朗",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Smoochum",
+      "chinese_name": "迷唇娃",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Elekid",
+      "chinese_name": "电击怪",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Magby",
+      "chinese_name": "小鸭嘴龙",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Miltank",
+      "chinese_name": "大奶罐",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Blissey",
+      "chinese_name": "幸福蛋",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Raikou",
+      "chinese_name": "雷公",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Entei",
+      "chinese_name": "炎帝",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Suicune",
+      "chinese_name": "水君",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Larvitar",
+      "chinese_name": "由基拉",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Pupitar",
+      "chinese_name": "沙基拉",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Tyranitar",
+      "chinese_name": "班吉拉",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Lugia",
+      "chinese_name": "洛奇亚",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Ho-Oh",
+      "chinese_name": "凤王",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Celebi",
+      "chinese_name": "雪拉比",
+      "source": "pokemon_go_gen2"
+    },
+    {
+      "english_name": "Gimmighoul",
+      "chinese_name": "索财灵",
+      "source": "user_correction"
+    },
+    {
+      "english_name": "Magearna",
+      "chinese_name": "玛机雅娜",
+      "source": "user_correction"
+    },
+    {
+      "english_name": "Copycat",
+      "chinese_name": "模仿少女",
+      "source": "user_correction"
+    },
+    {
+      "english_name": "X Speed",
+      "chinese_name": "速度强化",
+      "source": "user_correction"
+    },
+    {
+      "english_name": "Tadbulb",
+      "chinese_name": "光蚪仔",
+      "source": "user_correction"
+    },
+    {
+      "english_name": "Oricorio",
+      "chinese_name": "花舞鸟",
+      "source": "user_correction"
+    },
+    {
+      "english_name": "Clemont",
+      "chinese_name": "希特隆",
+      "source": "user_correction"
+    },
+    {
+      "english_name": "Lucky Ice Pop",
+      "chinese_name": "抽奖冰棒",
+      "source": "user_correction"
+    }
+  ]
+}
