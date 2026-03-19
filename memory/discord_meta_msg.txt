@@ -1,0 +1,55 @@
+🐢 **PTCGP Meta Report — 2026-03-18**
+
+📊 **資料來源**: play.limitlesstcg.com | 總牌組數: 11,477
+Format: Standard | Set: B2a
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**📈 使用率 Top 10**
+
+1️⃣ **Suicune ex Baxcalibur** — 13.22% (勝率: 50.1%)
+2️⃣ **Mega Altaria ex Greninja** — 11.65% (勝率: 51.5%)
+3️⃣ **Magnezone Bellibolt ex** — 8.92% (勝率: 52.1%)
+4️⃣ **Bellibolt ex Zeraora** — 6.38% (勝率: 51.0%)
+5️⃣ **Greninja Mega Absol ex** — 5.78% (勝率: 52.3%)
+6️⃣ **Hydreigon Mega Absol ex** — 5.73% (勝率: 51.1%)
+7️⃣ **Mega Altaria ex Gourgeist** — 4.78% (勝率: 54.0%)
+8️⃣ Mega Altaria ex Chingling — 1.99% (勝率: 50.0%)
+9️⃣ Meowscarada ex Meowscarada — 1.79% (勝率: 41.3%)
+🔟 Mega Lopunny ex Annihilape — 1.69% (勝率: 42.8%)
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**🔥 勝率 Top 10 (100+ 場樣本)**
+
+👑 **Mimikyu ex Greninja** — 58.3% (206場) ⭐黑馬崛起
+👑 **Mega Altaria ex** — 55.3% (669場)
+👑 **Mega Absol ex Darkrai ex** — 55.1% (156場)
+4️⃣ Mega Altaria ex Altaria — 54.2%
+5️⃣ Mega Altaria ex Gourgeist — 54.0%
+6️⃣ Giratina ex Darkrai ex — 53.4%
+7️⃣ Magnezone Oricorio — 52.5%
+8️⃣ Greninja Mega Absol ex — 52.3%
+9️⃣ Leafeon ex Teal Mask Ogerpon ex — 52.1%
+🔟 Magnezone Bellibolt ex — 52.1%
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**💡 Meta 分析**
+
+🌟 **S-Tier 推薦**
+• Mega Altaria ex Gourgeist — 高使用率 + 最高勝率
+• Magnezone Bellibolt ex — 穩定取勝
+• Greninja Mega Absol ex — 爆發力強
+
+📌 **本週觀察**
+• 水系持續 dominate，Suicune ex + Baxcalibur 穩坐冠軍
+• Mega Altaria 體系是最大贏家
+• Mimikyu ex Greninja 黑馬崛起！58.3% 勝率
+• Meowscarada 持續低迷 (41.3%)，不建議使用
+
+⚠️ **避開**: Meowscarada (41.3%) | Gholdengo Dialga (38.4%) | Mega Blaziken (38.2%)
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+_💬 由 Tekkah 自動整理 | 資料每日更新_

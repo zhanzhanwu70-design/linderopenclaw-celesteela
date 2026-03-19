@@ -1,44 +1,62 @@
-🐢 **PTCGP Meta Report** - 30 decks analyzed
+# 🐢 PTCGP Meta Report — 2026-03-18
 
-📊 **Top 10 by Usage Rate:**
-1. **Suicune ex Baxcalibur** - 13.42% (WR: 50.1%, 3803-3636-158)
-2. **Mega Altaria ex Greninja** - 11.73% (WR: 51.4%, 3489-3134-170)
-3. **Magnezone Bellibolt ex** - 8.96% (WR: 52.8%, 2837-2399-139)
-4. **Bellibolt ex Zeraora** - 6.66% (WR: 51.3%, 1926-1738-93)
-5. **Hydreigon Mega Absol ex** - 5.87% (WR: 51.3%, 1763-1603-70)
-6. **Greninja Mega Absol ex** - 5.60% (WR: 52.6%, 1715-1465-80)
-7. **Mega Altaria ex Gourgeist** - 3.70% (WR: 54.3%, 1204-936-77)
-8. **Mega Altaria ex Chingling** - 2.13% (WR: 49.8%, 571-537-38)
-9. **Meowscarada ex Meowscarada** - 1.95% (WR: 41.2%, 374-524-9)
-10. **Mega Lopunny ex Annihilape** - 1.78% (WR: 43.0%, 387-506-7)
+📊 **資料來源**: play.limitlesstcg.com | 總牌組數: 11,477
+Format: Standard | Set: B2a
 
-🔥 **Top 10 by Win Rate (100+ games):**
-1. **Mega Altaria ex** - 56.4% (343-247-18, 608 games)
-2. **Mega Altaria ex Altaria** - 54.7% (163-122-13, 298 games)
-3. **Mega Altaria ex Gourgeist** - 54.3% (1204-936-77, 2217 games)
-4. **Magnezone Bellibolt ex** - 52.8% (2837-2399-139, 5375 games)
-5. **Greninja Mega Absol ex** - 52.6% (1715-1465-80, 3260 games)
-6. **Magnezone Oricorio** - 52.6% (317-274-12, 603 games)
-7. **Leafeon ex Teal Mask Ogerpon ex** - 51.9% (200-178-7, 385 games)
-8. **Gourgeist Houndstone** - 51.8% (417-370-18, 805 games)
-9. **Mega Altaria ex Greninja** - 51.4% (3489-3134-170, 6793 games)
-10. **Hydreigon Mega Absol ex** - 51.3% (1763-1603-70, 3436 games)
+---
 
-⚡ **Top 10 by Adjusted Win Rate (Bayesian, 100+ games):**
-1. **Mega Altaria ex** - 56.1% (raw: 56.4%)
-2. **Mega Altaria ex Gourgeist** - 54.2% (raw: 54.3%)
-3. **Mega Altaria ex Altaria** - 54.2% (raw: 54.7%)
-4. **Magnezone Bellibolt ex** - 52.8% (raw: 52.8%)
-5. **Greninja Mega Absol ex** - 52.6% (raw: 52.6%)
-6. **Magnezone Oricorio** - 52.4% (raw: 52.6%)
-7. **Leafeon ex Teal Mask Ogerpon ex** - 51.7% (raw: 51.9%)
-8. **Gourgeist Houndstone** - 51.7% (raw: 51.8%)
-9. **Mega Altaria ex Greninja** - 51.3% (raw: 51.4%)
-10. **Hydreigon Mega Absol ex** - 51.3% (raw: 51.3%)
+## 📈 使用率 Top 10
 
-📈 **Meta Insights:**
-• Most popular: Suicune ex Baxcalibur (13.4%)
-• Highest win rate: Mega Altaria ex (56.4%)
-• Best adjusted: Mega Altaria ex (56.1%)
+| 排名 | 牌組 | 使用率 | 勝率 | 战绩 |
+|:---:|------|:------:|:----:|------|
+| 1 | **Suicune ex Baxcalibur** | 13.22% | 50.1% | 4183-3990-172 |
+| 2 | **Mega Altaria ex Greninja** | 11.65% | 51.5% | 3884-3460-196 |
+| 3 | **Magnezone Bellibolt ex** | 8.92% | 52.1% | 3049-2659-148 |
+| 4 | **Bellibolt ex Zeraora** | 6.38% | 51.0% | 2033-1856-96 |
+| 5 | **Greninja Mega Absol ex** | 5.78% | 52.3% | 1945-1689-85 |
+| 6 | **Hydreigon Mega Absol ex** | 5.73% | 51.1% | 1889-1733-77 |
+| 7 | **Mega Altaria ex Gourgeist** | 4.78% | 54.0% | 1712-1356-103 |
+| 8 | Mega Altaria ex Chingling | 1.99% | 50.0% | 597-559-39 |
+| 9 | Meowscarada ex Meowscarada | 1.79% | 41.3% | 381-533-9 |
+| 10 | Mega Lopunny ex Annihilape | 1.69% | 42.8% | 401-529-8 |
 
-Data from play.limitlesstcg.com
+---
+
+## 🔥 勝率 Top 10 (100+ 場樣本)
+
+| 排名 | 牌組 | 勝率 | 場次 |
+|:---:|------|:----:|-----:|
+| 1 | **Mimikyu ex Greninja** | **58.3%** | 206 |
+| 2 | **Mega Altaria ex** | **55.3%** | 669 |
+| 3 | **Mega Absol ex Darkrai ex** | **55.1%** | 156 |
+| 4 | Mega Altaria ex Altaria | 54.2% | 321 |
+| 5 | Mega Altaria ex Gourgeist | 54.0% | 3,171 |
+| 6 | Giratina ex Darkrai ex | 53.4% | 311 |
+| 7 | Magnezone Oricorio | 52.5% | 613 |
+| 8 | Greninja Mega Absol ex | 52.3% | 3,719 |
+| 9 | Leafeon ex Teal Mask Ogerpon ex | 52.1% | 415 |
+| 10 | Magnezone Bellibolt ex | 52.1% | 5,856 |
+
+---
+
+## 💡 Meta 分析
+
+### 🌟 S-Tier 推薦
+- **Mega Altaria ex Gourgeist** — 高使用率 + 最高勝率之一，夢幻组合
+- **Magnezone Bellibolt ex** — 第三高使用率，穩定取勝
+- **Greninja Mega Absol ex** — 爆發力強，勝率出色
+
+### 📌 本週觀察
+- **水系**持續 dominate — Suicune ex + Baxcalibur 組合仍穩坐使用率冠軍
+- **Mega Altaria** 體系是最大贏家，Gourgeist/Altaria/自己 三種搭檔都有極佳勝率
+- **Mimikyu ex Greninja** 黑馬崛起！58.3% 勝率但樣本偏少，可持續觀察
+- **Meowscarada** 持續低迷，41.3% 勝率不建議使用
+
+### ⚠️ 避開這些
+- Meowscarada ex Meowscarada (41.3%)
+- Gholdengo ex Dialga ex (38.4%)
+- Mega Blaziken ex (38.2%)
+
+---
+
+_💬 由 Tekkah 自動整理 | 資料每日更新_
