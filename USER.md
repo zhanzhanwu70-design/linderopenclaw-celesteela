@@ -7,6 +7,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Pronouns:** _(optional)_
 - **Timezone:**
 - **Notes:**
+  - 偏好繁體中文輸出
 
 ## Context
 
