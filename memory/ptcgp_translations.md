@@ -23,3 +23,4 @@ Already in memory
 - Lopunny: 長耳兔
 - Chingling: 鈴鐺響 (非 小果然)
 - 注意: Suicune ex + Baxcalibur 是兩個不同的寶可夢，不要混用
+- Gholdengo: 賽富豪 (非 基格爾德)
