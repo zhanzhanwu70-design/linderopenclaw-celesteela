@@ -24,3 +24,8 @@ Already in memory
 - Chingling: 鈴鐺響 (非 小果然)
 - 注意: Suicune ex + Baxcalibur 是兩個不同的寶可夢，不要混用
 - Gholdengo: 賽富豪 (非 基格爾德)
+
+## PTCGP 屬性能量系統
+- PTCGP 能量共 8 種：火、水、草、電、超、鬥、闇、鋼
+- 沒有龍能量、妖精能量、飛翔能量
+- 有龍系寶可夢但使用闇能量

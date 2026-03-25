@@ -27,6 +27,12 @@
 - yt-dlp: `/tmp/yt-dlp`
 - Video workspace: `video/`, `video2/`, `video3/`
 
+### 卡圖工作區
+- 卡圖目錄: `cards/`
+- 手動下載: `cards/manual/`
+- 批量分析腳本: `scripts/analyze_cards.py`
+- 下載腳本: `scripts/download_cards.js`（需 Puppeteer）
+
 ### YouTube 影片下載
 ```bash
 # 單部下載
