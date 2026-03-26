@@ -28,10 +28,47 @@
 - Video workspace: `video/`, `video2/`, `video3/`
 
 ### 卡圖工作區
-- 卡圖目錄: `cards/`
-- 手動下載: `cards/manual/`
-- 批量分析腳本: `scripts/analyze_cards.py`
-- 下載腳本: `scripts/download_cards.js`（需 Puppeteer）
+- 卡圖目錄: `cards/`（17個系列，共2921張）
+- 卡圖下載: `scripts/download_limitless.sh`（從 Limitless TCG 網站）
+- 卡號格式: `{SET}_{NUM}.webp`，例如 `A1_001.webp`, `B2a_042.webp`
+
+### 卡片資料庫
+- 完整資料: `memory/ptcgp_cards_full.json`（2916張卡的完整資料）
+- 欄位: name, type, hp, weakness, retreat, attacks
+- 查詢方式: `node -e "const d=require('./memory/ptcgp_cards_full.json'); console.log(d['A1_001'])"`
+- 卡圖路徑: `cards/{SET}/{SET}_{NUM}.webp`
+
+### 卡牌查詢 Skill
+- Skill 路徑: `skills/ptcgp-card-lookup/`
+- 編號→名稱: `skills/ptcgp-card-lookup/number_to_name.json`
+- 名稱→編號: `skills/ptcgp-card-lookup/name_to_numbers.json`
+
+### OCR 流程（建議）
+1. OCR 辨識卡名（英文）
+2. 用 `name_to_numbers.json` 找出所有同名卡版本
+3. 若需確認版本，再跑影像辨識
+4. 用編號精準查詢資料庫
+
+### 卡圖對應表（2026-03-25 建立）
+| 系列 | 目錄 | 卡數 |
+|------|------|------|
+| A1 Genetic Apex | cards/A1/ | 286 |
+| A1a Mythical Island | cards/A1a/ | 86 |
+| A2 Space-Time Smackdown | cards/A2/ | 207 |
+| A2a Triumphant Light | cards/A2a/ | 96 |
+| A2b Shining Revelry | cards/A2b/ | 111 |
+| A3 Celestial Guardians | cards/A3/ | 239 |
+| A3a Extradimensional Crisis | cards/A3a/ | 103 |
+| A3b Eevee Grove | cards/A3b/ | 107 |
+| A4 Wisdom of Sea and Sky | cards/A4/ | 241 |
+| A4a Secluded Springs | cards/A4a/ | 105 |
+| A4b Deluxe Pack ex | cards/A4b/ | 379 |
+| B1 Mega Rising | cards/B1/ | 331 |
+| B1a Crimson Blaze | cards/B1a/ | 103 |
+| B2 Fantastical Parade | cards/B2/ | 234 |
+| B2a Paldean Wonders | cards/B2a/ | 131 |
+| P-A Promo-A | cards/P-A/ | 117 |
+| P-B Promo-B | cards/P-B/ | 40 |
 
 ### YouTube 影片下載
 ```bash
