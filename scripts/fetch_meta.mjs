@@ -93,14 +93,15 @@ async function fetchMeta() {
     }
     
     // Save raw HTML for debugging
-    writeFileSync('/home/node/.openclaw/workspace/memory/ptcgp_raw_latest.html', html);
+    const workspacePath = '/home/node/.openclaw/workspace-celesteela';
+    writeFileSync(`${workspacePath}/memory/ptcgp_raw_latest.html`, html);
     
     const result = {
       update_time: new Date().toISOString(),
       top_decks: decks
     };
     
-    writeFileSync('/home/node/.openclaw/workspace/memory/ptcgp_meta_latest.json', JSON.stringify(result, null, 2));
+    writeFileSync(`${workspacePath}/memory/ptcgp_meta_latest.json`, JSON.stringify(result, null, 2));
     
     console.log(`Found ${decks.length} decks`);
     console.log(JSON.stringify(decks.slice(0, 5), null, 2));

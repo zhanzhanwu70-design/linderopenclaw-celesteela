@@ -1,18 +1,89 @@
 {
-  "update_time": "2026-03-25 12:00 UTC",
+  "update_time": "2026-03-26 12:03:30 UTC",
   "source": "play.limitlesstcg.com",
-  "top_decks": [
-    {"rank": 1, "name": "Suicune ex Baxcalibur", "share": "13.29%", "record": "4804-4552-200", "win_rate": "50.27%", "games": 4804},
-    {"rank": 2, "name": "Mega Altaria ex Greninja", "share": "11.46%", "record": "4327-3893-210", "win_rate": "51.33%", "games": 4327},
-    {"rank": 3, "name": "Magnezone Bellibolt ex", "share": "8.37%", "record": "3221-2866-158", "win_rate": "51.58%", "games": 3221},
-    {"rank": 4, "name": "Bellibolt ex Zeraora", "share": "6.54%", "record": "2362-2147-110", "win_rate": "51.14%", "games": 2362},
-    {"rank": 5, "name": "Greninja Mega Absol ex", "share": "5.97%", "record": "2240-1987-100", "win_rate": "51.77%", "games": 2240},
-    {"rank": 6, "name": "Mega Altaria ex Gourgeist", "share": "5.79%", "record": "2270-1868-134", "win_rate": "53.14%", "games": 2270},
-    {"rank": 7, "name": "Hydreigon Mega Absol ex", "share": "5.53%", "record": "2064-1901-87", "win_rate": "50.94%", "games": 2064},
-    {"rank": 8, "name": "Mega Altaria ex Chingling", "share": "1.82%", "record": "627-590-41", "win_rate": "49.84%", "games": 627},
-    {"rank": 9, "name": "Meowscarada ex Meowscarada", "share": "1.66%", "record": "423-574-10", "win_rate": "42.01%", "games": 423},
-    {"rank": 10, "name": "Mega Lopunny ex Annihilape", "share": "1.50%", "record": "415-542-8", "win_rate": "43.01%", "games": 415}
-  ],
   "format": "standard",
-  "set": "B2a"
+  "set": "B2a",
+  "top_decks": [
+    {
+      "rank": 1,
+      "name": "Suicune ex Baxcalibur",
+      "games": 1845,
+      "share": "13.40%",
+      "record": "5035 - 4767 - 210",
+      "win_rate": "50.29%"
+    },
+    {
+      "rank": 2,
+      "name": "Mega Altaria ex Greninja",
+      "games": 1592,
+      "share": "11.56%",
+      "record": "4538 - 4089 - 225",
+      "win_rate": "51.27%"
+    },
+    {
+      "rank": 3,
+      "name": "Magnezone Bellibolt ex",
+      "games": 1127,
+      "share": "8.19%",
+      "record": "3271 - 2913 - 161",
+      "win_rate": "51.55%"
+    },
+    {
+      "rank": 4,
+      "name": "Bellibolt ex Zeraora",
+      "games": 925,
+      "share": "6.72%",
+      "record": "2525 - 2290 - 117",
+      "win_rate": "51.20%"
+    },
+    {
+      "rank": 5,
+      "name": "Mega Altaria ex Gourgeist",
+      "games": 826,
+      "share": "6.00%",
+      "record": "2437 - 2014 - 144",
+      "win_rate": "53.04%"
+    },
+    {
+      "rank": 6,
+      "name": "Greninja Mega Absol ex",
+      "games": 825,
+      "share": "5.99%",
+      "record": "2317 - 2069 - 105",
+      "win_rate": "51.59%"
+    },
+    {
+      "rank": 7,
+      "name": "Hydreigon Mega Absol ex",
+      "games": 748,
+      "share": "5.43%",
+      "record": "2100 - 1945 - 89",
+      "win_rate": "50.80%"
+    },
+    {
+      "rank": 8,
+      "name": "Mega Altaria ex Chingling",
+      "games": 247,
+      "share": "1.79%",
+      "record": "640 - 605 - 42",
+      "win_rate": "49.73%"
+    },
+    {
+      "rank": 9,
+      "name": "Meowscarada ex Meowscarada",
+      "games": 225,
+      "share": "1.63%",
+      "record": "440 - 586 - 10",
+      "win_rate": "42.47%"
+    },
+    {
+      "rank": 10,
+      "name": "Mega Lopunny ex Annihilape",
+      "games": 199,
+      "share": "1.45%",
+      "record": "415 - 542 - 8",
+      "win_rate": "43.01%"
+    }
+  ],
+  "top10_share": "62.2%"
 }
