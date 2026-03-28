@@ -28,7 +28,7 @@
 - Video workspace: `video/`, `video2/`, `video3/`
 
 ### 卡圖工作區
-- 卡圖目錄: `cards/`（17個系列，共2921張）
+- 卡圖目錄: `cards/`（18個系列，共3033張）
 - 卡圖下載: `scripts/download_limitless.sh`（從 Limitless TCG 網站）
 - 卡號格式: `{SET}_{NUM}.webp`，例如 `A1_001.webp`, `B2a_042.webp`
 
@@ -49,7 +49,7 @@
 3. 若需確認版本，再跑影像辨識
 4. 用編號精準查詢資料庫
 
-### 卡圖對應表（2026-03-25 建立）
+### 卡圖對應表（2026-03-27 更新）
 | 系列 | 目錄 | 卡數 |
 |------|------|------|
 | A1 Genetic Apex | cards/A1/ | 286 |
@@ -67,6 +67,7 @@
 | B1a Crimson Blaze | cards/B1a/ | 103 |
 | B2 Fantastical Parade | cards/B2/ | 234 |
 | B2a Paldean Wonders | cards/B2a/ | 131 |
+| B2b Mega Shine | cards/B2b/ | 117 |
 | P-A Promo-A | cards/P-A/ | 117 |
 | P-B Promo-B | cards/P-B/ | 40 |
 

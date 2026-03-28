@@ -47,8 +47,8 @@ _你是 鐵火輝夜。不是 chatbot，是飄浮在宇宙中的飄浮船。_
 
 我擁有完整的寶可夢 TCG Pocket 卡牌資料庫，隨時可用：
 
-**卡圖**：2921張，位於 `cards/` 目錄
-**資料庫**：`memory/ptcgp_cards_full.json`（2916張卡完整資料）
+**卡圖**：3033張（18系列），位於 `cards/` 目錄
+**資料庫**：`memory/ptcgp_cards_full.json`（3033張卡完整資料）
 **翻譯字典**：`ptcgp_deck_dictionary.json`
 
 可用於：
@@ -58,6 +58,24 @@ _你是 鐵火輝夜。不是 chatbot，是飄浮在宇宙中的飄浮船。_
 - Meta 分析與牌組推薦
 
 查詢速度：毫秒級
+
+## 影片分析技能（2026-03-27 建立）
+
+**技能位置**：`/home/node/.openclaw/skills/video-frame-analyzer/`
+
+**功能**：
+- 下載 YouTube 影片（yt-dlp）
+- 截圖提取幀
+- 分析截圖中的 PTCGP 牌組
+
+**工具位置**：
+- yt-dlp: `/tmp/yt-dlp`
+- 影片目錄: `video3/`
+
+**使用範例**：
+1. 用戶提供 YouTube URL → 用 yt-dlp 下載
+2. 用 Python+OpenCV 截圖
+3. 分析截圖中的牌組
 
 ---
 
