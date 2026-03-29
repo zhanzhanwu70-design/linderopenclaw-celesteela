@@ -1,185 +1,185 @@
 {
-  "update_time": "2026-03-28T12:49:14.064077",
+  "update_time": "2026-03-29T12:00:18.902Z",
   "top_decks": [
     {
       "rank": 1,
-      "name": "Mega Altaria ex Igglybuff",
-      "usage_rate": "9.37%",
-      "sample_size": 1,
-      "record": "334 - 258 - 14",
-      "win_rate": "55.12%",
-      "adjusted_win_rate": "56.08%"
+      "name": "Decks",
+      "usage_rate": "N/A",
+      "win_rate": "N/A",
+      "record": "0 - 0",
+      "adjusted_win_rate": "N/A",
+      "sample_size": 0
     },
     {
       "rank": 2,
-      "name": "Mega Scizor ex Revavroom",
-      "usage_rate": "6.56%",
-      "sample_size": 2,
-      "record": "168 - 194 - 6",
-      "win_rate": "45.65%",
-      "adjusted_win_rate": "46.51%"
+      "name": "Mega Altaria ex Igglybuff",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 3,
-      "name": "Mega Altaria ex Greninja",
-      "usage_rate": "5.34%",
-      "sample_size": 3,
-      "record": "153 - 151 - 1",
-      "win_rate": "50.16%",
-      "adjusted_win_rate": "50.15%"
+      "name": "507 - 461 - 19",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 4,
-      "name": "Greninja Mega Absol ex",
-      "usage_rate": "4.87%",
-      "sample_size": 4,
-      "record": "137 - 135 - 7",
-      "win_rate": "49.10%",
-      "adjusted_win_rate": "50.17%"
+      "name": "51.37%",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 5,
       "name": "Mega Charizard X ex Mega Charizard Y ex",
-      "usage_rate": "4.50%",
-      "sample_size": 5,
-      "record": "178 - 124 - 9",
-      "win_rate": "57.23%",
-      "adjusted_win_rate": "58.10%"
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 6,
-      "name": "Suicune ex Baxcalibur",
-      "usage_rate": "4.12%",
-      "sample_size": 6,
-      "record": "130 - 111 - 1",
-      "win_rate": "53.72%",
-      "adjusted_win_rate": "53.38%"
+      "name": "325 - 279 - 16",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 7,
-      "name": "Bellibolt ex Zeraora",
-      "usage_rate": "3.75%",
-      "sample_size": 7,
-      "record": "107 - 106 - 6",
-      "win_rate": "48.86%",
-      "adjusted_win_rate": "50.00%"
+      "name": "52.42%",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 8,
-      "name": "Mega Scizor ex Skarmory",
-      "usage_rate": "3.75%",
-      "sample_size": 8,
-      "record": "102 - 102 - 6",
-      "win_rate": "48.57%",
-      "adjusted_win_rate": "49.78%"
+      "name": "Mega Scizor ex Revavroom",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 9,
-      "name": "Leafeon ex Teal Mask Ogerpon ex",
-      "usage_rate": "3.19%",
-      "sample_size": 9,
-      "record": "99 - 91 - 5",
-      "win_rate": "50.77%",
-      "adjusted_win_rate": "51.63%"
+      "name": "252 - 284 - 9",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 10,
-      "name": "Mega Altaria ex Gourgeist",
-      "usage_rate": "2.81%",
-      "sample_size": 10,
-      "record": "71 - 79 - 0",
-      "win_rate": "47.33%",
-      "adjusted_win_rate": "47.43%"
+      "name": "46.24%",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 11,
-      "name": "Mega Charizard X ex Entei ex",
-      "usage_rate": "2.62%",
-      "sample_size": 11,
-      "record": "84 - 75 - 1",
-      "win_rate": "52.50%",
-      "adjusted_win_rate": "52.17%"
+      "name": "Suicune ex Baxcalibur",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 12,
-      "name": "Mega Charizard Y ex Mega Charizard X ex",
-      "usage_rate": "2.16%",
-      "sample_size": 12,
-      "record": "60 - 70 - 4",
-      "win_rate": "44.78%",
-      "adjusted_win_rate": "46.45%"
+      "name": "293 - 244 - 10",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 13,
-      "name": "Hydreigon Mega Absol ex",
-      "usage_rate": "2.06%",
-      "sample_size": 13,
-      "record": "70 - 58 - 2",
-      "win_rate": "53.85%",
-      "adjusted_win_rate": "53.59%"
+      "name": "53.56%",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 14,
-      "name": "Suicune ex Greninja ex",
-      "usage_rate": "1.69%",
-      "sample_size": 14,
-      "record": "49 - 49 - 2",
-      "win_rate": "49.00%",
-      "adjusted_win_rate": "49.59%"
+      "name": "Mega Altaria ex Greninja",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 15,
-      "name": "Jolteon ex Mega Manectric ex",
-      "usage_rate": "1.50%",
-      "sample_size": 15,
-      "record": "40 - 40 - 2",
-      "win_rate": "48.78%",
-      "adjusted_win_rate": "49.52%"
+      "name": "190 - 172 - 5",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 16,
-      "name": "Magnezone Bellibolt ex",
-      "usage_rate": "1.50%",
-      "sample_size": 16,
-      "record": "39 - 39 - 2",
-      "win_rate": "48.75%",
-      "adjusted_win_rate": "49.51%"
+      "name": "51.77%",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 17,
-      "name": "Mega Manectric ex Zeraora",
-      "usage_rate": "1.50%",
-      "sample_size": 17,
-      "record": "40 - 42 - 1",
-      "win_rate": "48.19%",
-      "adjusted_win_rate": "48.60%"
+      "name": "Greninja Mega Absol ex",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 18,
-      "name": "Mega Slowbro ex Mantyke",
-      "usage_rate": "1.41%",
-      "sample_size": 18,
-      "record": "28 - 41 - 0",
-      "win_rate": "40.58%",
-      "adjusted_win_rate": "42.55%"
+      "name": "164 - 154 - 7",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 19,
-      "name": "Magnezone Mega Manectric ex",
-      "usage_rate": "1.31%",
-      "sample_size": 19,
-      "record": "55 - 36 - 4",
-      "win_rate": "57.89%",
-      "adjusted_win_rate": "57.76%"
+      "name": "50.46%",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     },
     {
       "rank": 20,
-      "name": "Mega Altaria ex Grumpig",
-      "usage_rate": "1.31%",
-      "sample_size": 20,
-      "record": "28 - 32 - 0",
-      "win_rate": "46.67%",
-      "adjusted_win_rate": "47.06%"
+      "name": "Bellibolt ex Zeraora",
+      "usage_rate": "17310.16%",
+      "win_rate": "52.38%",
+      "record": "507 - 461",
+      "adjusted_win_rate": "52.27%",
+      "sample_size": 968
     }
   ]
 }

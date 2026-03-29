@@ -90,3 +90,12 @@
 - 位置: `ptcgp_deck_dictionary.json`
 - 用於 Meta 分析時翻譯牌組名
 - 有新翻譯可直接編輯更新
+-e 
+## API Key Reading
+
+When you need an API key, use:
+
+const fs = require('fs');
+const apiKey = fs.readFileSync(process.env.OPENAI_API_KEY_DIR, 'utf8').trim();
+
+OPENAI_API_KEY_DIR = /home/node/.openclaw/secrets/openai-api-key.txt
