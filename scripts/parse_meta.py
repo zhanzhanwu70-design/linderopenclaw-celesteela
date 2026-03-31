@@ -83,7 +83,7 @@ output = {
 }
 
 # Save JSON
-with open('/home/node/.openclaw/workspace/memory/ptcgp_meta.json', 'w', encoding='utf-8') as f:
+with open('/home/node/.openclaw/workspace-celesteela/memory/ptcgp_meta.json', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
 print(f"Updated {len(decks)} decks")

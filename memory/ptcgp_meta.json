@@ -1,89 +1,458 @@
 {
-  "update_time": "2026-03-26 12:03:30 UTC",
+  "update_time": "2026-03-30 12:40 UTC",
   "source": "play.limitlesstcg.com",
   "format": "standard",
-  "set": "B2a",
+  "set": "B2b",
   "top_decks": [
     {
       "rank": 1,
-      "name": "Suicune ex Baxcalibur",
-      "games": 1845,
-      "share": "13.40%",
-      "record": "5035 - 4767 - 210",
-      "win_rate": "50.29%"
+      "name": "Mega Altaria ex Igglybuff",
+      "games": 311,
+      "share": "0.09749216300940439",
+      "record": "855 - 819",
+      "win_rate": "50.15%",
+      "adjusted_win_rate": "50.12%"
     },
     {
       "rank": 2,
-      "name": "Mega Altaria ex Greninja",
-      "games": 1592,
-      "share": "11.56%",
-      "record": "4538 - 4089 - 225",
-      "win_rate": "51.27%"
+      "name": "Mega Charizard X ex Mega Charizard Y ex",
+      "games": 300,
+      "share": "0.09404388714733543",
+      "record": "822 - 772",
+      "win_rate": "50.74%",
+      "adjusted_win_rate": "50.70%"
     },
     {
       "rank": 3,
-      "name": "Magnezone Bellibolt ex",
-      "games": 1127,
-      "share": "8.19%",
-      "record": "3271 - 2913 - 161",
-      "win_rate": "51.55%"
+      "name": "Suicune ex Baxcalibur",
+      "games": 233,
+      "share": "0.07304075235109718",
+      "record": "734 - 567",
+      "win_rate": "55.11%",
+      "adjusted_win_rate": "54.97%"
     },
     {
       "rank": 4,
-      "name": "Bellibolt ex Zeraora",
-      "games": 925,
-      "share": "6.72%",
-      "record": "2525 - 2290 - 117",
-      "win_rate": "51.20%"
+      "name": "Mega Scizor ex Revavroom",
+      "games": 170,
+      "share": "0.05329153605015674",
+      "record": "409 - 456",
+      "win_rate": "46.69%",
+      "adjusted_win_rate": "46.73%"
     },
     {
       "rank": 5,
-      "name": "Mega Altaria ex Gourgeist",
-      "games": 826,
-      "share": "6.00%",
-      "record": "2437 - 2014 - 144",
-      "win_rate": "53.04%"
+      "name": "Hydreigon Mega Absol ex",
+      "games": 134,
+      "share": "0.04200626959247649",
+      "record": "419 - 339",
+      "win_rate": "54.06%",
+      "adjusted_win_rate": "53.87%"
     },
     {
       "rank": 6,
-      "name": "Greninja Mega Absol ex",
-      "games": 825,
-      "share": "5.99%",
-      "record": "2317 - 2069 - 105",
-      "win_rate": "51.59%"
+      "name": "Mega Charizard Y ex Mega Charizard X ex",
+      "games": 102,
+      "share": "0.03197492163009404",
+      "record": "241 - 278",
+      "win_rate": "45.9%",
+      "adjusted_win_rate": "46.00%"
     },
     {
       "rank": 7,
-      "name": "Hydreigon Mega Absol ex",
-      "games": 748,
-      "share": "5.43%",
-      "record": "2100 - 1945 - 89",
-      "win_rate": "50.80%"
+      "name": "Mega Altaria ex Greninja",
+      "games": 99,
+      "share": "0.03103448275862069",
+      "record": "251 - 255",
+      "win_rate": "48.93%",
+      "adjusted_win_rate": "48.88%"
     },
     {
       "rank": 8,
-      "name": "Mega Altaria ex Chingling",
-      "games": 247,
-      "share": "1.79%",
-      "record": "640 - 605 - 42",
-      "win_rate": "49.73%"
+      "name": "Magnezone Teal Mask Ogerpon ex",
+      "games": 91,
+      "share": "0.028526645768025077",
+      "record": "319 - 212",
+      "win_rate": "58.42%",
+      "adjusted_win_rate": "57.97%"
     },
     {
       "rank": 9,
-      "name": "Meowscarada ex Meowscarada",
-      "games": 225,
-      "share": "1.63%",
-      "record": "440 - 586 - 10",
-      "win_rate": "42.47%"
+      "name": "Mega Altaria ex Gourgeist",
+      "games": 80,
+      "share": "0.025078369905956112",
+      "record": "215 - 198",
+      "win_rate": "51.56%",
+      "adjusted_win_rate": "51.36%"
     },
     {
       "rank": 10,
-      "name": "Mega Lopunny ex Annihilape",
-      "games": 199,
-      "share": "1.45%",
-      "record": "415 - 542 - 8",
-      "win_rate": "43.01%"
+      "name": "Greninja Mega Absol ex",
+      "games": 79,
+      "share": "0.024764890282131663",
+      "record": "195 - 197",
+      "win_rate": "48.87%",
+      "adjusted_win_rate": "48.82%"
+    },
+    {
+      "rank": 11,
+      "name": "Jolteon ex Mega Manectric ex",
+      "games": 77,
+      "share": "0.02413793103448276",
+      "record": "163 - 198",
+      "win_rate": "44.41%",
+      "adjusted_win_rate": "44.64%"
+    },
+    {
+      "rank": 12,
+      "name": "Magnezone Mega Manectric ex",
+      "games": 72,
+      "share": "0.0225705329153605",
+      "record": "224 - 180",
+      "win_rate": "54.24%",
+      "adjusted_win_rate": "53.88%"
+    },
+    {
+      "rank": 13,
+      "name": "Mega Scizor ex Skarmory",
+      "games": 71,
+      "share": "0.02225705329153605",
+      "record": "153 - 187",
+      "win_rate": "44.22%",
+      "adjusted_win_rate": "44.47%"
+    },
+    {
+      "rank": 14,
+      "name": "Bellibolt ex Zeraora",
+      "games": 68,
+      "share": "0.021316614420062698",
+      "record": "173 - 177",
+      "win_rate": "48.19%",
+      "adjusted_win_rate": "48.18%"
+    },
+    {
+      "rank": 15,
+      "name": "Suicune ex Greninja ex",
+      "games": 66,
+      "share": "0.020689655172413793",
+      "record": "181 - 169",
+      "win_rate": "50.7%",
+      "adjusted_win_rate": "50.52%"
+    },
+    {
+      "rank": 16,
+      "name": "Leafeon ex Teal Mask Ogerpon ex",
+      "games": 52,
+      "share": "0.016300940438871474",
+      "record": "143 - 134",
+      "win_rate": "50.18%",
+      "adjusted_win_rate": "50.00%"
+    },
+    {
+      "rank": 17,
+      "name": "Mega Manectric ex Oricorio",
+      "games": 41,
+      "share": "0.012852664576802508",
+      "record": "118 - 107",
+      "win_rate": "51.3%",
+      "adjusted_win_rate": "50.98%"
+    },
+    {
+      "rank": 18,
+      "name": "Mega Charizard X ex Entei ex",
+      "games": 37,
+      "share": "0.011598746081504702",
+      "record": "101 - 98",
+      "win_rate": "50.5%",
+      "adjusted_win_rate": "50.22%"
+    },
+    {
+      "rank": 19,
+      "name": "Mega Charizard Y ex Entei ex",
+      "games": 35,
+      "share": "0.0109717868338558",
+      "record": "105 - 90",
+      "win_rate": "53.03%",
+      "adjusted_win_rate": "52.47%"
+    },
+    {
+      "rank": 20,
+      "name": "Mega Manectric ex Zeraora",
+      "games": 34,
+      "share": "0.010658307210031349",
+      "record": "110 - 90",
+      "win_rate": "53.14%",
+      "adjusted_win_rate": "52.59%"
+    },
+    {
+      "rank": 21,
+      "name": "Magnezone Bellibolt ex",
+      "games": 32,
+      "share": "0.010031347962382446",
+      "record": "93 - 82",
+      "win_rate": "51.96%",
+      "adjusted_win_rate": "51.47%"
+    },
+    {
+      "rank": 22,
+      "name": "Mega Absol ex Darkrai ex",
+      "games": 31,
+      "share": "0.009717868338557993",
+      "record": "79 - 83",
+      "win_rate": "48.47%",
+      "adjusted_win_rate": "48.40%"
+    },
+    {
+      "rank": 23,
+      "name": "Mega Steelix ex Indeedee ex",
+      "games": 29,
+      "share": "0.00909090909090909",
+      "record": "67 - 68",
+      "win_rate": "47.86%",
+      "adjusted_win_rate": "47.88%"
+    },
+    {
+      "rank": 24,
+      "name": "Magnezone Oricorio",
+      "games": 27,
+      "share": "0.008463949843260187",
+      "record": "103 - 69",
+      "win_rate": "57.22%",
+      "adjusted_win_rate": "56.10%"
+    },
+    {
+      "rank": 25,
+      "name": "Mega Slowbro ex Mantyke",
+      "games": 27,
+      "share": "0.008463949843260187",
+      "record": "46 - 71",
+      "win_rate": "39.32%",
+      "adjusted_win_rate": "40.85%"
+    },
+    {
+      "rank": 26,
+      "name": "Meowscarada ex Meowscarada",
+      "games": 26,
+      "share": "0.008150470219435737",
+      "record": "51 - 53",
+      "win_rate": "49.04%",
+      "adjusted_win_rate": "48.84%"
+    },
+    {
+      "rank": 27,
+      "name": "Greninja Oricorio",
+      "games": 23,
+      "share": "0.007210031347962382",
+      "record": "73 - 56",
+      "win_rate": "55.3%",
+      "adjusted_win_rate": "54.14%"
+    },
+    {
+      "rank": 28,
+      "name": "Mega Blaziken ex Heatmor",
+      "games": 23,
+      "share": "0.007210031347962382",
+      "record": "55 - 56",
+      "win_rate": "48.67%",
+      "adjusted_win_rate": "48.55%"
+    },
+    {
+      "rank": 29,
+      "name": "Dragonite ex Dragonite",
+      "games": 21,
+      "share": "0.0065830721003134795",
+      "record": "36 - 54",
+      "win_rate": "39.56%",
+      "adjusted_win_rate": "41.38%"
+    },
+    {
+      "rank": 30,
+      "name": "Wigglytuff ex Darkrai ex",
+      "games": 19,
+      "share": "0.0059561128526645765",
+      "record": "33 - 53",
+      "win_rate": "37.93%",
+      "adjusted_win_rate": "40.18%"
+    },
+    {
+      "rank": 31,
+      "name": "Giratina ex Darkrai ex",
+      "games": 17,
+      "share": "0.005329153605015674",
+      "record": "38 - 50",
+      "win_rate": "42.7%",
+      "adjusted_win_rate": "43.86%"
+    },
+    {
+      "rank": 32,
+      "name": "Gourgeist Houndstone",
+      "games": 16,
+      "share": "0.005015673981191223",
+      "record": "44 - 44",
+      "win_rate": "50.0%",
+      "adjusted_win_rate": "49.56%"
+    },
+    {
+      "rank": 33,
+      "name": "Mega Gengar ex Igglybuff",
+      "games": 16,
+      "share": "0.005015673981191223",
+      "record": "34 - 42",
+      "win_rate": "44.16%",
+      "adjusted_win_rate": "45.10%"
+    },
+    {
+      "rank": 34,
+      "name": "Mega Altaria ex Grumpig",
+      "games": 15,
+      "share": "0.004702194357366771",
+      "record": "28 - 34",
+      "win_rate": "45.16%",
+      "adjusted_win_rate": "45.98%"
+    },
+    {
+      "rank": 35,
+      "name": "Mega Altaria ex",
+      "games": 14,
+      "share": "0.00438871473354232",
+      "record": "50 - 28",
+      "win_rate": "60.98%",
+      "adjusted_win_rate": "57.94%"
+    },
+    {
+      "rank": 36,
+      "name": "Alolan Ninetales ex Baxcalibur",
+      "games": 14,
+      "share": "0.00438871473354232",
+      "record": "40 - 32",
+      "win_rate": "54.79%",
+      "adjusted_win_rate": "53.06%"
+    },
+    {
+      "rank": 37,
+      "name": "Haxorus Pichu",
+      "games": 14,
+      "share": "0.00438871473354232",
+      "record": "31 - 39",
+      "win_rate": "43.66%",
+      "adjusted_win_rate": "44.79%"
+    },
+    {
+      "rank": 38,
+      "name": "Darkrai ex Igglybuff",
+      "games": 14,
+      "share": "0.00438871473354232",
+      "record": "24 - 35",
+      "win_rate": "40.0%",
+      "adjusted_win_rate": "42.35%"
+    },
+    {
+      "rank": 39,
+      "name": "Mega Manectric ex Igglybuff",
+      "games": 13,
+      "share": "0.0040752351097178684",
+      "record": "43 - 31",
+      "win_rate": "55.84%",
+      "adjusted_win_rate": "53.92%"
+    },
+    {
+      "rank": 40,
+      "name": "Arceus ex Crobat",
+      "games": 11,
+      "share": "0.0034482758620689655",
+      "record": "37 - 30",
+      "win_rate": "54.41%",
+      "adjusted_win_rate": "52.69%"
+    },
+    {
+      "rank": 41,
+      "name": "Mega Altaria ex Chingling",
+      "games": 11,
+      "share": "0.0034482758620689655",
+      "record": "25 - 29",
+      "win_rate": "44.64%",
+      "adjusted_win_rate": "45.68%"
+    },
+    {
+      "rank": 42,
+      "name": "Mega Gardevoir ex Meloetta",
+      "games": 11,
+      "share": "0.0034482758620689655",
+      "record": "19 - 26",
+      "win_rate": "42.22%",
+      "adjusted_win_rate": "44.29%"
+    },
+    {
+      "rank": 43,
+      "name": "Mega Scizor ex Scizor",
+      "games": 11,
+      "share": "0.0034482758620689655",
+      "record": "17 - 27",
+      "win_rate": "38.64%",
+      "adjusted_win_rate": "42.03%"
+    },
+    {
+      "rank": 44,
+      "name": "Mega Manectric ex Manectric",
+      "games": 10,
+      "share": "0.003134796238244514",
+      "record": "20 - 26",
+      "win_rate": "42.55%",
+      "adjusted_win_rate": "44.44%"
+    },
+    {
+      "rank": 45,
+      "name": "Guzzlord ex Indeedee ex",
+      "games": 9,
+      "share": "0.0028213166144200625",
+      "record": "24 - 20",
+      "win_rate": "52.17%",
+      "adjusted_win_rate": "50.70%"
+    },
+    {
+      "rank": 46,
+      "name": "Mega Altaria ex Indeedee ex",
+      "games": 9,
+      "share": "0.0028213166144200625",
+      "record": "15 - 24",
+      "win_rate": "38.46%",
+      "adjusted_win_rate": "42.19%"
+    },
+    {
+      "rank": 47,
+      "name": "Suicune ex Mega Slowbro ex",
+      "games": 9,
+      "share": "0.0028213166144200625",
+      "record": "11 - 26",
+      "win_rate": "29.73%",
+      "adjusted_win_rate": "37.10%"
+    },
+    {
+      "rank": 48,
+      "name": "Bellibolt ex Oricorio",
+      "games": 8,
+      "share": "0.0025078369905956114",
+      "record": "23 - 22",
+      "win_rate": "51.11%",
+      "adjusted_win_rate": "50.00%"
+    },
+    {
+      "rank": 49,
+      "name": "Haxorus Igglybuff",
+      "games": 8,
+      "share": "0.0025078369905956114",
+      "record": "6 - 22",
+      "win_rate": "21.43%",
+      "adjusted_win_rate": "33.96%"
+    },
+    {
+      "rank": 50,
+      "name": "Greninja ex Suicune ex",
+      "games": 7,
+      "share": "0.00219435736677116",
+      "record": "17 - 16",
+      "win_rate": "50.0%",
+      "adjusted_win_rate": "49.15%"
     }
-  ],
-  "top10_share": "62.2%"
+  ]
 }
