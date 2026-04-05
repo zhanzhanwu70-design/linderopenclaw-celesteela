@@ -1,11 +1,16 @@
 {
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
-    "version": "3.0",
-    "last_updated": "2026-03-21",
+    "version": "3.1",
+    "last_updated": "2026-04-04",
     "notes": "用於 Meta 分析時翻譯牌組名稱。翻譯若有錯誤請糾正。"
   },
   "corrections": [
+    {
+      "date": "2026-04-04",
+      "english": "Mega Scizor ex",
+      "correction": "正確翻譯為「超級巨鉗螳螂 ex」"
+    },
     {
       "date": "2026-03-21",
       "english": "Baxcalibur",
@@ -63,6 +68,7 @@
     "Mega Altaria ex Chingling": "超級七夕青鳥 ex 鈴鐺響",
     "Meowscarada ex Meowscarada": "魔幻假面喵 ex",
     "Mega Lopunny ex Annihilape": "超級長耳兔 ex 棄世猴 ex",
+    "Mega Scizor ex": "超級巨鉗螳螂 ex",
     "Mega Charizard Y ex Entei ex": "超級噴火龍 Y ex 炎帝 ex",
     "Gourgeist Houndstone": "南瓜精 腫頭龍",
     "Suicune ex Greninja ex": "水君 ex 甲賀忍蛙 ex",
