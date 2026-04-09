@@ -1,11 +1,21 @@
 {
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
-    "version": "3.2",
-    "last_updated": "2026-04-05",
+    "version": "3.4",
+    "last_updated": "2026-04-08",
     "notes": "用於 Meta 分析時翻譯牌組名稱。翻譯若有錯誤請糾正。"
   },
   "corrections": [
+    {
+      "date": "2026-04-08",
+      "english": "Scyther",
+      "correction": "正確翻譯為「飛天螳螂」"
+    },
+    {
+      "date": "2026-04-08",
+      "english": "Scizor",
+      "correction": "正確翻譯為「巨鉗螳螂」"
+    },
     {
       "date": "2026-04-05",
       "english": "Mega Manectric ex",
