@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026-04-10 PTCGP Meta 克制鏈</title>
+  <style>
+    :root {
+      --bg1: #0f172a;
+      --bg2: #111827;
+      --card: rgba(255,255,255,0.08);
+      --line: rgba(255,255,255,0.16);
+      --gold: #facc15;
+      --green: #4ade80;
+      --blue: #60a5fa;
+      --red: #f87171;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --purple: #c084fc;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top, #1e293b 0%, var(--bg1) 45%, #020617 100%);
+      padding: 28px;
+    }
+    .wrap {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: 38px;
+      color: var(--gold);
+      letter-spacing: 1px;
+    }
+    .sub {
+      color: var(--muted);
+      margin-bottom: 24px;
+      font-size: 15px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 22px;
+      align-items: start;
+    }
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 20px;
+      backdrop-filter: blur(8px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.22);
+    }
+    .title {
+      font-size: 22px;
+      color: var(--gold);
+      margin: 0 0 14px;
+    }
+    .chain {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0,1fr));
+      gap: 14px;
+    }
+    .deck {
+      border-radius: 16px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      background: rgba(15,23,42,0.72);
+      min-height: 150px;
+      position: relative;
+    }
+    .deck h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #fff;
+      line-height: 1.35;
+    }
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .badge {
+      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 700;
+    }
+    .wr { background: rgba(74,222,128,0.18); color: #86efac; }
+    .tempo-fast { background: rgba(96,165,250,0.16); color: #93c5fd; }
+    .tempo-mid { background: rgba(250,204,21,0.16); color: #fde047; }
+    .tempo-slow { background: rgba(192,132,252,0.16); color: #d8b4fe; }
+    .deck ul {
+      margin: 0;
+      padding-left: 18px;
+      color: #dbeafe;
+      line-height: 1.55;
+      font-size: 14px;
+    }
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 16px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .legend span {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--line);
+      padding: 6px 10px;
+      border-radius: 999px;
+    }
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+    .green { background: var(--green); }
+    .blue { background: var(--blue); }
+    .red { background: var(--red); }
+    .purple { background: var(--purple); }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border-radius: 14px;
+      font-size: 14px;
+    }
+    th, td {
+      padding: 12px 10px;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      color: var(--gold);
+      background: rgba(255,255,255,0.06);
+      font-size: 13px;
+    }
+    tr:last-child td { border-bottom: none; }
+    .note {
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.6;
+    }
+    .arrows {
+      display: grid;
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .arrow {
+      border-left: 4px solid var(--gold);
+      background: rgba(255,255,255,0.04);
+      padding: 10px 12px;
+      border-radius: 10px;
+      font-size: 14px;
+      line-height: 1.55;
+    }
+    .hi { color: #fde68a; font-weight: 700; }
+    @media (max-width: 980px) {
+      .grid { grid-template-columns: 1fr; }
+      .chain { grid-template-columns: 1fr; }
+      h1 { font-size: 30px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>2026-04-10 PTCGP Meta 克制鏈</h1>
+    <div class="sub">依據調整後勝率與主流對局節奏整理。用途是給截圖分享，不是假裝精確 matchup 表。看趨勢，比看單場吹牛有用。</div>
+
+    <div class="grid">
+      <section class="panel">
+        <h2 class="title">核心牌組與節奏定位</h2>
+        <div class="legend">
+          <span><i class="dot green"></i>高勝率穩定牌</span>
+          <span><i class="dot blue"></i>快節奏／抓慢牌</span>
+          <span><i class="dot purple"></i>中後期接管</span>
+          <span><i class="dot red"></i>容易被針對</span>
+        </div>
+        <div class="chain">
+          <div class="deck">
+            <h3>自爆磁怪 厄鬼椪 ex</h3>
+            <div class="badge-row">
+              <span class="badge wr">54.1%</span>
+              <span class="badge tempo-mid">中速穩定</span>
+            </div>
+            <ul>
+              <li>前期不算爆，但幾乎不空轉</li>
+              <li>中盤接管能力最完整</li>
+              <li>怕被極速火系先壓死</li>
+            </ul>
+          </div>
+          <div class="deck">
+            <h3>甲賀忍蛙 超級阿伯梭魯 ex</h3>
+            <div class="badge-row">
+              <span class="badge wr">53.3%</span>
+              <span class="badge tempo-slow">中盤轉強</span>
+            </div>
+            <ul>
+              <li>前期需要鋪場</li>
+              <li>中盤開始滾資源、壓交換</li>
+              <li>怕超快搶節奏與點名核心</li>
+            </ul>
+          </div>
+          <div class="deck">
+            <h3>水君 ex 戟脊龍</h3>
+            <div class="badge-row">
+              <span class="badge wr">52.2%</span>
+              <span class="badge tempo-mid">中速經典</span>
+            </div>
+            <ul>
+              <li>樣本最大，基本盤最硬</li>
+              <li>進中盤後輸出曲線很穩</li>
+              <li>怕對手直接拆後排或快攻穿頭</li>
+            </ul>
+          </div>
+          <div class="deck">
+            <h3>超級七夕青鳥 ex 甲賀忍蛙</h3>
+            <div class="badge-row">
+              <span class="badge wr">52.7%</span>
+              <span class="badge tempo-slow">中後期優勢</span>
+            </div>
+            <ul>
+              <li>前期略慢，但中盤壓制力高</li>
+              <li>打中速牌通常舒服</li>
+              <li>怕被快牌提前收割</li>
+            </ul>
+          </div>
+          <div class="deck">
+            <h3>三首惡龍 超級阿伯梭魯 ex</h3>
+            <div class="badge-row">
+              <span class="badge wr">52.3%</span>
+              <span class="badge tempo-slow">慢起高上限</span>
+            </div>
+            <ul>
+              <li>上限高，但啟動前怕挨打</li>
+              <li>一旦站穩，交換質量極高</li>
+              <li>怕快攻、怕針對進化鏈</li>
+            </ul>
+          </div>
+          <div class="deck">
+            <h3>超級雷電獸 ex 傑拉奧拉</h3>
+            <div class="badge-row">
+              <span class="badge wr">51.9%</span>
+              <span class="badge tempo-fast">節奏壓制</span>
+            </div>
+            <ul>
+              <li>前期壓力強，專抓慢牌</li>
+              <li>若第一波沒壓爛對面，後勁略弱</li>
+              <li>打厚資源牌組容易後繼無力</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="arrows">
+          <div class="arrow"><span class="hi">快牌（超級雷電獸 ex 傑拉奧拉）</span> → 壓制 <span class="hi">慢啟動牌（忍蛙阿伯梭魯 / 三首惡龍阿伯梭魯）</span></div>
+          <div class="arrow"><span class="hi">中速穩定牌（自爆磁怪 厄鬼椪 ex / 水君 戟脊龍）</span> → 在長盤交換上反壓 <span class="hi">快牌</span></div>
+          <div class="arrow"><span class="hi">中後期接管牌（七夕青鳥 ex 甲賀忍蛙）</span> → 打一般中速舒服，但怕前期直接被快攻拆穿</div>
+          <div class="arrow"><span class="hi">高上限慢牌（三首惡龍 / 忍蛙阿伯梭魯）</span> → 若成功進中盤，可反吃多數中速穩定套牌</div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2 class="title">簡化克制表</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>牌組</th>
+              <th>節奏</th>
+              <th>主要優勢</th>
+              <th>主要被誰抓</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>自爆磁怪 厄鬼椪 ex</td>
+              <td>中速穩定</td>
+              <td>打快牌時容錯高、交換穩</td>
+              <td>極速火系／先手壓場</td>
+            </tr>
+            <tr>
+              <td>甲賀忍蛙 超級阿伯梭魯 ex</td>
+              <td>中盤轉強</td>
+              <td>中盤資源滾動、續戰力強</td>
+              <td>快攻、直點核心</td>
+            </tr>
+            <tr>
+              <td>水君 ex 戟脊龍</td>
+              <td>中速經典</td>
+              <td>樣本大、基本盤硬</td>
+              <td>拆後排、快搶前期</td>
+            </tr>
+            <tr>
+              <td>超級七夕青鳥 ex 甲賀忍蛙</td>
+              <td>中後期</td>
+              <td>對中速對局優秀</td>
+              <td>快牌、斷節奏</td>
+            </tr>
+            <tr>
+              <td>三首惡龍 超級阿伯梭魯 ex</td>
+              <td>慢起高上限</td>
+              <td>站穩後高質量交換</td>
+              <td>快攻、抓進化鏈</td>
+            </tr>
+            <tr>
+              <td>超級雷電獸 ex 傑拉奧拉</td>
+              <td>快節奏</td>
+              <td>抓慢牌最凶</td>
+              <td>厚資源中速牌</td>
+            </tr>
+            <tr>
+              <td>自爆磁怪 超級雷電獸 ex</td>
+              <td>平衡雷系</td>
+              <td>比純快雷更穩</td>
+              <td>成熟中盤體系</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="note">
+          <strong>環境一句話：</strong><br>
+          現在不是純快攻，也不是純龜牌，而是<strong>中速博弈環境</strong>。<br>
+          能贏的牌組通常都有兩個條件：<br>
+          1. 前期不會完全空轉<br>
+          2. 中盤能把交換效率拉高<br><br>
+          所以「只會一波」的牌容易被修理；「能從前期撐到中盤接管」的牌，才會長期留在榜上。
+        </div>
+      </section>
+    </div>
+  </div>
+</body>
+</html>
