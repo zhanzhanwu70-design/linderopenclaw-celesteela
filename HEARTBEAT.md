@@ -4,7 +4,7 @@
 - 搜尋最新寶可夢 TCG Pocket 牌組 meta 趨勢
 - 整理使用率前十名與調整後勝率前十名
 - **全中文輸出**
-- 發布到 Discord 頻道
+- **直接發送到 Discord 頻道（不用 webhook）**
 
 ### Discord 發布位置
 - Channel ID: 1338836482420510764
@@ -16,7 +16,6 @@
 ```
 
 ## 現況筆記
-- ✅ Discord webhook 已設定
-- Webhook 位置: `webhook_config.json`
+- ✅ 直接發送到 Discord（不使用 webhook）
 - Meta 資料位置: `memory/ptcgp_meta.json`
 - 牌組字典: `ptcgp_deck_dictionary.json`
