@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-11T12:18:43.290Z",
+  "update_time": "2026-04-13T14:20:07.966Z",
   "top_decks": [
     {
       "rank": 1,
@@ -13,173 +13,173 @@
     {
       "rank": 2,
       "name": "Suicune ex Baxcalibur",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 3,
-      "name": "3500 - 3042 - 148",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "3977 - 3470 - 166",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 4,
-      "name": "52.32%",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "52.24%",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 5,
       "name": "Hydreigon Mega Absol ex",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 6,
-      "name": "3158 - 2786 - 147",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "3548 - 3140 - 163",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 7,
-      "name": "51.85%",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "51.79%",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 8,
       "name": "Mega Charizard X ex Mega Charizard Y ex",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 9,
-      "name": "2106 - 2150 - 71",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "2193 - 2261 - 75",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 10,
-      "name": "48.67%",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "48.42%",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 11,
       "name": "Mega Altaria ex Igglybuff",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 12,
-      "name": "2047 - 1906 - 82",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "2176 - 2037 - 88",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 13,
-      "name": "50.73%",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "50.59%",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 14,
       "name": "Mega Scizor ex Revavroom",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 15,
-      "name": "1459 - 1513 - 54",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "1509 - 1571 - 58",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 16,
-      "name": "48.22%",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "48.09%",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 17,
       "name": "Mega Manectric ex Zeraora",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 18,
-      "name": "1385 - 1178 - 87",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "1739 - 1450 - 104",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 19,
-      "name": "52.26%",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "name": "52.81%",
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     },
     {
       "rank": 20,
       "name": "Mega Altaria ex Greninja",
-      "usage_rate": "116610.76%",
-      "win_rate": "53.50%",
-      "record": "3500 - 3042",
-      "adjusted_win_rate": "53.48%",
-      "sample_size": 6542
+      "usage_rate": "134811.06%",
+      "win_rate": "53.40%",
+      "record": "3977 - 3470",
+      "adjusted_win_rate": "53.39%",
+      "sample_size": 7447
     }
   ]
 }
