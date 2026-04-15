@@ -1,11 +1,16 @@
 {
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
-    "version": "3.4",
-    "last_updated": "2026-04-08",
+    "version": "3.5",
+    "last_updated": "2026-04-15",
     "notes": "用於 Meta 分析時翻譯牌組名稱。翻譯若有錯誤請糾正。"
   },
   "corrections": [
+    {
+      "date": "2026-04-15",
+      "english": "Revavroom",
+      "correction": "正確翻譯為「普隆隆姆」"
+    },
     {
       "date": "2026-04-08",
       "english": "Scyther",
