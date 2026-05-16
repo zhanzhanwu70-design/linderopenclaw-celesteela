@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T12:30:56.149Z",
+  "updatedAt": "2026-05-14T12:30:47.198Z",
   "entries": {
     "memory:memory/2026-03-21.md:1:36": {
       "key": "memory:memory/2026-03-21.md:1:36",
@@ -40,13 +40,13 @@
       "endLine": 32,
       "source": "memory",
       "snippet": "# 2026-03-21 Daily Log ## 00:03 UTC - Rowlet Keep-Alive / Meta Update Cron - Cron keep-alive test fired at 00:03 UTC - Attempted daily Pokemon TCG Pocket meta update per HEARTBEAT.md - Issues encountered: - External sites (pokemoncard.io, tcgplayer, etc.) blocked or returned no content - No Discord webhook URL configured in workspace - Result: Could not fetch live meta data or post to Discord ## 00:30 UTC - Workspace Review & Updates - Linder added files to workspace - reviewed and integrated - Updates made: 1. **IDENTITY.md** - Filled with identity (Celesteela, 寶可夢助手) 2. **TOOLS.md** - Updated with workspace-specific notes, Discord webhook placeholder 3. **HEARTBEAT.md** - Added",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-05-10T12:30:25.893Z",
-      "lastRecalledAt": "2026-05-12T12:30:56.149Z",
+      "lastRecalledAt": "2026-05-14T12:30:47.198Z",
       "queryHashes": [
         "dd6735137f6d",
         "edd56045c3ad"
@@ -54,7 +54,8 @@
       "recallDays": [
         "2026-05-10",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-14"
       ],
       "conceptTags": [
         "keep-alive",
@@ -74,13 +75,13 @@
       "endLine": 57,
       "source": "memory",
       "snippet": "- Mega Gardevoir ex 沙奈朵（日本千分牌組）- 已記錄到 memory/decks/ - 謎擬Q + 三首惡龍 + 鈴鐺響 的窒息組合概念 ## HEARTBEAT 任務更新 - 每日 20:00 台北時間發 Meta 報告（全中文，**寶可夢名稱需翻譯為中文**） - 08:00 提問任務已移除 ## 使用者偏好 - Webhook 只用於 20:00 Meta 報告，其他資訊不回應在 webhook - 嘗試稍微女性化語氣（用\"啦\"、\"呢\"、\"～\"），但核心仍為理性直接 ## 環境限制 - ffmpeg 仍不可用 - Playwright/Chromium 缺少 libnspr4.so 無法執行 - 寶可夢卡圖下載（No哥網站、Game8）皆需 JS，認定為不可能 ## 模型資訊 - 當前模型：openai-codex/gpt-5.4",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-05-10T12:30:25.893Z",
-      "lastRecalledAt": "2026-05-12T12:30:56.149Z",
+      "lastRecalledAt": "2026-05-14T12:30:47.198Z",
       "queryHashes": [
         "dd6735137f6d",
         "edd56045c3ad"
@@ -88,7 +89,8 @@
       "recallDays": [
         "2026-05-10",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-14"
       ],
       "conceptTags": [
         "gpt",
@@ -108,13 +110,13 @@
       "endLine": 46,
       "source": "memory",
       "snippet": "- 牌組本質：前期搶節奏 + 中期干擾壓血 + 後期皮卡丘 EX 收頭 ## 模仿少女 / 赤日 的正確理解 (from 雪帝) - 模仿少女：把自己手牌全部洗回牌組，抽到與對手手牌數相同的張數 - 不是複製對手支援者 - 核心用法不是「落後補牌」，而是主動把自己手牌花到很少後再一次灌滿，形成主動賺牌引擎 - 適合：低支援者密度、多可立即打出的裝備/基礎寶可夢/道具、能快速清手牌的牌組 - 赤日效果：拉對手後排怪到前排 - 支援者一回合只能用一張，放太多赤日容易卡手、拖累模仿少女效率 - 因此雪帝版本採用 **雙模仿少女 + 一赤日**，追求穩定而非過度依賴赤日定點處決 ## 讀圖技巧 (from 雪帝) - 同一張卡片有不同版本（閃卡、全圖等） - 應先看卡片**上方名字**來確認卡片身份 - 而非依賴視覺外觀判斷 ## 牌組分析记录 - Mega Gardevoir ex 沙奈朵（日本千分牌組）- 已記錄到 memory/decks/ - 謎擬Q + 三首惡龍 + 鈴鐺響 的窒息組合概念 ## HEARTBEAT 任務更新 - 每日 20:00 台北時間發 Meta 報告（全中文，**寶可夢名稱需翻譯為中文**） - 08:00 提問任務已移除 ## 使用者偏好",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3,
+      "totalScore": 4,
       "maxScore": 1,
       "firstRecalledAt": "2026-05-10T12:30:25.893Z",
-      "lastRecalledAt": "2026-05-12T12:30:56.149Z",
+      "lastRecalledAt": "2026-05-14T12:30:47.198Z",
       "queryHashes": [
         "dd6735137f6d",
         "edd56045c3ad"
@@ -122,7 +124,8 @@
       "recallDays": [
         "2026-05-10",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-14"
       ],
       "conceptTags": [
         "多可立即打出的裝備/基礎寶可夢/道具",
