@@ -89,6 +89,7 @@
 ### 翻譯字典
 - 位置: `ptcgp_deck_dictionary.json`
 - 用於 Meta 分析時翻譯牌組名
+- 發布 Meta 資訊前，遇到英文牌組／寶可夢名稱必須先查這份字典；缺漏翻譯先補進字典再發布
 - 有新翻譯可直接編輯更新
 -e 
 ## API Key Reading

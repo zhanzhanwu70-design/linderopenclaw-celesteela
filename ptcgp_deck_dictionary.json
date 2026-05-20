@@ -1,11 +1,36 @@
 {
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
-    "version": "3.5",
-    "last_updated": "2026-04-15",
-    "notes": "用於 Meta 分析時翻譯牌組名稱。翻譯若有錯誤請糾正。"
+    "version": "3.6",
+    "last_updated": "2026-05-19",
+    "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。"
   },
   "corrections": [
+    {
+      "date": "2026-05-19",
+      "english": "Zeraora",
+      "correction": "正確翻譯為「傑拉奧拉」，避免誤譯為「電氣老鼠」。"
+    },
+    {
+      "date": "2026-05-19",
+      "english": "Indeedee ex",
+      "correction": "正確翻譯為「愛管仕 ex」，避免誤譯為「蓮草」。"
+    },
+    {
+      "date": "2026-05-19",
+      "english": "Castform Sunny Form",
+      "correction": "正確翻譯為「漂浮泡泡 太陽的樣子」，避免誤譯為「洗翠 form」。"
+    },
+    {
+      "date": "2026-05-19",
+      "english": "Igglybuff",
+      "correction": "正確翻譯為「寶寶丁」，避免誤譯為「甜甜」。"
+    },
+    {
+      "date": "2026-05-19",
+      "english": "Hitmontop",
+      "correction": "正確翻譯為「戰舞郎」，避免誤譯為「請假鼠」。"
+    },
     {
       "date": "2026-04-15",
       "english": "Revavroom",
@@ -243,6 +268,17 @@
     "Ho-Oh ex": "鳳王 ex",
     "Rayquaza ex": "烈空坐 ex",
     "Groudon ex": "固拉多 ex",
-    "Kyogre ex": "蓋歐卡 ex"
+    "Kyogre ex": "蓋歐卡 ex",
+    "Zeraora": "傑拉奧拉",
+    "Zeraora ex": "傑拉奧拉 ex",
+    "Indeedee": "愛管仕",
+    "Indeedee ex": "愛管仕 ex",
+    "Castform Sunny Form": "漂浮泡泡 太陽的樣子",
+    "Igglybuff": "寶寶丁",
+    "Hitmontop": "戰舞郎",
+    "Mega Altaria ex Indeedee ex": "超級七夕青鳥 ex 愛管仕 ex",
+    "Mega Blaziken ex Castform Sunny Form": "超級火焰雞 ex 漂浮泡泡 太陽的樣子",
+    "Mega Lucario ex Igglybuff": "超級路卡利歐 ex 寶寶丁",
+    "Mega Lucario ex Hitmontop": "超級路卡利歐 ex 戰舞郎"
   }
 }
