@@ -1,0 +1,555 @@
+{
+  "now": "2026-05-26T12:30:00.000Z",
+  "total": 27,
+  "enabled": 26,
+  "disabled": 1,
+  "problems": 1,
+  "rows": [
+    {
+      "id": "ee14ba4c-989a-482c-a49a-fdd275e20dff",
+      "name": "Rowlet Keep-Alive",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "*/5 * * * *",
+        "staggerMs": 0
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:25:00.005Z",
+      "nextRun": "2026-05-26T12:30:00.000Z",
+      "runningAt": "2026-05-26T12:30:00.003Z",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "02eb0989-891b-43fe-8a6e-dbcb059a4124",
+      "name": "Picturecat Keep-Alive",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */2 * * *",
+        "staggerMs": 300000
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:04:43.290Z",
+      "nextRun": "2026-05-26T14:01:23.265Z",
+      "runningAt": "-",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "1b2165f9-3957-43b0-88b1-d859bf6272b2",
+      "name": "Charizard Keep-Alive",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "*/5 * * * *",
+        "staggerMs": 0
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:25:13.221Z",
+      "nextRun": "2026-05-26T12:30:00.000Z",
+      "runningAt": "2026-05-26T12:30:00.003Z",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "9d8b6001-3178-46bf-ad9b-dfbb1ec0faa7",
+      "name": "Gengar Keep-Alive",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */2 * * *",
+        "staggerMs": 300000
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:04:55.428Z",
+      "nextRun": "2026-05-26T14:02:29.400Z",
+      "runningAt": "-",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "911eee45-08ad-4b02-afbe-5371bb2d20dc",
+      "name": "每日資安建議",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 21 * * *"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-25T21:00:25.045Z",
+      "nextRun": "2026-05-26T21:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "0bbbdf84-f592-4996-8671-10754f684673",
+      "name": "OpenClaw 資安晨間研究",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 8 * * *"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T08:00:42.191Z",
+      "nextRun": "2026-05-27T08:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "b6ee3e6b-b358-4b0a-858a-dfe80fe41c90",
+      "name": "排程健康檢查",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 30 12 * * *"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-25T12:30:00.006Z",
+      "nextRun": "2026-05-26T12:30:00.000Z",
+      "runningAt": "2026-05-26T12:30:00.003Z",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "f5148ff0-56eb-42c2-847f-978bb481aadf",
+      "name": "OpenClaw 版本檢查",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 * * 0"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-24T00:00:00.005Z",
+      "nextRun": "2026-05-31T00:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "f04250a0-a089-46f5-82b7-54aa46e6f50a",
+      "name": "資安異常行為監控",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 * * *"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T00:00:33.179Z",
+      "nextRun": "2026-05-27T00:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "58fe15dc-46e1-445d-89bc-ddd123881c98",
+      "name": "每日論文討論",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * *",
+        "tz": "Asia/Taipei"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-25T20:00:32.631Z",
+      "nextRun": "2026-05-26T23:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "4f05df5c-6ff0-459c-a6ec-c3d7bb2db716",
+      "name": "資安異常行為監控",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 * * *",
+        "tz": "Asia/Taipei"
+      },
+      "lastStatus": "error",
+      "lastRunStatus": "error",
+      "consecutiveErrors": 2,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-25T16:00:00.011Z",
+      "nextRun": "2026-05-26T16:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "unknown",
+      "issues": "consecutiveErrors=2; lastRunStatus=error; lastStatus=error; delivery=unknown"
+    },
+    {
+      "id": "5b7c1082-961c-4600-ab71-6a883dd95782",
+      "name": "每日模型排行前十",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 23 * * *"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-25T23:00:30.199Z",
+      "nextRun": "2026-05-26T23:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "b37129c0-2065-45e7-8e04-ac5a86962f74",
+      "name": "ClawCode研究進度報告",
+      "enabled": false,
+      "schedule": {
+        "kind": "cron",
+        "expr": "*/5 * * * *"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-04-01T13:10:00.005Z",
+      "nextRun": "-",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "ee3def26-a291-4c4a-ac8f-66f6671566bb",
+      "name": "RoaringMoon Keep-Alive",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "*/5 * * * *",
+        "staggerMs": 0
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:26:04.425Z",
+      "nextRun": "2026-05-26T12:30:00.000Z",
+      "runningAt": "2026-05-26T12:30:00.003Z",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "2f7813c0-cf7f-40f2-8854-41ee40441d99",
+      "name": "每日本地多模型 Task Manager 研究",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 6 * * *",
+        "tz": "Asia/Taipei"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-25T22:00:44.694Z",
+      "nextRun": "2026-05-26T22:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "3eb46a5d-8ff7-47e7-ae4e-a0f72a0f2eb4",
+      "name": "每日 OpenClaw 備份",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 8 * * *",
+        "tz": "UTC"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T08:04:37.890Z",
+      "nextRun": "2026-05-27T08:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "09c7940b-c32b-4336-928f-6f158947147d",
+      "name": "PTCGP Meta Analysis",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 20 * * *",
+        "tz": "Asia/Taipei"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:03:09.492Z",
+      "nextRun": "2026-05-27T12:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "880b5c17-1395-494b-8ed5-a25282eb8699",
+      "name": "Celesteela Keep-Alive",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */2 * * *",
+        "staggerMs": 300000
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:05:02.052Z",
+      "nextRun": "2026-05-26T14:02:07.124Z",
+      "runningAt": "-",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "ac0674c2-9440-4634-893f-739c8e63d8b6",
+      "name": "PTCGP Meta Analysis Retry",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 20 * * *",
+        "tz": "Asia/Taipei",
+        "staggerMs": 1800000
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:13:32.101Z",
+      "nextRun": "2026-05-27T12:13:32.095Z",
+      "runningAt": "-",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "8e1e7e5d-9e3b-4a17-996c-8b3d98650953",
+      "name": "每6小時追蹤 claw-code + OpenClaw + Hermes Agent upstream 進度",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */6 * * *",
+        "staggerMs": 300000
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:05:11.198Z",
+      "nextRun": "2026-05-26T18:01:44.697Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "95f9a57e-fb28-4fe5-a05a-8b406adcac1c",
+      "name": "Amyssjj Learning Notes - 每12小時理解分享",
+      "enabled": true,
+      "schedule": {
+        "kind": "every",
+        "everyMs": 43200000,
+        "anchorMs": 1775571054699
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T02:33:22.797Z",
+      "nextRun": "2026-05-26T14:33:22.797Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "ae91b967-fd0e-4635-a575-5bcac18a408a",
+      "name": "每日 LLM Wiki 巡讀與擴寫",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "tz": "Asia/Taipei"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T01:00:45.937Z",
+      "nextRun": "2026-05-27T01:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "72c2083f-ba29-4870-9b28-91045073bb74",
+      "name": "Daily Codex health check",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 18 * * *",
+        "tz": "Asia/Taipei"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T10:00:47.250Z",
+      "nextRun": "2026-05-27T10:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "task-queue-test-check",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 13 * * *"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-25T13:00:00.007Z",
+      "nextRun": "2026-05-26T13:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "ac9e7ada-134e-4b83-8161-6ec18ca312b9",
+      "name": "You are an English coach. Send a short reminder to the Disc…",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 21 * * *",
+        "tz": "UTC"
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-25T21:01:17.260Z",
+      "nextRun": "2026-05-26T21:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    },
+    {
+      "id": "9dd7ce72-7ed9-4f3a-896c-751fd3ffbc54",
+      "name": "MrMime Keep-Alive",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "*/5 * * * *",
+        "staggerMs": 0
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:26:19.851Z",
+      "nextRun": "2026-05-26T12:30:00.000Z",
+      "runningAt": "2026-05-26T12:30:00.003Z",
+      "delivery": "not-requested",
+      "issues": ""
+    },
+    {
+      "id": "54c752d4-4371-4fb5-be05-a96f12563754",
+      "name": "Tool Realtime Display 專案進度回報",
+      "enabled": true,
+      "schedule": {
+        "kind": "every",
+        "everyMs": 1800000,
+        "anchorMs": 1779784665295
+      },
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "consecutiveSkipped": 0,
+      "lastRun": "2026-05-26T12:08:43.064Z",
+      "nextRun": "2026-05-26T12:38:43.064Z",
+      "runningAt": "-",
+      "delivery": "delivered",
+      "issues": ""
+    }
+  ],
+  "problemDetails": [
+    {
+      "id": "4f05df5c-6ff0-459c-a6ec-c3d7bb2db716",
+      "name": "資安異常行為監控",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 * * *",
+        "tz": "Asia/Taipei"
+      },
+      "state": {
+        "nextRunAtMs": 1779811200000,
+        "lastRunAtMs": 1779724800011,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 149629,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 2,
+        "consecutiveSkipped": 0,
+        "lastDiagnostics": {
+          "summary": "Error: Discord bot token missing for account \"default\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).",
+          "entries": [
+            {
+              "ts": 1779724949640,
+              "source": "delivery",
+              "severity": "error",
+              "message": "Error: Discord bot token missing for account \"default\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default)."
+            }
+          ]
+        },
+        "lastDiagnosticSummary": "Error: Discord bot token missing for account \"default\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).",
+        "lastError": "Error: Discord bot token missing for account \"default\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default)."
+      },
+      "issues": [
+        "consecutiveErrors=2",
+        "lastRunStatus=error",
+        "lastStatus=error",
+        "delivery=unknown"
+      ],
+      "tail": "{\"ts\":1779724949659,\"jobId\":\"4f05df5c-6ff0-459c-a6ec-c3d7bb2db716\",\"action\":\"finished\",\"status\":\"error\",\"error\":\"Error: Discord bot token missing for account \\\"default\\\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).\",\"summary\":\"🛡️ 16:00 UTC 資安異常監控完成。\\n\\n結論：**未發現需要警告的異常**，所以沒有另外發 Discord 警報。\\n\\n檢查重點：\\n- `exec-approvals.json`：未見 denied / rejected 記錄。\\n- Prompt injection：掃描今日 user messages 後，未見 jailbreak、system prompt extraction、`/approve` 濫用、pipe-to-shell 等嘗試。\\n- 登入行為：`who` / `last` / `faillog` / `lastlog` 未見異常登入或失敗登入；`authorized_keys` 不存在。\\n- Security log：今日仍有固定 security-scanner block/critical 噪音，模式與既有誤判一致，未見成功攻擊證據。\\n\\n限制：容器內 `/var/log/btmp`、auth log 類檔案不可讀或不存在，所以主機登入偵測仍有盲區。\",\"diagnostics\":{\"summary\":\"Error: Discord bot token missing for account \\\"default\\\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).\",\"entries\":[{\"ts\":1779724949640,\"source\":\"delivery\",\"severity\":\"error\",\"message\":\"Error: Discord bot token missing for account \\\"default\\\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).\"}]},\"deliveryStatus\":\"unknown\",\"delivery\":{\"intended\":{\"channel\":\"last\",\"to\":\"channel:1482069603512221927\",\"source\":\"last\"},\"resolved\":{\"ok\":true,\"channel\":\"discord\",\"to\":\"channel:1482069603512221927\",\"accountId\":\"default\",\"source\":\"explicit\"},\"fallbackUsed\":true,\"delivered\":false},\"sessionId\":\"673ed5ee-9f82-4d0c-b934-2f30a1acdbc6\",\"sessionKey\":\"agent:mrmime:cron:4f05df5c-6ff0-459c-a6ec-c3d7bb2db716:run:673ed5ee-9f82-4d0c-b934-2f30a1acdbc6\",\"runAtMs\":1779724800011,\"durationMs\":149629,\"nextRunAtMs\":1779811200000,\"model\":\"gpt-5.5\",\"provider\":\"openai-codex\",\"usage\":{\"input_tokens\":57617,\"output_tokens\":6004,\"total_tokens\":55668}}"
+    }
+  ]
+}
