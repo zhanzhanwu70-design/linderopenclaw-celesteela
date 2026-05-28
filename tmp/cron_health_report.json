@@ -1,9 +1,9 @@
 {
-  "now": "2026-05-26T12:30:00.000Z",
+  "now": "2026-05-27T12:30:00.000Z",
   "total": 27,
   "enabled": 26,
   "disabled": 1,
-  "problems": 1,
+  "problems": 0,
   "rows": [
     {
       "id": "ee14ba4c-989a-482c-a49a-fdd275e20dff",
@@ -18,9 +18,9 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:25:00.005Z",
-      "nextRun": "2026-05-26T12:30:00.000Z",
-      "runningAt": "2026-05-26T12:30:00.003Z",
+      "lastRun": "2026-05-27T12:25:23.991Z",
+      "nextRun": "2026-05-27T12:30:00.000Z",
+      "runningAt": "2026-05-27T12:30:00.125Z",
       "delivery": "not-requested",
       "issues": ""
     },
@@ -37,8 +37,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:04:43.290Z",
-      "nextRun": "2026-05-26T14:01:23.265Z",
+      "lastRun": "2026-05-27T12:01:24.560Z",
+      "nextRun": "2026-05-27T14:01:23.265Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -56,9 +56,9 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:25:13.221Z",
-      "nextRun": "2026-05-26T12:30:00.000Z",
-      "runningAt": "2026-05-26T12:30:00.003Z",
+      "lastRun": "2026-05-27T12:25:47.183Z",
+      "nextRun": "2026-05-27T12:30:00.000Z",
+      "runningAt": "2026-05-27T12:30:00.125Z",
       "delivery": "not-requested",
       "issues": ""
     },
@@ -75,8 +75,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:04:55.428Z",
-      "nextRun": "2026-05-26T14:02:29.400Z",
+      "lastRun": "2026-05-27T12:07:37.880Z",
+      "nextRun": "2026-05-27T14:02:29.400Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -93,8 +93,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-25T21:00:25.045Z",
-      "nextRun": "2026-05-26T21:00:00.000Z",
+      "lastRun": "2026-05-26T21:00:33.784Z",
+      "nextRun": "2026-05-27T21:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -111,8 +111,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T08:00:42.191Z",
-      "nextRun": "2026-05-27T08:00:00.000Z",
+      "lastRun": "2026-05-27T08:01:16.055Z",
+      "nextRun": "2026-05-28T08:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -129,9 +129,9 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-25T12:30:00.006Z",
-      "nextRun": "2026-05-26T12:30:00.000Z",
-      "runningAt": "2026-05-26T12:30:00.003Z",
+      "lastRun": "2026-05-26T12:30:34.767Z",
+      "nextRun": "2026-05-27T12:30:00.000Z",
+      "runningAt": "2026-05-27T12:30:00.125Z",
       "delivery": "delivered",
       "issues": ""
     },
@@ -165,8 +165,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T00:00:33.179Z",
-      "nextRun": "2026-05-27T00:00:00.000Z",
+      "lastRun": "2026-05-27T00:00:37.630Z",
+      "nextRun": "2026-05-28T00:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -184,8 +184,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-25T20:00:32.631Z",
-      "nextRun": "2026-05-26T23:00:00.000Z",
+      "lastRun": "2026-05-26T23:00:38.729Z",
+      "nextRun": "2026-05-27T23:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -199,15 +199,15 @@
         "expr": "0 0 * * *",
         "tz": "Asia/Taipei"
       },
-      "lastStatus": "error",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 2,
+      "lastStatus": "ok",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-25T16:00:00.011Z",
-      "nextRun": "2026-05-26T16:00:00.000Z",
+      "lastRun": "2026-05-26T16:00:32.100Z",
+      "nextRun": "2026-05-27T16:00:00.000Z",
       "runningAt": "-",
-      "delivery": "unknown",
-      "issues": "consecutiveErrors=2; lastRunStatus=error; lastStatus=error; delivery=unknown"
+      "delivery": "delivered",
+      "issues": ""
     },
     {
       "id": "5b7c1082-961c-4600-ab71-6a883dd95782",
@@ -221,8 +221,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-25T23:00:30.199Z",
-      "nextRun": "2026-05-26T23:00:00.000Z",
+      "lastRun": "2026-05-26T23:04:12.283Z",
+      "nextRun": "2026-05-27T23:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -258,9 +258,9 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:26:04.425Z",
-      "nextRun": "2026-05-26T12:30:00.000Z",
-      "runningAt": "2026-05-26T12:30:00.003Z",
+      "lastRun": "2026-05-27T12:26:09.620Z",
+      "nextRun": "2026-05-27T12:30:00.000Z",
+      "runningAt": "2026-05-27T12:30:00.125Z",
       "delivery": "not-requested",
       "issues": ""
     },
@@ -277,8 +277,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-25T22:00:44.694Z",
-      "nextRun": "2026-05-26T22:00:00.000Z",
+      "lastRun": "2026-05-26T22:00:55.770Z",
+      "nextRun": "2026-05-27T22:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -296,8 +296,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T08:04:37.890Z",
-      "nextRun": "2026-05-27T08:00:00.000Z",
+      "lastRun": "2026-05-27T08:02:43.940Z",
+      "nextRun": "2026-05-28T08:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -315,8 +315,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:03:09.492Z",
-      "nextRun": "2026-05-27T12:00:00.000Z",
+      "lastRun": "2026-05-27T12:01:37.458Z",
+      "nextRun": "2026-05-28T12:00:00.000Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -334,8 +334,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:05:02.052Z",
-      "nextRun": "2026-05-26T14:02:07.124Z",
+      "lastRun": "2026-05-27T12:08:10.099Z",
+      "nextRun": "2026-05-27T14:02:07.124Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -354,8 +354,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:13:32.101Z",
-      "nextRun": "2026-05-27T12:13:32.095Z",
+      "lastRun": "2026-05-27T12:13:32.101Z",
+      "nextRun": "2026-05-28T12:13:32.095Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -373,8 +373,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:05:11.198Z",
-      "nextRun": "2026-05-26T18:01:44.697Z",
+      "lastRun": "2026-05-27T12:01:55.694Z",
+      "nextRun": "2026-05-27T18:01:44.697Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -392,8 +392,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T02:33:22.797Z",
-      "nextRun": "2026-05-26T14:33:22.797Z",
+      "lastRun": "2026-05-27T02:33:33.018Z",
+      "nextRun": "2026-05-27T14:33:33.018Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -411,8 +411,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T01:00:45.937Z",
-      "nextRun": "2026-05-27T01:00:00.000Z",
+      "lastRun": "2026-05-27T01:00:53.340Z",
+      "nextRun": "2026-05-28T01:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -430,8 +430,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T10:00:47.250Z",
-      "nextRun": "2026-05-27T10:00:00.000Z",
+      "lastRun": "2026-05-27T10:01:33.780Z",
+      "nextRun": "2026-05-28T10:00:00.000Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -447,8 +447,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-25T13:00:00.007Z",
-      "nextRun": "2026-05-26T13:00:00.000Z",
+      "lastRun": "2026-05-26T13:01:19.454Z",
+      "nextRun": "2026-05-27T13:00:00.000Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -466,8 +466,8 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-25T21:01:17.260Z",
-      "nextRun": "2026-05-26T21:00:00.000Z",
+      "lastRun": "2026-05-26T21:01:30.812Z",
+      "nextRun": "2026-05-27T21:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -485,71 +485,31 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:26:19.851Z",
-      "nextRun": "2026-05-26T12:30:00.000Z",
-      "runningAt": "2026-05-26T12:30:00.003Z",
+      "lastRun": "2026-05-27T12:26:29.955Z",
+      "nextRun": "2026-05-27T12:30:00.000Z",
+      "runningAt": "2026-05-27T12:30:00.125Z",
       "delivery": "not-requested",
       "issues": ""
     },
     {
-      "id": "54c752d4-4371-4fb5-be05-a96f12563754",
-      "name": "Tool Realtime Display 專案進度回報",
+      "id": "cb7bf44e-cb29-4dab-b391-776689505b7b",
+      "name": "專案進度回報",
       "enabled": true,
       "schedule": {
         "kind": "every",
         "everyMs": 1800000,
-        "anchorMs": 1779784665295
+        "anchorMs": 1779866403713
       },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:08:43.064Z",
-      "nextRun": "2026-05-26T12:38:43.064Z",
+      "lastRun": "2026-05-27T12:24:41.854Z",
+      "nextRun": "2026-05-27T12:54:41.854Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
     }
   ],
-  "problemDetails": [
-    {
-      "id": "4f05df5c-6ff0-459c-a6ec-c3d7bb2db716",
-      "name": "資安異常行為監控",
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 0 * * *",
-        "tz": "Asia/Taipei"
-      },
-      "state": {
-        "nextRunAtMs": 1779811200000,
-        "lastRunAtMs": 1779724800011,
-        "lastRunStatus": "error",
-        "lastStatus": "error",
-        "lastDurationMs": 149629,
-        "lastDeliveryStatus": "unknown",
-        "consecutiveErrors": 2,
-        "consecutiveSkipped": 0,
-        "lastDiagnostics": {
-          "summary": "Error: Discord bot token missing for account \"default\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).",
-          "entries": [
-            {
-              "ts": 1779724949640,
-              "source": "delivery",
-              "severity": "error",
-              "message": "Error: Discord bot token missing for account \"default\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default)."
-            }
-          ]
-        },
-        "lastDiagnosticSummary": "Error: Discord bot token missing for account \"default\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).",
-        "lastError": "Error: Discord bot token missing for account \"default\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default)."
-      },
-      "issues": [
-        "consecutiveErrors=2",
-        "lastRunStatus=error",
-        "lastStatus=error",
-        "delivery=unknown"
-      ],
-      "tail": "{\"ts\":1779724949659,\"jobId\":\"4f05df5c-6ff0-459c-a6ec-c3d7bb2db716\",\"action\":\"finished\",\"status\":\"error\",\"error\":\"Error: Discord bot token missing for account \\\"default\\\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).\",\"summary\":\"🛡️ 16:00 UTC 資安異常監控完成。\\n\\n結論：**未發現需要警告的異常**，所以沒有另外發 Discord 警報。\\n\\n檢查重點：\\n- `exec-approvals.json`：未見 denied / rejected 記錄。\\n- Prompt injection：掃描今日 user messages 後，未見 jailbreak、system prompt extraction、`/approve` 濫用、pipe-to-shell 等嘗試。\\n- 登入行為：`who` / `last` / `faillog` / `lastlog` 未見異常登入或失敗登入；`authorized_keys` 不存在。\\n- Security log：今日仍有固定 security-scanner block/critical 噪音，模式與既有誤判一致，未見成功攻擊證據。\\n\\n限制：容器內 `/var/log/btmp`、auth log 類檔案不可讀或不存在，所以主機登入偵測仍有盲區。\",\"diagnostics\":{\"summary\":\"Error: Discord bot token missing for account \\\"default\\\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).\",\"entries\":[{\"ts\":1779724949640,\"source\":\"delivery\",\"severity\":\"error\",\"message\":\"Error: Discord bot token missing for account \\\"default\\\" (set discord.accounts.default.token or DISCORD_BOT_TOKEN for default).\"}]},\"deliveryStatus\":\"unknown\",\"delivery\":{\"intended\":{\"channel\":\"last\",\"to\":\"channel:1482069603512221927\",\"source\":\"last\"},\"resolved\":{\"ok\":true,\"channel\":\"discord\",\"to\":\"channel:1482069603512221927\",\"accountId\":\"default\",\"source\":\"explicit\"},\"fallbackUsed\":true,\"delivered\":false},\"sessionId\":\"673ed5ee-9f82-4d0c-b934-2f30a1acdbc6\",\"sessionKey\":\"agent:mrmime:cron:4f05df5c-6ff0-459c-a6ec-c3d7bb2db716:run:673ed5ee-9f82-4d0c-b934-2f30a1acdbc6\",\"runAtMs\":1779724800011,\"durationMs\":149629,\"nextRunAtMs\":1779811200000,\"model\":\"gpt-5.5\",\"provider\":\"openai-codex\",\"usage\":{\"input_tokens\":57617,\"output_tokens\":6004,\"total_tokens\":55668}}"
-    }
-  ]
+  "problemsDetail": []
 }
