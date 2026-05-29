@@ -1,26 +1,21 @@
 {
-  "now": "2026-05-27T12:30:00.000Z",
-  "total": 27,
-  "enabled": 26,
+  "now": "2026-05-28T12:32:03.411Z",
+  "total": 28,
+  "enabled": 27,
   "disabled": 1,
   "problems": 0,
+  "problemsDetail": [],
   "rows": [
     {
       "id": "ee14ba4c-989a-482c-a49a-fdd275e20dff",
       "name": "Rowlet Keep-Alive",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/5 * * * *",
-        "staggerMs": 0
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:25:23.991Z",
-      "nextRun": "2026-05-27T12:30:00.000Z",
-      "runningAt": "2026-05-27T12:30:00.125Z",
+      "lastRun": "2026-05-28T12:25:00.178Z",
+      "nextRun": "2026-05-28T12:30:00.000Z",
+      "runningAt": "2026-05-28T12:30:00.265Z",
       "delivery": "not-requested",
       "issues": ""
     },
@@ -28,17 +23,11 @@
       "id": "02eb0989-891b-43fe-8a6e-dbcb059a4124",
       "name": "Picturecat Keep-Alive",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 */2 * * *",
-        "staggerMs": 300000
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:01:24.560Z",
-      "nextRun": "2026-05-27T14:01:23.265Z",
+      "lastRun": "2026-05-28T12:12:42.861Z",
+      "nextRun": "2026-05-28T14:01:23.265Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -47,18 +36,12 @@
       "id": "1b2165f9-3957-43b0-88b1-d859bf6272b2",
       "name": "Charizard Keep-Alive",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/5 * * * *",
-        "staggerMs": 0
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:25:47.183Z",
-      "nextRun": "2026-05-27T12:30:00.000Z",
-      "runningAt": "2026-05-27T12:30:00.125Z",
+      "lastRun": "2026-05-28T12:25:25.398Z",
+      "nextRun": "2026-05-28T12:30:00.000Z",
+      "runningAt": "2026-05-28T12:30:00.265Z",
       "delivery": "not-requested",
       "issues": ""
     },
@@ -66,17 +49,11 @@
       "id": "9d8b6001-3178-46bf-ad9b-dfbb1ec0faa7",
       "name": "Gengar Keep-Alive",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 */2 * * *",
-        "staggerMs": 300000
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:07:37.880Z",
-      "nextRun": "2026-05-27T14:02:29.400Z",
+      "lastRun": "2026-05-28T12:13:20.283Z",
+      "nextRun": "2026-05-28T14:02:29.400Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -85,16 +62,11 @@
       "id": "911eee45-08ad-4b02-afbe-5371bb2d20dc",
       "name": "每日資安建議",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 0 21 * * *"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T21:00:33.784Z",
-      "nextRun": "2026-05-27T21:00:00.000Z",
+      "lastRun": "2026-05-27T21:00:42.706Z",
+      "nextRun": "2026-05-28T21:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -103,16 +75,11 @@
       "id": "0bbbdf84-f592-4996-8671-10754f684673",
       "name": "OpenClaw 資安晨間研究",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 0 8 * * *"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T08:01:16.055Z",
-      "nextRun": "2026-05-28T08:00:00.000Z",
+      "lastRun": "2026-05-28T08:00:52.356Z",
+      "nextRun": "2026-05-29T08:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -121,17 +88,12 @@
       "id": "b6ee3e6b-b358-4b0a-858a-dfe80fe41c90",
       "name": "排程健康檢查",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 30 12 * * *"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T12:30:34.767Z",
-      "nextRun": "2026-05-27T12:30:00.000Z",
-      "runningAt": "2026-05-27T12:30:00.125Z",
+      "lastRun": "2026-05-27T12:30:50.702Z",
+      "nextRun": "2026-05-28T12:30:00.000Z",
+      "runningAt": "2026-05-28T12:30:00.265Z",
       "delivery": "delivered",
       "issues": ""
     },
@@ -139,14 +101,9 @@
       "id": "f5148ff0-56eb-42c2-847f-978bb481aadf",
       "name": "OpenClaw 版本檢查",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 0 * * 0"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
       "lastRun": "2026-05-24T00:00:00.005Z",
       "nextRun": "2026-05-31T00:00:00.000Z",
       "runningAt": "-",
@@ -157,16 +114,11 @@
       "id": "f04250a0-a089-46f5-82b7-54aa46e6f50a",
       "name": "資安異常行為監控",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 0 * * *"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T00:00:37.630Z",
-      "nextRun": "2026-05-28T00:00:00.000Z",
+      "lastRun": "2026-05-28T00:00:50.304Z",
+      "nextRun": "2026-05-29T00:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -175,17 +127,11 @@
       "id": "58fe15dc-46e1-445d-89bc-ddd123881c98",
       "name": "每日論文討論",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 7 * * *",
-        "tz": "Asia/Taipei"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T23:00:38.729Z",
-      "nextRun": "2026-05-27T23:00:00.000Z",
+      "lastRun": "2026-05-27T23:00:44.914Z",
+      "nextRun": "2026-05-28T23:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -194,17 +140,11 @@
       "id": "4f05df5c-6ff0-459c-a6ec-c3d7bb2db716",
       "name": "資安異常行為監控",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 0 * * *",
-        "tz": "Asia/Taipei"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T16:00:32.100Z",
-      "nextRun": "2026-05-27T16:00:00.000Z",
+      "lastRun": "2026-05-27T16:00:40.063Z",
+      "nextRun": "2026-05-28T16:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -213,16 +153,11 @@
       "id": "5b7c1082-961c-4600-ab71-6a883dd95782",
       "name": "每日模型排行前十",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 23 * * *"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T23:04:12.283Z",
-      "nextRun": "2026-05-27T23:00:00.000Z",
+      "lastRun": "2026-05-27T23:04:46.571Z",
+      "nextRun": "2026-05-28T23:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -231,14 +166,9 @@
       "id": "b37129c0-2065-45e7-8e04-ac5a86962f74",
       "name": "ClawCode研究進度報告",
       "enabled": false,
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/5 * * * *"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
       "lastRun": "2026-04-01T13:10:00.005Z",
       "nextRun": "-",
       "runningAt": "-",
@@ -249,18 +179,12 @@
       "id": "ee3def26-a291-4c4a-ac8f-66f6671566bb",
       "name": "RoaringMoon Keep-Alive",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/5 * * * *",
-        "staggerMs": 0
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:26:09.620Z",
-      "nextRun": "2026-05-27T12:30:00.000Z",
-      "runningAt": "2026-05-27T12:30:00.125Z",
+      "lastRun": "2026-05-28T12:25:46.280Z",
+      "nextRun": "2026-05-28T12:30:00.000Z",
+      "runningAt": "2026-05-28T12:30:00.265Z",
       "delivery": "not-requested",
       "issues": ""
     },
@@ -268,17 +192,11 @@
       "id": "2f7813c0-cf7f-40f2-8854-41ee40441d99",
       "name": "每日本地多模型 Task Manager 研究",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 6 * * *",
-        "tz": "Asia/Taipei"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T22:00:55.770Z",
-      "nextRun": "2026-05-27T22:00:00.000Z",
+      "lastRun": "2026-05-27T22:00:55.783Z",
+      "nextRun": "2026-05-28T22:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -287,17 +205,11 @@
       "id": "3eb46a5d-8ff7-47e7-ae4e-a0f72a0f2eb4",
       "name": "每日 OpenClaw 備份",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 0 8 * * *",
-        "tz": "UTC"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T08:02:43.940Z",
-      "nextRun": "2026-05-28T08:00:00.000Z",
+      "lastRun": "2026-05-28T08:03:29.519Z",
+      "nextRun": "2026-05-29T08:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -306,17 +218,11 @@
       "id": "09c7940b-c32b-4336-928f-6f158947147d",
       "name": "PTCGP Meta Analysis",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 20 * * *",
-        "tz": "Asia/Taipei"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:01:37.458Z",
-      "nextRun": "2026-05-28T12:00:00.000Z",
+      "lastRun": "2026-05-28T12:01:14.097Z",
+      "nextRun": "2026-05-29T12:00:00.000Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -325,17 +231,11 @@
       "id": "880b5c17-1395-494b-8ed5-a25282eb8699",
       "name": "Celesteela Keep-Alive",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 */2 * * *",
-        "staggerMs": 300000
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:08:10.099Z",
-      "nextRun": "2026-05-27T14:02:07.124Z",
+      "lastRun": "2026-05-28T12:13:57.219Z",
+      "nextRun": "2026-05-28T14:02:07.124Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -344,18 +244,11 @@
       "id": "ac0674c2-9440-4634-893f-739c8e63d8b6",
       "name": "PTCGP Meta Analysis Retry",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 20 * * *",
-        "tz": "Asia/Taipei",
-        "staggerMs": 1800000
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:13:32.101Z",
-      "nextRun": "2026-05-28T12:13:32.095Z",
+      "lastRun": "2026-05-28T12:18:07.534Z",
+      "nextRun": "2026-05-29T12:13:32.095Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -364,17 +257,11 @@
       "id": "8e1e7e5d-9e3b-4a17-996c-8b3d98650953",
       "name": "每6小時追蹤 claw-code + OpenClaw + Hermes Agent upstream 進度",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 */6 * * *",
-        "staggerMs": 300000
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:01:55.694Z",
-      "nextRun": "2026-05-27T18:01:44.697Z",
+      "lastRun": "2026-05-28T12:14:13.120Z",
+      "nextRun": "2026-05-28T18:01:44.697Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -383,17 +270,11 @@
       "id": "95f9a57e-fb28-4fe5-a05a-8b406adcac1c",
       "name": "Amyssjj Learning Notes - 每12小時理解分享",
       "enabled": true,
-      "schedule": {
-        "kind": "every",
-        "everyMs": 43200000,
-        "anchorMs": 1775571054699
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T02:33:33.018Z",
-      "nextRun": "2026-05-27T14:33:33.018Z",
+      "lastRun": "2026-05-28T02:53:42.502Z",
+      "nextRun": "2026-05-28T14:53:42.502Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -402,17 +283,11 @@
       "id": "ae91b967-fd0e-4635-a575-5bcac18a408a",
       "name": "每日 LLM Wiki 巡讀與擴寫",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 9 * * *",
-        "tz": "Asia/Taipei"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T01:00:53.340Z",
-      "nextRun": "2026-05-28T01:00:00.000Z",
+      "lastRun": "2026-05-28T01:01:22.468Z",
+      "nextRun": "2026-05-29T01:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -421,17 +296,11 @@
       "id": "72c2083f-ba29-4870-9b28-91045073bb74",
       "name": "Daily Codex health check",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 18 * * *",
-        "tz": "Asia/Taipei"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T10:01:33.780Z",
-      "nextRun": "2026-05-28T10:00:00.000Z",
+      "lastRun": "2026-05-28T10:01:12.278Z",
+      "nextRun": "2026-05-29T10:00:00.000Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -439,16 +308,11 @@
     {
       "id": "task-queue-test-check",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 13 * * *"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T13:01:19.454Z",
-      "nextRun": "2026-05-27T13:00:00.000Z",
+      "lastRun": "2026-05-27T13:01:07.050Z",
+      "nextRun": "2026-05-28T13:00:00.000Z",
       "runningAt": "-",
       "delivery": "not-requested",
       "issues": ""
@@ -457,17 +321,11 @@
       "id": "ac9e7ada-134e-4b83-8161-6ec18ca312b9",
       "name": "You are an English coach. Send a short reminder to the Disc…",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 21 * * *",
-        "tz": "UTC"
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-26T21:01:30.812Z",
-      "nextRun": "2026-05-27T21:00:00.000Z",
+      "lastRun": "2026-05-27T21:01:59.524Z",
+      "nextRun": "2026-05-28T21:00:00.000Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
@@ -476,18 +334,12 @@
       "id": "9dd7ce72-7ed9-4f3a-896c-751fd3ffbc54",
       "name": "MrMime Keep-Alive",
       "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/5 * * * *",
-        "staggerMs": 0
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:26:29.955Z",
-      "nextRun": "2026-05-27T12:30:00.000Z",
-      "runningAt": "2026-05-27T12:30:00.125Z",
+      "lastRun": "2026-05-28T12:26:03.943Z",
+      "nextRun": "2026-05-28T12:30:00.000Z",
+      "runningAt": "2026-05-28T12:30:00.265Z",
       "delivery": "not-requested",
       "issues": ""
     },
@@ -495,21 +347,25 @@
       "id": "cb7bf44e-cb29-4dab-b391-776689505b7b",
       "name": "專案進度回報",
       "enabled": true,
-      "schedule": {
-        "kind": "every",
-        "everyMs": 1800000,
-        "anchorMs": 1779866403713
-      },
       "lastStatus": "ok",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "consecutiveSkipped": 0,
-      "lastRun": "2026-05-27T12:24:41.854Z",
-      "nextRun": "2026-05-27T12:54:41.854Z",
+      "lastRun": "2026-05-28T12:28:45.743Z",
+      "nextRun": "2026-05-28T12:58:45.743Z",
       "runningAt": "-",
       "delivery": "delivered",
       "issues": ""
+    },
+    {
+      "id": "4c2c50db-366d-4c0d-bd44-99b2161a544b",
+      "name": "台北租屋搜尋",
+      "enabled": true,
+      "consecutiveErrors": 0,
+      "lastRun": "-",
+      "nextRun": "2026-05-28T13:00:00.000Z",
+      "runningAt": "-",
+      "delivery": "",
+      "issues": ""
     }
-  ],
-  "problemsDetail": []
+  ]
 }
