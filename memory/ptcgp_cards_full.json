@@ -35026,5 +35026,1095 @@
     "weakness": "",
     "retreat": 0,
     "attacks": []
+  },
+  "B3a_001": {
+    "name": "Surskit",
+    "set": "B3a",
+    "number": 1,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_002": {
+    "name": "Masquerain",
+    "set": "B3a",
+    "number": 2,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_003": {
+    "name": "Brute Bonnet",
+    "set": "B3a",
+    "number": 3,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_004": {
+    "name": "Slither Wing",
+    "set": "B3a",
+    "number": 4,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_005": {
+    "name": "Iron Moth",
+    "set": "B3a",
+    "number": 5,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_006": {
+    "name": "Psyduck",
+    "set": "B3a",
+    "number": 6,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_007": {
+    "name": "Golduck",
+    "set": "B3a",
+    "number": 7,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_008": {
+    "name": "Vaporeon",
+    "set": "B3a",
+    "number": 8,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_009": {
+    "name": "Buizel",
+    "set": "B3a",
+    "number": 9,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_010": {
+    "name": "Floatzel",
+    "set": "B3a",
+    "number": 10,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_011": {
+    "name": "Snom",
+    "set": "B3a",
+    "number": 11,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_012": {
+    "name": "Frosmoth",
+    "set": "B3a",
+    "number": 12,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_013": {
+    "name": "Iron Bundle ex",
+    "set": "B3a",
+    "number": 13,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_014": {
+    "name": "Pawmi",
+    "set": "B3a",
+    "number": 14,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_015": {
+    "name": "Pawmo",
+    "set": "B3a",
+    "number": 15,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_016": {
+    "name": "Pawmot",
+    "set": "B3a",
+    "number": 16,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_017": {
+    "name": "Iron Hands",
+    "set": "B3a",
+    "number": 17,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_018": {
+    "name": "Iron Thorns",
+    "set": "B3a",
+    "number": 18,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_019": {
+    "name": "Miraidon ex",
+    "set": "B3a",
+    "number": 19,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_020": {
+    "name": "Espeon",
+    "set": "B3a",
+    "number": 20,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_021": {
+    "name": "Flittle",
+    "set": "B3a",
+    "number": 21,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_022": {
+    "name": "Espathra",
+    "set": "B3a",
+    "number": 22,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_023": {
+    "name": "Greavard",
+    "set": "B3a",
+    "number": 23,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_024": {
+    "name": "Houndstone",
+    "set": "B3a",
+    "number": 24,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_025": {
+    "name": "Scream Tail",
+    "set": "B3a",
+    "number": 25,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_026": {
+    "name": "Flutter Mane ex",
+    "set": "B3a",
+    "number": 26,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_027": {
+    "name": "Iron Valiant",
+    "set": "B3a",
+    "number": 27,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_028": {
+    "name": "Iron Leaves",
+    "set": "B3a",
+    "number": 28,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_029": {
+    "name": "Iron Boulder",
+    "set": "B3a",
+    "number": 29,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_030": {
+    "name": "Iron Crown",
+    "set": "B3a",
+    "number": 30,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_031": {
+    "name": "Nacli",
+    "set": "B3a",
+    "number": 31,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_032": {
+    "name": "Naclstack",
+    "set": "B3a",
+    "number": 32,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_033": {
+    "name": "Garganacl",
+    "set": "B3a",
+    "number": 33,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_034": {
+    "name": "Great Tusk",
+    "set": "B3a",
+    "number": 34,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_035": {
+    "name": "Sandy Shocks",
+    "set": "B3a",
+    "number": 35,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_036": {
+    "name": "Koraidon ex",
+    "set": "B3a",
+    "number": 36,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_037": {
+    "name": "Umbreon",
+    "set": "B3a",
+    "number": 37,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_038": {
+    "name": "Sneasel",
+    "set": "B3a",
+    "number": 38,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_039": {
+    "name": "Weavile",
+    "set": "B3a",
+    "number": 39,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_040": {
+    "name": "Sableye",
+    "set": "B3a",
+    "number": 40,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_041": {
+    "name": "Pawniard",
+    "set": "B3a",
+    "number": 41,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_042": {
+    "name": "Bisharp",
+    "set": "B3a",
+    "number": 42,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_043": {
+    "name": "Kingambit",
+    "set": "B3a",
+    "number": 43,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_044": {
+    "name": "Glimmet",
+    "set": "B3a",
+    "number": 44,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_045": {
+    "name": "Glimmora",
+    "set": "B3a",
+    "number": 45,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_046": {
+    "name": "Iron Jugulis",
+    "set": "B3a",
+    "number": 46,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_047": {
+    "name": "Roaring Moon",
+    "set": "B3a",
+    "number": 47,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_048": {
+    "name": "Corviknight",
+    "set": "B3a",
+    "number": 48,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_049": {
+    "name": "Cufant",
+    "set": "B3a",
+    "number": 49,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_050": {
+    "name": "Copperajah",
+    "set": "B3a",
+    "number": 50,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 4",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_051": {
+    "name": "Iron Treads",
+    "set": "B3a",
+    "number": 51,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_052": {
+    "name": "Altaria",
+    "set": "B3a",
+    "number": 52,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_053": {
+    "name": "Walking Wake",
+    "set": "B3a",
+    "number": 53,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_054": {
+    "name": "Gouging Fire",
+    "set": "B3a",
+    "number": 54,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_055": {
+    "name": "Raging Bolt",
+    "set": "B3a",
+    "number": 55,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_056": {
+    "name": "Eevee",
+    "set": "B3a",
+    "number": 56,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_057": {
+    "name": "Girafarig",
+    "set": "B3a",
+    "number": 57,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_058": {
+    "name": "Farigiraf",
+    "set": "B3a",
+    "number": 58,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_059": {
+    "name": "Dunsparce",
+    "set": "B3a",
+    "number": 59,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_060": {
+    "name": "Dudunsparce",
+    "set": "B3a",
+    "number": 60,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_061": {
+    "name": "Swablu",
+    "set": "B3a",
+    "number": 61,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_062": {
+    "name": "Rufflet",
+    "set": "B3a",
+    "number": 62,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_063": {
+    "name": "Braviary",
+    "set": "B3a",
+    "number": 63,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_064": {
+    "name": "Hawlucha",
+    "set": "B3a",
+    "number": 64,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_065": {
+    "name": "Rookidee",
+    "set": "B3a",
+    "number": 65,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_066": {
+    "name": "Corvisquire",
+    "set": "B3a",
+    "number": 66,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_067": {
+    "name": "Flamigo",
+    "set": "B3a",
+    "number": 67,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_068": {
+    "name": "Terapagos ex",
+    "set": "B3a",
+    "number": 68,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_069": {
+    "name": "Ancient Booster Energy Capsule",
+    "set": "B3a",
+    "number": 69,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_070": {
+    "name": "Future Booster Energy Capsule",
+    "set": "B3a",
+    "number": 70,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_071": {
+    "name": "Juliana",
+    "set": "B3a",
+    "number": 71,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_072": {
+    "name": "Professor Sada",
+    "set": "B3a",
+    "number": 72,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_073": {
+    "name": "Professor Turo",
+    "set": "B3a",
+    "number": 73,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_074": {
+    "name": "Area Zero",
+    "set": "B3a",
+    "number": 74,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_075": {
+    "name": "Snom",
+    "set": "B3a",
+    "number": 75,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_076": {
+    "name": "Flittle",
+    "set": "B3a",
+    "number": 76,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_077": {
+    "name": "Iron Boulder",
+    "set": "B3a",
+    "number": 77,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_078": {
+    "name": "Glimmora",
+    "set": "B3a",
+    "number": 78,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_079": {
+    "name": "Raging Bolt",
+    "set": "B3a",
+    "number": 79,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_080": {
+    "name": "Hawlucha",
+    "set": "B3a",
+    "number": 80,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_081": {
+    "name": "Iron Bundle ex",
+    "set": "B3a",
+    "number": 81,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_082": {
+    "name": "Miraidon ex",
+    "set": "B3a",
+    "number": 82,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_083": {
+    "name": "Flutter Mane ex",
+    "set": "B3a",
+    "number": 83,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_084": {
+    "name": "Koraidon ex",
+    "set": "B3a",
+    "number": 84,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_085": {
+    "name": "Terapagos ex",
+    "set": "B3a",
+    "number": 85,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_086": {
+    "name": "Juliana",
+    "set": "B3a",
+    "number": 86,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_087": {
+    "name": "Professor Sada",
+    "set": "B3a",
+    "number": 87,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_088": {
+    "name": "Professor Turo",
+    "set": "B3a",
+    "number": 88,
+    "type": "",
+    "hp": "",
+    "weakness": "",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_089": {
+    "name": "Iron Bundle ex",
+    "set": "B3a",
+    "number": 89,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_090": {
+    "name": "Miraidon ex",
+    "set": "B3a",
+    "number": 90,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_091": {
+    "name": "Flutter Mane ex",
+    "set": "B3a",
+    "number": 91,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_092": {
+    "name": "Koraidon ex",
+    "set": "B3a",
+    "number": 92,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_093": {
+    "name": "Terapagos ex",
+    "set": "B3a",
+    "number": 93,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_094": {
+    "name": "Rellor",
+    "set": "B3a",
+    "number": 94,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_095": {
+    "name": "Charcadet",
+    "set": "B3a",
+    "number": 95,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_096": {
+    "name": "Tadbulb",
+    "set": "B3a",
+    "number": 96,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_097": {
+    "name": "Rabsca",
+    "set": "B3a",
+    "number": 97,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_098": {
+    "name": "Diglett",
+    "set": "B3a",
+    "number": 98,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_099": {
+    "name": "Dugtrio",
+    "set": "B3a",
+    "number": 99,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 0",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_100": {
+    "name": "Klawf",
+    "set": "B3a",
+    "number": 100,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_101": {
+    "name": "Orthworm",
+    "set": "B3a",
+    "number": 101,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_102": {
+    "name": "Swablu",
+    "set": "B3a",
+    "number": 102,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_103": {
+    "name": "Altaria",
+    "set": "B3a",
+    "number": 103,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_104": {
+    "name": "Meowscarada ex",
+    "set": "B3a",
+    "number": 104,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_105": {
+    "name": "Armarouge ex",
+    "set": "B3a",
+    "number": 105,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_106": {
+    "name": "Bellibolt ex",
+    "set": "B3a",
+    "number": 106,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 3",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_107": {
+    "name": "Mega Altaria ex",
+    "set": "B3a",
+    "number": 107,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_108": {
+    "name": "Iron Valiant",
+    "set": "B3a",
+    "number": 108,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 2",
+    "retreat": "",
+    "attacks": []
+  },
+  "B3a_109": {
+    "name": "Roaring Moon",
+    "set": "B3a",
+    "number": 109,
+    "type": "",
+    "hp": "",
+    "weakness": "Retreat: 1",
+    "retreat": "",
+    "attacks": []
   }
 }

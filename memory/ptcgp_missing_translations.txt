@@ -1,0 +1,774 @@
+Still missing translations (723):
+
+A:
+  Acerola
+  Adaman
+  Aerodactyl ex
+  Aggron
+  Aipom
+  Alcremie
+  Alolan Dugtrio ex
+  Alolan Geodude
+  Alolan Muk ex
+  Alolan Ninetales ex
+  Alolan Raichu ex
+  Amaura
+  Ambipom
+  Ampharos
+  Ancient Booster Energy Capsule
+  Annihilape
+  Appletun
+  Applin
+  Araquanid
+  Arboliva
+  Arcanine ex
+  Arceus
+  Arceus ex
+  Arctibax
+  Area Zero
+  Ariados
+  Armarouge ex
+  Armor Fossil
+  Aron
+  Arrokuda
+  Arven
+  Audino
+  Aurorus
+  Avalugg
+  Azelf
+  Azurill
+
+B:
+  Bagon
+  Baltoy
+  Banette
+  Barboach
+  Barraskewda
+  Barry
+  Bastiodon
+  Baxcalibur
+  Beast Wall
+  Beastite
+  Beautifly
+  Beedrill
+  Beedrill ex
+  Bellibolt
+  Bellibolt ex
+  Bellossom
+  Bergmite
+  Bewear
+  Bibarel ex
+  Big Air Balloon
+  Big Malasada
+  Blacephalon
+  Blacephalon ex
+  Blaine
+  Blissey ex
+  Boltund
+  Bombirdier
+  Bounsweet
+  Brambleghast
+  Bramblin
+  Bruxish
+  Budding Expeditioner
+  Butterfree
+  Buzzwole
+  Buzzwole ex
+
+C:
+  Cacnea
+  Cacturne
+  Calem
+  Capsakid
+  Carbink
+  Carkol
+  Carnivine
+  Carvanha
+  Cascoon
+  Caterpie
+  Celesteela
+  Celestic Town Elder
+  Centiskorch
+  Ceruledge
+  Cetitan
+  Cetoddle
+  Charcadet
+  Charjabug
+  Chewtle
+  Chien-Pao ex
+  Chinchou
+  Cinderace
+  Claydol
+  Clefable
+  Clefairy
+  Cleffa
+  Clemont's Backpack
+  Clobbopus
+  Cloyster
+  Coalossal
+  Cobalion
+  Conkeldurr
+  Copperajah
+  Copycat
+  Corphish
+  Corsola
+  Corviknight
+  Corvisquire
+  Cosmoem
+  Cosmog
+  Cottonee
+  Cover Fossil
+  Crabominable
+  Crabominable ex
+  Crabrawler
+  Cramorant
+  Cranidos
+  Crawdaunt
+  Cresselia
+  Cresselia ex
+  Crobat ex
+  Crocalor
+  Crustle
+  Cufant
+  Cutiefly
+  Cyclizar
+  Cynthia
+  Cyrus
+
+D:
+  Dachsbun
+  Dark Pendant
+  Dawn
+  Dawn Wings Necrozma
+  Decidueye ex
+  Delcatty
+  Delibird
+  Dewgong
+  Dewpider
+  Dhelmise
+  Dhelmise ex
+  Dialga ex
+  Diantha
+  Diglett
+  Dolliv
+  Dome Fossil
+  Dondozo
+  Donphan
+  Donphan ex
+  Dragalge ex
+  Dragonite ex
+  Drampa
+  Drednaw
+  Drifblim
+  Drifloon
+  Drilbur
+  Drowzee
+  Druddigon
+  Dubwool
+  Dudunsparce
+  Dugtrio
+  Dunsparce
+  Durant
+  Dusclops
+  Dusk Mane Necrozma
+  Dusknoir
+  Duskull
+  Dustox
+
+E:
+  Eevee Bag
+  Eiscue
+  Eldegoss
+  Electivire
+  Electric Generator
+  Electrical Cord
+  Elekid
+  Elemental Switch
+  Entei
+  Espathra
+  Excadrill
+  Exeggutor ex
+  Exploud
+
+F:
+  Falinks
+  Fan Rotom
+  Fantina
+  Farfetch'd
+  Farigiraf
+  Fearow
+  Feebas
+  Fidough
+  Finizen
+  Fisher
+  Fishing Net
+  Flaaffy
+  Flame Patch
+  Flamigo
+  Flittle
+  Floragato
+  Flutter Mane ex
+  Fomantis
+  Forretress
+  Frigibax
+  Froslass
+  Frosmoth
+  Frost Rotom
+  Fuecoco
+  Furret
+  Future Booster Energy Capsule
+
+G:
+  Galarian Corsola
+  Galarian Cursola
+  Galarian Linoone
+  Galarian Meowth
+  Galarian Mr. Mime
+  Galarian Mr. Rime
+  Galarian Obstagoon
+  Galarian Perrserker
+  Galarian Ponyta
+  Galarian Rapidash
+  Galarian Stunfisk
+  Galarian Zigzagoon
+  Garganacl
+  Genesect
+  Geodude
+  Gholdengo
+  Gholdengo ex
+  Giant Cape
+  Gigalith ex
+  Gimmighoul
+  Gladion
+  Gligar
+  Gliscor
+  Golem
+  Golisopod
+  Goodra
+  Goomy
+  Gossifleur
+  Gourgeist
+  Grafaiai
+  Granbull
+  Grapploct
+  Graveler
+  Great Tusk
+  Greavard
+  Greedent
+  Greninja ex
+  Grimmsnarl
+  Grookey
+  Grubbin
+  Gumshoos
+  Gurdurr
+  Guzma
+  Guzzlord
+  Guzzlord ex
+  Gyarados ex
+
+H:
+  Hakamo-o
+  Hala
+  Hand Scope
+  Hariyama
+  Hau
+  Hawlucha
+  Heat Rotom
+  Heatmor
+  Heatran
+  Heavy Helmet
+  Heliolisk
+  Helioptile
+  Helix Fossil
+  Heracross
+  Hiker
+  Hiking Trail
+  Hitmonchan
+  Hitmonchan ex
+  Hitmonlee
+  Hitting Hammer
+  Honchkrow
+  Hoothoot
+  Hoppip
+  Houndoom
+  Houndour
+  Houndstone
+  Hypno
+
+I:
+  Ilima
+  Illumise
+  Impidimp
+  Incineroar ex
+  Indeedee
+  Infernape ex
+  Inflatable Boat
+  Iono
+  Irida
+  Iris
+  Iron Bundle ex
+  Iron Crown
+  Iron Hands
+  Iron Treads
+
+J:
+  Jangmo-o
+  Jasmine
+  Jaw Fossil
+  Juggler
+  Juliana
+  Jumpluff
+  Jumpluff ex
+
+K:
+  Kakuna
+  Kartana
+  Keldeo
+  Kiawe
+  Kilowattrel
+  Kingambit
+  Kingdra ex
+  Klawf
+  Klefki
+  Koga
+  Komala
+  Kommo-o
+  Koraidon ex
+
+L:
+  Lairon
+  Lana
+  Lanturn ex
+  Lapras ex
+  Larvitar
+  Leaf
+  Leaf Cape
+  Lechonk
+  Ledian
+  Ledyba
+  Leftovers
+  Lickilicky
+  Lickilicky ex
+  Lickitung
+  Lillie
+  Lisia
+  Lokix
+  Lombre
+  Looker
+  Lotad
+  Loudred
+  Lt. Surge
+  Lucario ex
+  Lucky Ice Pop
+  Lucky Mittens
+  Ludicolo
+  Lum Berry
+  Lunala ex
+  Lunatone
+  Lurantis
+  Lusamine
+  Luvdisc
+  Lycanroc
+  Lycanroc ex
+  Lyra
+
+M:
+  Mabosstiff
+  Machamp
+  Machamp ex
+  Machoke
+  Machop
+  Magby
+  Magcargo
+  Magearna
+  Magmortar
+  Maintenance
+  Makuhita
+  Mallow
+  Mamoswine
+  Manaphy
+  Mantine
+  Mantyke
+  Mareanie
+  Mareep
+  Marlon
+  Marowak ex
+  Mars
+  Marshadow
+  Maschiff
+  Maushold
+  Mawile
+  May
+  Medicham
+  Meditite
+  Mega Ampharos ex
+  Mega Blastoise ex
+  Mega Blaziken ex
+  Mega Charizard X ex
+  Mega Charizard Y ex
+  Mega Gardevoir ex
+  Mega Gengar ex
+  Mega Gyarados ex
+  Mega Kangaskhan ex
+  Mega Latios ex
+  Mega Lopunny ex
+  Mega Mawile ex
+  Mega Medicham ex
+  Mega Pidgeot ex
+  Mega Pinsir ex
+  Mega Slowbro ex
+  Mega Steelix ex
+  Mega Swampert ex
+  Mega Venusaur ex
+  Melmetal
+  Melmetal ex
+  Meloetta
+  Memory Light
+  Meowscarada
+  Meowth
+  Mesagoza
+  Mesprit
+  Metal Core Barrier
+  Metapod
+  Mightyena
+  Milcery
+  Milotic
+  Miltank
+  Mimikyu
+  Mimikyu ex
+  Minior
+  Minun
+  Miraidon ex
+  Mismagius ex
+  Monferno
+  Morelull
+  Morgrem
+  Morpeko
+  Morty
+  Mow Rotom
+  Mr. Mime
+  Mudbray
+  Mudsdale
+  Murkrow
+  Mythical Slab
+
+N:
+  Nacli
+  Naclstack
+  Naganadel
+  Nasty Notice
+  Natu
+  Necrozma
+  Nemona
+  Nidoking
+  Nidoqueen
+  Nidoran♀
+  Nidoran♂
+  Nidorina
+  Nidorino
+  Nihilego
+  Ninetales
+  Noctowl
+  Nosepass
+  Nuzleaf
+  Nymble
+
+O:
+  Octillery
+  Oinkologne
+  Old Amber
+  Onix
+  Origin Forme Dialga
+  Origin Forme Palkia
+  Orthworm
+
+P:
+  Pachirisu
+  Pachirisu ex
+  Palafin
+  Paldean Clodsire
+  Paldean Clodsire ex
+  Paldean Tauros
+  Paldean Wooper
+  Palkia ex
+  Palossand
+  Palpitoad
+  Panpour
+  Pansage
+  Pansear
+  Passimian
+  Passimian ex
+  Pawmi
+  Pawmo
+  Pawmot
+  Peculiar Plaza
+  Penny
+  Persian
+  Phanpy
+  Phantump
+  Pheromosa
+  Phione
+  Pichu
+  Pidgeot
+  Pidgeot ex
+  Pidgeotto
+  Pidgey
+  Piers
+  Pikipek
+  Piloswine
+  Pincurchin
+  Pineco
+  Plume Fossil
+  Plusle
+  Poipole
+  Poison Barb
+  Poké Ball
+  Pokédex
+  Pokémon Center Lady
+  Pokémon Communication
+  Pokémon Flute
+  Politoed
+  Poliwrath ex
+  Polteageist
+  Poochyena
+  Porygon-Z
+  Porygon2
+  Potion
+  Prank Spinner
+  Primarina ex
+  Probopass
+  Probopass ex
+  Professor Turo
+  Professor's Research
+  Protective Poncho
+  Pumpkaboo
+  Pupitar
+  Pyukumuku
+
+Q:
+  Quagsire
+  Quaquaval
+  Quaxly
+  Quaxwell
+  Quick-Grow Extract
+  Qwilfish
+
+R:
+  Raboot
+  Rabsca
+  Raichu ex
+  Raikou
+  Rampardos
+  Rapidash ex
+  Rare Candy
+  Rayquaza
+  Red
+  Red Card
+  Regice
+  Regigigas
+  Regirock
+  Registeel
+  Relicanth
+  Rellor
+  Remoraid
+  Repel
+  Rescue Scarf
+  Reshiram
+  Revavroom
+  Rhyperior
+  Ribombee
+  Rillaboom
+  Roaring Moon
+  Rockruff
+  Rocky Helmet
+  Rolycoly
+  Rookidee
+  Roserade
+  Rotom Dex
+
+S:
+  Sableye
+  Sail Fossil
+  Salamence
+  Salandit
+  Salazzle
+  Sandshrew
+  Sandslash
+  Sandy Shocks
+  Sandygast
+  Scorbunny
+  Scovillain
+  Scream Tail
+  Seedot
+  Seel
+  Seismitoad
+  Sentret
+  Serena
+  Sharpedo
+  Shaymin
+  Shelgon
+  Shellder
+  Shieldon
+  Shiftry
+  Shiinotic
+  Shroodle
+  Shuckle
+  Shuckle ex
+  Shuppet
+  Sightseer
+  Sigilyph
+  Silcoon
+  Silvally
+  Silver
+  Simipour
+  Simisage
+  Simisear
+  Sinistea
+  Sitrus Berry
+  Sizzlipede
+  Skarmory
+  Skarmory ex
+  Skeledirge
+  Skiploom
+  Skitty
+  Skull Fossil
+  Skwovet
+  Slaking
+  Sliggoo
+  Slowking
+  Slugma
+  Smeargle
+  Smoliv
+  Smoochum
+  Snom
+  Snorlax ex
+  Snorunt
+  Snubbull
+  Solgaleo ex
+  Solrock
+  Sophocles
+  Spearow
+  Spidops
+  Spinarak
+  Spinda
+  Sprigatito
+  Squawkabilly
+  Squirt Bottle
+  Stakataka
+  Stantler
+  Starmie ex
+  Starting Plains
+  Steel Apron
+  Steelix
+  Steenee
+  Stonjourner
+  Stufful
+  Sudowoodo
+  Suicune
+  Sunflora
+  Sunkern
+  Swablu
+  Swellow
+  Swinub
+
+T:
+  Tadbulb
+  Taillow
+  Tandemaus
+  Tangrowth
+  Tapu Bulu
+  Tapu Fini
+  Tapu Koko
+  Tapu Koko ex
+  Tapu Lele
+  Tarountula
+  Tatsugiri
+  Tauros ex
+  Teal Mask Ogerpon ex
+  Team Galactic Grunt
+  Team Rocket Grunt
+  Team Star Grunt
+  Teddiursa
+  Terapagos ex
+  Terrakion
+  Thwackey
+  Timburr
+  Ting-Lu
+  Tinkatink
+  Tinkaton ex
+  Tinkatuff
+  Toedscool
+  Toedscruel
+  Togedemaru
+  Tornadus
+  Toucannon
+  Toxapex
+  Toxel
+  Toxtricity ex
+  Training Area
+  Traveling Merchant
+  Trevenant
+  Tropius
+  Trumbeak
+  Tsareena
+  Turtonator
+  Tympole
+  Type: Null
+  Tyranitar
+  Tyrantrum
+  Tyrogue
+  Tyrunt
+
+U:
+  Ultra Necrozma ex
+  Unown
+  Ursaring
+  Uxie
+
+V:
+  Varoom
+  Veluza
+  Vikavolt
+  Virizion
+  Volbeat
+  Volkner
+  Vulpix
+
+W:
+  Wailmer
+  Wailord
+  Wash Rotom
+  Wattrel
+  Weavile
+  Weavile ex
+  Weedle
+  Whimsicott
+  Whimsicott ex
+  Whiscash
+  Whismur
+  Whitney
+  Wigglytuff ex
+  Wiglett
+  Will
+  Wimpod
+  Wishiwashi
+  Wishiwashi ex
+  Wobbuffet
+  Wooloo
+  Wooper
+  Wugtrio
+  Wugtrio ex
+  Wurmple
+
+X:
+  X Speed
+  Xatu
+  Xerneas
+  Xurkitree
+
+Y:
+  Yamper
+  Yanmega
+  Yanmega ex
+  Yungoos
+  Yveltal

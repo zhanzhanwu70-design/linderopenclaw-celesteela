@@ -100,3 +100,26 @@ const fs = require('fs');
 const apiKey = fs.readFileSync(process.env.OPENAI_API_KEY_DIR, 'utf8').trim();
 
 OPENAI_API_KEY_DIR = /home/node/.openclaw/secrets/openai-api-key.txt
+
+### Meta 分析預測系統（2026-05-30 建立）
+
+每次 Meta 分析時必須：
+1. 先讀取反省心得：`cat memory/meta_predictions/reflections.md`
+2. 比較上次預測：`cat memory/meta_predictions/predictions.json`
+3. 做新的 3 情境預測（兩天後 Meta）
+4. 驗證並更新上次預測的準確度
+5. 有誤差時寫反省心得
+
+**存放位置**：
+- 預測記錄：`memory/meta_predictions/predictions.json`
+- 反省心得：`memory/meta_predictions/reflections.md`
+
+**預測格式**：3 種情境 + 最大機率 + 檢查日期（兩天後）
+
+### 每日台北時間 08:00 翻譯更新 Cron
+- Job ID: `72a0c6ef-3762-4ec5-b529-0cc1d9c585eb`
+- 更新 `ptcgp_deck_dictionary.json` 的 card_names 翻譯
+
+### PTCGP Video Auto-Monitor Cron
+- Job ID: `a938be42-bca6-4ba0-8e6f-141f2b8b2fab`
+- 每 5 分鐘檢查 Discord 頻道新 YouTube URL

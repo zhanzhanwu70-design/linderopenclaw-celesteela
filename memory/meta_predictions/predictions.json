@@ -1,0 +1,34 @@
+[
+  {
+    "id": "PRED_20260530",
+    "date": "2026-05-30",
+    "set": "B3a Day 3",
+    "source": "YouTube analysis (kHZEKZKmTMk, 8lrUC8hvB7E, dESl8ILeozs, SjMVSH4FnR8) + Game8/ GamesRadar web search",
+    "environment_summary": "B3a released 2026-05-27. Sleep decks (Altaria ex + Espeon ex + Darkrai) dominating. Iron Valiant emerging. Miraidon ex strong. Terapagos ex + Sableye combo discovered.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "鐵武者主導 (Iron Valiant Era)",
+        "probability": 0.50,
+        "description": "玩家看穿睡眠牌組運氣成分，轉向更穩定的 Iron Valiant 未來軸。睡眠青鳥使用率下降但仍是 T1。Iron Valiant/Crown 牌組佔 Rank 前10的 40%+。Miraidon + Terapagos 增加。惡鬼碰需求下降。"
+      },
+      {
+        "scenario": "B",
+        "name": "古代復興 (Ancient Renaissance)",
+        "probability": 0.30,
+        "description": "Ogerpon 免費填能被低估。古代構築暴增（古勒頓、熊尾牙、古劍豹）。能量種類多樣化讓 Terapagos ex 爆發力飆升。形成古代 vs 未來新對立。"
+      },
+      {
+        "scenario": "C",
+        "name": "窒息控制內戰 (Stale Sleep Civil War)",
+        "probability": 0.20,
+        "description": "睡眠牌組數量太多，大家都在內戰。Espeon ex 成標配。Sableye + Janepi 變熱門。無干擾手段牌組被邊緣化。對局時間變長。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-01",
+    "verification": null,
+    "reflection": null
+  }
+]
