@@ -25,3 +25,38 @@ B3a checked, added=25, skipped=0
   + B3a_040 Sableye => 勾魂眼
   + B3a_043 Kingambit => 仆刀將軍
   + B3a_047 Roaring Moon => 轟鳴月
+[2026-06-01T00:09:08.881Z] PTCGP daily translation update
+Candidates: 27
+Added: 24
+  + Corviknight => 鋼鎧鴉
+  + Cufant => 銅象
+  + Copperajah => 大王銅象
+  + Iron Treads => 鐵轍跡
+  + Farigiraf => 奇麒麟
+  + Dunsparce => 土龍弟弟
+  + Dudunsparce => 土龍節節
+  + Swablu => 青綿鳥
+  + Hawlucha => 摔角鷹人
+  + Rookidee => 稚山雀
+  + Corvisquire => 藍鴉
+  + Flamigo => 纏紅鶴
+  + Terapagos ex => 太樂巴戈斯 ex
+  + Future Booster Energy Capsule => 驅勁能量
+  + Area Zero => 第零區
+  + Rellor => 蟲滾泥
+  + Charcadet => 炭小侍
+  + Rabsca => 蟲甲聖
+  + Diglett => 地鼠
+  + Dugtrio => 三地鼠
+  + Klawf => 毛崖蟹
+  + Orthworm => 拖拖蚓
+  + Armarouge ex => 紅蓮鎧騎 ex
+  + Bellibolt ex => 電肚蛙 ex
+Skipped: 3
+  - B3a_069 Ancient Booster Energy Capsule: no Chinese name on Limitless / no trusted fallback
+  - B3a_071 Juliana: no Chinese name on Limitless / no trusted fallback
+  - B3a_096 Tadbulb: no Chinese name on Limitless / no trusted fallback
+[2026-06-01T00:09:24.904Z] Supplemental trusted official-name update
+Added: 1
+  + Tadbulb => 光蚪仔
+

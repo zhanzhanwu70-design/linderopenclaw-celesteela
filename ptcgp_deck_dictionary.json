@@ -2,7 +2,7 @@
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
     "version": "3.6",
-    "last_updated": "2026-05-31",
+    "last_updated": "2026-06-01",
     "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。"
   },
   "corrections": [
@@ -286,7 +286,8 @@
     "Iron Crown": "鐵頭殼",
     "Iron Boulder": "鐵磐岩",
     "Future Booster Energy Capsule": "驅勁能量",
-    "Mythical Slab": "神奇石板"
+    "Mythical Slab": "神奇石板",
+    "Iron Bundle ex Baxcalibur": "鐵包袱 ex 戟脊龍"
   },
   "card_names": {
     "Bulbasaur": "妙瓜种子",
@@ -458,7 +459,7 @@
     "Chi-Yu": "古劍鯰",
     "Koraidon": "古勒頓",
     "Miraidon": "蜜樂頓",
-    "Iron Bundle": "鐵包服",
+    "Iron Bundle": "鐵包袱",
     "Iron Valiant": "鐵武者",
     "Iron Jugulis": "鐵脖企",
     "Iron Thorns": "鐵荊",
@@ -870,7 +871,36 @@
     "Weavile": "瑪狃拉",
     "Sableye": "勾魂眼",
     "Kingambit": "仆刀將軍",
-    "Roaring Moon": "轟鳴月"
+    "Roaring Moon": "轟鳴月",
+    "Professor Turo": "弗圖博士",
+    "Baxcalibur": "戟脊龍",
+    "Frigibax": "涼脊龍",
+    "Arctibax": "凍脊龍",
+    "Corviknight": "鋼鎧鴉",
+    "Cufant": "銅象",
+    "Copperajah": "大王銅象",
+    "Iron Treads": "鐵轍跡",
+    "Farigiraf": "奇麒麟",
+    "Dunsparce": "土龍弟弟",
+    "Dudunsparce": "土龍節節",
+    "Swablu": "青綿鳥",
+    "Hawlucha": "摔角鷹人",
+    "Rookidee": "稚山雀",
+    "Corvisquire": "藍鴉",
+    "Flamigo": "纏紅鶴",
+    "Terapagos ex": "太樂巴戈斯 ex",
+    "Future Booster Energy Capsule": "驅勁能量",
+    "Area Zero": "第零區",
+    "Rellor": "蟲滾泥",
+    "Charcadet": "炭小侍",
+    "Rabsca": "蟲甲聖",
+    "Diglett": "地鼠",
+    "Dugtrio": "三地鼠",
+    "Klawf": "毛崖蟹",
+    "Orthworm": "拖拖蚓",
+    "Armarouge ex": "紅蓮鎧騎 ex",
+    "Bellibolt ex": "電肚蛙 ex",
+    "Tadbulb": "光蚪仔"
   },
-  "last_updated": "2026-05-31"
+  "last_updated": "2026-06-01"
 }
