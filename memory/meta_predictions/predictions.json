@@ -9,25 +9,62 @@
       {
         "scenario": "A",
         "name": "鐵武者主導 (Iron Valiant Era)",
-        "probability": 0.50,
+        "probability": 0.5,
         "description": "玩家看穿睡眠牌組運氣成分，轉向更穩定的 Iron Valiant 未來軸。睡眠青鳥使用率下降但仍是 T1。Iron Valiant/Crown 牌組佔 Rank 前10的 40%+。Miraidon + Terapagos 增加。惡鬼碰需求下降。"
       },
       {
         "scenario": "B",
         "name": "古代復興 (Ancient Renaissance)",
-        "probability": 0.30,
+        "probability": 0.3,
         "description": "Ogerpon 免費填能被低估。古代構築暴增（古勒頓、熊尾牙、古劍豹）。能量種類多樣化讓 Terapagos ex 爆發力飆升。形成古代 vs 未來新對立。"
       },
       {
         "scenario": "C",
         "name": "窒息控制內戰 (Stale Sleep Civil War)",
-        "probability": 0.20,
+        "probability": 0.2,
         "description": "睡眠牌組數量太多，大家都在內戰。Espeon ex 成標配。Sableye + Janepi 變熱門。無干擾手段牌組被邊緣化。對局時間變長。"
       }
     ],
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-01",
+    "verification": {
+      "date": "2026-06-01",
+      "result": "partial_miss",
+      "actual": "睡眠青鳥仍為第一使用率；Iron Valiant 未主導，Iron Crown 版約2.25%且調整後勝率低於50%，Iron Boulder版較佳但樣本小。草系 Sceptile 成為更明確上升點。",
+      "lesson": "ban list與小樣本會高估新軸，常規環境應優先看使用率擴張與大型樣本。"
+    },
+    "reflection": "情境A只命中新軸被關注，未命中主導程度；實際更接近睡眠續航+草系上升。"
+  },
+  {
+    "id": "PRED_20260601",
+    "date": "2026-06-01",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-01 12:01 UTC",
+    "environment_summary": "Mega Altaria ex Espeon 使用率第一但勝率回落；Mega Sceptile ex Sceptile 勝率亮眼；Miraidon/Magnezone 人氣高但報酬普通；Iron Valiant 尚未主導。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "睡眠續航但勝率持平",
+        "probability": 0.5,
+        "description": "Altaria/Espeon 繼續第一，勝率維持50-52%，分支往 Gourgeist 或混干擾調整。"
+      },
+      {
+        "scenario": "B",
+        "name": "草系上升",
+        "probability": 0.35,
+        "description": "Mega Sceptile ex Sceptile 被更多玩家採用，使用率與樣本上升，成為抓睡眠與電系的選項。"
+      },
+      {
+        "scenario": "C",
+        "name": "鐵武者修正回歸",
+        "probability": 0.15,
+        "description": "Iron Boulder 或 Altaria Iron Valiant 版本若樣本擴大且維持正勝率，重新進入主流討論。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-03",
     "verification": null,
     "reflection": null
   }
