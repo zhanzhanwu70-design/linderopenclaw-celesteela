@@ -65,6 +65,75 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-03",
+    "verification": {
+      "date": "2026-06-03",
+      "result": "partial_hit",
+      "actual": "Altaria/Espeon 仍為使用率第一，但調整後勝率降至49.90%；Mega Sceptile ex Sceptile 使用率升至5.86%且調整後勝率52.42%；Iron Valiant 未主導，Iron Boulder/Altaria分支較有希望。",
+      "lesson": "使用率第一不等於強度第一；應把勝率分支差異納入睡眠牌組判讀。"
+    },
+    "reflection": "情境A命中使用率續航但高估勝率；情境B草系上升實際更重要。"
+  },
+  {
+    "id": "PRED_20260602",
+    "date": "2026-06-02",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-02 12:01 UTC",
+    "environment_summary": "Mega Altaria ex Espeon 仍為使用率第一但勝率接近五成；Mega Sceptile ex Sceptile 以 5.32% 使用率與 53.55% 調整後勝率成為最佳上升點；電系人氣高但報酬普通；Iron Valiant 未主導。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "草系擴張",
+        "probability": 0.45,
+        "description": "Mega Sceptile ex Sceptile 使用率繼續上升，調整後勝率維持 52% 以上，成為抓睡眠與電系的主要選擇。"
+      },
+      {
+        "scenario": "B",
+        "name": "睡眠續航",
+        "probability": 0.4,
+        "description": "Mega Altaria ex Espeon 繼續使用率第一，但勝率維持 50-51%；Gourgeist 分支維持較佳表現。"
+      },
+      {
+        "scenario": "C",
+        "name": "鐵武者小幅修正",
+        "probability": 0.15,
+        "description": "Iron Valiant Iron Boulder 若樣本擴大且仍正勝率，回到主流討論；Iron Crown 版繼續偏弱。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-04",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260603",
+    "date": "2026-06-03",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-03 12:00 UTC",
+    "environment_summary": "Altaria/Espeon 使用率第一但跌破五成；Mega Sceptile 與 Altaria/Gourgeist 是主流中勝率更好的選擇；Iron Valiant 尚未主導，Blaziken/Greninja 與 Scizor/Revavroom 是新候選。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "草系成為主流反制",
+        "probability": 0.45,
+        "description": "Mega Sceptile ex Sceptile 使用率維持或突破6%，調整後勝率維持52%以上，成為抓睡眠與電系的主要牌組。"
+      },
+      {
+        "scenario": "B",
+        "name": "睡眠分支轉向Gourgeist",
+        "probability": 0.35,
+        "description": "Mega Altaria ex Espeon 繼續最多人玩但勝率平庸；Gourgeist 或混干擾分支因內戰與反制需求上升。"
+      },
+      {
+        "scenario": "C",
+        "name": "新火鋼軸小幅擴張",
+        "probability": 0.2,
+        "description": "Mega Blaziken ex Greninja 或 Mega Scizor ex Revavroom 樣本增加並維持正勝率，但尚不足以取代草系。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-05",
     "verification": null,
     "reflection": null
   }

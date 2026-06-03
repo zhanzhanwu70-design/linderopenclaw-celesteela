@@ -1,522 +1,509 @@
 {
-  "update_time": "2026-03-10 12:13",
+  "update_time": "2026-06-03 12:00 UTC",
   "top_decks": [
     {
       "rank": 1,
       "name": "Mega Altaria ex Espeon",
       "pokemon": [],
-      "usage_rate": "12.42%",
-      "win_rate": "51.08%",
-      "record": "171 - 165 - 0",
-      "adjusted_win_rate": "50.69%",
-      "sample_size": 336
+      "usage_rate": "11.41%",
+      "win_rate": "49.92%",
+      "record": "1222 - 1172 - 54",
+      "adjusted_win_rate": "49.90%",
+      "sample_size": 2448
     },
     {
       "rank": 2,
       "name": "Miraidon ex Magnezone",
       "pokemon": [],
-      "usage_rate": "6.61%",
-      "win_rate": "50.16%",
-      "record": "89 - 90 - 0",
-      "adjusted_win_rate": "49.51%",
-      "sample_size": 179
+      "usage_rate": "7.52%",
+      "win_rate": "49.47%",
+      "record": "797 - 764 - 50",
+      "adjusted_win_rate": "49.45%",
+      "sample_size": 1611
     },
     {
       "rank": 3,
       "name": "Magnezone Miraidon ex",
       "pokemon": [],
-      "usage_rate": "5.84%",
-      "win_rate": "50.94%",
-      "record": "80 - 78 - 0",
-      "adjusted_win_rate": "50.27%",
-      "sample_size": 158
+      "usage_rate": "5.94%",
+      "win_rate": "49.96%",
+      "record": "630 - 594 - 37",
+      "adjusted_win_rate": "49.92%",
+      "sample_size": 1261
     },
     {
       "rank": 4,
       "name": "Mega Sceptile ex Sceptile",
       "pokemon": [],
-      "usage_rate": "5.32%",
-      "win_rate": "53.65%",
-      "record": "77 - 67 - 0",
-      "adjusted_win_rate": "52.66%",
-      "sample_size": 144
+      "usage_rate": "5.86%",
+      "win_rate": "52.50%",
+      "record": "682 - 574 - 43",
+      "adjusted_win_rate": "52.42%",
+      "sample_size": 1299
     },
     {
       "rank": 5,
-      "name": "Hydreigon Mega Absol ex",
+      "name": "Mega Altaria ex Gourgeist",
       "pokemon": [],
-      "usage_rate": "4.55%",
-      "win_rate": "51.69%",
-      "record": "63 - 60 - 0",
-      "adjusted_win_rate": "50.68%",
-      "sample_size": 123
+      "usage_rate": "3.86%",
+      "win_rate": "53.81%",
+      "record": "487 - 383 - 35",
+      "adjusted_win_rate": "53.66%",
+      "sample_size": 905
     },
     {
       "rank": 6,
-      "name": "Magnezone ex Magnezone",
+      "name": "Hydreigon Mega Absol ex",
       "pokemon": [],
-      "usage_rate": "3.99%",
+      "usage_rate": "3.86%",
       "win_rate": "50.55%",
-      "record": "54 - 54 - 0",
-      "adjusted_win_rate": "49.62%",
-      "sample_size": 108
+      "record": "414 - 384 - 21",
+      "adjusted_win_rate": "50.47%",
+      "sample_size": 819
     },
     {
       "rank": 7,
-      "name": "Mega Altaria ex Gourgeist",
+      "name": "Magnezone ex Magnezone",
       "pokemon": [],
-      "usage_rate": "3.73%",
-      "win_rate": "53.49%",
-      "record": "54 - 47 - 0",
-      "adjusted_win_rate": "52.38%",
-      "sample_size": 101
+      "usage_rate": "3.60%",
+      "win_rate": "51.03%",
+      "record": "370 - 338 - 17",
+      "adjusted_win_rate": "50.93%",
+      "sample_size": 725
     },
     {
       "rank": 8,
       "name": "Zoroark ex Mega Absol ex",
       "pokemon": [],
-      "usage_rate": "3.10%",
-      "win_rate": "51.65%",
-      "record": "43 - 41 - 0",
-      "adjusted_win_rate": "50.46%",
-      "sample_size": 84
+      "usage_rate": "2.84%",
+      "win_rate": "52.37%",
+      "record": "332 - 290 - 12",
+      "adjusted_win_rate": "52.20%",
+      "sample_size": 634
     },
     {
       "rank": 9,
-      "name": "Mega Lucario ex Koraidon ex",
+      "name": "Meowscarada ex Meowscarada",
       "pokemon": [],
-      "usage_rate": "2.96%",
-      "win_rate": "45.14%",
-      "record": "36 - 44 - 0",
-      "adjusted_win_rate": "45.71%",
-      "sample_size": 80
+      "usage_rate": "2.52%",
+      "win_rate": "48.64%",
+      "record": "251 - 251 - 14",
+      "adjusted_win_rate": "48.61%",
+      "sample_size": 516
     },
     {
       "rank": 10,
-      "name": "Meowscarada ex Meowscarada",
+      "name": "Mega Lucario ex Koraidon ex",
       "pokemon": [],
-      "usage_rate": "2.48%",
-      "win_rate": "50.56%",
-      "record": "33 - 34 - 0",
-      "adjusted_win_rate": "48.91%",
-      "sample_size": 67
+      "usage_rate": "2.39%",
+      "win_rate": "44.59%",
+      "record": "206 - 251 - 5",
+      "adjusted_win_rate": "44.76%",
+      "sample_size": 462
     },
     {
       "rank": 11,
-      "name": "Iron Valiant Iron Crown",
+      "name": "Mega Sceptile ex Teal Mask Ogerpon ex",
       "pokemon": [],
-      "usage_rate": "2.25%",
-      "win_rate": "49.37%",
-      "record": "30 - 31 - 0",
-      "adjusted_win_rate": "48.84%",
-      "sample_size": 61
+      "usage_rate": "2.26%",
+      "win_rate": "51.35%",
+      "record": "248 - 221 - 14",
+      "adjusted_win_rate": "51.18%",
+      "sample_size": 483
     },
     {
       "rank": 12,
-      "name": "Mega Sceptile ex Teal Mask Ogerpon ex",
+      "name": "Suicune ex Baxcalibur",
       "pokemon": [],
-      "usage_rate": "2.03%",
-      "win_rate": "52.35%",
-      "record": "28 - 27 - 0",
-      "adjusted_win_rate": "50.00%",
-      "sample_size": 55
+      "usage_rate": "2.10%",
+      "win_rate": "52.90%",
+      "record": "255 - 208 - 19",
+      "adjusted_win_rate": "52.66%",
+      "sample_size": 482
     },
     {
       "rank": 13,
-      "name": "Suicune ex Baxcalibur",
+      "name": "Iron Valiant Iron Crown",
       "pokemon": [],
-      "usage_rate": "2.00%",
-      "win_rate": "54.22%",
-      "record": "29 - 25 - 0",
-      "adjusted_win_rate": "51.90%",
-      "sample_size": 54
+      "usage_rate": "1.97%",
+      "win_rate": "47.57%",
+      "record": "186 - 196 - 9",
+      "adjusted_win_rate": "47.60%",
+      "sample_size": 391
     },
     {
       "rank": 14,
-      "name": "Mega Lucario ex Hitmontop",
+      "name": "Mega Blaziken ex Greninja",
       "pokemon": [],
-      "usage_rate": "1.85%",
-      "win_rate": "48.33%",
-      "record": "24 - 26 - 0",
-      "adjusted_win_rate": "48.00%",
-      "sample_size": 50
+      "usage_rate": "1.66%",
+      "win_rate": "56.52%",
+      "record": "221 - 152 - 18",
+      "adjusted_win_rate": "56.01%",
+      "sample_size": 391
     },
     {
       "rank": 15,
-      "name": "Giratina ex Darkrai ex",
+      "name": "Mega Scizor ex Revavroom",
       "pokemon": [],
-      "usage_rate": "1.74%",
-      "win_rate": "49.17%",
-      "record": "23 - 24 - 0",
-      "adjusted_win_rate": "48.61%",
-      "sample_size": 47
+      "usage_rate": "1.55%",
+      "win_rate": "53.63%",
+      "record": "207 - 159 - 20",
+      "adjusted_win_rate": "53.28%",
+      "sample_size": 386
     },
     {
       "rank": 16,
-      "name": "Iron Valiant Iron Boulder",
+      "name": "Giratina ex Darkrai ex",
       "pokemon": [],
-      "usage_rate": "1.70%",
-      "win_rate": "52.87%",
-      "record": "24 - 22 - 0",
-      "adjusted_win_rate": "50.70%",
-      "sample_size": 46
+      "usage_rate": "1.50%",
+      "win_rate": "48.10%",
+      "record": "139 - 139 - 11",
+      "adjusted_win_rate": "48.09%",
+      "sample_size": 289
     },
     {
       "rank": 17,
-      "name": "Mega Lucario ex Igglybuff",
+      "name": "Mega Blaziken ex Castform Sunny Form",
       "pokemon": [],
-      "usage_rate": "1.55%",
-      "win_rate": "42.00%",
-      "record": "17 - 25 - 0",
-      "adjusted_win_rate": "43.28%",
-      "sample_size": 42
+      "usage_rate": "1.47%",
+      "win_rate": "46.60%",
+      "record": "144 - 156 - 9",
+      "adjusted_win_rate": "46.71%",
+      "sample_size": 309
     },
     {
       "rank": 18,
-      "name": "Mega Blaziken ex Castform Sunny Form",
+      "name": "Mega Lucario ex Hitmontop",
       "pokemon": [],
-      "usage_rate": "1.52%",
-      "win_rate": "46.76%",
-      "record": "19 - 22 - 0",
-      "adjusted_win_rate": "46.97%",
-      "sample_size": 41
+      "usage_rate": "1.45%",
+      "win_rate": "47.64%",
+      "record": "141 - 145 - 10",
+      "adjusted_win_rate": "47.66%",
+      "sample_size": 296
     },
     {
       "rank": 19,
-      "name": "Glimmora Kingambit",
+      "name": "Iron Valiant Iron Boulder",
       "pokemon": [],
-      "usage_rate": "1.40%",
-      "win_rate": "41.57%",
-      "record": "15 - 23 - 0",
-      "adjusted_win_rate": "42.86%",
-      "sample_size": 38
+      "usage_rate": "1.39%",
+      "win_rate": "52.79%",
+      "record": "161 - 135 - 9",
+      "adjusted_win_rate": "52.42%",
+      "sample_size": 305
     },
     {
       "rank": 20,
-      "name": "Mega Lucario ex Lucario",
+      "name": "Mega Lucario ex Igglybuff",
       "pokemon": [],
-      "usage_rate": "1.29%",
-      "win_rate": "48.07%",
-      "record": "16 - 19 - 0",
-      "adjusted_win_rate": "46.67%",
-      "sample_size": 35
+      "usage_rate": "1.39%",
+      "win_rate": "42.18%",
+      "record": "89 - 119 - 3",
+      "adjusted_win_rate": "42.80%",
+      "sample_size": 211
     },
     {
       "rank": 21,
-      "name": "Mega Altaria ex Iron Valiant",
+      "name": "Mega Lucario ex Lucario",
       "pokemon": [],
-      "usage_rate": "1.22%",
-      "win_rate": "55.22%",
-      "record": "18 - 15 - 0",
-      "adjusted_win_rate": "51.72%",
-      "sample_size": 33
+      "usage_rate": "1.31%",
+      "win_rate": "47.55%",
+      "record": "126 - 131 - 8",
+      "adjusted_win_rate": "47.59%",
+      "sample_size": 265
     },
     {
       "rank": 22,
-      "name": "Great Tusk Koraidon ex",
+      "name": "Glimmora Kingambit",
       "pokemon": [],
-      "usage_rate": "1.22%",
-      "win_rate": "42.96%",
-      "record": "14 - 19 - 0",
-      "adjusted_win_rate": "44.83%",
-      "sample_size": 33
+      "usage_rate": "1.31%",
+      "win_rate": "42.15%",
+      "record": "102 - 137 - 3",
+      "adjusted_win_rate": "42.70%",
+      "sample_size": 242
     },
     {
       "rank": 23,
-      "name": "Magnezone ex Miraidon ex",
+      "name": "Mega Altaria ex Iron Valiant",
       "pokemon": [],
-      "usage_rate": "1.03%",
-      "win_rate": "47.01%",
-      "record": "13 - 15 - 0",
-      "adjusted_win_rate": "47.17%",
-      "sample_size": 28
+      "usage_rate": "1.13%",
+      "win_rate": "53.56%",
+      "record": "143 - 119 - 5",
+      "adjusted_win_rate": "53.08%",
+      "sample_size": 267
     },
     {
       "rank": 24,
-      "name": "Mega Altaria ex Igglybuff",
+      "name": "Great Tusk Koraidon ex",
       "pokemon": [],
-      "usage_rate": "1.00%",
-      "win_rate": "50.00%",
-      "record": "13 - 14 - 0",
-      "adjusted_win_rate": "48.08%",
-      "sample_size": 27
+      "usage_rate": "1.13%",
+      "win_rate": "41.33%",
+      "record": "81 - 110 - 5",
+      "adjusted_win_rate": "42.08%",
+      "sample_size": 196
     },
     {
       "rank": 25,
-      "name": "Mega Altaria ex Greninja",
+      "name": "Magnezone ex Miraidon ex",
       "pokemon": [],
-      "usage_rate": "1.00%",
-      "win_rate": "46.67%",
-      "record": "12 - 15 - 0",
-      "adjusted_win_rate": "46.15%",
-      "sample_size": 27
+      "usage_rate": "0.97%",
+      "win_rate": "47.46%",
+      "record": "84 - 93 - 0",
+      "adjusted_win_rate": "47.52%",
+      "sample_size": 177
     },
     {
       "rank": 26,
-      "name": "Flutter Mane ex Greninja",
+      "name": "Mega Altaria ex Igglybuff",
       "pokemon": [],
-      "usage_rate": "1.00%",
-      "win_rate": "36.89%",
-      "record": "9 - 18 - 0",
-      "adjusted_win_rate": "40.38%",
-      "sample_size": 27
+      "usage_rate": "0.92%",
+      "win_rate": "49.14%",
+      "record": "86 - 85 - 4",
+      "adjusted_win_rate": "49.00%",
+      "sample_size": 175
     },
     {
       "rank": 27,
-      "name": "Altaria Terapagos ex",
+      "name": "Mega Altaria ex Greninja",
       "pokemon": [],
-      "usage_rate": "0.81%",
-      "win_rate": "49.54%",
-      "record": "10 - 12 - 0",
-      "adjusted_win_rate": "46.81%",
-      "sample_size": 22
+      "usage_rate": "0.87%",
+      "win_rate": "47.74%",
+      "record": "74 - 79 - 2",
+      "adjusted_win_rate": "47.78%",
+      "sample_size": 155
     },
     {
       "rank": 28,
-      "name": "Greninja Mega Absol ex",
+      "name": "Altaria Terapagos ex",
       "pokemon": [],
-      "usage_rate": "0.74%",
-      "win_rate": "45.26%",
-      "record": "9 - 11 - 0",
-      "adjusted_win_rate": "46.67%",
-      "sample_size": 20
+      "usage_rate": "0.81%",
+      "win_rate": "45.89%",
+      "record": "67 - 76 - 3",
+      "adjusted_win_rate": "46.20%",
+      "sample_size": 146
     },
     {
       "rank": 29,
-      "name": "Mega Blaziken ex Greninja",
+      "name": "Flutter Mane ex Greninja",
       "pokemon": [],
-      "usage_rate": "0.67%",
-      "win_rate": "53.00%",
-      "record": "9 - 9 - 0",
-      "adjusted_win_rate": "48.84%",
-      "sample_size": 18
+      "usage_rate": "0.81%",
+      "win_rate": "37.30%",
+      "record": "47 - 77 - 2",
+      "adjusted_win_rate": "39.07%",
+      "sample_size": 126
     },
     {
       "rank": 30,
-      "name": "Mega Blaziken ex Iron Moth",
+      "name": "Greninja Mega Absol ex",
       "pokemon": [],
-      "usage_rate": "0.59%",
-      "win_rate": "50.57%",
-      "record": "8 - 8 - 0",
-      "adjusted_win_rate": "48.78%",
-      "sample_size": 16
+      "usage_rate": "0.60%",
+      "win_rate": "44.55%",
+      "record": "49 - 58 - 3",
+      "adjusted_win_rate": "45.19%",
+      "sample_size": 110
     },
     {
       "rank": 31,
       "name": "Mega Lucario ex",
       "pokemon": [],
-      "usage_rate": "0.59%",
-      "win_rate": "48.72%",
-      "record": "7 - 9 - 0",
-      "adjusted_win_rate": "46.34%",
-      "sample_size": 16
+      "usage_rate": "0.53%",
+      "win_rate": "50.00%",
+      "record": "52 - 51 - 1",
+      "adjusted_win_rate": "49.61%",
+      "sample_size": 104
     },
     {
       "rank": 32,
-      "name": "Miraidon ex Pichu",
+      "name": "Mega Charizard X ex Mega Charizard Y ex",
       "pokemon": [],
-      "usage_rate": "0.55%",
-      "win_rate": "51.25%",
-      "record": "7 - 8 - 0",
-      "adjusted_win_rate": "47.50%",
-      "sample_size": 15
+      "usage_rate": "0.53%",
+      "win_rate": "42.11%",
+      "record": "40 - 54 - 1",
+      "adjusted_win_rate": "43.33%",
+      "sample_size": 95
     },
     {
       "rank": 33,
       "name": "Mega Sceptile ex Pheromosa",
       "pokemon": [],
-      "usage_rate": "0.48%",
-      "win_rate": "55.13%",
-      "record": "7 - 6 - 0",
-      "adjusted_win_rate": "50.00%",
-      "sample_size": 13
+      "usage_rate": "0.45%",
+      "win_rate": "55.34%",
+      "record": "57 - 45 - 1",
+      "adjusted_win_rate": "53.91%",
+      "sample_size": 103
     },
     {
       "rank": 34,
-      "name": "Mega Charizard X ex Mega Charizard Y ex",
+      "name": "Mega Blaziken ex Iron Moth",
       "pokemon": [],
-      "usage_rate": "0.44%",
-      "win_rate": "44.07%",
-      "record": "5 - 7 - 0",
-      "adjusted_win_rate": "45.95%",
-      "sample_size": 12
+      "usage_rate": "0.45%",
+      "win_rate": "50.00%",
+      "record": "48 - 47 - 1",
+      "adjusted_win_rate": "49.59%",
+      "sample_size": 96
     },
     {
       "rank": 35,
-      "name": "Mega Manectric ex Zeraora",
+      "name": "Miraidon ex Pichu",
       "pokemon": [],
-      "usage_rate": "0.44%",
-      "win_rate": "43.40%",
-      "record": "5 - 7 - 0",
-      "adjusted_win_rate": "45.95%",
-      "sample_size": 12
+      "usage_rate": "0.42%",
+      "win_rate": "50.60%",
+      "record": "42 - 39 - 2",
+      "adjusted_win_rate": "50.00%",
+      "sample_size": 83
     },
     {
       "rank": 36,
-      "name": "Serperior Mega Heracross ex",
+      "name": "Mimikyu ex Greninja",
       "pokemon": [],
-      "usage_rate": "0.41%",
-      "win_rate": "50.70%",
-      "record": "5 - 6 - 0",
-      "adjusted_win_rate": "47.22%",
-      "sample_size": 11
+      "usage_rate": "0.39%",
+      "win_rate": "53.09%",
+      "record": "43 - 37 - 1",
+      "adjusted_win_rate": "51.89%",
+      "sample_size": 81
     },
     {
       "rank": 37,
-      "name": "Ho-Oh ex Terapagos ex",
+      "name": "Mega Manectric ex Zeraora",
       "pokemon": [],
-      "usage_rate": "0.37%",
-      "win_rate": "40.91%",
-      "record": "4 - 6 - 0",
-      "adjusted_win_rate": "45.71%",
-      "sample_size": 10
+      "usage_rate": "0.39%",
+      "win_rate": "43.90%",
+      "record": "36 - 45 - 1",
+      "adjusted_win_rate": "44.86%",
+      "sample_size": 82
     },
     {
       "rank": 38,
-      "name": "Mimikyu ex Greninja",
+      "name": "Serperior Mega Heracross ex",
       "pokemon": [],
-      "usage_rate": "0.30%",
-      "win_rate": "62.26%",
-      "record": "4 - 4 - 0",
-      "adjusted_win_rate": "48.48%",
-      "sample_size": 8
+      "usage_rate": "0.37%",
+      "win_rate": "51.72%",
+      "record": "45 - 41 - 1",
+      "adjusted_win_rate": "50.89%",
+      "sample_size": 87
     },
     {
       "rank": 39,
-      "name": "Mega Scizor ex Revavroom",
+      "name": "Kingambit Glimmora",
       "pokemon": [],
-      "usage_rate": "0.30%",
-      "win_rate": "59.18%",
-      "record": "4 - 4 - 0",
-      "adjusted_win_rate": "48.48%",
-      "sample_size": 8
+      "usage_rate": "0.37%",
+      "win_rate": "48.00%",
+      "record": "36 - 38 - 1",
+      "adjusted_win_rate": "48.00%",
+      "sample_size": 75
     },
     {
       "rank": 40,
-      "name": "Iron Valiant Iron Leaves",
+      "name": "Mega Charizard Y ex Entei ex",
       "pokemon": [],
-      "usage_rate": "0.30%",
-      "win_rate": "52.94%",
-      "record": "4 - 4 - 0",
-      "adjusted_win_rate": "48.48%",
-      "sample_size": 8
+      "usage_rate": "0.34%",
+      "win_rate": "61.54%",
+      "record": "56 - 30 - 5",
+      "adjusted_win_rate": "58.62%",
+      "sample_size": 91
     },
     {
       "rank": 41,
-      "name": "Mega Gardevoir ex Flutter Mane ex",
+      "name": "Zoroark ex Darkrai ex",
       "pokemon": [],
-      "usage_rate": "0.30%",
-      "win_rate": "48.78%",
-      "record": "3 - 5 - 0",
+      "usage_rate": "0.32%",
+      "win_rate": "44.44%",
+      "record": "28 - 34 - 1",
       "adjusted_win_rate": "45.45%",
-      "sample_size": 8
+      "sample_size": 63
     },
     {
       "rank": 42,
-      "name": "Zoroark ex Darkrai ex",
+      "name": "Ho-Oh ex Terapagos ex",
       "pokemon": [],
-      "usage_rate": "0.26%",
-      "win_rate": "47.37%",
-      "record": "3 - 4 - 0",
-      "adjusted_win_rate": "46.88%",
-      "sample_size": 7
+      "usage_rate": "0.32%",
+      "win_rate": "40.35%",
+      "record": "23 - 34 - 0",
+      "adjusted_win_rate": "42.68%",
+      "sample_size": 57
     },
     {
       "rank": 43,
-      "name": "Gourgeist Houndstone",
+      "name": "Crobat ex Iron Jugulis",
       "pokemon": [],
-      "usage_rate": "0.26%",
-      "win_rate": "46.34%",
-      "record": "3 - 4 - 0",
-      "adjusted_win_rate": "46.88%",
-      "sample_size": 7
+      "usage_rate": "0.29%",
+      "win_rate": "51.85%",
+      "record": "28 - 24 - 2",
+      "adjusted_win_rate": "50.63%",
+      "sample_size": 54
     },
     {
       "rank": 44,
-      "name": "Mega Steelix ex Indeedee ex",
+      "name": "Mega Gardevoir ex Flutter Mane ex",
       "pokemon": [],
-      "usage_rate": "0.26%",
-      "win_rate": "45.16%",
-      "record": "3 - 4 - 0",
-      "adjusted_win_rate": "46.88%",
-      "sample_size": 7
+      "usage_rate": "0.29%",
+      "win_rate": "44.00%",
+      "record": "22 - 28 - 0",
+      "adjusted_win_rate": "45.33%",
+      "sample_size": 50
     },
     {
       "rank": 45,
-      "name": "Dragonite Raging Bolt",
+      "name": "Jolteon ex Jolteon",
       "pokemon": [],
-      "usage_rate": "0.22%",
-      "win_rate": "40.74%",
-      "record": "2 - 4 - 0",
-      "adjusted_win_rate": "45.16%",
-      "sample_size": 6
+      "usage_rate": "0.26%",
+      "win_rate": "54.84%",
+      "record": "34 - 26 - 2",
+      "adjusted_win_rate": "52.87%",
+      "sample_size": 62
     },
     {
       "rank": 46,
-      "name": "Iron Moth Iron Valiant",
+      "name": "Alolan Ninetales ex Baxcalibur",
       "pokemon": [],
-      "usage_rate": "0.22%",
-      "win_rate": "38.46%",
-      "record": "2 - 4 - 0",
-      "adjusted_win_rate": "45.16%",
-      "sample_size": 6
+      "usage_rate": "0.24%",
+      "win_rate": "32.43%",
+      "record": "12 - 25 - 0",
+      "adjusted_win_rate": "38.71%",
+      "sample_size": 37
     },
     {
       "rank": 47,
-      "name": "Terapagos ex",
+      "name": "Iron Valiant Iron Leaves",
       "pokemon": [],
-      "usage_rate": "0.22%",
-      "win_rate": "32.14%",
-      "record": "1 - 5 - 0",
-      "adjusted_win_rate": "41.94%",
-      "sample_size": 6
+      "usage_rate": "0.21%",
+      "win_rate": "52.94%",
+      "record": "27 - 24 - 0",
+      "adjusted_win_rate": "51.32%",
+      "sample_size": 51
     },
     {
       "rank": 48,
-      "name": "Bellibolt ex Miraidon ex",
+      "name": "Gourgeist Houndstone",
       "pokemon": [],
-      "usage_rate": "0.22%",
-      "win_rate": "30.43%",
-      "record": "1 - 5 - 0",
-      "adjusted_win_rate": "41.94%",
-      "sample_size": 6
+      "usage_rate": "0.21%",
+      "win_rate": "48.98%",
+      "record": "24 - 24 - 1",
+      "adjusted_win_rate": "48.65%",
+      "sample_size": 49
     },
     {
       "rank": 49,
-      "name": "Koraidon ex Mega Lucario ex",
+      "name": "Mega Lucario ex Teal Mask Ogerpon ex",
       "pokemon": [],
-      "usage_rate": "0.22%",
-      "win_rate": "26.32%",
-      "record": "1 - 5 - 0",
-      "adjusted_win_rate": "41.94%",
-      "sample_size": 6
+      "usage_rate": "0.21%",
+      "win_rate": "46.51%",
+      "record": "20 - 23 - 0",
+      "adjusted_win_rate": "47.06%",
+      "sample_size": 43
     },
     {
       "rank": 50,
-      "name": "Garchomp ex Rampardos",
+      "name": "Iron Jugulis Hydreigon",
       "pokemon": [],
-      "usage_rate": "0.18%",
-      "win_rate": "53.33%",
-      "record": "2 - 3 - 0",
-      "adjusted_win_rate": "46.67%",
-      "sample_size": 5
+      "usage_rate": "0.21%",
+      "win_rate": "46.30%",
+      "record": "25 - 25 - 4",
+      "adjusted_win_rate": "46.84%",
+      "sample_size": 54
     }
   ],
   "analysis": {
-    "trends": [],
-    "strong_decks": [
-      "Mega Sceptile ex Sceptile(调整后52.66%%/原始53.65%%)",
-      "Mega Altaria ex Gourgeist(调整后52.38%%/原始53.49%%)",
-      "Suicune ex Baxcalibur(调整后51.90%%/原始54.22%%)",
-      "Mega Altaria ex Iron Valiant(调整后51.72%%/原始55.22%%)",
-      "Iron Valiant Iron Boulder(调整后50.70%%/原始52.87%%)"
-    ],
-    "meta_insight": "调整后最强牌组: Mega Sceptile ex Sceptile (调整后胜率52.66%, 原始53.65%, 样本144场)",
-    "settings": {
-      "prior_games": 25,
-      "prior_wins": 12,
-      "prior_win_rate": "48%"
-    },
-    "filtered_count": 28
+    "source": "Limitless TCG B3a standard",
+    "formula": "(wins+12)/(total+25)"
   }
 }

@@ -3,7 +3,8 @@
     "name": "PTCGP 牌組名稱中英字典",
     "version": "3.6",
     "last_updated": "2026-06-01",
-    "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。"
+    "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
+    "last_video_ingest_update": "2026-06-02T16:09Z"
   },
   "corrections": [
     {
@@ -434,7 +435,7 @@
     "Giratina ex": "騎拉帝納 ex",
     "Giratina V": "騎拉帝納 V",
     "Giratina VSTAR": "騎拉帝納 VSTAR",
-    "Professor Sada": "莎花博士",
+    "Professor Sada": "奧琳博士",
     "Professor Willow": "大吾博士",
     "Clemont": "希特隆",
     "Erika": "莉娜",
@@ -738,7 +739,7 @@
     "Gogoat": "gg",
     "Pancham": "pm",
     "Pangoro": "pg",
-    "Furfrou": "ff",
+    "Furfrou": "多麗米亞",
     "Espurr": "er",
     "Meowstic": "ms",
     "Honedge": "hg",
@@ -900,7 +901,13 @@
     "Orthworm": "拖拖蚓",
     "Armarouge ex": "紅蓮鎧騎 ex",
     "Bellibolt ex": "電肚蛙 ex",
-    "Tadbulb": "光蚪仔"
+    "Tadbulb": "光蚪仔",
+    "Hitmonlee": "飛腿郎",
+    "Fighting Stadium": "鬥系競技場",
+    "Ancient Booster Energy Capsule": "古代活性膠囊",
+    "Cyrus": "赤日",
+    "Red": "赤紅",
+    "Potion": "傷藥"
   },
   "last_updated": "2026-06-01"
 }
