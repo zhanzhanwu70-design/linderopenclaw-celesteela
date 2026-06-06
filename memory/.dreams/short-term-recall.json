@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T12:30:47.198Z",
+  "updatedAt": "2026-06-05T12:31:22.787Z",
   "entries": {
     "memory:memory/2026-03-21.md:1:36": {
       "key": "memory:memory/2026-03-21.md:1:36",
@@ -40,22 +40,24 @@
       "endLine": 32,
       "source": "memory",
       "snippet": "# 2026-03-21 Daily Log ## 00:03 UTC - Rowlet Keep-Alive / Meta Update Cron - Cron keep-alive test fired at 00:03 UTC - Attempted daily Pokemon TCG Pocket meta update per HEARTBEAT.md - Issues encountered: - External sites (pokemoncard.io, tcgplayer, etc.) blocked or returned no content - No Discord webhook URL configured in workspace - Result: Could not fetch live meta data or post to Discord ## 00:30 UTC - Workspace Review & Updates - Linder added files to workspace - reviewed and integrated - Updates made: 1. **IDENTITY.md** - Filled with identity (Celesteela, 寶可夢助手) 2. **TOOLS.md** - Updated with workspace-specific notes, Discord webhook placeholder 3. **HEARTBEAT.md** - Added",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4,
+      "totalScore": 5,
       "maxScore": 1,
       "firstRecalledAt": "2026-05-10T12:30:25.893Z",
-      "lastRecalledAt": "2026-05-14T12:30:47.198Z",
+      "lastRecalledAt": "2026-06-05T12:31:22.787Z",
       "queryHashes": [
         "dd6735137f6d",
-        "edd56045c3ad"
+        "edd56045c3ad",
+        "9895ef9286ce"
       ],
       "recallDays": [
         "2026-05-10",
         "2026-05-11",
         "2026-05-12",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-06-05"
       ],
       "conceptTags": [
         "keep-alive",
@@ -136,6 +138,37 @@
         "中期",
         "干擾",
         "後期"
+      ]
+    },
+    "memory:memory/2026-03-21.md:25:36": {
+      "key": "memory:memory/2026-03-21.md:25:36",
+      "path": "memory/2026-03-21.md",
+      "startLine": 25,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "- Includes Bayesian win rate formula: (wins + 12) / (total + 25) - First analysis run and saved to `memory/ptcgp_meta_20260321.md` - Formula confirmed working - shows correct adjustment for small sample decks ## 貓星人守則 (from Linder) - 當別人跟你說「喵」的時候，回「喵~」就好 - 這是貓星人共通語，已寫入 SOUL.md ## Meta 報告規則 (from Linder) - 每天的 Meta 報告，**所有英文卡牌名稱都必須翻譯成中文**後再發送 - 不得直接使用英文卡牌名",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-06-05T12:31:22.787Z",
+      "lastRecalledAt": "2026-06-05T12:31:22.787Z",
+      "queryHashes": [
+        "9895ef9286ce"
+      ],
+      "recallDays": [
+        "2026-06-05"
+      ],
+      "conceptTags": [
+        "memory/ptcgp-meta-20260321.md",
+        "soul.md",
+        "includes",
+        "bayesian",
+        "win",
+        "rate",
+        "formula",
+        "wins"
       ]
     }
   }

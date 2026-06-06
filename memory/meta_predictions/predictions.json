@@ -139,8 +139,13 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-05",
-    "verification": null,
-    "reflection": null
+    "verification": {
+      "date": "2026-06-05",
+      "result": "partial_miss",
+      "actual": "Mega Sceptile 使用率降至5.14%、調整後勝率50.53%，未維持52%以上；睡眠太陽伊布仍第一但五成，南瓜精分支升至4.48%且52.42%；Mega Blaziken/Greninja升至3.70%且54.07%，成為更明顯上升點。",
+      "lesson": "反主流牌組連續兩天高勝率後會被快速修正；同時看使用率與調整後勝率，火焰雞＋甲賀忍蛙比蜥蜴王更像下一個成長點。"
+    },
+    "reflection": "高估蜥蜴王續航；命中睡眠分支轉向與新火軸候選，但火焰雞升溫幅度高於預期。"
   },
   {
     "id": "PRED_20260604",
@@ -171,6 +176,38 @@
     "most_likely": "A",
     "confidence": "medium-low",
     "check_date": "2026-06-06",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260605",
+    "date": "2026-06-05",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-05 12:00 UTC",
+    "environment_summary": "Altaria/Espeon仍為使用率第一但約五成；電系人氣高但效率低；Sceptile回落；Altaria/Gourgeist效率佳；Blaziken/Greninja同時提高使用率與勝率。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "火焰雞＋甲賀忍蛙擴張",
+        "probability": 0.45,
+        "description": "Mega Blaziken ex Greninja 使用率繼續上升並維持52%以上調整後勝率，成為下一個反環境焦點。"
+      },
+      {
+        "scenario": "B",
+        "name": "南瓜精睡眠成為睡眠正解",
+        "probability": 0.35,
+        "description": "Altaria/Espeon仍最多人玩但勝率平庸；Altaria/Gourgeist因內戰與干擾價值維持較高勝率。"
+      },
+      {
+        "scenario": "C",
+        "name": "蜥蜴王穩定但不領跑",
+        "probability": 0.2,
+        "description": "Mega Sceptile ex Sceptile維持約5%使用率與五成以上勝率，但不再是最高效率選項。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-07",
     "verification": null,
     "reflection": null
   }
