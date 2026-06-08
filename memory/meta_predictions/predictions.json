@@ -213,8 +213,13 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-07",
-    "verification": null,
-    "reflection": null
+    "verification": {
+      "date": "2026-06-07",
+      "result": "partial_hit",
+      "actual": "Mega Blaziken ex Greninja 使用率約4.31%，調整後勝率53.29%，站穩但未大幅擴張；Mega Altaria ex Gourgeist 約4.87%，調整後52.01%，睡眠內部仍優於 Espeon；Mega Sceptile 約4.85%，調整後50.00%，維持可用但不領跑。",
+      "lesson": "火焰雞軸命中強度但高估擴張速度；Gourgeist 睡眠續強；蜥蜴王已回到五成工具牌。"
+    },
+    "reflection": "情境A/B/C方向皆部分命中，但應把「站穩」與「擴張」分開判斷。"
   },
   {
     "id": "PRED_20260606",
@@ -245,6 +250,38 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-08",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260607",
+    "date": "2026-06-07",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-07 12:00 UTC; parser update_time field stale",
+    "environment_summary": "Altaria/Espeon 回到約五成但仍第一；Blaziken/Greninja、Suicune/Baxcalibur、Altaria/Gourgeist 是主要正勝率核心；Sceptile回到均線。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "火焰雞＋甲賀忍蛙維持效率核心",
+        "probability": 0.4,
+        "description": "使用率約4%以上，調整後勝率維持52%以上；成為主流反睡眠/反電選項。"
+      },
+      {
+        "scenario": "B",
+        "name": "水君＋戟脊龍追上反環境席位",
+        "probability": 0.3,
+        "description": "使用率維持或小升，調整後勝率仍約52%；若火焰雞被針對，水系補位。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠分支內戰延續",
+        "probability": 0.3,
+        "description": "Altaria/Espeon人數第一但報酬普通；Gourgeist分支維持更佳勝率。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-09",
     "verification": null,
     "reflection": null
   }
