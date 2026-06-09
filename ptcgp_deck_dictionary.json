@@ -2,7 +2,7 @@
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
     "version": "3.6",
-    "last_updated": "2026-06-01",
+    "last_updated": "2026-06-08",
     "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
     "last_video_ingest_update": "2026-06-02T16:09Z"
   },
@@ -112,7 +112,7 @@
     "Hydreigon Mega Absol ex": "三首惡龍 超級阿伯梭魯 ex",
     "Mega Altaria ex Gourgeist": "超級七夕青鳥 ex 南瓜精",
     "Mega Altaria ex Chingling": "超級七夕青鳥 ex 鈴鐺響",
-    "Meowscarada ex Meowscarada": "魔幻假面喵 ex",
+    "Meowscarada ex Meowscarada": "魔幻假面喵 ex 魔幻假面喵",
     "Mega Lopunny ex Annihilape": "超級長耳兔 ex 棄世猴 ex",
     "Mega Scizor ex": "超級巨鉗螳螂 ex",
     "Mega Manectric ex Zeraora": "超級雷電獸 ex 傑拉奧拉",
@@ -288,7 +288,14 @@
     "Iron Boulder": "鐵磐岩",
     "Future Booster Energy Capsule": "驅勁能量",
     "Mythical Slab": "神奇石板",
-    "Iron Bundle ex Baxcalibur": "鐵包袱 ex 戟脊龍"
+    "Iron Bundle ex Baxcalibur": "鐵包袱 ex 戟脊龍",
+    "Mega Altaria ex Espeon": "超級七夕青鳥 ex 太陽伊布 ex",
+    "Miraidon ex Magnezone": "密勒頓 ex 自爆磁怪",
+    "Magnezone Miraidon ex": "自爆磁怪 密勒頓 ex",
+    "Mega Sceptile ex Sceptile": "超級蜥蜴王 ex 蜥蜴王",
+    "Zoroark ex Mega Absol ex": "索羅亞克 ex 超級阿伯梭魯 ex",
+    "Magnezone ex Magnezone": "自爆磁怪 ex 自爆磁怪",
+    "Mega Scizor ex Revavroom": "超級巨鉗螳螂 ex 普隆隆姆"
   },
   "card_names": {
     "Bulbasaur": "妙瓜种子",
@@ -909,5 +916,5 @@
     "Red": "赤紅",
     "Potion": "傷藥"
   },
-  "last_updated": "2026-06-01"
+  "last_updated": "2026-06-08"
 }
