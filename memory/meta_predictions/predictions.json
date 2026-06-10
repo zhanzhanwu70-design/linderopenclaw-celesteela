@@ -287,8 +287,13 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-09",
-    "verification": null,
-    "reflection": null
+    "verification": {
+      "date": "2026-06-09",
+      "result": "partial_hit",
+      "actual": "火焰雞＋甲賀忍蛙仍維持4.20%使用率與52.42%調整後勝率，站穩但不是最大上升；水君＋戟脊龍維持4.73%且53.06%，比火焰雞更像今日最佳反環境；睡眠太陽伊布仍第一但五成，Gourgeist分支仍較佳。",
+      "lesson": "火焰雞強度判斷正確，但排序應讓水君＋戟脊龍優先；高效率牌組若使用率持平但樣本增加且勝率不崩，仍可視為站穩。"
+    },
+    "reflection": "情境A/B/C皆命中方向；最可能情境應從火焰雞改為水君。"
   },
   {
     "id": "PRED_20260608",
@@ -319,6 +324,38 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-10",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260609",
+    "date": "2026-06-09",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-09 12:00 UTC; update_time field stale ignored",
+    "environment_summary": "睡眠青鳥仍為使用率核心但五成；水君＋戟脊龍是最高效率反環境；火焰雞＋甲賀忍蛙站穩；南瓜精睡眠仍優於太陽伊布；電系人氣高但報酬普通。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍維持最高效率反環境",
+        "probability": 0.45,
+        "description": "使用率約4.5～5%，調整後勝率守住52%以上，繼續作為首選反環境。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞＋甲賀忍蛙站穩T1.5",
+        "probability": 0.3,
+        "description": "使用率維持4%左右，調整後勝率保持正值，但不爆量。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠分支繼續收斂",
+        "probability": 0.25,
+        "description": "Altaria/Espeon仍最多人玩但五成；Gourgeist分支維持小幅勝率優勢。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-11",
     "verification": null,
     "reflection": null
   }

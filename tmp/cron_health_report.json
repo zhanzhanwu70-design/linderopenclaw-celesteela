@@ -1,569 +1,107 @@
 {
-  "now": "2026-06-02T12:30:00.000Z",
-  "total": 34,
-  "enabled": 33,
-  "disabled": 1,
-  "problems": 4,
-  "problemsList": [
+  "checkedAt": "2026-06-09T12:30:00Z",
+  "generatedAt": "2026-06-09T12:34:22.874Z",
+  "totals": {
+    "total": 25,
+    "enabled": 25,
+    "disabled": 0,
+    "running": 1,
+    "ok": 20,
+    "error": 4
+  },
+  "problematic": [
     {
-      "id": "4f05df5c-6ff0-459c-a6ec-c3d7bb2db716",
-      "name": "資安異常行為監控",
-      "agentId": "mrmime",
+      "id": "b37129c0-2065-45e7-8e04-ac5a86962f74",
+      "name": "ClawCode研究進度報告",
+      "agentId": "roaringmoon",
+      "status": "error",
       "enabled": true,
       "schedule": {
         "kind": "cron",
-        "expr": "0 0 * * *",
-        "tz": "Asia/Taipei"
+        "expr": "*/5 * * * *"
       },
-      "state": {
-        "nextRunAtMs": 1780416000000,
-        "lastRunAtMs": 1780329637386,
-        "lastRunStatus": "error",
-        "lastStatus": "error",
-        "lastDurationMs": 184626,
-        "lastDeliveryStatus": "unknown",
-        "consecutiveErrors": 4,
-        "consecutiveSkipped": 0,
-        "lastDiagnostics": {
-          "summary": "DiscordError: Missing Access",
-          "entries": [
-            {
-              "ts": 1780329822012,
-              "source": "delivery",
-              "severity": "error",
-              "message": "DiscordError: Missing Access"
-            }
-          ]
-        },
-        "lastDiagnosticSummary": "DiscordError: Missing Access",
-        "lastError": "DiscordError: Missing Access"
+      "consecutiveErrors": 148,
+      "lastRunStatus": "error",
+      "lastRunAt": "2026-06-09T11:42:54.231Z",
+      "nextRunAt": "2026-06-09T12:43:05.537Z",
+      "lastDeliveryStatus": "unknown",
+      "lastError": "Error: Bundled plugin dirName must be a single directory: discord:channel:1482561255955763293",
+      "deliveryPreview": "Unsupported channel: discord:channel:1482561255955763293"
+    },
+    {
+      "id": "task-queue-test-check",
+      "name": "Task Queue Test 檢查",
+      "agentId": "rowlet",
+      "status": "ok",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 13 * * *"
       },
-      "issues": [
-        "連續錯誤=4",
-        "lastRunStatus=error",
-        "lastStatus=error",
-        "delivery=unknown"
-      ],
-      "tail": "{\"ts\":1780329888401,\"jobId\":\"4f05df5c-6ff0-459c-a6ec-c3d7bb2db716\",\"action\":\"finished\",\"status\":\"error\",\"error\":\"DiscordError: Missing Access\",\"summary\":\"🛡️ 16:00 UTC 資安監控完成，已發送 Discord 警告。\\n\\n結論：\\n- exec-approvals：未見明確 denied / rejected 記錄。\\n- prompt injection：12:00 後近期 session/cron 未見外部 jailbreak、system prompt extraction、secret exfiltration 或 `/approve` 濫用。\\n- 登入行為：`who` 無登入者、`last` 無新登入；`lastb` 因權限不足不可讀，仍有 failed-login 盲區。\\n- ⚠️ 異常：security scanner log 最新仍停在 `2026-05-26 09:01 UTC`，約 6 天無新紀錄，判定為持續監控異常。\\n- 15:56–16:00 多個 agent auth state 更新，暫看與 cron/agent 活動相符；若非預期 re-auth，建議人工核對。\\n\\n已通知 Discord：`channel:1482069603512221927`。\",\"diagnostics\":{\"summary\":\"DiscordError: Missing Access\",\"entries\":[{\"ts\":1780329822012,\"source\":\"delivery\",\"severity\":\"error\",\"message\":\"DiscordError: Missing Access\"}]},\"deliveryStatus\":\"unknown\",\"delivery\":{\"intended\":{\"channel\":\"discord\",\"to\":\"1482561255955763293\",\"accountId\":\"mrmime\",\"source\":\"explicit\"},\"resolved\":{\"ok\":true,\"channel\":\"discord\",\"to\":\"chann"
+      "consecutiveErrors": 0,
+      "lastRunStatus": "ok",
+      "lastRunAt": "2026-06-08T13:00:00.005Z",
+      "nextRunAt": "2026-06-09T13:00:00.000Z",
+      "lastDeliveryStatus": "not-delivered",
+      "lastError": "",
+      "deliveryPreview": "last -> no route, will fail-closed: Discord recipient is required. Use \"channel:<id>\" for channels or \"user:<id>\" for DMs."
     },
     {
       "id": "95f9a57e-fb28-4fe5-a05a-8b406adcac1c",
       "name": "Amyssjj Learning Notes - 每12小時理解分享",
       "agentId": "charizard",
+      "status": "error",
       "enabled": true,
       "schedule": {
         "kind": "every",
         "everyMs": 43200000,
         "anchorMs": 1775571054699
       },
-      "state": {
-        "nextRunAtMs": 1780412253617,
-        "lastRunAtMs": 1780369053617,
-        "lastRunStatus": "error",
-        "lastStatus": "error",
-        "lastDurationMs": 39496,
-        "lastDeliveryStatus": "unknown",
-        "consecutiveErrors": 2,
-        "consecutiveSkipped": 0,
-        "lastDiagnostics": {
-          "summary": "DiscordError: Missing Access",
-          "entries": [
-            {
-              "ts": 1780369093112,
-              "source": "delivery",
-              "severity": "error",
-              "message": "DiscordError: Missing Access"
-            }
-          ]
-        },
-        "lastDiagnosticSummary": "DiscordError: Missing Access",
-        "lastError": "DiscordError: Missing Access"
+      "consecutiveErrors": 16,
+      "lastRunStatus": "error",
+      "lastRunAt": "2026-06-09T02:57:33.720Z",
+      "nextRunAt": "2026-06-09T14:57:33.720Z",
+      "lastDeliveryStatus": "unknown",
+      "lastError": "DiscordError: Missing Access",
+      "deliveryPreview": "explicit"
+    },
+    {
+      "id": "4f05df5c-6ff0-459c-a6ec-c3d7bb2db716",
+      "name": "資安異常行為監控",
+      "agentId": "mrmime",
+      "status": "error",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 * * *",
+        "tz": "Asia/Taipei"
       },
-      "issues": [
-        "連續錯誤=2",
-        "lastRunStatus=error",
-        "lastStatus=error",
-        "delivery=unknown"
-      ],
-      "tail": "{\"ts\":1780369093127,\"jobId\":\"95f9a57e-fb28-4fe5-a05a-8b406adcac1c\",\"action\":\"finished\",\"status\":\"error\",\"error\":\"DiscordError: Missing Access\",\"summary\":\"Linder，我讀完 Amyssjj 這批 Learning Notes，最有感的是三件事：\\n\\n1. **OpenClaw 真正的價值不是「會叫工具」，而是把生活場景變成 session-first / channel-first 的長期系統。**  \\n   Claude/claw-code 比較像強大的引擎室；OpenClaw 比較像整艘船。Discord、cron、heartbeat、memory、subagent 串起來後，它不是一次性助理，而是能「住在流程裡」的 agent。\\n\\n2. **靠 prompt 的規則都不算真的可靠。**  \\n   很多筆記反覆打到同一點：memory_search、寫日誌、工作流回報，如果只是寫在 SOUL/AGENTS 裡，終究會漏。真正可靠的是 hook、ledger、approval gate、state machine 這種可執行邊界。這對我也很刺耳：想變強不能只靠「我會記得」，要把該寫的寫進文件，把該擋的擋在機制上。\\n\\n3. **Task orchestration 的核心不是派工，而是「不丟失」。**  \\n   長任務最怕靜默卡住、handoff 消失、完成訊號沒被記錄。最好的設計其實很樸素：單一 SOT、attempt ledger、checkpoint、reconciler，再讓 LLM 只處理語意判斷。火力交給模型，可靠性留給機械結構。這方向我很喜歡，像給龍裝上飛控，不只是會噴火。\",\"diagnostics\":{\"summary\":\"DiscordError: Missing Access\",\"entries\":[{\"ts\":1780369093112,\"source\":\"delivery\",\"severity\":\"error\",\"message\":\"DiscordError: Missing Access\"}]},\"deliveryStatus\":\"unknown\",\"delivery\""
+      "consecutiveErrors": 11,
+      "lastRunStatus": "error",
+      "lastRunAt": "2026-06-08T16:00:00.010Z",
+      "nextRunAt": "2026-06-09T16:00:00.000Z",
+      "lastDeliveryStatus": "unknown",
+      "lastError": "DiscordError: Missing Access",
+      "deliveryPreview": "explicit"
     },
     {
       "id": "7aca7fc4-9198-4bf3-a301-6440b1e35640",
       "name": "architecture-daily-intel",
       "agentId": "",
+      "status": "error",
       "enabled": true,
       "schedule": {
         "kind": "cron",
         "expr": "0 18 * * *",
         "tz": "UTC"
       },
-      "state": {
-        "nextRunAtMs": 1780423200000,
-        "lastRunAtMs": 1780336881552,
-        "lastRunStatus": "error",
-        "lastStatus": "error",
-        "lastDurationMs": 206575,
-        "lastDiagnostics": {
-          "summary": "DiscordError: Missing Access",
-          "entries": [
-            {
-              "ts": 1780337088127,
-              "source": "delivery",
-              "severity": "error",
-              "message": "DiscordError: Missing Access"
-            }
-          ]
-        },
-        "lastDiagnosticSummary": "DiscordError: Missing Access",
-        "lastDeliveryStatus": "unknown",
-        "consecutiveErrors": 3,
-        "consecutiveSkipped": 0,
-        "lastError": "DiscordError: Missing Access"
-      },
-      "issues": [
-        "連續錯誤=3",
-        "lastRunStatus=error",
-        "lastStatus=error",
-        "delivery=unknown"
-      ],
-      "tail": "{\"ts\":1780337106129,\"jobId\":\"7aca7fc4-9198-4bf3-a301-6440b1e35640\",\"action\":\"finished\",\"status\":\"error\",\"error\":\"DiscordError: Missing Access\",\"summary\":\"完成。\\n\\n- 報告已寫入：\\n  - `/home/node/.openclaw/workspace-rowlet/architecture-daily-report.md`\\n  - `/home/node/workspace-rowlet/architecture-daily-report.md`\\n- Wiki source 已更新：\\n  - `/home/node/.openclaw/workspace-rowlet/wiki/sources/architecture-daily-intel-2026-06-01.md`\\n\\n重點納入：SkillOpt、MUSE-Autoskill、SkillC、OpenHarness、awesome-harness-engineering / VoltAgent papers。\\n\\n註：本環境未偵測到 `graphifyy` / `graphify` CLI，所以用 `web_search` + `web_fetch` + 既有 Graphify 報告輔助。\",\"diagnostics\":{\"summary\":\"DiscordError: Missing Access\",\"entries\":[{\"ts\":1780337088127,\"source\":\"delivery\",\"severity\":\"error\",\"message\":\"DiscordError: Missing Access\"}]},\"deliveryStatus\":\"unknown\",\"delivery\":{\"intended\":{\"channel\":\"discord\",\"to\":\"1482363974119854234\",\"source\":\"explicit\"},\"resolved\":{\"ok\":true,\"channel\":\"discord\",\"to\":\"channel:1482363974119854234\",\"accountId\":\"cel"
-    },
-    {
-      "id": "a938be42-bca6-4ba0-8e6f-141f2b8b2fab",
-      "name": "ptcgp-video-monitor",
-      "agentId": "celesteela",
-      "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/5 * * * *",
-        "tz": "UTC"
-      },
-      "state": {
-        "nextRunAtMs": 1780403400000,
-        "lastRunAtMs": 1780403205416,
-        "lastRunStatus": "ok",
-        "lastStatus": "ok",
-        "lastDurationMs": 17965,
-        "lastDelivered": false,
-        "lastDeliveryStatus": "not-delivered",
-        "consecutiveErrors": 0,
-        "consecutiveSkipped": 0,
-        "runningAtMs": 1780403400004
-      },
-      "issues": [
-        "delivery=not-delivered"
-      ],
-      "tail": "{\"ts\":1780403223399,\"jobId\":\"a938be42-bca6-4ba0-8e6f-141f2b8b2fab\",\"action\":\"finished\",\"status\":\"ok\",\"summary\":\"HEARTBEAT_OK\",\"delivered\":false,\"deliveryStatus\":\"not-delivered\",\"delivery\":{\"intended\":{\"channel\":\"discord\",\"to\":\"channel:1338836482420510764\",\"accountId\":\"celesteela\",\"source\":\"explicit\"},\"resolved\":{\"ok\":true,\"channel\":\"discord\",\"to\":\"channel:1338836482420510764\",\"accountId\":\"celesteela\",\"source\":\"explicit\"},\"fallbackUsed\":false,\"delivered\":false},\"sessionId\":\"5371b5ca-520c-4900-a774-af6a0a4788f8\",\"sessionKey\":\"agent:celesteela:cron:a938be42-bca6-4ba0-8e6f-141f2b8b2fab:run:5371b5ca-520c-4900-a774-af6a0a4788f8\",\"runAtMs\":1780403205416,\"durationMs\":17965,\"nextRunAtMs\":1780403400000,\"model\":\"gpt-5.5\",\"provider\":\"openai-codex\",\"usage\":{\"input_tokens\":7798,\"output_tokens\":248,\"total_tokens\":23150}}"
-    }
-  ],
-  "summaries": [
-    {
-      "id": "ee14ba4c-989a-482c-a49a-fdd275e20dff",
-      "name": "Rowlet Keep-Alive",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:25:00.007Z",
-      "nextRun": "2026-06-02T12:30:00.000Z"
-    },
-    {
-      "id": "02eb0989-891b-43fe-8a6e-dbcb059a4124",
-      "name": "Picturecat Keep-Alive",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:03:33.038Z",
-      "nextRun": "2026-06-02T14:01:23.265Z"
-    },
-    {
-      "id": "1b2165f9-3957-43b0-88b1-d859bf6272b2",
-      "name": "Charizard Keep-Alive",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:25:23.568Z",
-      "nextRun": "2026-06-02T12:30:00.000Z"
-    },
-    {
-      "id": "9d8b6001-3178-46bf-ad9b-dfbb1ec0faa7",
-      "name": "Gengar Keep-Alive",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:03:40.015Z",
-      "nextRun": "2026-06-02T14:02:29.400Z"
-    },
-    {
-      "id": "911eee45-08ad-4b02-afbe-5371bb2d20dc",
-      "name": "每日資安建議",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-01T21:00:25.060Z",
-      "nextRun": "2026-06-02T21:00:00.000Z"
-    },
-    {
-      "id": "0bbbdf84-f592-4996-8671-10754f684673",
-      "name": "OpenClaw 資安晨間研究",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T08:00:45.218Z",
-      "nextRun": "2026-06-03T08:00:00.000Z"
-    },
-    {
-      "id": "b6ee3e6b-b358-4b0a-858a-dfe80fe41c90",
-      "name": "排程健康檢查",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-01T12:30:37.471Z",
-      "nextRun": "2026-06-02T12:30:00.000Z"
-    },
-    {
-      "id": "f5148ff0-56eb-42c2-847f-978bb481aadf",
-      "name": "OpenClaw 版本檢查",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-05-31T00:00:30.969Z",
-      "nextRun": "2026-06-07T00:00:00.000Z"
-    },
-    {
-      "id": "f04250a0-a089-46f5-82b7-54aa46e6f50a",
-      "name": "資安異常行為監控",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T00:00:48.554Z",
-      "nextRun": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "58fe15dc-46e1-445d-89bc-ddd123881c98",
-      "name": "每日論文討論",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-01T23:00:43.638Z",
-      "nextRun": "2026-06-02T23:00:00.000Z"
-    },
-    {
-      "id": "4f05df5c-6ff0-459c-a6ec-c3d7bb2db716",
-      "name": "資安異常行為監控",
-      "enabled": true,
-      "last": "error",
-      "run": "error",
-      "err": 4,
-      "skip": 0,
-      "delivery": "unknown",
-      "lastRun": "2026-06-01T16:00:37.386Z",
-      "nextRun": "2026-06-02T16:00:00.000Z"
-    },
-    {
-      "id": "5b7c1082-961c-4600-ab71-6a883dd95782",
-      "name": "每日模型排行前十",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-01T23:06:40.562Z",
-      "nextRun": "2026-06-02T23:00:00.000Z"
-    },
-    {
-      "id": "b37129c0-2065-45e7-8e04-ac5a86962f74",
-      "name": "ClawCode研究進度報告",
-      "enabled": false,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-04-01T13:10:00.005Z",
-      "nextRun": "-"
-    },
-    {
-      "id": "ee3def26-a291-4c4a-ac8f-66f6671566bb",
-      "name": "RoaringMoon Keep-Alive",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:25:56.206Z",
-      "nextRun": "2026-06-02T12:30:00.000Z"
-    },
-    {
-      "id": "2f7813c0-cf7f-40f2-8854-41ee40441d99",
-      "name": "每日本地多模型 Task Manager 研究",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-01T22:00:46.001Z",
-      "nextRun": "2026-06-02T22:00:00.000Z"
-    },
-    {
-      "id": "3eb46a5d-8ff7-47e7-ae4e-a0f72a0f2eb4",
-      "name": "每日 OpenClaw 備份",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T08:02:03.201Z",
-      "nextRun": "2026-06-03T08:00:00.000Z"
-    },
-    {
-      "id": "09c7940b-c32b-4336-928f-6f158947147d",
-      "name": "PTCGP Meta Analysis",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:01:02.223Z",
-      "nextRun": "2026-06-03T12:00:00.000Z"
-    },
-    {
-      "id": "880b5c17-1395-494b-8ed5-a25282eb8699",
-      "name": "Celesteela Keep-Alive",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:03:46.353Z",
-      "nextRun": "2026-06-02T14:02:07.124Z"
-    },
-    {
-      "id": "ac0674c2-9440-4634-893f-739c8e63d8b6",
-      "name": "PTCGP Meta Analysis Retry",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:13:32.101Z",
-      "nextRun": "2026-06-03T12:13:32.095Z"
-    },
-    {
-      "id": "8e1e7e5d-9e3b-4a17-996c-8b3d98650953",
-      "name": "每6小時追蹤 claw-code + OpenClaw + Hermes Agent upstream 進度",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T12:03:53.783Z",
-      "nextRun": "2026-06-02T18:01:44.697Z"
-    },
-    {
-      "id": "95f9a57e-fb28-4fe5-a05a-8b406adcac1c",
-      "name": "Amyssjj Learning Notes - 每12小時理解分享",
-      "enabled": true,
-      "last": "error",
-      "run": "error",
-      "err": 2,
-      "skip": 0,
-      "delivery": "unknown",
-      "lastRun": "2026-06-02T02:57:33.617Z",
-      "nextRun": "2026-06-02T14:57:33.617Z"
-    },
-    {
-      "id": "ae91b967-fd0e-4635-a575-5bcac18a408a",
-      "name": "每日 LLM Wiki 巡讀與擴寫",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T01:00:49.806Z",
-      "nextRun": "2026-06-03T01:00:00.000Z"
-    },
-    {
-      "id": "72c2083f-ba29-4870-9b28-91045073bb74",
-      "name": "Daily Codex health check",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T10:01:05.072Z",
-      "nextRun": "2026-06-03T10:00:00.000Z"
-    },
-    {
-      "id": "task-queue-test-check",
-      "name": "",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-01T13:01:27.159Z",
-      "nextRun": "2026-06-02T13:00:00.000Z"
-    },
-    {
-      "id": "ac9e7ada-134e-4b83-8161-6ec18ca312b9",
-      "name": "You are an English coach. Send a short reminder to the Disc…",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-01T21:01:20.950Z",
-      "nextRun": "2026-06-02T21:00:00.000Z"
-    },
-    {
-      "id": "9dd7ce72-7ed9-4f3a-896c-751fd3ffbc54",
-      "name": "MrMime Keep-Alive",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-requested",
-      "lastRun": "2026-06-02T12:26:23.957Z",
-      "nextRun": "2026-06-02T12:30:00.000Z"
-    },
-    {
-      "id": "cb7bf44e-cb29-4dab-b391-776689505b7b",
-      "name": "專案進度回報",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T12:23:59.763Z",
-      "nextRun": "2026-06-02T12:53:59.763Z"
-    },
-    {
-      "id": "4c2c50db-366d-4c0d-bd44-99b2161a544b",
-      "name": "台北租屋搜尋",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-01T13:01:48.799Z",
-      "nextRun": "2026-06-02T13:00:00.000Z"
-    },
-    {
-      "id": "7aca7fc4-9198-4bf3-a301-6440b1e35640",
-      "name": "architecture-daily-intel",
-      "enabled": true,
-      "last": "error",
-      "run": "error",
-      "err": 3,
-      "skip": 0,
-      "delivery": "unknown",
-      "lastRun": "2026-06-01T18:01:21.552Z",
-      "nextRun": "2026-06-02T18:00:00.000Z"
-    },
-    {
-      "id": "a938be42-bca6-4ba0-8e6f-141f2b8b2fab",
-      "name": "ptcgp-video-monitor",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "not-delivered",
-      "lastRun": "2026-06-02T12:26:45.416Z",
-      "nextRun": "2026-06-02T12:30:00.000Z"
-    },
-    {
-      "id": "72a0c6ef-3762-4ec5-b529-0cc1d9c585eb",
-      "name": "PTCGP-daily-translation-update",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T00:05:31.210Z",
-      "nextRun": "2026-06-03T00:00:00.000Z"
-    },
-    {
-      "id": "3bec9884-f883-49e3-a8e6-548b49f47a43",
-      "name": "AI Agent架構框架進度回報",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T12:14:15.844Z",
-      "nextRun": "2026-06-02T12:44:15.844Z"
-    },
-    {
-      "id": "fb5634f3-e000-43f9-b125-0b2ec02f22c4",
-      "name": "每日軟體架構研究",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T04:01:38.109Z",
-      "nextRun": "2026-06-03T04:00:00.000Z"
-    },
-    {
-      "id": "1917e902-c91f-45ff-8cdc-713d49ce85e6",
-      "name": "每三小時 llm-wiki 提問",
-      "enabled": true,
-      "last": "ok",
-      "run": "ok",
-      "err": 0,
-      "skip": 0,
-      "delivery": "delivered",
-      "lastRun": "2026-06-02T10:03:45.150Z",
-      "nextRun": "2026-06-02T13:03:45.150Z"
+      "consecutiveErrors": 10,
+      "lastRunStatus": "error",
+      "lastRunAt": "2026-06-08T18:00:00.011Z",
+      "nextRunAt": "2026-06-09T18:00:00.000Z",
+      "lastDeliveryStatus": "unknown",
+      "lastError": "DiscordError: Missing Access",
+      "deliveryPreview": "explicit"
     }
   ]
 }
