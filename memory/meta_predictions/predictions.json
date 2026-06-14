@@ -435,8 +435,13 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-13",
-    "verification": null,
-    "reflection": null
+    "verification": {
+      "date": "2026-06-13",
+      "result": "hit",
+      "actual": "水君＋戟脊龍維持5.08%使用率、52.22%調整後勝率，確實成為被承認的主流反環境但略受針對；火焰雞＋甲賀忍蛙維持4.15%與52.02%，穩定並列T1.5；睡眠太陽伊布仍第一但約五成，南瓜精分支仍較有效率。",
+      "lesson": "水君被針對後仍未崩，代表底子足；但火焰雞與南瓜精睡眠的穩定性也必須同列第一觀察層。"
+    },
+    "reflection": "情境A/B/C皆命中；環境進入睡眠基準＋水君/火焰雞/南瓜精三個效率軸互相修正。"
   },
   {
     "id": "PRED_20260612",
@@ -467,6 +472,38 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-14",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260613",
+    "date": "2026-06-13",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-13 12:00 UTC; update_time field stale ignored",
+    "environment_summary": "睡眠青鳥仍為使用率第一但約五成；水君＋戟脊龍與火焰雞＋甲賀忍蛙都維持52%左右；南瓜精睡眠是睡眠內部較佳分支；電系人多但報酬低。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋火焰雞雙反環境穩定",
+        "probability": 0.4,
+        "description": "兩者使用率分別約5%與4%，調整後勝率維持51.5～52.5%，不爆量但繼續是首選效率層。"
+      },
+      {
+        "scenario": "B",
+        "name": "南瓜精睡眠續升為睡眠正解",
+        "probability": 0.35,
+        "description": "太陽伊布版仍第一但五成；南瓜精版因干擾價值維持51.5%以上，吸收部分睡眠玩家。"
+      },
+      {
+        "scenario": "C",
+        "name": "電系與蜥蜴王繼續低報酬",
+        "probability": 0.25,
+        "description": "密勒頓/自爆磁怪維持高使用但勝率普通，蜥蜴王低於五成，難成主答案。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-15",
     "verification": null,
     "reflection": null
   }
