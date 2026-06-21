@@ -547,5 +547,175 @@
     "check_date": "2026-06-16",
     "verification": null,
     "reflection": null
+  },
+  {
+    "id": "PRED_20260615",
+    "date": "2026-06-15",
+    "set": "B3a",
+    "source": "Limitless TCG fetch failed - data from 2026-06-14 as fallback",
+    "environment_summary": "（資料來自 2026-06-14）七夕青鳥+太陽伊布 8.05%/50.57% 仍第一；水君+戟脊龍 5.05%/52.14% 主流最高效率；火焰雞+忍蛙 4.22%/51.90%；南瓜精睡眠 4.11%/51.73%；電系合計11.24%但勝率不足50.5%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍繼續領先",
+        "probability": 0.35,
+        "description": "使用率維持 5% 左右，調整後勝率守住 52% 以上。環境警覺但尚未形成有效針對。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞止穩均值回歸",
+        "probability": 0.35,
+        "description": "節奏型牌組單日波動不代表趨勢，樣本夠大時勝率回到 52% 左右，與水君並列效率首選。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠內戰加深",
+        "probability": 0.3,
+        "description": "七夕青鳥使用率維持 8%，電系陷阱持續，三首惡龍等中型牌組吸收剩餘份額。"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "low-medium",
+    "check_date": "2026-06-17",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260616",
+    "date": "2026-06-16",
+    "set": "B3a",
+    "source": "Limitless TCG 2026-06-16 13:50 UTC",
+    "environment_summary": "睡眠青鳥使用率7.83%排第一但勝率50.71%；水君戟脊龍4.91%/52.01%繼續領先；電系陷阱持續；火焰雞忍蛙穩健；路卡利歐忍蛙新晉T1",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君戟脊龍繼續領先",
+        "probability": 0.4,
+        "description": "5%使用率、52%AWR維持。電系陷阱分走流量，讓水君有更多乾淨matchup。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞均值回歸",
+        "probability": 0.35,
+        "description": "節奏型牌組數據持續修復，勝率向52%移動。配合路卡利歐/火焰雞格鬥系打電系，形成上行走勢。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠內戰加深",
+        "probability": 0.25,
+        "description": "七夕青鳥使用率維持8%但勝率在50%掙扎，環境趨向內卷。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-18",
+    "verification": "CONFIRMED：水君53.85%勝率，確認情境A。水君使用率維持4.91%（未破5%）。七夕青鳥勝率反彈至52.13%，情境C（睡眠内卷）未發生。",
+    "reflection": "預測太保守。水君效率冠軍地位穩固，但使用率遲遲未破5%——多數玩家仍偏好高人氣而非高效率的牌組。電系陷阱效應比預期更持久。火焰雞確認均值回歸。"
+  },
+  {
+    "id": "PRED_20260617",
+    "date": "2026-06-17",
+    "set": "B3a",
+    "source": "Limitless TCG raw HTML (B3a, structure changed - parsing from local cache)",
+    "environment_summary": "水君戟脊龍53.85%AWR確認效率冠軍；火焰雞忍蛙53.47%確認上升；七夕青鳥勝率回升至52.13%；電系陷阱持續；草系正式退場；路卡利歐忍蛙確認上位",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率破5%",
+        "probability": 0.4,
+        "description": "效率冠軍被越來越多人認可，均值回歸正在發生。電系繼續分走流量，為水系創造乾淨 matchup。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞＋忍蛙 AWR站穩53%+",
+        "probability": 0.3,
+        "description": "節奏型牌組的均值回歸確認。配合路卡利歐上行走勢，格鬥系性價比持續優於睡眠青鳥。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠内卷加深",
+        "probability": 0.3,
+        "description": "七夕青鳥使用率維持高檔，但勝率在52%遇到天花板。環境開始出現更多針對睡眠的構築。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-19",
+    "verification": {
+      "date": "2026-06-18",
+      "result": "partial_hit",
+      "actual": "水君使用率4.91%未破5%（情境A未命中）；火焰雞53.47%確認上升（情境B命中）；七夕青鳥勝率反彈至52.13%，內卷未加劇（情境C未命中）",
+      "lesson": "水君效率確認但使用率天花板效應比預期更強；火焰雞均值回歸是今日最準預測；睡眠內卷假象被勝率反彈打破"
+    },
+    "reflection": "高估使用率增長速度；低估睡眠青鳥勝率反彈幅度；電系陷阱規律再次驗證，別再預測電系覺醒"
+  },
+  {
+    "id": "PRED_20260618",
+    "date": "2026-06-18",
+    "set": "B3a",
+    "source": "Limitless TCG raw HTML (B3a - parse failed), local cache 2026-06-17 as baseline",
+    "environment_summary": "水君戟脊龍53.85%AWR效率王確認；火焰雞忍蛙53.47%均值回歸確認；七夕青鳥反彈至52.13%；電系陷阱持續；路卡利歐忍蛙新晉確認；草系正式退場",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君效率王地位鞏固",
+        "probability": 0.4,
+        "description": "使用率向5%逼近。電系陷阱效應持續，水君保持乾淨matchup，勝率維持52%+。"
+      },
+      {
+        "scenario": "B",
+        "name": "格鬥系板塊繼續移動",
+        "probability": 0.35,
+        "description": "火焰雞＋忍蛙與路卡利歐＋忍蛙形成雙軸格鬥生態。合計使用率若突破7%，代表環境結構性轉變。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠青鳥內卷重現",
+        "probability": 0.25,
+        "description": "七夕青鳥使用率維持7-8%，勝率在52%遇到天花板，環境開始出現更多干擾型針對睡眠構築。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-20",
+    "verification": {
+      "date": "2026-06-19",
+      "result": "partial_hit",
+      "actual": "水君4.85%使用率未破5%（情境A未命中）；火焰雞4.29%使用率確認站穩但格鬥系合計6.49%未破7%（情境B部分命中）；七夕青鳥勝率50.86%未跌破50%但接近（情境C未命中）",
+      "lesson": "電系陷阱持續，水君仍是效率王但使用率天花板效應比預期更頑固；七夕青鳥勝率50.86%已非常接近50%臨界點"
+    },
+    "reflection": "水君使用率天花板效應再次確認——即使勝率明確高於電系陷阱，大量玩家仍選擇高人氣而非高效率。七夕青鳥勝率跌破51%是結構性警訊。"
+  },
+  {
+    "id": "PRED_20260619",
+    "date": "2026-06-19",
+    "set": "B3a",
+    "source": "Limitless TCG raw HTML top-50 visible decks (B3a, 06-19 12:17 UTC) - parser format changed",
+    "environment_summary": "七夕青鳥+太陽伊布 7.77%/50.86% 仍第一；水君+戟脊龍 4.85%/52.16% 重回效率王座；電系三分支合計13%+但全低於51%；火焰雞+忍蛙 4.29%/51.56% 站穩；草系蜥蜴王 4.06%/49.88% 仍未復甦",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破5%",
+        "probability": 0.4,
+        "description": "效率差距太明顯，遲早被更多玩家採用。電系繼續分走流量，為水系創造乾淨 matchup。"
+      },
+      {
+        "scenario": "B",
+        "name": "格鬥系板塊合計突破7%",
+        "probability": 0.35,
+        "description": "火焰雞＋忍蛙與路卡利歐＋忍蛙合計使用率已達6.49%，若繼續上升，代表環境結構性轉向節奏控制。"
+      },
+      {
+        "scenario": "C",
+        "name": "七夕青鳥太陽伊布分支勝率跌破50%",
+        "probability": 0.25,
+        "description": "睡眠青鳥内部持續分化，太陽伊布分支在大量樣本下可能正式失守50%，玩家開始向南瓜精分支收斂。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-21",
+    "verification": null,
+    "reflection": null
   }
 ]
