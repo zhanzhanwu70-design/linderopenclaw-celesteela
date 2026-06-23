@@ -715,6 +715,43 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-06-21",
+    "verification": {
+      "date": "2026-06-22",
+      "result": "partial_miss",
+      "actual": "水君4.90%使用率仍未破5%（情境A未命中，差0.1%）；格鬥系合計8.14%已超過7%（情境B命中）；七夕青鳥太陽伊布分支勝率50.83% raw_wr，未跌破50%（情境C未命中）",
+      "lesson": "水君使用率天花板效應頑固；格鬥系合計早已突破7%門檻，暗示玩家分流向效率軸"
+    },
+    "reflection": "情境B（格鬥系突破7%）已命中，環境確實在向節奏控制演進；水君5%門檻比預期頑固，可能需要更長時間"
+  },
+  {
+    "id": "PRED_20260622",
+    "date": "2026-06-22",
+    "set": "B3a",
+    "source": "play.limitlesstcg.com live fetch (06-22 12:06 UTC)",
+    "environment_summary": "水君戟脊龍突破53% AWR；格鬥系三軸全部站上52%+；南瓜精分支勝率比太陽伊布分支高1.38%；電系仍是最大陷阱；Iron Valiant Iron Boulder以54.68% AWR成為隱藏王者。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破5%",
+        "probability": 0.4,
+        "description": "效率差距已足夠大，預計兩天內正式突破5%門檻。電系持續分流為水系創造乾淨對局。"
+      },
+      {
+        "scenario": "B",
+        "name": "格鬥系合計突破9%",
+        "probability": 0.35,
+        "description": "三個分支合計8.14%，距離9%只差約1%。若環境加速遠離電系，格鬥系將是最大受益者。"
+      },
+      {
+        "scenario": "C",
+        "name": "Iron Valiant 使用率翻倍至2%+",
+        "probability": 0.25,
+        "description": "54.68% AWR + 726場確認後，遲早被更多高端玩家採用。若被社群論證，可能複製水君被追上的路徑。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium-high",
+    "check_date": "2026-06-24",
     "verification": null,
     "reflection": null
   }
