@@ -755,4 +755,38 @@
     "verification": null,
     "reflection": null
   }
+],
+
+  {
+    "id": "PRED_20260624",
+    "date": "2026-06-24",
+    "set": "B3a",
+    "source": "Limitless TCG live fetch (game=POCKET, format=standard) - 125 tournaments, 13664 players, 37179 matches",
+    "environment_summary": "七夕青鳥+太陽伊布 7.60%/50.72% 仍第一；水君+戟脊龍 4.95%/52.03% 主流最高效率；電系合計10%+但勝率不足50.5%持續；火焰雞+忍蛙 4.15%/51.35%站穩T1.5；Iron Valiant Iron Boulder 0.91%/53.03%隱藏冠軍；格鬥系合計8.06%接近9%門檻。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破5%",
+        "probability": 0.40,
+        "description": "效率差距累積，越來越多玩家開始「追隨數據」而非「跟隨習慣」。水君遲遲未破5%天花板效應可能即將被突破。"
+      },
+      {
+        "scenario": "B",
+        "name": "格鬥系合計突破9%",
+        "probability": 0.35,
+        "description": "火焰雞＋忍蛙與路卡利歐軸合計已達8.06%，距離9%只差約1%。若環境加速遠離電系陷阱，格鬥系將是最大受益者。"
+      },
+      {
+        "scenario": "C",
+        "name": "Iron Valiant樣本擴張確認",
+        "probability": 0.25,
+        "description": "53.03%勝率（125場）若能在更大樣本下維持，可能複製水君被追上的路徑，成為下一個效率軸心。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-26",
+    "verification": null,
+    "reflection": null
+  }
 ]
