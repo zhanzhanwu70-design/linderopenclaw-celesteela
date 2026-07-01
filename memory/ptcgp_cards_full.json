@@ -36116,5 +36116,1129 @@
     "weakness": "Retreat: 1",
     "retreat": "",
     "attacks": []
+  },
+  "B3b_001": {
+    "set": "B3b",
+    "number": 1,
+    "name": "Caterpie",
+    "type": "Grass",
+    "hp": 40,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      "G"
+    ]
+  },
+  "B3b_002": {
+    "set": "B3b",
+    "number": 2,
+    "name": "Metapod",
+    "type": "Grass",
+    "hp": 80,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      "G",
+      "C"
+    ]
+  },
+  "B3b_003": {
+    "set": "B3b",
+    "number": 3,
+    "name": "Butterfree",
+    "type": "Grass",
+    "hp": 130,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      "GG",
+      "C"
+    ]
+  },
+  "B3b_004": {
+    "set": "B3b",
+    "number": 4,
+    "name": "Cacnea",
+    "type": "Grass",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      "C"
+    ]
+  },
+  "B3b_005": {
+    "set": "B3b",
+    "number": 5,
+    "name": "Tropius",
+    "type": "Grass",
+    "hp": 100,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      "C",
+      "C"
+    ]
+  },
+  "B3b_006": {
+    "set": "B3b",
+    "number": 6,
+    "name": "Petilil",
+    "type": "Grass",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      "G"
+    ]
+  },
+  "B3b_007": {
+    "set": "B3b",
+    "number": 7,
+    "name": "Hisuian Lilligant",
+    "type": "Grass",
+    "hp": 100,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      "G",
+      "C"
+    ]
+  },
+  "B3b_008": {
+    "set": "B3b",
+    "number": 8,
+    "name": "Vulpix",
+    "type": "Fire",
+    "hp": 60,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      "R"
+    ]
+  },
+  "B3b_009": {
+    "set": "B3b",
+    "number": 9,
+    "name": "Ninetales",
+    "type": "Fire",
+    "hp": 100,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      "R",
+      "R"
+    ]
+  },
+  "B3b_010": {
+    "set": "B3b",
+    "number": 10,
+    "name": "Growlithe",
+    "type": "Fire",
+    "hp": 80,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      "R"
+    ]
+  },
+  "B3b_011": {
+    "set": "B3b",
+    "number": 11,
+    "name": "Psyduck",
+    "type": "Water",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      "W"
+    ]
+  },
+  "B3b_012": {
+    "set": "B3b",
+    "number": 12,
+    "name": "Goldeen",
+    "type": "Water",
+    "hp": 50,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      "W"
+    ]
+  },
+  "B3b_013": {
+    "set": "B3b",
+    "number": 13,
+    "name": "Seaking",
+    "type": "Water",
+    "hp": 90,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      "W",
+      "C"
+    ]
+  },
+  "B3b_014": {
+    "set": "B3b",
+    "number": 14,
+    "name": "Feebas",
+    "type": "Water",
+    "hp": 30,
+    "weakness": "Lightning",
+    "retreat": 0,
+    "attacks": [
+      "W"
+    ]
+  },
+  "B3b_015": {
+    "set": "B3b",
+    "number": 15,
+    "name": "Milotic ex",
+    "type": "Water",
+    "hp": 140,
+    "weakness": "Lightning",
+    "retreat": 2,
+    "attacks": [
+      "WW",
+      "W"
+    ]
+  },
+  "B3b_016": {
+    "set": "B3b",
+    "number": 16,
+    "name": "Snorunt",
+    "type": "Ice",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      "Y"
+    ]
+  },
+  "B3b_017": {
+    "set": "B3b",
+    "number": 17,
+    "name": "Froslass",
+    "type": "Ice",
+    "hp": 100,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      "YY",
+      "Y"
+    ]
+  },
+  "B3b_018": {
+    "set": "B3b",
+    "number": 18,
+    "name": "Luvdisc",
+    "type": "Water",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      "W"
+    ]
+  },
+  "B3b_019": {
+    "set": "B3b",
+    "number": 19,
+    "name": "Piplup",
+    "type": "Water",
+    "hp": 60,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      "W"
+    ]
+  },
+  "B3b_020": {
+    "set": "B3b",
+    "number": 20,
+    "name": "Iron Bundle",
+    "type": "Water",
+    "hp": 80,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      "W",
+      "D"
+    ]
+  },
+  "B3b_021": {
+    "set": "B3b",
+    "number": 21,
+    "name": "Pikachu",
+    "type": "Lightning",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      "L"
+    ]
+  },
+  "B3b_022": {
+    "set": "B3b",
+    "number": 22,
+    "name": "Raichu",
+    "type": "Lightning",
+    "hp": 110,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      "L",
+      "L"
+    ]
+  },
+  "B3b_023": {
+    "set": "B3b",
+    "number": 23,
+    "name": "Emolga",
+    "type": "Lightning",
+    "hp": 70,
+    "weakness": "Fighting",
+    "retreat": 0,
+    "attacks": [
+      "L"
+    ]
+  },
+  "B3b_024": {
+    "set": "B3b",
+    "number": 24,
+    "name": "Dedenne ex",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      "L"
+    ]
+  },
+  "B3b_025": {
+    "set": "B3b",
+    "number": 25,
+    "name": "Yamper",
+    "type": "Lightning",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      "L"
+    ]
+  },
+  "B3b_026": {
+    "set": "B3b",
+    "number": 26,
+    "name": "Slowpoke",
+    "type": "Water",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      "W"
+    ]
+  },
+  "B3b_027": {
+    "set": "B3b",
+    "number": 27,
+    "name": "Slowbro",
+    "type": "Water",
+    "hp": 130,
+    "weakness": "Lightning",
+    "retreat": 2,
+    "attacks": [
+      "WW",
+      "C"
+    ]
+  },
+  "B3b_028": {
+    "set": "B3b",
+    "number": 28,
+    "name": "Munna",
+    "type": "Psychic",
+    "hp": 60,
+    "weakness": "Psychic",
+    "retreat": 1,
+    "attacks": [
+      "P"
+    ]
+  },
+  "B3b_029": {
+    "set": "B3b",
+    "number": 29,
+    "name": "Musharna",
+    "type": "Psychic",
+    "hp": 100,
+    "weakness": "Psychic",
+    "retreat": 2,
+    "attacks": [
+      "PP",
+      "C"
+    ]
+  },
+  "B3b_030": {
+    "set": "B3b",
+    "number": 30,
+    "name": "Sylveon",
+    "type": "Fairy",
+    "hp": 100,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "F",
+      "F"
+    ]
+  },
+  "B3b_031": {
+    "set": "B3b",
+    "number": 31,
+    "name": "Carbink",
+    "type": "Fairy",
+    "hp": 50,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F",
+      "F"
+    ]
+  },
+  "B3b_032": {
+    "set": "B3b",
+    "number": 32,
+    "name": "Mega Diancie ex",
+    "type": "Fairy",
+    "hp": 170,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F",
+      "F",
+      "F"
+    ]
+  },
+  "B3b_033": {
+    "set": "B3b",
+    "number": 33,
+    "name": "Enamorus",
+    "type": "Fairy",
+    "hp": 100,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "F",
+      "F"
+    ]
+  },
+  "B3b_034": {
+    "set": "B3b",
+    "number": 34,
+    "name": "Fidough",
+    "type": "Fairy",
+    "hp": 40,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F"
+    ]
+  },
+  "B3b_035": {
+    "set": "B3b",
+    "number": 35,
+    "name": "Flutter Mane",
+    "type": "Fairy",
+    "hp": 80,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "F",
+      "P"
+    ]
+  },
+  "B3b_036": {
+    "set": "B3b",
+    "number": 36,
+    "name": "Wooper",
+    "type": "Poison",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "P"
+    ]
+  },
+  "B3b_037": {
+    "set": "B3b",
+    "number": 37,
+    "name": "Quagsire",
+    "type": "Poison",
+    "hp": 120,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "P",
+      "P"
+    ]
+  },
+  "B3b_038": {
+    "set": "B3b",
+    "number": 38,
+    "name": "Rockruff",
+    "type": "Fighting",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "F"
+    ]
+  },
+  "B3b_039": {
+    "set": "B3b",
+    "number": 39,
+    "name": "Sandygast",
+    "type": "Fighting",
+    "hp": 80,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F",
+      "D"
+    ]
+  },
+  "B3b_040": {
+    "set": "B3b",
+    "number": 40,
+    "name": "Palossand",
+    "type": "Fighting",
+    "hp": 130,
+    "weakness": null,
+    "retreat": 3,
+    "attacks": [
+      "F",
+      "F",
+      "D"
+    ]
+  },
+  "B3b_041": {
+    "set": "B3b",
+    "number": 41,
+    "name": "Mega Sableye ex",
+    "type": "Dark",
+    "hp": 170,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  "B3b_042": {
+    "set": "B3b",
+    "number": 42,
+    "name": "Cacturne",
+    "type": "Grass",
+    "hp": 100,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      "G",
+      "G",
+      "G"
+    ]
+  },
+  "B3b_043": {
+    "set": "B3b",
+    "number": 43,
+    "name": "Spiritomb",
+    "type": "Dark",
+    "hp": 80,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "D",
+      "D"
+    ]
+  },
+  "B3b_044": {
+    "set": "B3b",
+    "number": 44,
+    "name": "Scraggy",
+    "type": "Fighting",
+    "hp": 70,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "F"
+    ]
+  },
+  "B3b_045": {
+    "set": "B3b",
+    "number": 45,
+    "name": "Scrafty",
+    "type": "Fighting",
+    "hp": 110,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F",
+      "F"
+    ]
+  },
+  "B3b_046": {
+    "set": "B3b",
+    "number": 46,
+    "name": "Mareanie",
+    "type": "Poison",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "P"
+    ]
+  },
+  "B3b_047": {
+    "set": "B3b",
+    "number": 47,
+    "name": "Toxapex",
+    "type": "Poison",
+    "hp": 110,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "P",
+      "P"
+    ]
+  },
+  "B3b_048": {
+    "set": "B3b",
+    "number": 48,
+    "name": "Goomy",
+    "type": "Dragon",
+    "hp": 50,
+    "weakness": null,
+    "retreat": 0,
+    "attacks": [
+      "D"
+    ]
+  },
+  "B3b_049": {
+    "set": "B3b",
+    "number": 49,
+    "name": "Hisuian Sliggoo",
+    "type": "Dragon",
+    "hp": 100,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "D",
+      "D"
+    ]
+  },
+  "B3b_050": {
+    "set": "B3b",
+    "number": 50,
+    "name": "Hisuian Goodra",
+    "type": "Dragon",
+    "hp": 150,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  "B3b_051": {
+    "set": "B3b",
+    "number": 51,
+    "name": "Jigglypuff",
+    "type": "Fairy",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "F"
+    ]
+  },
+  "B3b_052": {
+    "set": "B3b",
+    "number": 52,
+    "name": "Wigglytuff",
+    "type": "Fairy",
+    "hp": 100,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F",
+      "F"
+    ]
+  },
+  "B3b_053": {
+    "set": "B3b",
+    "number": 53,
+    "name": "Eevee",
+    "type": "Colorless",
+    "hp": 70,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "C"
+    ]
+  },
+  "B3b_054": {
+    "set": "B3b",
+    "number": 54,
+    "name": "Munchlax",
+    "type": "Colorless",
+    "hp": 50,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "C"
+    ]
+  },
+  "B3b_055": {
+    "set": "B3b",
+    "number": 55,
+    "name": "Snorlax",
+    "type": "Colorless",
+    "hp": 130,
+    "weakness": null,
+    "retreat": 4,
+    "attacks": [
+      "C",
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  "B3b_056": {
+    "set": "B3b",
+    "number": 56,
+    "name": "Teddiursa",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "C"
+    ]
+  },
+  "B3b_057": {
+    "set": "B3b",
+    "number": 57,
+    "name": "Ursaring",
+    "type": "Colorless",
+    "hp": 110,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "C",
+      "C"
+    ]
+  },
+  "B3b_058": {
+    "set": "B3b",
+    "number": 58,
+    "name": "Ursaluna",
+    "type": "Fighting",
+    "hp": 160,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F",
+      "F",
+      "C"
+    ]
+  },
+  "B3b_059": {
+    "set": "B3b",
+    "number": 59,
+    "name": "Hisuian Zorua",
+    "type": "Dark",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "D"
+    ]
+  },
+  "B3b_060": {
+    "set": "B3b",
+    "number": 60,
+    "name": "Hisuian Zoroark ex",
+    "type": "Dark",
+    "hp": 150,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  "B3b_061": {
+    "set": "B3b",
+    "number": 61,
+    "name": "Furfrou",
+    "type": "Colorless",
+    "hp": 70,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "C",
+      "C"
+    ]
+  },
+  "B3b_062": {
+    "set": "B3b",
+    "number": 62,
+    "name": "Skwovet",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "C"
+    ]
+  },
+  "B3b_063": {
+    "set": "B3b",
+    "number": 63,
+    "name": "Greedent",
+    "type": "Colorless",
+    "hp": 130,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "C",
+      "C"
+    ]
+  },
+  "B3b_064": {
+    "set": "B3b",
+    "number": 64,
+    "name": "Small Balloon",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_065": {
+    "set": "B3b",
+    "number": 65,
+    "name": "Elegant Cape",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_066": {
+    "set": "B3b",
+    "number": 66,
+    "name": "Elesa",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_067": {
+    "set": "B3b",
+    "number": 67,
+    "name": "Puppy-Loving Girl",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_068": {
+    "set": "B3b",
+    "number": 68,
+    "name": "Wallace",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_069": {
+    "set": "B3b",
+    "number": 69,
+    "name": "Kid's Room",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_070": {
+    "set": "B3b",
+    "number": 70,
+    "name": "Vulpix",
+    "type": "Fire",
+    "hp": 60,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      "R"
+    ]
+  },
+  "B3b_071": {
+    "set": "B3b",
+    "number": 71,
+    "name": "Piplup",
+    "type": "Water",
+    "hp": 60,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      "W"
+    ]
+  },
+  "B3b_072": {
+    "set": "B3b",
+    "number": 72,
+    "name": "Pikachu",
+    "type": "Lightning",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      "L"
+    ]
+  },
+  "B3b_073": {
+    "set": "B3b",
+    "number": 73,
+    "name": "Sylveon",
+    "type": "Fairy",
+    "hp": 100,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "F",
+      "F"
+    ]
+  },
+  "B3b_074": {
+    "set": "B3b",
+    "number": 74,
+    "name": "Mareanie",
+    "type": "Poison",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "P"
+    ]
+  },
+  "B3b_075": {
+    "set": "B3b",
+    "number": 75,
+    "name": "Jigglypuff",
+    "type": "Fairy",
+    "hp": 60,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "F"
+    ]
+  },
+  "B3b_076": {
+    "set": "B3b",
+    "number": 76,
+    "name": "Snorlax",
+    "type": "Colorless",
+    "hp": 130,
+    "weakness": null,
+    "retreat": 4,
+    "attacks": [
+      "C",
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  "B3b_077": {
+    "set": "B3b",
+    "number": 77,
+    "name": "Greedent",
+    "type": "Colorless",
+    "hp": 130,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "C",
+      "C"
+    ]
+  },
+  "B3b_078": {
+    "set": "B3b",
+    "number": 78,
+    "name": "Milotic ex",
+    "type": "Water",
+    "hp": 140,
+    "weakness": "Lightning",
+    "retreat": 2,
+    "attacks": [
+      "WW",
+      "W"
+    ]
+  },
+  "B3b_079": {
+    "set": "B3b",
+    "number": 79,
+    "name": "Dedenne ex",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      "L"
+    ]
+  },
+  "B3b_080": {
+    "set": "B3b",
+    "number": 80,
+    "name": "Mega Diancie ex",
+    "type": "Fairy",
+    "hp": 170,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F",
+      "F",
+      "F"
+    ]
+  },
+  "B3b_081": {
+    "set": "B3b",
+    "number": 81,
+    "name": "Mega Sableye ex",
+    "type": "Dark",
+    "hp": 170,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  "B3b_082": {
+    "set": "B3b",
+    "number": 82,
+    "name": "Hisuian Zoroark ex",
+    "type": "Dark",
+    "hp": 150,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  "B3b_083": {
+    "set": "B3b",
+    "number": 83,
+    "name": "Elesa",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_084": {
+    "set": "B3b",
+    "number": 84,
+    "name": "Puppy-Loving Girl",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_085": {
+    "set": "B3b",
+    "number": 85,
+    "name": "Wallace",
+    "type": null,
+    "hp": null,
+    "weakness": null,
+    "retreat": null,
+    "attacks": null
+  },
+  "B3b_086": {
+    "set": "B3b",
+    "number": 86,
+    "name": "Milotic ex",
+    "type": "Water",
+    "hp": 140,
+    "weakness": "Lightning",
+    "retreat": 2,
+    "attacks": [
+      "WW",
+      "W"
+    ]
+  },
+  "B3b_087": {
+    "set": "B3b",
+    "number": 87,
+    "name": "Mega Diancie ex",
+    "type": "Fairy",
+    "hp": 170,
+    "weakness": null,
+    "retreat": 2,
+    "attacks": [
+      "F",
+      "F",
+      "F"
+    ]
+  },
+  "B3b_088": {
+    "set": "B3b",
+    "number": 88,
+    "name": "Mega Sableye ex",
+    "type": "Dark",
+    "hp": 170,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  "B3b_089": {
+    "set": "B3b",
+    "number": 89,
+    "name": "Hisuian Zoroark ex",
+    "type": "Dark",
+    "hp": 150,
+    "weakness": null,
+    "retreat": 1,
+    "attacks": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  "B3b_090": {
+    "set": "B3b",
+    "number": 90,
+    "name": "Dedenne ex",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      "L"
+    ]
   }
 }

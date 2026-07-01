@@ -1,6 +1,11 @@
 # Long-Term Memory
 
 
+## Auto Video Processing
+- Linder 明確要求：看到 YouTube PTCGP 影片 URL 一律直接處理，不再等詢問
+- 處理流程：下載 → 截圖分析 → 寫 wiki → 回報 Discord
+- Whisper API 配額不足時用 frame analysis 截圖代替
+
 ## Promoted From Short-Term Memory (2026-06-24)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-03-21.md:1:32 -->

@@ -28,12 +28,12 @@
 - Video workspace: `video/`, `video2/`, `video3/`
 
 ### 卡圖工作區
-- 卡圖目錄: `cards/`（18個系列，共3033張）
+- 卡圖目錄: `cards/`（21個系列，DB 記錄 3232 張含 B3b）
 - 卡圖下載: `scripts/download_limitless.sh`（從 Limitless TCG 網站）
 - 卡號格式: `{SET}_{NUM}.webp`，例如 `A1_001.webp`, `B2a_042.webp`
 
 ### 卡片資料庫
-- 完整資料: `memory/ptcgp_cards_full.json`（2916張卡的完整資料）
+- 完整資料: `memory/ptcgp_cards_full.json`（3232張卡，含 B3b 90張新卡）
 - 欄位: name, type, hp, weakness, retreat, attacks
 - 查詢方式: `node -e "const d=require('./memory/ptcgp_cards_full.json'); console.log(d['A1_001'])"`
 - 卡圖路徑: `cards/{SET}/{SET}_{NUM}.webp`
@@ -49,8 +49,8 @@
 3. 若需確認版本，再跑影像辨識
 4. 用編號精準查詢資料庫
 
-### 卡圖對應表（2026-03-27 更新）
-| 系列 | 目錄 | 卡數 |
+### 卡圖對應表（2026-06-30 更新）
+| 系列 | 目錄 | 說明 |
 |------|------|------|
 | A1 Genetic Apex | cards/A1/ | 286 |
 | A1a Mythical Island | cards/A1a/ | 86 |
@@ -68,8 +68,13 @@
 | B2 Fantastical Parade | cards/B2/ | 234 |
 | B2a Paldean Wonders | cards/B2a/ | 131 |
 | B2b Mega Shine | cards/B2b/ | 117 |
+| B3 Pulsing Aura | cards/B3/ | 234（卡圖已下載）|
+| B3a Paradox Drive | cards/B3a/ | 109 |
+| B3b Everyday Wonders | cards/B3b/ | 90（2026-06-30 新卡包）|
 | P-A Promo-A | cards/P-A/ | 117 |
 | P-B Promo-B | cards/P-B/ | 40 |
+
+> 卡圖總數：DB 記錄 3232 張（含 B3b 新卡 90 張）| 卡圖實際下載：僅 B2b/B3/B3a 部分有圖
 
 ### YouTube 影片下載
 ```bash
@@ -91,7 +96,7 @@
 - 用於 Meta 分析時翻譯牌組名
 - 發布 Meta 資訊前，遇到英文牌組／寶可夢名稱必須先查這份字典；缺漏翻譯先補進字典再發布
 - 有新翻譯可直接編輯更新
--e 
+
 ## API Key Reading
 
 When you need an API key, use:
