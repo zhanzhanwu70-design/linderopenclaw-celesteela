@@ -786,5 +786,37 @@
     "check_date": "2026-06-29",
     "verification": null,
     "reflection": null
+  },
+  {
+    "id": "PRED_20260701",
+    "date": "2026-07-01",
+    "set": "B3a",
+    "source": "Limitless TCG 06-30 12:05 UTC fetch (ptcgp_meta_discord_latest.md), ~14,400 decks",
+    "environment_summary": "水君+戟脊龍突破5%使用率，AWR 51.83%；睡眠青鳥太陽伊布分支勝率跌破50.5%；電系三分支合計12.85%全軍覆沒；超級雷電獸+傑拉奧拉埋伏軸AWR 52.09%；七夕青鳥+忍蛙盲點確認AWR 52.80%",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "七夕青鳥+南瓜精分支使用率差距縮小",
+        "probability": 0.3,
+        "description": "隨著更多玩家發現效率差距，太陽伊布與南瓜精分支的使用率差距有望進一步縮小"
+      },
+      {
+        "scenario": "B",
+        "name": "超級雷電獸+傑拉奧拉使用率突破2.5%",
+        "probability": 0.3,
+        "description": "AWR 52.09%且樣本日增，若埋伏軸被更多高端玩家採用，有望從2.00%擴張至2.5%"
+      },
+      {
+        "scenario": "C",
+        "name": "水君+戟脊龍 AWR 維持51.5%以上",
+        "probability": 0.25,
+        "description": "突破5%後是否會被針對而勝率下滑，維持51.5%以上代表底子夠厚"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-03",
+    "verification": null,
+    "reflection": null
   }
 ]
