@@ -818,5 +818,36 @@
     "check_date": "2026-07-03",
     "verification": null,
     "reflection": null
+  },
+  {
+    "id": "PRED_20260706",
+    "date": "2026-07-06",
+    "set": "B3b",
+    "source": "Limitless TCG 07-05 12:04 UTC (B3b, ~2400場)",
+    "environment_summary": "B3b第7天，扁平多強環境。甲賀忍蛙+觀星殼人氣最高但AWR僅49%；超級沙奈朵蒂安希AWR 43.82%為最大韭菜陷阱；水君戟脊龍效率之王56.09%；草系全線復甦。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君戟脊龍突破4%",
+        "probability": 0.3,
+        "description": "水君+戟脊龍AWR 56.09%為全環境最高，低曝光策略見效，用量突破4%關卡。"
+      },
+      {
+        "scenario": "B",
+        "name": "甲賀忍蛙Sableye跌破7%",
+        "probability": 0.35,
+        "description": "韭菜牌組使用率下滑趨勢確認（07-03: 9%+ → 07-05: 8.82%），韭菜效應加速蒸發，使用率正式跌破7%。"
+      },
+      {
+        "scenario": "C",
+        "name": "索羅亞克阿柏梭魯曝光增加",
+        "probability": 0.25,
+        "description": "索羅亞克+超級阿柏梭魯ex AWR 54.55%被更多玩家發現，用量突破2%。"
+      }
+    ],
+    "most_likely": "B",
+    "confidence": "medium",
+    "check_date": "2026-07-08",
+    "verification": null
   }
 ]
