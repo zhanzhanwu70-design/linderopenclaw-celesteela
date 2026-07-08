@@ -849,5 +849,37 @@
     "confidence": "medium",
     "check_date": "2026-07-08",
     "verification": null
+  },
+  {
+    "id": "PRED_20260707",
+    "date": "2026-07-07",
+    "set": "B3b",
+    "source": "play.limitlesstcg.com/decks?game=pocket (07-07 Live, 32 tournaments, 3050 players, 8013 matches)",
+    "environment_summary": "B3b Day 11. Flat multi-strong meta. Greninja Sableye still most popular but AWR 47.62%. Suicune Baxcalibur efficiency king AWR 56.42%. Miraidon Magnezone stable at 52%. Mega Sceptile AWR 53.62% rebounded. Mega Gardevoir Diancie remains韭菜 trap at 44.33%.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君+戟脊龍使用率突破5.5%",
+        "probability": 0.3,
+        "description": "效率冠軍被更多玩家認可，使用率從4.20%向5.5%移動"
+      },
+      {
+        "scenario": "B",
+        "name": "甲賀忍蛙+Sableye使用率跌破7%",
+        "probability": 0.35,
+        "description": "韭菜效應蒸發，人氣王的使用率正式開始收縮"
+      },
+      {
+        "scenario": "C",
+        "name": "奇麒麟+古拉頓娜曝光增至2%+",
+        "probability": 0.35,
+        "description": "AWR 56.79%足夠吸引高端玩家，1.38%→2%是最容易發生的移動"
+      }
+    ],
+    "most_likely": "B or C",
+    "confidence": "medium",
+    "check_date": "2026-07-09",
+    "verification": null,
+    "reflection": null
   }
 ]
