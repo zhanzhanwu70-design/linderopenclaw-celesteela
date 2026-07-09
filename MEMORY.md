@@ -76,3 +76,12 @@
 - 強度評估標準: | 等級 | AWR | 範例 | |------|-----|------| | T0 | > 52% + 高使用率 | 水君 + 戟脊龍 | | T1 | > 51% + 3-5% 使用率 | 火焰雞 + 忍蛙 | [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:38-41]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:42:43 -->
 - 強度評估標準: | T1.5 | 50-51% | 七夕青鳥（50.7%）| | 陷阱 | 高使用率 + < 50% AWR | 密勒頓ex | [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:42-43]
+
+## Promoted From Short-Term Memory (2026-07-09)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:46:49 -->
+- Open TODOs: [ ] B3b Meta 分析（需要及時更新）; [ ] 惡系牌組強度追蹤; [ ] Whisper API 配額恢復後正常流程; [ ] 翻譯字典進度確認 [score=0.845 recalls=0 avg=0.620 source=memory/2026-07-03.md:46-49]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:10:10 -->
+- B3b 新系列動態（重要）: **其他 B3b 牌組**： [score=0.835 recalls=0 avg=0.620 source=memory/2026-07-03.md:10-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:10:10 -->
+- B3b 新系列動態（2026-07-03 重要更新）: **其他 B3b 牌組**： [score=0.803 recalls=0 avg=0.620 source=memory/2026-07-05.md:10-10]
