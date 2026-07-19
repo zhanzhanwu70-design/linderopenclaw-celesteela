@@ -1,0 +1,34 @@
+,
+  {
+    "id": "PRED_20260717",
+    "date": "2026-07-17",
+    "set": "B3b",
+    "source": "Limitless TCG 2026-07-15 12:17 UTC, ~14,400 decks",
+    "environment_summary": "佐羅克ex+阿博梭魯ex以2.20%使用率、53.71%AWR登頂效率王；密樂頓ex以19.52%使用率繼續人氣王但AWR僅52.97%；忍蛙+勾魂眼ex以12.79%使用率、47.16%AWR確認韭菜陷阱；超級火焰雞ex站穩53.20%AWR。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "佐羅克ex曝光增至3%",
+        "probability": 0.45,
+        "description": "效率差距明顯，高端玩家追隨數據，使用率從2.20%向3%移動，但尚不足以被主流針對。"
+      },
+      {
+        "scenario": "B",
+        "name": "密樂頓ex人氣慣性上升至20%+",
+        "probability": 0.30,
+        "description": "人氣效應比效率修正更頑固，配合新卡包效應，密樂頓ex可能進一步上升至20%+，成為更大韭菜聚集地。"
+      },
+      {
+        "scenario": "C",
+        "name": "Mega雷電獸ex突破3%形成電反水",
+        "probability": 0.25,
+        "description": "電系效率軸（Mega雷電獸ex AWR 52.01%）針對水系崛起，48小時內可能形成新的反環境格局。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-19",
+    "verification": null,
+    "reflection": null
+  }
+]

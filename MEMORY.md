@@ -6,82 +6,100 @@
 - 處理流程：下載 → 截圖分析 → 寫 wiki → 回報 Discord
 - Whisper API 配額不足時用 frame analysis 截圖代替
 
-## Promoted From Short-Term Memory (2026-06-24)
+## Promoted From Short-Term Memory (2026-07-11)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-03-21.md:1:32 -->
-- # 2026-03-21 Daily Log ## 00:03 UTC - Rowlet Keep-Alive / Meta Update Cron - Cron keep-alive test fired at 00:03 UTC - Attempted daily Pokemon TCG Pocket meta update per HEARTBEAT.md - Issues encountered: - External sites (pokemoncard.io, tcgplayer, etc.) blocked or returned no content - No Discord webhook URL configured in workspace - Result: Could not fetch live meta data or post to Discord ## 00:30 UTC - Workspace Review & Updates - Linder added files to workspace - reviewed and integrated - Updates made: 1. **IDENTITY.md** - Filled with identity (Celesteela, 寶可夢助手) 2.... [score=0.849 recalls=5 avg=1.000 source=memory/2026-03-21.md:1-32]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:5:5 -->
+- B3b 新系列動態（2026-07-03 重要更新）: **惡系上升趨勢確認（已驗證）**： [score=0.828 recalls=0 avg=0.620 source=memory/2026-07-05.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:53:54 -->
+- 強度評估標準: | T1.5 | 50-51% | 七夕青鳥（50.7%）| | 陷阱 | 高使用率 + < 50% AWR | 密勒頓ex | [score=0.828 recalls=0 avg=0.620 source=memory/2026-07-05.md:53-54]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:6:8 -->
+- B3b 新系列動態（2026-07-03 重要更新）: `Y3nt8oHuZKE`：B3b 首個錦標賽冠軍，勾魂眼 + 惡系; `9x9BzxnTZs`：百人比賽 TOP 1，超級勾魂眼 ex + 甲賀忍蛙 + 達克萊伊 ex; 惡系連續兩個影片奪冠，B3b 新卡（超級勾魂眼 ex）帶動迴歸 [score=0.828 recalls=0 avg=0.620 source=memory/2026-07-05.md:6-8]
 
-## Promoted From Short-Term Memory (2026-06-27)
+## Promoted From Short-Term Memory (2026-07-12)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:34:36 -->
-- Open TODOs: [ ] 等待下場大型錦標賽驗證最新 Meta 預測; [ ] Whisper API 配額恢復後正常流程; [ ] 新收到 Shorts URL 需持續追蹤 [score=0.857 recalls=0 avg=0.620 source=memory/2026-06-23.md:34-36]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:12:14 -->
-- 最新 Meta 資料: 來源：Limitless TCG; 最新分析：2026-06-17（`memory/ptcgp_meta_discord_20260615.md`）; 基準：2026-06-17 12:12 UTC，樣本 963（七夕青鳥） [score=0.822 recalls=0 avg=0.620 source=memory/2026-06-23.md:12-14]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:25:27 -->
-- Whisper API 狀態: 配額仍耗盡（insufficient_quota）; Frame analysis 已成為主要備援方案; ffmpeg 在部分環境不可用（`0rH9XkVtlNA` 案例） [score=0.822 recalls=0 avg=0.620 source=memory/2026-06-23.md:25-27]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:57:60 -->
+- Open TODOs: [ ] B3b Meta 分析（急需更新）; [ ] 惡系牌組強度追蹤; [ ] Whisper API 配額恢復後正常流程; [ ] 翻譯字典進度確認 [score=0.819 recalls=0 avg=0.620 source=memory/2026-07-05.md:57-60]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:61:61 -->
+- Open TODOs: [ ] 每日 Meta 分析持續 [score=0.819 recalls=0 avg=0.620 source=memory/2026-07-05.md:61-61]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:66:66 -->
+- B3b 新系列動態（2026-07-03 重要更新）: **惡系上升趨勢確認（已驗證）**： [score=0.819 recalls=0 avg=0.620 source=memory/2026-07-05.md:66-66]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:67:69 -->
+- B3b 新系列動態（2026-07-03 重要更新）: `Y3nt8oHuZKE`：B3b 首個錦標賽冠軍，勾魂眼 + 惡系; `9x9BzxnTZs`：百人比賽 TOP 1，超級勾魂眼 ex + 甲賀忍蛙 + 達克萊伊 ex; 惡系連續兩個影片奪冠，B3b 新卡（超級勾魂眼 ex）帶動迴歸 [score=0.819 recalls=0 avg=0.620 source=memory/2026-07-05.md:67-69]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:71:71 -->
+- B3b 新系列動態（2026-07-03 重要更新）: **其他 B3b 牌組**： [score=0.819 recalls=0 avg=0.620 source=memory/2026-07-05.md:71-71]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:72:74 -->
+- B3b 新系列動態（2026-07-03 重要更新）: `0P4b_X1PSlY`：超級蒂安希 ex + 超級沙奈朵 ex + 美洛耶塔（新超屬最強打手）; `9Mib7l9drKU`：美納斯 ex + 達克萊伊 + 寶寶丁（睡眠惡系混合）; `RwfcoHgrirM`：阿塞蘿拉 + 咚咚鼠 ex（新Combo，「訊息差」打法） [score=0.819 recalls=0 avg=0.620 source=memory/2026-07-05.md:72-74]
 
-## Promoted From Short-Term Memory (2026-06-28)
+## Promoted From Short-Term Memory (2026-07-16)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:18:21 -->
-- 處理的 YouTube 影片（本週）: | Video ID | 頻道 | 牌組 | 方法 | |----------|------|------|------| | t1H6aoqQLSc | Cool Kid Aura | 振翼髮ex + 超級沙奈朵ex 控制 | 截圖分析 | | 0rH9XkVtlNA | Hey Game Plus | 超級路卡利歐ex + 甲賀忍蛙（240人TOP1） | 標題分析（無ffmpeg）| [score=0.893 recalls=0 avg=0.620 source=memory/2026-06-23.md:18-21]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:22:22 -->
-- 處理的 YouTube 影片（本週）: | 05X5WLpQ6mo | 安放送局 | 轟鳴月 + 索爾迦雷歐 ex | 截圖分析 | [score=0.893 recalls=0 avg=0.620 source=memory/2026-06-23.md:22-22]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:30:31 -->
-- 翻譯字典: 進度：723/1181 張待翻譯; Cron Job ID：`72a0c6ef-3762-4ec5-b529-0cc1d9c585eb`（每日 08:00） [score=0.893 recalls=0 avg=0.620 source=memory/2026-06-23.md:30-31]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:6:9 -->
-- 預測驗證記錄: **6/15 → 6/16 → 6/17**：情境 A（水君＋戟脊龍）連續三天命中; 水君 AWR：6/16=52.01%、6/17=51.91%——最穩健效率首選; 電系陷阱規律持續：密勒頓ex系合計 11% 使用率，AWR 49.14%; 睡眠青鳥：南瓜精分支（51.54%）穩定優於太陽伊布（50.71%） [score=0.861 recalls=0 avg=0.620 source=memory/2026-06-23.md:6-9]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:10:10 -->
+- B3b 新系列動態（持續更新）: **B3b 牌組記錄**： [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:10-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:11:14 -->
+- B3b 新系列動態（持續更新）: `0P4b_X1PSlY`：超級蒂安希 ex + 超級沙奈朵 ex + 美洛耶塔（新超屬最強打手）; `9Mib7l9drKU`：美納斯 ex + 達克萊伊 + 寶寶丁（睡眠惡系混合）; `RwfcoHgrirM`：阿塞蘿拉 + 咚咚鼠 ex（新Combo，「訊息差」打法）; `BzilAomFpZs`：超級蜥蜴王 ex + 甲賀忍蛙 — 四座冠軍 59%勝率（Cool Kid Aura） [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:11-14]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:15:15 -->
+- B3b 新系列動態（持續更新）: `oSmWPVnfuSU`：超級暴鯉龍 ex — 全進化 ALL-IN 牌組（Cool Kid Aura） [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:15-15]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:19:22 -->
+- 翻譯字典更新（2026-07-03）: | 原文 | 翻譯 | 備註 | |------|------|------| | Mega Sableye ex | 超級勾魂眼 ex | 新增 | | Mega Sableye | 超級勾魂眼 | 新增 | [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:19-22]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:23:25 -->
+- 翻譯字典更新（2026-07-03）: | Dedenne | 咚咚鼠 | 修正（之前誤翻為「dd」）| | Dedenne ex | 咚咚鼠 ex | 修正（之前誤翻為「電擊蟲 ex」）| | Milotic | 美納斯 | 新增 | [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:23-25]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:27:27 -->
+- 翻譯字典更新（2026-07-03）: Mega Gardevoir ex（超級沙奈朵ex）和 Mega Diancie ex（超級蒂安希ex）早已記錄。 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:27-27]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:5:5 -->
+- B3b 新系列動態（持續更新）: **惡系上升趨勢確認（已驗證）**： [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:6:8 -->
+- B3b 新系列動態（持續更新）: `Y3nt8oHuZKE`：B3b 首個錦標賽冠軍，勾魂眼 + 惡系; `9x9BzxnTZs`：百人比賽 TOP 1，超級勾魂眼 ex + 甲賀忍蛙 + 達克萊伊 ex; 惡系連續兩個影片奪冠，B3b 新卡（超級勾魂眼 ex）帶動迴歸 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:6-8]
 
-## Promoted From Short-Term Memory (2026-07-07)
+## Promoted From Short-Term Memory (2026-07-17)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:15:17 -->
-- 自動處理原則（確認）: 用戶明確要求：看到 YouTube URL 直接處理，不需詢問; 流程：下載 → 截圖分析 → wiki → 回報 Discord; Whisper 配額不足時用 frame analysis（ffmpeg 截幀 + 視覺分析） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:15-17]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:20:22 -->
-- 下載環境: yt-dlp：`/tmp/yt-dlp`; 下載腳本：`/home/node/.openclaw/workspace-celesteela/scripts/download_yt.sh`; Video workspace：`/home/node/.openclaw/workspace-celesteela/video3/` [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:20-22]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:25:26 -->
-- Whisper API 狀態: 仍為配額不足（insufficient_quota）; Local Whisper 未安裝 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:25-26]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:29:30 -->
-- 翻譯字典: 進度：723/1181 張待翻譯（需確認最新進度）; Cron Job ID：`72a0c6ef-3762-4ec5-b529-0cc1d9c585eb`（每日 08:00） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:29-30]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:33:36 -->
-- 預測系統狀態: 效率基準：水君ex + 戟脊龍ex（~52% AWR）; 電系陷阱：密勒頓ex系合計 11% 使用率，AWR 49%; 睡眠青鳥：南瓜精分支（51.54%）> 太陽伊布分支（50.71%）; 最新驗證：6/17 情境 A（水君）命中 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:33-36]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:39:42 -->
-- 強度評估標準: | 等級 | AWR | 範例 | |------|-----|------| | T0 | > 52% + 高使用率 | 水君 + 戟脊龍 | | T1 | > 51% + 3-5% 使用率 | 火焰雞 + 忍蛙 | [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:39-42]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:4:6 -->
-- B3b 新系列（2026-06-30 更新）: 卡圖已下載至 `cards/B3b/`; 新卡 90 張已加入 DB（`memory/ptcgp_cards_full.json`）; 牌組字典翻譯需同步更新 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:4-6]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:43:44 -->
-- 強度評估標準: | T1.5 | 50-51% | 七夕青鳥（50.7%）| | 陷阱 | 高使用率 + < 50% AWR | 密勒頓ex | [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:43-44]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:47:50 -->
-- Open TODOs: [ ] 等待下場大型錦標賽驗證最新 Meta 預測; [ ] Whisper API 配額恢復後正常流程; [ ] B3b 新卡翻譯同步; [ ] yt-dlp 環境修復（目前不可用） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:47-50]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:9:12 -->
-- 處理的 YouTube 影片（本對話）: | Video ID | 頻道 | 牌組 | 方法 | |----------|------|------|------| | 0P4b_X1PSlY | 未知 | 超級蒂安希ex + 超級沙奈朵ex + 美洛耶塔 | 標題分析（yt-dlp 不可用）| | 9Mib7l9drKU | 未知 | 美納斯ex + 達克萊伊 + 寶寶丁（睡眠） | 標題分析（yt-dlp 不可用）| [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-02.md:9-12]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:10:10 -->
+- 今日處理記錄: **翻譯字典更新：** [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-12.md:10-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:11:11 -->
+- 今日處理記錄: `Mandibuzz` → `禿鷹娜` ✅（之前誤翻為 `md`） [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-12.md:11-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:15:15 -->
+- 重要修正：惡系崛起預測錯誤: **之前預測（2026-07-03）**：「惡系上升趨勢確認，超級勾魂眼 ex 帶動惡系迴歸」 [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-12.md:15-15]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:17:17 -->
+- 重要修正：惡系崛起預測錯誤: **實際 Meta（2026-07-11）**： [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:17-17]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:18:21 -->
+- 重要修正：惡系崛起預測錯誤: 超級勾魂眼 ex + Greninja：AWR 47.01%，使用率 11.7% → 陷阱確認; 超級勾魂眼 ex + 達克萊伊 ex：AWR 46.12%; 三眼奪魂 + 巨翅鳥：AWR 48.66%; 惡系全軍覆沒，預測完全錯誤 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:18-21]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:23:23 -->
+- 重要修正：惡系崛起預測錯誤: **原因分析**：錦標賽奪冠（影片）與整體 Meta 表現是不同維度，樣本偏差。 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-12.md:23-23]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:6:7 -->
+- 今日處理記錄: `L7ZU_dqrypk`：禿鷹娜 + 甲賀忍蛙 — 冷門狙擊牌組（Cool Kid Aura）; 「比樹梟還快」可能是針對草系的反制 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-12.md:6-7]
 
-## Promoted From Short-Term Memory (2026-07-08)
+## Promoted From Short-Term Memory (2026-07-18)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:11:12 -->
-- B3b 新系列動態（重要）: `0P4b_X1PSlY`：超級蒂安希 ex + 超級沙奈朵 ex + 美洛耶塔（新超屬最強打手）; `9Mib7l9drKU`：美納斯 ex + 達克萊伊 + 寶寶丁（睡眠惡系混合） [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-03.md:11-12]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:5:5 -->
-- B3b 新系列動態（重要）: **惡系上升趨勢確認**： [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-03.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:6:8 -->
-- B3b 新系列動態（重要）: `Y3nt8oHuZKE`：B3b 首個錦標賽冠軍，勾魂眼 + 惡系; `9x9BzxnTZs`：百人比賽 TOP 1，超級勾魂眼 ex + 甲賀忍蛙 + 達克萊伊 ex; 惡系連續兩個影片奪冠，B3b 新卡（超級勾魂眼 ex）帶動迴歸 [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-03.md:6-8]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:15:17 -->
-- 自動處理原則（確認）: 用戶明確要求：看到 YouTube URL 直接處理，不需詢問; 流程：下載 → 截圖分析 → wiki → 回報 Discord; Whisper 配額不足時用標題分析 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:15-17]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:20:21 -->
-- 下載環境: yt-dlp：`/tmp/yt-dlp`（目前標題分析代替實際下載）; Video workspace：`/home/node/.openclaw/workspace-celesteela/video3/` [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:20-21]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:24:25 -->
-- Whisper API 狀態: 仍為配額不足（insufficient_quota）; Local Whisper 未安裝 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:24-25]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:28:29 -->
-- 翻譯字典: 進度：待確認（應已有 cron job 持續更新）; Cron Job ID：`72a0c6ef-3762-4ec5-b529-0cc1d9c585eb`（每日 08:00） [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:28-29]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:32:35 -->
-- 預測系統狀態: 效率基準：水君ex + 戟脊龍ex（~52% AWR）; 電系陷阱：密勒頓ex系合計 11% 使用率，AWR 49%; 睡眠青鳥：南瓜精分支（51.54%）> 太陽伊布分支（50.71%）; 最新驗證：6/17 情境 A（水君）命中 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:32-35]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:38:41 -->
-- 強度評估標準: | 等級 | AWR | 範例 | |------|-----|------| | T0 | > 52% + 高使用率 | 水君 + 戟脊龍 | | T1 | > 51% + 3-5% 使用率 | 火焰雞 + 忍蛙 | [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:38-41]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:42:43 -->
-- 強度評估標準: | T1.5 | 50-51% | 七夕青鳥（50.7%）| | 陷阱 | 高使用率 + < 50% AWR | 密勒頓ex | [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-03.md:42-43]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:5:5 -->
+- 今日處理記錄: **YouTube 影片處理：** [score=0.818 recalls=0 avg=0.620 source=memory/2026-07-12.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:10:13 -->
+- 今日 Meta 分析（2026-07-13 已發布）: 超級七夕青鳥 + 太陽伊布 52.48%; 超級蜥蜴王 ex + 忍蛙 52.37%; 美納斯 ex + 獅烈颚 ex 52.29%; 愛管仕 ex + 騎拉帝納 51.96% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:10-13]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:14:15 -->
+- 今日 Meta 分析（2026-07-13 已發布）: 超級雷電獸 ex + 傑拉 51.40%; 超級路卡利歐 ex 51.20% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:14-15]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:17:17 -->
+- 今日 Meta 分析（2026-07-13 已發布）: **強度分級：** [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:17-17]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:18:21 -->
+- 今日 Meta 分析（2026-07-13 已發布）: T0：佐羅克+阿博梭魯 / 密樂頓 / 水君+戟脊龍（53%+）; T1：火焰雞 / 七夕青鳥 / 蜥蜴王 / 美納斯+獅烈颚 / 愛管仕（51-53%）; T1.5：雷電獸 / 路卡利歐 / 三眼奪魂+勾魂眼（50-52%）; T2：巴大蝶+蜥蜴王（48.77%） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:18-21]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:22:22 -->
+- 今日 Meta 分析（2026-07-13 已發布）: 陷阱：Greninja+超級勾魂眼 ex（47.48%，使用率12.5%） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:22-22]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:24:24 -->
+- 今日 Meta 分析（2026-07-13 已發布）: **Cron 故障原因：** MiniMax API 短暫過載（overloaded），7次連續錯誤，非程式碼問題。 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:24-24]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:6:9 -->
+- 今日 Meta 分析（2026-07-13 已發布）: 佐羅克 ex + 阿博梭魯 ex 53.44% 🌟 新AWR王; 密樂頓 ex + 自爆磁怪 53.15%（使用率 18.1%）; 水君 ex + 戟脊龍 53.05%; 超級火焰雞 ex + 忍蛙 52.82% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:6-9]
 
-## Promoted From Short-Term Memory (2026-07-09)
+## Promoted From Short-Term Memory (2026-07-19)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:46:49 -->
-- Open TODOs: [ ] B3b Meta 分析（需要及時更新）; [ ] 惡系牌組強度追蹤; [ ] Whisper API 配額恢復後正常流程; [ ] 翻譯字典進度確認 [score=0.845 recalls=0 avg=0.620 source=memory/2026-07-03.md:46-49]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:10:10 -->
-- B3b 新系列動態（重要）: **其他 B3b 牌組**： [score=0.835 recalls=0 avg=0.620 source=memory/2026-07-03.md:10-10]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-05.md:10:10 -->
-- B3b 新系列動態（2026-07-03 重要更新）: **其他 B3b 牌組**： [score=0.803 recalls=0 avg=0.620 source=memory/2026-07-05.md:10-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:5:5 -->
+- 今日 Meta 分析（2026-07-13 已發布）: **AWR 前10：** [score=0.818 recalls=0 avg=0.620 source=memory/2026-07-13.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:10:13 -->
+- 昨日 Meta 分析（2026-07-13 已發布）: 超級七夕青鳥 + 太陽伊布 52.48%; 超級蜥蜴王 ex + 忍蛙 52.37%; 美納斯 ex + 獅烈颚 ex 52.29%; 愛管仕 ex + 騎拉帝納 51.96% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-14.md:10-13]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:14:15 -->
+- 昨日 Meta 分析（2026-07-13 已發布）: 超級雷電獸 ex + 傑拉 51.40%; 超級路卡利歐 ex 51.20% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-14.md:14-15]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:17:17 -->
+- 昨日 Meta 分析（2026-07-13 已發布）: **強度分級：** [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-14.md:17-17]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:18:21 -->
+- 昨日 Meta 分析（2026-07-13 已發布）: T0：佐羅克+阿博梭魯 / 密樂頓 / 水君+戟脊龍（53%+）; T1：火焰雞 / 七夕青鳥 / 蜥蜴王 / 美納斯+獅烈颚 / 愛管仕（51-53%）; T1.5：雷電獸 / 路卡利歐 / 三眼奪魂+勾魂眼（50-52%）; T2：巴大蝶+蜥蜴王（48.77%） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-14.md:18-21]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:22:22 -->
+- 昨日 Meta 分析（2026-07-13 已發布）: 陷阱：Greninja+超級勾魂眼 ex（47.48%，使用率12.5%） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-14.md:22-22]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:24:24 -->
+- 昨日 Meta 分析（2026-07-13 已發布）: **Cron 故障原因：** MiniMax API 短暫過載（overloaded），7次連續錯誤，非程式碼問題。 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-14.md:24-24]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:6:9 -->
+- 昨日 Meta 分析（2026-07-13 已發布）: 佐羅克 ex + 阿博梭魯 ex 53.44% 🌟 新AWR王; 密樂頓 ex + 自爆磁怪 53.15%（使用率 18.1%）; 水君 ex + 戟脊龍 53.05%; 超級火焰雞 ex + 忍蛙 52.82% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-14.md:6-9]

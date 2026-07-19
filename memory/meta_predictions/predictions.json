@@ -881,5 +881,69 @@
     "check_date": "2026-07-09",
     "verification": null,
     "reflection": null
+  },
+  {
+    "id": "PRED_20260709",
+    "date": "2026-07-09",
+    "set": "B3b",
+    "source": "play.limitlesstcg.com/decks tournament data (~1700 games, 32 tournaments)",
+    "environment_summary": "B3b Day 13. Mega Altaria Igglybuff 新韭菜王（10.16% usage, 51.28% AWR）. Mega Scizor Revavroom 最大韭菜陷阱（6.23% usage, 46.32% AWR）. Suicune Baxcalibur 效率之王（5.99% usage, 53.32% AWR）. 電系三分支全軍覆沒.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "Mega Altaria Igglybuff 使用率突破 12%",
+        "probability": 0.35,
+        "description": "韭菜效應持續，更多休閒玩家跟隨人氣"
+      },
+      {
+        "scenario": "B",
+        "name": "Mega Scizor Revavroom AWR 跌破 45%",
+        "probability": 0.3,
+        "description": "韭菜被更多人認清，使用率開始下滑但勝率可能率先崩潰"
+      },
+      {
+        "scenario": "C",
+        "name": "Hydreigon Mega Absol ex 曝光增至 4%+",
+        "probability": 0.35,
+        "description": "55.20% AWR 在 43 場樣本下足夠吸引高端玩家，均值回歸最自然"
+      }
+    ],
+    "most_likely": "C",
+    "confidence": "medium",
+    "check_date": "2026-07-11",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260717",
+    "date": "2026-07-17",
+    "set": "B3b",
+    "source": "Limitless TCG 2026-07-15 12:17 UTC, ~14,400 decks",
+    "environment_summary": "佐羅克ex+阿博梭魯ex以2.20%使用率、53.71%AWR登頂效率王；密樂頓ex以19.52%使用率繼續人氣王但AWR僅52.97%；忍蛙+勾魂眼ex以12.79%使用率、47.16%AWR確認韭菜陷阱；超級火焰雞ex站穩53.20%AWR。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "佐羅克ex曝光增至3%",
+        "probability": 0.45,
+        "description": "效率差距明顯，高端玩家追隨數據，使用率從2.20%向3%移動。"
+      },
+      {
+        "scenario": "B",
+        "name": "密樂頓ex人氣慣性上升至20%+",
+        "probability": 0.3,
+        "description": "人氣效應比效率修正更頑固。"
+      },
+      {
+        "scenario": "C",
+        "name": "Mega雷電獸ex突破3%形成電反水",
+        "probability": 0.25,
+        "description": "電系效率軸針對水系崛起。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-19",
+    "verification": null,
+    "reflection": null
   }
 ]
