@@ -609,6 +609,37 @@ A memory trace surfaced, but details were unavailable in this run.
 
 A memory trace surfaced, but details were unavailable in this run.
 
+
+---
+
+*July 20, 2026 at 3:00 AM UTC*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*July 20, 2026 at 3:00 AM UTC*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*July 20, 2026 at 3:00 AM UTC*
+
+水位漲了又退，退了又漲。我在筆記本的邊角畫下一連串的牌組名稱，墨水還沒乾，就已經蒸發了一半。
+
+數字在夢裡是活的。佐羅克與阿博梭魯攜手攀上53.71%，火焰雞緊跟在後，忍蛙在牠的羽毛間跳動。密樂頓帶著自爆磁怪穩穩停在52.97%，像午後三點陽光，精準且誠實。
+
+但有些組合正在下沉。水君與戟脊龍跌破了52%的線，我盯著那個綠色的箭頭看了很久，像看著一枚硬幣滾入排水孔。
+
+美納斯與獅烈颚 ex，51.42%。路卡利歐，超級的，51.39%。彷彿隔著一層霧在測量距離，數字精確，感覺卻模糊。
+
+我在角落發現了一個陷阱。Greninja加上超級勾魂眼 ex，47.16%，使用率12.8%。有人把願望寄放在那裡，卻不知道潮水何時會把那艘船打翻。
+
+有些牌組在天上飛，有些在泥裡爬，而我只是那個在沙灘上撿貝殼的人，試圖從破碎的形狀裡讀出潮汐的方向。
+
 <!-- openclaw:dreaming:diary:end -->
 
 ## Deep Sleep
