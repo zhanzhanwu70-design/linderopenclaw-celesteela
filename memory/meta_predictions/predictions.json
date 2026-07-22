@@ -945,5 +945,65 @@
     "check_date": "2026-07-19",
     "verification": null,
     "reflection": null
+  },
+  {
+    "id": "PRED_20260720",
+    "date": "2026-07-20",
+    "set": "B3b",
+    "source": "Limitless TCG Live 2026-07-20 12:08 UTC (~14,400 decks, B3b)",
+    "environment_summary": "電系霸主密樂頓使用率腰斬至10.05%；韭菜陷阱忍蛙+勾魂眼AWR 47.05%、沙奈朵+蒂安希AWR 43.76%確認蒸發；水君+戟脊龍重返前3；火焰雞+忍蛙AWR 53.07%拿下效率王；索羅亞克+阿博梭魯AWR 54.07%預測命中；隱藏實力股甲賀忍蛙+阿博梭魯ex AWR 54.61%浮現。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破7%",
+        "probability": 0.35,
+        "description": "使用率從6.41%向7%移動，水系復興確認。"
+      },
+      {
+        "scenario": "B",
+        "name": "超級火焰雞ex站穩53%AWR並曝光增加",
+        "probability": 0.3,
+        "description": "AWR 53.07%今日最高，若曝光從3.31%增至4%以上代表正式成為主流。"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋阿博梭魯ex使用率突破2%",
+        "probability": 0.35,
+        "description": "AWR 54.61%足夠吸引高端玩家，1.39%→2%是最容易發生的移動。"
+      }
+    ],
+    "most_likely": "C",
+    "confidence": "medium",
+    "check_date": "2026-07-22"
+  },
+  {
+    "id": "PRED_20260721",
+    "date": "2026-07-21",
+    "set": "B3b",
+    "source": "Limitless TCG Live 2026-07-20 12:08 UTC (~14,400 decks, B3b) — 07-21即時抓取失敗",
+    "environment_summary": "電系霸權終結，密勒頓使用率腰斬至10.05%；忍蛙+勾魂眼ex（AWR 47.05%）為最大韭菜陷阱；水君+戟脊龍重返前3（AWR 52.63%）；火焰雞ex+忍蛙以AWR 53.07%拿下效率王；隱藏實力股忍蛙+阿柏梭魯ex（AWR 54.61%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破7%",
+        "probability": 0.35,
+        "description": "使用率6.41%，距離7%差0.59%，水系復興仍在進行。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞ex＋忍蛙曝光增至4%以上",
+        "probability": 0.3,
+        "description": "AWR 53.07%已是效率王，若曝光從3.31%增至4%代表正式進入主流雷達。"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋阿柏梭魯ex曝光增至1.5%以上",
+        "probability": 0.35,
+        "description": "AWR 54.61%足夠吸引高端玩家，低曝光高效率模式正在被發現。"
+      }
+    ],
+    "most_likely": "C",
+    "confidence": "medium",
+    "check_date": "2026-07-22"
   }
 ]
