@@ -1004,6 +1004,42 @@
     ],
     "most_likely": "C",
     "confidence": "medium",
-    "check_date": "2026-07-22"
+    "check_date": "2026-07-22",
+    "verification": {
+      "date": "2026-07-22",
+      "result": "partial_miss",
+      "actual": "水君6.37%未突破7%（差0.63%）；火焰雞3.30%未突破4%；佐羅克+阿博梭魯1.47%，方向命中但幅度落後",
+      "lesson": "韭菜牌組曝光增加預測方向正確，但增幅落後預期約2天；火焰雞因操作難度高，使用率增速緩慢"
+    }
+  },
+  {
+    "id": "PRED_20260722",
+    "date": "2026-07-22",
+    "set": "B3b",
+    "source": "Limitless TCG Live HTML 2026-07-22 12:07 UTC",
+    "environment_summary": "電系霸權終結（密勒頓19.52%→10.17%）；韭菜忍蛙+勾魂眼仍頑固（6.51%使用率，47.19%勝率）；火焰雞+忍蛙以53.16%拿下效率王；佐羅克+阿博梭魯1.47%但AWR 53.72%為隱藏實力股。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破7%",
+        "probability": 0.4,
+        "description": "水君性價比兼備，在韭菜牌組被持續曝光後，更多休閒玩家會轉向更穩定的水系。"
+      },
+      {
+        "scenario": "B",
+        "name": "佐羅克＋阿博梭魯ex曝光增至2.5%以上",
+        "probability": 0.35,
+        "description": "AWR 53.72%已足夠吸引高端玩家，1.47%→2.5%是最容易發生的移動。"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋勾魂眼韭菜跌破5%使用率",
+        "probability": 0.25,
+        "description": "韭菜牌組曝光持續被警告，但多數休閒玩家仍堅守。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-24"
   }
 ]
