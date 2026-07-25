@@ -1040,6 +1040,42 @@
     ],
     "most_likely": "A",
     "confidence": "medium",
-    "check_date": "2026-07-24"
+    "check_date": "2026-07-24",
+    "verification": {
+      "date": "2026-07-24",
+      "result": "partial_miss",
+      "actual": "水君6.37%未突破7%；佐羅克+阿博梭魯1.47%未增至2.5%；忍蛙+勾魂眼6.51%未跌破5%",
+      "lesson": "韭菜消散需要1-2週以上，比預期頑固；電系終結預測正確但幅度預估過度樂觀"
+    }
+  },
+  {
+    "id": "PRED_20260724",
+    "date": "2026-07-24",
+    "set": "B3b",
+    "source": "07-22 data + trend inference",
+    "environment_summary": "電系霸權終結確認；韭菜（忍蛙+勾魂眼）頑固；火焰雞效率王；水君接近7%天花板；佐羅克+阿博梭魯低曝光高效率",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率正式突破7%",
+        "probability": 0.4,
+        "description": "距離7%只差0.63%，三日趨勢方向確認，高機率已過關"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞ex＋忍蛙曝光增至4%以上",
+        "probability": 0.3,
+        "description": "AWR 53.20%是效率王，口碑傳播效應下曝光應持續增加"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋勾魂眼韭菜跌破5%使用率",
+        "probability": 0.3,
+        "description": "韭菜頑固性已被多次驗證，跌破5%可能需要更長時間"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-26"
   }
 ]
