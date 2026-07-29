@@ -1077,5 +1077,41 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-07-26"
+  },
+  {
+    "id": "PRED_20260728",
+    "date": "2026-07-28",
+    "set": "B3b",
+    "source": "07-24 data + trend inference (Limitless TCG CSR unparseable)",
+    "environment_summary": "電系霸權終結確認（密勒頓10.17%）；韭菜忍蛙+勾魂眼頑固（6.51%）；火焰雞效率王AWR 53.20%；水君接近7%天花板（6.37%）；佐羅克+阿柏梭魯低曝光AWR 53.72%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率正式突破7%",
+        "probability": 0.4,
+        "description": "距離7%只差0.63%，四日趨勢方向確認，高機率已過關"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞ex＋忍蛙曝光增至4%以上",
+        "probability": 0.25,
+        "description": "AWR 53.20%是效率王，口碑傳播效應下曝光應持續增加，但操作門檻限制增速"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋勾魂眼韭菜跌破5%使用率",
+        "probability": 0.2,
+        "description": "韭菜消散比預期頑固，可能需要更長時間"
+      },
+      {
+        "scenario": "D",
+        "name": "佐羅克＋阿柏梭魯ex增至2%以上",
+        "probability": 0.15,
+        "description": "AWR 53.72%持續被低估，高端玩家曝光慢慢增加"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-30"
   }
 ]
