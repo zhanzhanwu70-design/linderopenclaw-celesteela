@@ -1112,6 +1112,51 @@
     ],
     "most_likely": "A",
     "confidence": "medium",
-    "check_date": "2026-07-30"
+    "check_date": "2026-07-30",
+    "verification": {
+      "date": "2026-07-29",
+      "result": "miss",
+      "actual": "情境A: 6.48% 未破 7%（差0.52%）；情境B: 3.33% 未破 4%；情境C: 6.30% 未跌破 5%；情境D: 1.67% 未增至 2%",
+      "lesson": "All four scenarios failed. 韭菜 dissipation slower than any prediction. Meta remains extremely flat."
+    },
+    "reflection": "所有情境全部未命中。韭菜頑固性再次確認——即使連續多週預測韭菜會消散，現實是玩家依然前仆後繼。環境扁平程度比預期更嚴重，沒有明確的主流方向。"
+  },
+  {
+    "id": "PRED_20260729",
+    "date": "2026-07-29",
+    "set": "B3b",
+    "source": "Limitless TCG HTML raw fetch 07-29 12:05 UTC (direct HTML parse, CSR still broken)",
+    "environment_summary": "Miraidon ex Magnezone rebounds to 10.38% usage (from 6.41% on 07-20), WR 52.65%. Suicune ex Baxcalibur 6.48% usage, WR 52.76%. Meta very flat, no deck above 10.38%. Greninja Sableye韭菜 confirmed at 47.07% WR. Hidden gems: Greninja Absol 55.26% WR, Giratina Darkrai 54.36% WR.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍突破 7%",
+        "probability": 0.35,
+        "description": "6.48% usage, need 0.52% more. Most likely in coming days."
+      },
+      {
+        "scenario": "B",
+        "name": "密勒頓 ex 維持 10%+",
+        "probability": 0.25,
+        "description": "Rebounded from 6.41% to 10.38%, showing resilience."
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋超級阿柏梭魯 ex 增至 1.5%",
+        "probability": 0.25,
+        "description": "55.26% WR high enough to attract more players."
+      },
+      {
+        "scenario": "D",
+        "name": "忍蛙＋勾魂眼韭菜跌破 5%",
+        "probability": 0.15,
+        "description": "韭菜 dissipation slower than expected."
+      }
+    ],
+    "most_likely": "A or C",
+    "confidence": "medium",
+    "check_date": "2026-07-31",
+    "verification": null,
+    "reflection": null
   }
 ]
