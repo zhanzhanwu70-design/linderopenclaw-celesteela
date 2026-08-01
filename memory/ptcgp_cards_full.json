@@ -37240,5 +37240,3500 @@
     "attacks": [
       "L"
     ]
+  },
+  "B4_001": {
+    "set": "B4",
+    "number": 1,
+    "name": "Wurmple",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019620_00_KEMUSSO_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_002": {
+    "set": "B4",
+    "number": 2,
+    "name": "Silcoon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019630_00_KARASALIS_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_003": {
+    "set": "B4",
+    "number": 3,
+    "name": "Beautifly",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019640_00_AGEHUNT_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_004": {
+    "set": "B4",
+    "number": 4,
+    "name": "Cascoon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019650_00_MAYULD_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_005": {
+    "set": "B4",
+    "number": 5,
+    "name": "Dustox",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_019660_00_DOKUCALE_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_006": {
+    "set": "B4",
+    "number": 6,
+    "name": "Lileep",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019670_00_LILYLA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_007": {
+    "set": "B4",
+    "number": 7,
+    "name": "Cradily",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_019680_00_YURADLE_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_008": {
+    "set": "B4",
+    "number": 8,
+    "name": "Kricketot",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019690_00_KOROBOHSHI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_009": {
+    "set": "B4",
+    "number": 9,
+    "name": "Kricketune",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019700_00_KOROTOCK_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_010": {
+    "set": "B4",
+    "number": 10,
+    "name": "Combee",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019710_00_MITSUHONEY_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_011": {
+    "set": "B4",
+    "number": 11,
+    "name": "Vespiquen ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_019720_00_BEEQUENex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_012": {
+    "set": "B4",
+    "number": 12,
+    "name": "Karrablast",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019730_00_KABURUMO_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_013": {
+    "set": "B4",
+    "number": 13,
+    "name": "Shelmet",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019740_00_CHOBOMAKI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_014": {
+    "set": "B4",
+    "number": 14,
+    "name": "Accelgor",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_019750_00_AGILDER_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_015": {
+    "set": "B4",
+    "number": 15,
+    "name": "Dhelmise",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019760_00_DADARIN_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_016": {
+    "set": "B4",
+    "number": 16,
+    "name": "Pheromosa",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019770_00_PHEROACHE_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_017": {
+    "set": "B4",
+    "number": 17,
+    "name": "Poltchageist",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019780_00_CHADEATH_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_018": {
+    "set": "B4",
+    "number": 18,
+    "name": "Sinistcha",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019790_00_YABASOCHA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_019": {
+    "set": "B4",
+    "number": 19,
+    "name": "Teal MaskOgerpon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_019800_00_OGERPONMIDORINOMEN_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_020": {
+    "set": "B4",
+    "number": 20,
+    "name": "Ponyta",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019810_00_PONYTA_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_021": {
+    "set": "B4",
+    "number": 21,
+    "name": "Rapidash",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019820_00_GALLOP_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_022": {
+    "set": "B4",
+    "number": 22,
+    "name": "Flareon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019830_00_BOOSTER_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_023": {
+    "set": "B4",
+    "number": 23,
+    "name": "Moltres",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_019840_00_FIRE_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_024": {
+    "set": "B4",
+    "number": 24,
+    "name": "Cyndaquil",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019850_00_HINOARASHI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_025": {
+    "set": "B4",
+    "number": 25,
+    "name": "Quilava",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019860_00_MAGMARASHI_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_026": {
+    "set": "B4",
+    "number": 26,
+    "name": "Typhlosion ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_019870_00_BAKPHOONex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_027": {
+    "set": "B4",
+    "number": 27,
+    "name": "Houndour",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019880_00_DELVIL_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_028": {
+    "set": "B4",
+    "number": 28,
+    "name": "Houndoom",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019890_00_HELLGAR_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_029": {
+    "set": "B4",
+    "number": 29,
+    "name": "Heatmor",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019900_00_KUITARAN_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_030": {
+    "set": "B4",
+    "number": 30,
+    "name": "Psyduck",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019910_00_KODUCK_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_031": {
+    "set": "B4",
+    "number": 31,
+    "name": "Golduck",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019920_00_GOLDUCK_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_032": {
+    "set": "B4",
+    "number": 32,
+    "name": "Staryu",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019930_00_HITODEMAN_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_033": {
+    "set": "B4",
+    "number": 33,
+    "name": "Starmie",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_019940_00_STARMIE_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_034": {
+    "set": "B4",
+    "number": 34,
+    "name": "Carvanha",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019950_00_KIBANHA_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_035": {
+    "set": "B4",
+    "number": 35,
+    "name": "Mega Sharpedo ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_019960_00_MEGASAMEHADERex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_036": {
+    "set": "B4",
+    "number": 36,
+    "name": "Wailmer",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019970_00_HOERUKO_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_037": {
+    "set": "B4",
+    "number": 37,
+    "name": "Wailord ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_019980_00_WHALOHex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_038": {
+    "set": "B4",
+    "number": 38,
+    "name": "Spheal",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_019990_00_TAMAZARASHI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_039": {
+    "set": "B4",
+    "number": 39,
+    "name": "Sealeo",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020000_00_TODOGGLER_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_040": {
+    "set": "B4",
+    "number": 40,
+    "name": "Walrein",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020010_00_TODOSERUGA_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_041": {
+    "set": "B4",
+    "number": 41,
+    "name": "Kyogre",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020020_00_KYOGRE_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_042": {
+    "set": "B4",
+    "number": 42,
+    "name": "Oshawott",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020030_00_MIJUMARU_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_043": {
+    "set": "B4",
+    "number": 43,
+    "name": "Dewott",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020040_00_FUTACHIMARU_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_044": {
+    "set": "B4",
+    "number": 44,
+    "name": "Samurott",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020050_00_DAIKENKI_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_045": {
+    "set": "B4",
+    "number": 45,
+    "name": "Alomomola",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020060_00_MAMANBOU_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_046": {
+    "set": "B4",
+    "number": 46,
+    "name": "Dewpider",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020070_00_SHIZUKUMO_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_047": {
+    "set": "B4",
+    "number": 47,
+    "name": "Araquanid",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020080_00_ONISHIZUKUMO_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_048": {
+    "set": "B4",
+    "number": 48,
+    "name": "Bruxish",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020090_00_HAGIGISHIRI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_049": {
+    "set": "B4",
+    "number": 49,
+    "name": "Pikachu",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020100_00_PIKACHU_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_050": {
+    "set": "B4",
+    "number": 50,
+    "name": "Raichu",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020110_00_RAICHU_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_051": {
+    "set": "B4",
+    "number": 51,
+    "name": "Shinx",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020120_00_KOLINK_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_052": {
+    "set": "B4",
+    "number": 52,
+    "name": "Luxio",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020130_00_LUXIO_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_053": {
+    "set": "B4",
+    "number": 53,
+    "name": "Luxray",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020140_00_RENTORAR_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_054": {
+    "set": "B4",
+    "number": 54,
+    "name": "Pachirisu",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020150_00_PACHIRISU_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_055": {
+    "set": "B4",
+    "number": 55,
+    "name": "Rotom ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_020160_00_ROTOMex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_056": {
+    "set": "B4",
+    "number": 56,
+    "name": "Tynamo",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020170_00_SHIBISHIRASU_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_057": {
+    "set": "B4",
+    "number": 57,
+    "name": "Eelektrik",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020180_00_SHIBIBEEL_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_058": {
+    "set": "B4",
+    "number": 58,
+    "name": "Eelektross",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020190_00_SHIBIRUDON_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_059": {
+    "set": "B4",
+    "number": 59,
+    "name": "Thundurus",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020200_00_VOLTOLOS_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_060": {
+    "set": "B4",
+    "number": 60,
+    "name": "Helioptile",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020210_00_ERIKITERU_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_061": {
+    "set": "B4",
+    "number": 61,
+    "name": "Heliolisk",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020220_00_ELEZARD_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_062": {
+    "set": "B4",
+    "number": 62,
+    "name": "Wattrel",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020230_00_KAIDEN_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_063": {
+    "set": "B4",
+    "number": 63,
+    "name": "Kilowattrel",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020240_00_TAIKAIDEN_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_064": {
+    "set": "B4",
+    "number": 64,
+    "name": "Clefairy",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020250_00_PIPPI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_065": {
+    "set": "B4",
+    "number": 65,
+    "name": "Clefable",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020260_00_PIXY_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_066": {
+    "set": "B4",
+    "number": 66,
+    "name": "Drowzee",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020270_00_SLEEPE_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_067": {
+    "set": "B4",
+    "number": 67,
+    "name": "Hypno",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020280_00_SLEEPER_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_068": {
+    "set": "B4",
+    "number": 68,
+    "name": "Mime Jr.",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020290_00_MANENE_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_069": {
+    "set": "B4",
+    "number": 69,
+    "name": "Mr. Mime",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020300_00_BARRIERD_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_070": {
+    "set": "B4",
+    "number": 70,
+    "name": "Mewtwo",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020310_00_MEWTWO_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_071": {
+    "set": "B4",
+    "number": 71,
+    "name": "Ralts",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020320_00_RALTS_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_072": {
+    "set": "B4",
+    "number": 72,
+    "name": "Kirlia",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020330_00_KIRLIA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_073": {
+    "set": "B4",
+    "number": 73,
+    "name": "Chimecho",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020340_00_CHIREAN_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_074": {
+    "set": "B4",
+    "number": 74,
+    "name": "Wynaut",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020350_00_SOHNANO_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_075": {
+    "set": "B4",
+    "number": 75,
+    "name": "Woobat",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020360_00_KOROMORI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_076": {
+    "set": "B4",
+    "number": 76,
+    "name": "Swoobat",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020370_00_KOKOROMORI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_077": {
+    "set": "B4",
+    "number": 77,
+    "name": "Hoopa",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020380_00_HOOPA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_078": {
+    "set": "B4",
+    "number": 78,
+    "name": "Oricorio",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020390_00_ODORIDORI_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_079": {
+    "set": "B4",
+    "number": 79,
+    "name": "Makuhita",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020400_00_MAKUNOSHITA_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_080": {
+    "set": "B4",
+    "number": 80,
+    "name": "Hariyama",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020410_00_HARITEYAMA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_081": {
+    "set": "B4",
+    "number": 81,
+    "name": "Anorith",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020420_00_ANOPTH_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_082": {
+    "set": "B4",
+    "number": 82,
+    "name": "Armaldo",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020430_00_ARMALDO_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_083": {
+    "set": "B4",
+    "number": 83,
+    "name": "Groudon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020440_00_GROUDON_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_084": {
+    "set": "B4",
+    "number": 84,
+    "name": "Mega Gallade ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_020450_00_MEGAERUREIDOex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_085": {
+    "set": "B4",
+    "number": 85,
+    "name": "Drilbur",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020460_00_MOGUREW_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_086": {
+    "set": "B4",
+    "number": 86,
+    "name": "Excadrill",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020470_00_DORYUZU_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_087": {
+    "set": "B4",
+    "number": 87,
+    "name": "Timburr",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020480_00_DOKKORER_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_088": {
+    "set": "B4",
+    "number": 88,
+    "name": "Gurdurr",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020490_00_DOTEKKOTSU_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_089": {
+    "set": "B4",
+    "number": 89,
+    "name": "Conkeldurr",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020500_00_ROUBUSHIN_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_090": {
+    "set": "B4",
+    "number": 90,
+    "name": "Minior",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020510_00_METENO_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_091": {
+    "set": "B4",
+    "number": 91,
+    "name": "Grimer",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020520_00_BETBETER_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_092": {
+    "set": "B4",
+    "number": 92,
+    "name": "Muk",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020530_00_BETBETON_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_093": {
+    "set": "B4",
+    "number": 93,
+    "name": "Poochyena",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020540_00_POCHIENA_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_094": {
+    "set": "B4",
+    "number": 94,
+    "name": "Mightyena",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020550_00_GRAENA_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_095": {
+    "set": "B4",
+    "number": 95,
+    "name": "GalarianZigzagoon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020560_00_GALARJIGUZAGUMA_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_096": {
+    "set": "B4",
+    "number": 96,
+    "name": "GalarianLinoone",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020570_00_GALARMASSUGUMA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_097": {
+    "set": "B4",
+    "number": 97,
+    "name": "GalarianObstagoon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020580_00_GALARTACHIFUSAGUMA_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_098": {
+    "set": "B4",
+    "number": 98,
+    "name": "Gulpin",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020590_00_GOKULIN_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_099": {
+    "set": "B4",
+    "number": 99,
+    "name": "Swalot",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020600_00_MARUNOOM_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_100": {
+    "set": "B4",
+    "number": 100,
+    "name": "Absol",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020610_00_ABSOL_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_101": {
+    "set": "B4",
+    "number": 101,
+    "name": "Vullaby",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020620_00_VALCHAI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_102": {
+    "set": "B4",
+    "number": 102,
+    "name": "Mandibuzz",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020630_00_VULGINA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_103": {
+    "set": "B4",
+    "number": 103,
+    "name": "Hoopa ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_020640_00_HOOPAex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_104": {
+    "set": "B4",
+    "number": 104,
+    "name": "Skarmory",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020650_00_AIRMD_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_105": {
+    "set": "B4",
+    "number": 105,
+    "name": "Mawile",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020660_00_KUCHEAT_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_106": {
+    "set": "B4",
+    "number": 106,
+    "name": "Beldum",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020670_00_DUMBBER_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_107": {
+    "set": "B4",
+    "number": 107,
+    "name": "Metang",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020680_00_METANG_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_108": {
+    "set": "B4",
+    "number": 108,
+    "name": "Metagross",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020690_00_METAGROSS_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_109": {
+    "set": "B4",
+    "number": 109,
+    "name": "Mega Metagross ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_020700_00_MEGAMETAGROSSex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_110": {
+    "set": "B4",
+    "number": 110,
+    "name": "Escavalier",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020710_00_CHEVARGO_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_111": {
+    "set": "B4",
+    "number": 111,
+    "name": "Genesect",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020720_00_GENESECT_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_112": {
+    "set": "B4",
+    "number": 112,
+    "name": "Duraludon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020730_00_DURALUDON_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_113": {
+    "set": "B4",
+    "number": 113,
+    "name": "Archaludon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020740_00_BRIDURAS_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_114": {
+    "set": "B4",
+    "number": 114,
+    "name": "Varoom",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020750_00_BURORON_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_115": {
+    "set": "B4",
+    "number": 115,
+    "name": "Revavroom",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020760_00_BUROROROOM_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_116": {
+    "set": "B4",
+    "number": 116,
+    "name": "Dratini",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020770_00_MINIRYU_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_117": {
+    "set": "B4",
+    "number": 117,
+    "name": "Dragonair",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020780_00_HAKURYU_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_118": {
+    "set": "B4",
+    "number": 118,
+    "name": "Dragonite",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020790_00_KAIRYU_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_119": {
+    "set": "B4",
+    "number": 119,
+    "name": "Rayquaza",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020800_00_RAYQUAZA_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_120": {
+    "set": "B4",
+    "number": 120,
+    "name": "Mega Rayquaza ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_020810_00_MEGARAYQUAZAex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_121": {
+    "set": "B4",
+    "number": 121,
+    "name": "Noibat",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020820_00_ONBAT_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_122": {
+    "set": "B4",
+    "number": 122,
+    "name": "Noivern",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020830_00_ONVERN_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_123": {
+    "set": "B4",
+    "number": 123,
+    "name": "Turtonator",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020840_00_BAKUGAMES_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_124": {
+    "set": "B4",
+    "number": 124,
+    "name": "Drampa",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020850_00_JIJILONG_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_125": {
+    "set": "B4",
+    "number": 125,
+    "name": "Applin",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020860_00_KAJICCHU_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_126": {
+    "set": "B4",
+    "number": 126,
+    "name": "Dipplin",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020870_00_KAMICCHU_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_127": {
+    "set": "B4",
+    "number": 127,
+    "name": "Hydrapple",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020880_00_KAMITSUOROCHI_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_128": {
+    "set": "B4",
+    "number": 128,
+    "name": "Cyclizar",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020890_00_MOTOTOKAGE_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_129": {
+    "set": "B4",
+    "number": 129,
+    "name": "Rattata",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020900_00_KORATTA_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_130": {
+    "set": "B4",
+    "number": 130,
+    "name": "Raticate",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_020910_00_RATTA_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_131": {
+    "set": "B4",
+    "number": 131,
+    "name": "Eevee",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020920_00_EIEVUI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_132": {
+    "set": "B4",
+    "number": 132,
+    "name": "Aipom",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020930_00_EIPAM_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_133": {
+    "set": "B4",
+    "number": 133,
+    "name": "Ambipom",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020940_00_ETEBOTH_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_134": {
+    "set": "B4",
+    "number": 134,
+    "name": "Skitty",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020950_00_ENECO_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_135": {
+    "set": "B4",
+    "number": 135,
+    "name": "Delcatty",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_020960_00_ENEKORORO_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_136": {
+    "set": "B4",
+    "number": 136,
+    "name": "Kecleon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020970_00_KAKUREON_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_137": {
+    "set": "B4",
+    "number": 137,
+    "name": "Pidove",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020980_00_MAMEPATO_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_138": {
+    "set": "B4",
+    "number": 138,
+    "name": "Tranquill",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_020990_00_HATOBOH_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_139": {
+    "set": "B4",
+    "number": 139,
+    "name": "Unfezant",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021000_00_KENHALLOW_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_140": {
+    "set": "B4",
+    "number": 140,
+    "name": "Ducklett",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021010_00_KOARUHIE_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_141": {
+    "set": "B4",
+    "number": 141,
+    "name": "Swanna ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_021020_00_SWANNAex_RR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_142": {
+    "set": "B4",
+    "number": 142,
+    "name": "Furfrou",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021030_00_TRIMMIEN_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_143": {
+    "set": "B4",
+    "number": 143,
+    "name": "Type: Null",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021040_00_TYPENULL_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_144": {
+    "set": "B4",
+    "number": 144,
+    "name": "Silvally",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021050_00_SILVADY_R.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_145": {
+    "set": "B4",
+    "number": 145,
+    "name": "Order Pad",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001490_00_OTORIYOSEPADDO_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_146": {
+    "set": "B4",
+    "number": 146,
+    "name": "Claw Fossil",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cTR_10_001500_00_TSUMENOKASEKI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_147": {
+    "set": "B4",
+    "number": 147,
+    "name": "Root Fossil",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cTR_10_001510_00_NEKKONOKASEKI_C.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_148": {
+    "set": "B4",
+    "number": 148,
+    "name": "Deceptive Needle",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001520_00_INCHIKIBARI_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_149": {
+    "set": "B4",
+    "number": 149,
+    "name": "Clear Veil",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001530_00_KURIAVEIL_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_150": {
+    "set": "B4",
+    "number": 150,
+    "name": "Psychic",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001540_00_SAIKIKKA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_151": {
+    "set": "B4",
+    "number": 151,
+    "name": "Drayden",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001550_00_SYAGA_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_152": {
+    "set": "B4",
+    "number": 152,
+    "name": "Skyla",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001560_00_HUURO_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_153": {
+    "set": "B4",
+    "number": 153,
+    "name": "Wally",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001570_00_MITSURU_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_154": {
+    "set": "B4",
+    "number": 154,
+    "name": "Soothing Shore",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001580_00_IYASHINOUMIBE_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_155": {
+    "set": "B4",
+    "number": 155,
+    "name": "Rainbow Cave",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001590_00_NIJIIRONODOUKUTSU_U.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_156": {
+    "set": "B4",
+    "number": 156,
+    "name": "Wurmple",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_019620_00_KEMUSSO_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_157": {
+    "set": "B4",
+    "number": 157,
+    "name": "Lileep",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_019670_00_LILYLA_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_158": {
+    "set": "B4",
+    "number": 158,
+    "name": "Kricketune",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_019700_00_KOROTOCK_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_159": {
+    "set": "B4",
+    "number": 159,
+    "name": "Accelgor",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_019750_00_AGILDER_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_160": {
+    "set": "B4",
+    "number": 160,
+    "name": "Ponyta",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_019810_00_PONYTA_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_161": {
+    "set": "B4",
+    "number": 161,
+    "name": "Quilava",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_019860_00_MAGMARASHI_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_162": {
+    "set": "B4",
+    "number": 162,
+    "name": "Kyogre",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020020_00_KYOGRE_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_163": {
+    "set": "B4",
+    "number": 163,
+    "name": "Samurott",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020050_00_DAIKENKI_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_164": {
+    "set": "B4",
+    "number": 164,
+    "name": "Raichu",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020110_00_RAICHU_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_165": {
+    "set": "B4",
+    "number": 165,
+    "name": "Wattrel",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020230_00_KAIDEN_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_166": {
+    "set": "B4",
+    "number": 166,
+    "name": "Clefairy",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020250_00_PIPPI_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_167": {
+    "set": "B4",
+    "number": 167,
+    "name": "Ralts",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020320_00_RALTS_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_168": {
+    "set": "B4",
+    "number": 168,
+    "name": "Wynaut",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020350_00_SOHNANO_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_169": {
+    "set": "B4",
+    "number": 169,
+    "name": "Oricorio",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020390_00_ODORIDORI_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_170": {
+    "set": "B4",
+    "number": 170,
+    "name": "Anorith",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020420_00_ANOPTH_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_171": {
+    "set": "B4",
+    "number": 171,
+    "name": "Poochyena",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020540_00_POCHIENA_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_172": {
+    "set": "B4",
+    "number": 172,
+    "name": "Gulpin",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020590_00_GOKULIN_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_173": {
+    "set": "B4",
+    "number": 173,
+    "name": "Vullaby",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020620_00_VALCHAI_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_174": {
+    "set": "B4",
+    "number": 174,
+    "name": "Genesect",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020720_00_GENESECT_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_175": {
+    "set": "B4",
+    "number": 175,
+    "name": "Dragonair",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020780_00_HAKURYU_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_176": {
+    "set": "B4",
+    "number": 176,
+    "name": "Noivern",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020830_00_ONVERN_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_177": {
+    "set": "B4",
+    "number": 177,
+    "name": "Cyclizar",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020890_00_MOTOTOKAGE_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_178": {
+    "set": "B4",
+    "number": 178,
+    "name": "Raticate",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020910_00_RATTA_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_179": {
+    "set": "B4",
+    "number": 179,
+    "name": "Aipom",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_020930_00_EIPAM_AR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_180": {
+    "set": "B4",
+    "number": 180,
+    "name": "Vespiquen ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_019720_00_BEEQUENex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_181": {
+    "set": "B4",
+    "number": 181,
+    "name": "Typhlosion ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_019870_00_BAKPHOONex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_182": {
+    "set": "B4",
+    "number": 182,
+    "name": "Mega Sharpedo ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_019960_00_MEGASAMEHADERex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_183": {
+    "set": "B4",
+    "number": 183,
+    "name": "Wailord ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_019980_00_WHALOHex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_184": {
+    "set": "B4",
+    "number": 184,
+    "name": "Rotom ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_020160_00_ROTOMex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_185": {
+    "set": "B4",
+    "number": 185,
+    "name": "Mega Gallade ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_020450_00_MEGAERUREIDOex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_186": {
+    "set": "B4",
+    "number": 186,
+    "name": "Hoopa ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_020640_00_HOOPAex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_187": {
+    "set": "B4",
+    "number": 187,
+    "name": "Mega Metagross ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_020700_00_MEGAMETAGROSSex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_188": {
+    "set": "B4",
+    "number": 188,
+    "name": "Mega Rayquaza ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_020810_00_MEGARAYQUAZAex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_189": {
+    "set": "B4",
+    "number": 189,
+    "name": "Swanna ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_021020_00_SWANNAex_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_190": {
+    "set": "B4",
+    "number": 190,
+    "name": "Psychic",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cTR_20_001540_00_SAIKIKKA_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_191": {
+    "set": "B4",
+    "number": 191,
+    "name": "Drayden",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cTR_20_001550_00_SYAGA_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_192": {
+    "set": "B4",
+    "number": 192,
+    "name": "Skyla",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cTR_20_001560_00_HUURO_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_193": {
+    "set": "B4",
+    "number": 193,
+    "name": "Wally",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cTR_20_001570_00_MITSURU_SR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_194": {
+    "set": "B4",
+    "number": 194,
+    "name": "Vespiquen ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_019720_01_BEEQUENex_SAR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_195": {
+    "set": "B4",
+    "number": 195,
+    "name": "Typhlosion ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_019870_01_BAKPHOONex_SAR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_196": {
+    "set": "B4",
+    "number": 196,
+    "name": "Mega Sharpedo ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_019960_01_MEGASAMEHADERex_SAR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_197": {
+    "set": "B4",
+    "number": 197,
+    "name": "Wailord ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_019980_01_WHALOHex_SAR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_198": {
+    "set": "B4",
+    "number": 198,
+    "name": "Mega Gallade ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_020450_01_MEGAERUREIDOex_SAR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_199": {
+    "set": "B4",
+    "number": 199,
+    "name": "Hoopa ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_020640_01_HOOPAex_SAR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_200": {
+    "set": "B4",
+    "number": 200,
+    "name": "Mega Metagross ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_020700_01_MEGAMETAGROSSex_SAR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_201": {
+    "set": "B4",
+    "number": 201,
+    "name": "Swanna ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_021020_01_SWANNAex_SAR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_202": {
+    "set": "B4",
+    "number": 202,
+    "name": "Rotom ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "IM",
+    "image": "cPK_20_020160_01_ROTOMex_IM.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_203": {
+    "set": "B4",
+    "number": 203,
+    "name": "Mega Rayquaza ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "IM",
+    "image": "cPK_20_020810_01_MEGARAYQUAZAex_IM.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_204": {
+    "set": "B4",
+    "number": 204,
+    "name": "AlolanVulpix",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_013940_00_ALOLAROKON_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_205": {
+    "set": "B4",
+    "number": 205,
+    "name": "Mudkip",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_013990_00_MIZUGOROU_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_206": {
+    "set": "B4",
+    "number": 206,
+    "name": "Marshtomp",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014000_00_NUMACRAW_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_207": {
+    "set": "B4",
+    "number": 207,
+    "name": "Swampert",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014010_00_LAGLARGE_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_208": {
+    "set": "B4",
+    "number": 208,
+    "name": "Electabuzz",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_016290_00_ELEBOO_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_209": {
+    "set": "B4",
+    "number": 209,
+    "name": "Plusle",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014180_00_PRASLE_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_210": {
+    "set": "B4",
+    "number": 210,
+    "name": "Minun",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014190_01_MINUN_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_211": {
+    "set": "B4",
+    "number": 211,
+    "name": "Mr. Mime",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_020300_00_BARRIERD_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_212": {
+    "set": "B4",
+    "number": 212,
+    "name": "Mewtwo",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_020310_00_MEWTWO_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_213": {
+    "set": "B4",
+    "number": 213,
+    "name": "Roggenrola",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014510_00_DANGORO_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_214": {
+    "set": "B4",
+    "number": 214,
+    "name": "Boldore",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014520_00_GANTLE_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_215": {
+    "set": "B4",
+    "number": 215,
+    "name": "Falinks",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014580_01_TAIRETSU_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_216": {
+    "set": "B4",
+    "number": 216,
+    "name": "Koffing",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_017660_00_DOGARS_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_217": {
+    "set": "B4",
+    "number": 217,
+    "name": "Weezing",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_017670_00_MATADOGAS_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_218": {
+    "set": "B4",
+    "number": 218,
+    "name": "GalarianMeowth",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014760_00_GALARNYARTH_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_219": {
+    "set": "B4",
+    "number": 219,
+    "name": "GalarianPerrserker",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014770_01_GALARNYAIKING_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_220": {
+    "set": "B4",
+    "number": 220,
+    "name": "Rattata",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_020900_00_KORATTA_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_221": {
+    "set": "B4",
+    "number": 221,
+    "name": "Raticate",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_020910_01_RATTA_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_222": {
+    "set": "B4",
+    "number": 222,
+    "name": "Smeargle",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014960_00_DOBLE_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_223": {
+    "set": "B4",
+    "number": 223,
+    "name": "Buneary",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_013040_01_MIMIROL_S.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_224": {
+    "set": "B4",
+    "number": 224,
+    "name": "Blacephalon ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_013890_02_ZUGADOONex_SSR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_225": {
+    "set": "B4",
+    "number": 225,
+    "name": "AlolanNinetales ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_013950_02_ALOLAKYUKONex_SSR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_226": {
+    "set": "B4",
+    "number": 226,
+    "name": "Mega Swampert ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_014020_02_MEGALAGLARGEex_SSR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_227": {
+    "set": "B4",
+    "number": 227,
+    "name": "Mega Gardevoir ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_014320_02_MEGASIRNIGHTex_SSR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_228": {
+    "set": "B4",
+    "number": 228,
+    "name": "Mega Lopunny ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_013460_02_MEGAMIMILOPex_SSR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_229": {
+    "set": "B4",
+    "number": 229,
+    "name": "Gigalith ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_014530_02_GIGAIATHex_SSR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_230": {
+    "set": "B4",
+    "number": 230,
+    "name": "Zoroark ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_017710_02_ZOROARKex_SSR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_231": {
+    "set": "B4",
+    "number": 231,
+    "name": "Mega Kangaskhan ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_014930_02_MEGAGARURAex_SSR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_232": {
+    "set": "B4",
+    "number": 232,
+    "name": "Raichu",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "UR",
+    "image": "cPK_20_020110_01_RAICHU_UR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
+  },
+  "B4_233": {
+    "set": "B4",
+    "number": 233,
+    "name": "Dragonair",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "UR",
+    "image": "cPK_20_020780_01_HAKURYU_UR.webp",
+    "packs": [
+      "Ruler of the Skies"
+    ]
   }
 }

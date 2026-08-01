@@ -33,7 +33,7 @@
 - 卡號格式: `{SET}_{NUM}.webp`，例如 `A1_001.webp`, `B2a_042.webp`
 
 ### 卡片資料庫
-- 完整資料: `memory/ptcgp_cards_full.json`（3232張卡，含 B3b 90張新卡）
+- 完整資料: `memory/ptcgp_cards_full.json`（3465張卡，含 B4 233張新卡）
 - 欄位: name, type, hp, weakness, retreat, attacks
 - 查詢方式: `node -e "const d=require('./memory/ptcgp_cards_full.json'); console.log(d['A1_001'])"`
 - 卡圖路徑: `cards/{SET}/{SET}_{NUM}.webp`
@@ -71,6 +71,7 @@
 | B3 Pulsing Aura | cards/B3/ | 234（卡圖已下載）|
 | B3a Paradox Drive | cards/B3a/ | 109 |
 | B3b Everyday Wonders | cards/B3b/ | 90（2026-06-30 新卡包）|
+| B4 Ruler of Skies | cards/B4/ | 233（2026-07-30 新擴展）|
 | P-A Promo-A | cards/P-A/ | 117 |
 | P-B Promo-B | cards/P-B/ | 40 |
 
