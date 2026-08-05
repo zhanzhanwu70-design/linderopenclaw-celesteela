@@ -1098,7 +1098,7 @@
     "Mega Altaria ex Espeon": "超級七夕青鳥 ex 太陽精靈",
     "Dragonair Altaria": "哈克龍 七夕青鳥",
     "Hydreigon Mega Absol ex": "三頭龍 超級阿勃梭魯 ex",
-    "Vespiquen ex Shuckle ex": "蜂女王 ex 唔頭寶寶 ex",
+    "Vespiquen ex Shuckle ex": "蜂女王 ex 無頭寶可夢 ex",
     "Miraidon ex Magnezone": "密樂頓 ex 自爆磁怪",
     "Mega Manectric ex Heliolisk": "超級雷電獸 ex 蜥蜴王",
     "Suicune ex Baxcalibur": "水君 ex 戟脊龍",
@@ -1131,7 +1131,9 @@
     "Koga": "古加",
     "Blaine": "布莱德",
     "Lt. Surge": "馬志士",
-    "Janine": "莉佳"
+    "Janine": "莉佳",
+    "Shuckle": "無頭寶可夢",
+    "Shuckle ex": "無頭寶可夢 ex"
   },
   "last_updated": "2026-06-08",
   "Mega Sableye ex": "超級勾魂眼 ex",
