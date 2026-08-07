@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-05T12:06:14.253Z",
+  "update_time": "2026-08-06T12:06:41.271Z",
   "top_decks": [
     {
       "rank": 1,
@@ -13,173 +13,173 @@
     {
       "rank": 2,
       "name": "Mega Manectric ex Heliolisk",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 3,
-      "name": "842 - 736 - 44",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "928 - 813 - 47",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 4,
-      "name": "51.91%",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "51.90%",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 5,
-      "name": "Gouging Fire Dragonair",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "Vespiquen ex Shuckle ex",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 6,
-      "name": "641 - 652 - 15",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "896 - 727 - 56",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 7,
-      "name": "49.01%",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "53.37%",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 8,
-      "name": "Vespiquen ex Shuckle ex",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "Gouging Fire Dragonair",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 9,
-      "name": "734 - 602 - 45",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "683 - 689 - 15",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 10,
-      "name": "53.15%",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "49.24%",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 11,
-      "name": "Suicune ex Baxcalibur",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "Mega Lucario ex Lucario",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 12,
-      "name": "350 - 311 - 19",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "444 - 370 - 28",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 13,
-      "name": "51.47%",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "52.73%",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 14,
-      "name": "Mega Sceptile ex Greninja",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "Hoopa ex Mega Absol ex",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 15,
-      "name": "323 - 286 - 15",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "492 - 360 - 26",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 16,
-      "name": "51.76%",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "56.04%",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 17,
-      "name": "Dragonair Mega Rayquaza ex",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "Suicune ex Baxcalibur",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 18,
-      "name": "278 - 300 - 8",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "384 - 346 - 23",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 19,
-      "name": "47.44%",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "51.00%",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     },
     {
       "rank": 20,
-      "name": "Hoopa ex Greninja",
-      "usage_rate": "2738.39%",
-      "win_rate": "53.36%",
-      "record": "842 - 736",
-      "adjusted_win_rate": "53.28%",
-      "sample_size": 1578
+      "name": "Dragonair Mega Rayquaza ex",
+      "usage_rate": "3058.15%",
+      "win_rate": "53.30%",
+      "record": "928 - 813",
+      "adjusted_win_rate": "53.23%",
+      "sample_size": 1741
     }
   ]
 }
