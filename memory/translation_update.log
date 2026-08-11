@@ -1,67 +1,10 @@
-[2026-05-31T00:09:56.968Z] daily translation update
-B3a checked, added=25, skipped=0
-  + B3a_011 Snom => 雪吞蟲
-  + B3a_012 Frosmoth => 雪絨蛾
-  + B3a_013 Iron Bundle ex => 鐵包袱 ex
-  + B3a_014 Pawmi => 布撥
-  + B3a_015 Pawmo => 布土撥
-  + B3a_016 Pawmot => 巴布土撥
-  + B3a_017 Iron Hands => 鐵臂膀
-  + B3a_019 Miraidon ex => 密勒頓 ex
-  + B3a_021 Flittle => 飄飄雛
-  + B3a_022 Espathra => 超能艷鴕
-  + B3a_023 Greavard => 墓仔狗
-  + B3a_024 Houndstone => 墓揚犬
-  + B3a_025 Scream Tail => 吼叫尾
-  + B3a_026 Flutter Mane ex => 振翼髮 ex
-  + B3a_030 Iron Crown => 鐵頭殼
-  + B3a_031 Nacli => 鹽石寶
-  + B3a_032 Naclstack => 鹽石壘
-  + B3a_033 Garganacl => 鹽石巨靈
-  + B3a_034 Great Tusk => 雄偉牙
-  + B3a_035 Sandy Shocks => 沙鐵皮
-  + B3a_036 Koraidon ex => 故勒頓 ex
-  + B3a_039 Weavile => 瑪狃拉
-  + B3a_040 Sableye => 勾魂眼
-  + B3a_043 Kingambit => 仆刀將軍
-  + B3a_047 Roaring Moon => 轟鳴月
-[2026-06-01T00:09:08.881Z] PTCGP daily translation update
-Candidates: 27
-Added: 24
-  + Corviknight => 鋼鎧鴉
-  + Cufant => 銅象
-  + Copperajah => 大王銅象
-  + Iron Treads => 鐵轍跡
-  + Farigiraf => 奇麒麟
-  + Dunsparce => 土龍弟弟
-  + Dudunsparce => 土龍節節
-  + Swablu => 青綿鳥
-  + Hawlucha => 摔角鷹人
-  + Rookidee => 稚山雀
-  + Corvisquire => 藍鴉
-  + Flamigo => 纏紅鶴
-  + Terapagos ex => 太樂巴戈斯 ex
-  + Future Booster Energy Capsule => 驅勁能量
-  + Area Zero => 第零區
-  + Rellor => 蟲滾泥
-  + Charcadet => 炭小侍
-  + Rabsca => 蟲甲聖
-  + Diglett => 地鼠
-  + Dugtrio => 三地鼠
-  + Klawf => 毛崖蟹
-  + Orthworm => 拖拖蚓
-  + Armarouge ex => 紅蓮鎧騎 ex
-  + Bellibolt ex => 電肚蛙 ex
-Skipped: 3
-  - B3a_069 Ancient Booster Energy Capsule: no Chinese name on Limitless / no trusted fallback
-  - B3a_071 Juliana: no Chinese name on Limitless / no trusted fallback
-  - B3a_096 Tadbulb: no Chinese name on Limitless / no trusted fallback
-[2026-06-01T00:09:24.904Z] Supplemental trusted official-name update
-Added: 1
-  + Tadbulb => 光蚪仔
+=== 翻譯更新日誌 ===
 
-[2026-06-02T00:05:00Z] checked B3a priority missing: Ancient Booster Energy Capsule, Juliana; Limitless Pocket pages accessible but no Chinese name/translation field found; updated 0 entries; dictionary not modified.
+[2026-08-11 03:08 UTC]
+檢查結果：
+- B3a 缺失翻譯：2 張 (Juliana B3a_071, B3a_086)
+- B3b 缺失翻譯：1 張 (Kid's Room B3b_069)
+- B4 缺失翻譯：0 張
 
-=== 2026-06-04 00:04 UTC ===
-B3a missing: 2 (Juliana x2)
-Limitlesstcg.com 无法访问（404），跳过所有翻译更新。
+Limitlesstcg.com 卡牌頁面存取失敗 (404)，無法抓取翻譯。
+未寫入任何更新。
