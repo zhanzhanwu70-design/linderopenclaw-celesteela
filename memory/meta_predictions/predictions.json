@@ -1194,6 +1194,68 @@
     "most_likely": "A",
     "confidence": "medium",
     "check_date": "2026-08-12",
+    "verification": {
+      "check_performed": "2026-08-15",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "胡帕 ex + 超級阿柏梭魯 ex 使用率突破 7%",
+          "result": "partial - 6.17% (direction correct)"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級路卡利歐 ex 使用率突破 8%",
+          "result": "miss - 8.89% but close"
+        },
+        {
+          "scenario": "C",
+          "predicted": "電系使用率合計突破 9%",
+          "result": "miss - 7.35%"
+        },
+        {
+          "scenario": "D",
+          "predicted": "電系使用率合計突破 9%",
+          "result": "miss"
+        }
+      ]
+    },
+    "reflection": "胡帕軸方向預測正確但幅度不足。電系預測方向錯誤，電系人氣慣性比預期更持久。自爆磁怪 ex 成為最大驚喜（未被列入預測）。"
+  },
+  {
+    "id": "PRED_20260815",
+    "date": "2026-08-15",
+    "set": "B4",
+    "source": "Limitless TCG B4 Standard HTML (2026-08-14 capture, B4 Day 16)",
+    "environment_summary": "B4 Day 16. 環境持續碎片化，第一名使用率僅 8.89%。超級路卡利歐 ex + 路卡利歐仍是人氣王（8.89%，AWR 51.01%）。蜂女王 ex + 無殼海兔 ex 第二（7.50%，AWR 50.70%）。胡帕 ex + 超級阿柏梭魯 ex 性價比之王（6.17%，AWR 53.18%）。夠約龍 + 哈克龍古代系站穩（5.98%，AWR 50.68%）。電系陷阱持續（合計 7.35%）。自爆磁怪 ex + 自爆磁怪為最大隱藏實力股（AWR 54.81%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "自爆磁怪 ex + 自爆磁怪使用率突破 2%",
+        "probability": 0.35,
+        "description": "54.81% AWR 全環境最高，隨著更多玩家發現這個隱藏實力股，使用率有望從 1.28% 翻倍"
+      },
+      {
+        "scenario": "B",
+        "name": "胡帕 ex + 超級阿柏梭魯 ex 使用率突破 7.5%",
+        "probability": 0.3,
+        "description": "效率與人氣的完美結合，53.18% AWR + 6.17% 使用率，被低估的程度最嚴重"
+      },
+      {
+        "scenario": "C",
+        "name": "電系使用率合計跌破 7%",
+        "probability": 0.25,
+        "description": "隨著韭菜被更多人識別，電系的人氣慣性可能開始反轉"
+      },
+      {
+        "scenario": "D",
+        "name": "古代系合計突破 8% 使用率",
+        "probability": 0.1,
+        "description": "夠約龍 + 哈克龍 + 古拉頓娜的古代系板塊正在穩步擴張"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-08-17",
     "verification": null,
     "reflection": null
   }
