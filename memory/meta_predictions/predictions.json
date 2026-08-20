@@ -1320,5 +1320,37 @@
     "check_date": "2026-08-19",
     "verification": null,
     "reflection": null
+  },
+  {
+    "id": "PRED_20260819",
+    "date": "2026-08-19",
+    "set": "B4",
+    "source": "Limitless TCG B4 Tournament (~4,300 games, live fetch 2026-08-19)",
+    "environment_summary": "B4 Day ~21. Environment highly fragmented - #1 usage only 9.68%. Mega Lucario ex Lucario popularity king (9.68%, AWR 50.83%). Hoopa ex Mega Absol ex efficiency king (5.96%, AWR 53.47%). Gouging Fire Dragonair ancient pillar (5.67%, AWR 50.56%). Mega Manectric ex Heliolisk confirmed韭菜 trap (5.13%, AWR 49.32%). Suicune ex Baxcalibur confirmed (2.88%, AWR 51.22%). Dark type (Hoopa variants) most efficient type overall.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "Hoopa ex Mega Absol ex usage breaks 7%",
+        "probability": 0.55,
+        "description": "Efficiency king (53.47% AWR) gets more recognition. Usage moves from 5.96% toward 7%. Players shift from electric trap to dark type."
+      },
+      {
+        "scenario": "B",
+        "name": "Electric trap worsens (AWR toward 48%)",
+        "probability": 0.3,
+        "description": "Mega Manectric ex combo stays at 5%+ usage but AWR drops toward 48%.韭菜效应持续 more players learn the hard way."
+      },
+      {
+        "scenario": "C",
+        "name": "Ancient deck total exceeds 8%",
+        "probability": 0.15,
+        "description": "Gouging Fire Dragonair (5.67%) + other ancient builds exceed 8% combined usage."
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-08-21",
+    "verification": null,
+    "reflection": null
   }
 ]
