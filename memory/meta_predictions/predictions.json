@@ -1352,5 +1352,43 @@
     "check_date": "2026-08-21",
     "verification": null,
     "reflection": null
+  },
+  {
+    "id": "PRED_20260820",
+    "date": "2026-08-20",
+    "set": "B4",
+    "source": "Limitless TCG B4 Day 16 (2026-08-14) + 08-19 tournament data",
+    "environment_summary": "B4 Day 22. 環境持續扁平，第一名使用率 8.89%。超級路卡利歐 ex 人氣王（9.68% on 08-19，AWR 51.01%）。胡帕 ex + 超級阿柏梭魯 ex 效率王（6.17%，AWR 53.18%）。自癒磁怪 ex + 自癒磁怪 最大隱藏實力股（AWR 54.81%）。電系合計 7.35% 但效率持續低於 50.5%。古代系站穩（夠約龍 5.98%，AWR 50.68%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "胡帕 ex + 超級阿柏梭魯 ex 使用率突破 7.5%",
+        "probability": 0.35,
+        "description": "效率王（53.18% AWR）被越來越多玩家認可，使用率從 6.17% 穩步上漲"
+      },
+      {
+        "scenario": "B",
+        "name": "自癒磁怪 ex + 自癒磁怪 使用率翻倍至 2.5%+",
+        "probability": 0.3,
+        "description": "54.81% AWR 全環境最高，口碑傳播逐漸發酵，低曝光效應開始逆轉"
+      },
+      {
+        "scenario": "C",
+        "name": "電系合計使用率跌破 7%",
+        "probability": 0.25,
+        "description": "韭菜被越來越多人識別，電系人氣慣性可能開始實質性反轉"
+      },
+      {
+        "scenario": "D",
+        "name": "古代系合計突破 8% 使用率",
+        "probability": 0.1,
+        "description": "夠約龍 + 哈克龍 + 古拉頓娜古代板塊持續擴張"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-08-22",
+    "verification": null,
+    "reflection": null
   }
 ]
