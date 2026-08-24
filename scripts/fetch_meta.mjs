@@ -93,7 +93,7 @@ async function fetchMeta() {
     }
     
     // Save raw HTML for debugging
-    const workspacePath = '/home/node/.openclaw/workspace-celesteela';
+    const workspacePath = '/home/amr/.openclaw/workspace-celesteela';
     writeFileSync(`${workspacePath}/memory/ptcgp_raw_latest.html`, html);
     
     const result = {

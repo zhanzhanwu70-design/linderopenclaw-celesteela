@@ -69,7 +69,7 @@ def fetch_meta():
             "top_decks": decks
         }
         
-        with open('/home/node/.openclaw/workspace/memory/ptcgp_meta.json', 'w', encoding='utf-8') as f:
+        with open('/home/amr/.openclaw/workspace/memory/ptcgp_meta.json', 'w', encoding='utf-8') as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
         
         print(f"Updated {len(decks)} decks")

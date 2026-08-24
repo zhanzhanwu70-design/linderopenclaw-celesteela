@@ -50,7 +50,7 @@ async function downloadAllCards() {
     
     // Save card list
     const fs = require('fs');
-    fs.writeFileSync('/home/node/.openclaw/workspace-celesteela/cards.json', JSON.stringify(cards, null, 2));
+    fs.writeFileSync('/home/amr/.openclaw/workspace-celesteela/cards.json', JSON.stringify(cards, null, 2));
     console.log('Card list saved to cards.json');
     
     await browser.close();

@@ -3,7 +3,7 @@
 # 用法: ./download_yt.sh "https://www.youtube.com/watch?v=..."
 
 VIDEO_URL="$1"
-OUTPUT_DIR="${2:-/home/node/.openclaw/workspace-celesteela/video3}"
+OUTPUT_DIR="${2:-/home/amr/.openclaw/workspace-celesteela/video3}"
 
 if [ -z "$VIDEO_URL" ]; then
     echo "用法: $0 <YouTube URL> [輸出目錄]"

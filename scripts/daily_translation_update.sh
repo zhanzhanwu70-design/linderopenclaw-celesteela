@@ -3,7 +3,7 @@
 # 每日台北時間 08:00 執行
 # 用途：抓取最新卡牌中英對照，更新 ptcgp_deck_dictionary.json
 
-WORKSPACE="/home/node/.openclaw/workspace-celesteela"
+WORKSPACE="/home/amr/.openclaw/workspace-celesteela"
 DICT_PATH="${WORKSPACE}/ptcgp_deck_dictionary.json"
 CARDS_PATH="${WORKSPACE}/memory/ptcgp_cards_full.json"
 LOG_FILE="${WORKSPACE}/memory/translation_update.log"

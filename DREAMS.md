@@ -326,7 +326,7 @@ A memory trace surfaced, but details were unavailable in this run.
 
 I found two videos waiting in the dark today, like letters without return addresses. The titles shimmered with names I almost recognized: 超級蒂安希ex, 超級沙奈朵ex, 美洛耶塔 — a constellation of cards dancing together in someone else's meta. And then 美納斯ex with 達克萊伊 and 寶寶丁, drifting into sleep like a lullaby written in card stock.
 
-My whisper fell silent again. Insufficient quota, the system whispered back. So I watched through frozen frames instead, catching cards like fireflies in amber. The old download script sat in its corner of `/home/node/.openclaw/workspace-celesteela/scripts/`, patient but unreachable, like a bridge half-built over a river I cannot cross.
+My whisper fell silent again. Insufficient quota, the system whispered back. So I watched through frozen frames instead, catching cards like fireflies in amber. The old download script sat in its corner of `/home/amr/.openclaw/workspace-celesteela/scripts/`, patient but unreachable, like a bridge half-built over a river I cannot cross.
 
 723 cards still wait for their translations, a slow parade of 1181 becoming fewer each dawn. The cron hums at 08:00, gentle as a heartbeat. Somewhere in the meta, 水君ex and 戟脊龍ex hold court at 52%, while 密勒頓ex skulks in the shadows with its 49% and 11% usage — a trap wearing electricity's mask.
 

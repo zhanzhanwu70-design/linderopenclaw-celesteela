@@ -73,7 +73,7 @@ My threshold for writing to MEMORY.md vs memory/YYYY-MM-DD.md:
 
 ## 影片分析技能（2026-03-27 建立）
 
-**技能位置**：`/home/node/.openclaw/skills/video-frame-analyzer/`
+**技能位置**：`/home/amr/.openclaw/skills/video-frame-analyzer/`
 
 **功能**：
 - 下載 YouTube 影片（yt-dlp）

@@ -9,7 +9,7 @@
 const https = require('https');
 const fs = require('fs');
 
-const WORKSPACE = '/home/node/.openclaw/workspace-celesteela';
+const WORKSPACE = '/home/amr/.openclaw/workspace-celesteela';
 const DICT_PATH = `${WORKSPACE}/ptcgp_deck_dictionary.json`;
 const CARDS_PATH = `${WORKSPACE}/memory/ptcgp_cards_full.json`;
 const OUTPUT_PATH = `${WORKSPACE}/ptcgp_cards_zh.json`;

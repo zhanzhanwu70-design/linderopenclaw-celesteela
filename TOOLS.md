@@ -23,7 +23,7 @@
 - 發送位置: Channel 1338836482420510764
 
 ### 技術環境
-- ffmpeg: `/home/node/.local/bin/ffmpeg`
+- ffmpeg: `/home/amr/.local/bin/ffmpeg`
 - yt-dlp: `/tmp/yt-dlp`
 - Video workspace: `video/`, `video2/`, `video3/`
 
@@ -105,7 +105,7 @@ When you need an API key, use:
 const fs = require('fs');
 const apiKey = fs.readFileSync(process.env.OPENAI_API_KEY_DIR, 'utf8').trim();
 
-OPENAI_API_KEY_DIR = /home/node/.openclaw/secrets/openai-api-key.txt
+OPENAI_API_KEY_DIR = /home/amr/.openclaw/secrets/openai-api-key.txt
 
 ### Meta 分析預測系統（2026-05-30 建立）
 

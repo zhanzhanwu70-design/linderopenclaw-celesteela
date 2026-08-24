@@ -1,6 +1,6 @@
 const fs=require('fs');
-const jobs=JSON.parse(fs.readFileSync('/home/node/.openclaw/cron/jobs.json','utf8')).jobs;
-const states=JSON.parse(fs.readFileSync('/home/node/.openclaw/cron/jobs-state.json','utf8')).jobs;
+const jobs=JSON.parse(fs.readFileSync('/home/amr/.openclaw/cron/jobs.json','utf8')).jobs;
+const states=JSON.parse(fs.readFileSync('/home/amr/.openclaw/cron/jobs-state.json','utf8')).jobs;
 const now=Date.parse('2026-05-26T12:30:00Z');
 function dt(ms){return ms?new Date(ms).toISOString():'-'}
 function periodMs(schedule){
@@ -22,7 +22,7 @@ const rows=[]; const probs=[];
 for(const j of jobs){
  const s=states[j.id]?.state||{};
  const enabled=j.enabled!==false;
- const runFile=`/home/node/.openclaw/cron/runs/${j.id}.jsonl`;
+ const runFile=`/home/amr/.openclaw/cron/runs/${j.id}.jsonl`;
  let tail=''; try{ const txt=fs.readFileSync(runFile,'utf8').trim(); const lines=txt?txt.split(/\n/):[]; tail=lines.slice(-1)[0]||'';}catch{}
  let issues=[];
  if(enabled && !states[j.id]) issues.push('missing-state');

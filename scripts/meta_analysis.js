@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const dict = JSON.parse(fs.readFileSync('/home/node/.openclaw/workspace-celesteela/ptcgp_deck_dictionary.json', 'utf8'));
+const dict = JSON.parse(fs.readFileSync('/home/amr/.openclaw/workspace-celesteela/ptcgp_deck_dictionary.json', 'utf8'));
 const deckNames = dict.deck_names;
 const lookup = {};
 for (const [en, zh] of Object.entries(deckNames)) {
