@@ -1391,4 +1391,42 @@
     "verification": null,
     "reflection": null
   }
-]
+],
+{
+  "id": "PRED_20260824",
+  "date": "2026-08-24",
+  "set": "B4",
+  "source": "PMPT #43 (292 players, 2026-08-22) + Limitless TCG B4 Day 23 data (2026-08-22)",
+  "environment_summary": "B4 Day 26. 環境超扁平，第一名使用率僅 9.73%。PMPT #43 冠軍為 Dedenne ex Indeedee ex（使用率 0.01%）。胡帕 ex + 超級阿柏梭魯 ex AWR 53.15% 仍是效率之王但人氣持平。水君 + 戟脊龍 AWR 52.12%。PMPT #43 顯示 Mega Altaria ex + Espeon 仍是錦標賽熱門選擇（top 10 有 4 席）。",
+  "predictions": [
+    {
+      "scenario": "A",
+      "name": "自癒磁怪 ex + 自癒磁怪 使用率翻倍至 2.5%+",
+      "probability": 0.35,
+      "description": "53.03% AWR 持續被低估，隨著更多玩家注意到這個隱藏實力股，低曝光效應可能開始逆轉"
+    },
+    {
+      "scenario": "B",
+      "name": "水君 + 戟脊龍使用率突破 4%",
+      "probability": 0.3,
+      "description": "穩健派玩家在環境持續扁平和電系韭菜被識別後，可能轉向更安全的 Water 軸"
+    },
+    {
+      "scenario": "C",
+      "name": "睡眠青鳥 + 太陽伊布 使用率升至 3.5%+",
+      "probability": 0.25,
+      "description": "PMPT #43 顯示 Mega Altaria ex 仍是錦標賽主流，休閒環境也可能跟進"
+    },
+    {
+      "scenario": "D",
+      "name": "Mega Charizard Y ex 韭菜化加速，AWR 跌破 48%",
+      "probability": 0.1,
+      "description": "PMPT #43 第6名，但 AWR 49.83% 顯示真實效率低於人氣"
+    }
+  ],
+  "most_likely": "A or B",
+  "confidence": "medium",
+  "check_date": "2026-08-26",
+  "verification": null,
+  "reflection": null
+}
