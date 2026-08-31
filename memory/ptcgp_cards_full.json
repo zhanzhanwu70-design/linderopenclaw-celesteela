@@ -40735,5 +40735,1655 @@
     "packs": [
       "Ruler of the Skies"
     ]
+  },
+  "B4a_001": {
+    "set": "B4a",
+    "number": 1,
+    "name": "Volbeat",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021190_00_BARUBEAT_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_002": {
+    "set": "B4a",
+    "number": 2,
+    "name": "Illumise",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021200_00_ILLUMISE_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_003": {
+    "set": "B4a",
+    "number": 3,
+    "name": "Snivy",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021210_00_TSUTARJA_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_004": {
+    "set": "B4a",
+    "number": 4,
+    "name": "Servine",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021220_00_JANOVY_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_005": {
+    "set": "B4a",
+    "number": 5,
+    "name": "Serperior",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021230_00_JALORDA_R.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_006": {
+    "set": "B4a",
+    "number": 6,
+    "name": "Team Rocket’s Magmar",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021240_00_ROCKETDANNOBOOBER_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_007": {
+    "set": "B4a",
+    "number": 7,
+    "name": "Team Rocket’s Moltres ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_021250_00_ROCKETDANNOFIREex_RR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_008": {
+    "set": "B4a",
+    "number": 8,
+    "name": "Team Rocket’s Houndour",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021260_00_ROCKETDANNODELVIL_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_009": {
+    "set": "B4a",
+    "number": 9,
+    "name": "Team Rocket’s Houndoom",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021270_00_ROCKETDANNOHELLGAR_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_010": {
+    "set": "B4a",
+    "number": 10,
+    "name": "Fennekin",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021170_00_FOKKO_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_011": {
+    "set": "B4a",
+    "number": 11,
+    "name": "Braixen",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021280_00_TAIRENAR_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_012": {
+    "set": "B4a",
+    "number": 12,
+    "name": "Delphox",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021290_00_MAHOXY_R.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_013": {
+    "set": "B4a",
+    "number": 13,
+    "name": "Team Rocket’s Lapras",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021100_00_ROCKETDANNOLAPLACE_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_014": {
+    "set": "B4a",
+    "number": 14,
+    "name": "Team Rocket’s Articuno ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_021300_00_ROCKETDANNOFREEZERex_RR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_015": {
+    "set": "B4a",
+    "number": 15,
+    "name": "Wingull",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021110_00_CAMOME_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_016": {
+    "set": "B4a",
+    "number": 16,
+    "name": "Pelipper",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021310_00_PELIPPER_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_017": {
+    "set": "B4a",
+    "number": 17,
+    "name": "Hisuian Basculin",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021320_00_HISUIBASSRAO_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_018": {
+    "set": "B4a",
+    "number": 18,
+    "name": "Hisuian Basculegion",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021330_00_HISUIIDAITOU_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_019": {
+    "set": "B4a",
+    "number": 19,
+    "name": "Team Rocket’s Voltorb",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021340_00_ROCKETDANNOBIRIRIDAMA_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_020": {
+    "set": "B4a",
+    "number": 20,
+    "name": "Team Rocket’s Electrode",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021350_00_ROCKETDANNOMARUMINE_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_021": {
+    "set": "B4a",
+    "number": 21,
+    "name": "Team Rocket’s Zapdos ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_021360_00_ROCKETDANNOTHUNDERex_RR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_022": {
+    "set": "B4a",
+    "number": 22,
+    "name": "Blitzle",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021370_00_SHIMAMA_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_023": {
+    "set": "B4a",
+    "number": 23,
+    "name": "Zebstrika",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021380_00_ZEBRAIKA_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_024": {
+    "set": "B4a",
+    "number": 24,
+    "name": "Team Rocket’s Pincurchin",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021390_00_ROCKETDANNOBACHINUNI_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_025": {
+    "set": "B4a",
+    "number": 25,
+    "name": "Team Rocket’s Slowpoke",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021400_00_ROCKETDANNOYADON_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_026": {
+    "set": "B4a",
+    "number": 26,
+    "name": "Team Rocket’s Slowking ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_021410_00_ROCKETDANNOYADOKINGex_RR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_027": {
+    "set": "B4a",
+    "number": 27,
+    "name": "Team Rocket’s Drowzee",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021420_00_ROCKETDANNOSLEEPE_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_028": {
+    "set": "B4a",
+    "number": 28,
+    "name": "Team Rocket’s Hypno",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021430_00_ROCKETDANNOSLEEPER_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_029": {
+    "set": "B4a",
+    "number": 29,
+    "name": "Team Rocket’s Mr. Mime",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021440_00_ROCKETDANNOBARRIERD_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_030": {
+    "set": "B4a",
+    "number": 30,
+    "name": "Team Rocket’s Mewtwo",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021450_00_ROCKETDANNOMEWTWO_R.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_031": {
+    "set": "B4a",
+    "number": 31,
+    "name": "Espurr",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021460_00_NYASPER_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_032": {
+    "set": "B4a",
+    "number": 32,
+    "name": "Meowstic",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021180_00_NYAONIX_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_033": {
+    "set": "B4a",
+    "number": 33,
+    "name": "Oranguru",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021470_00_YAREYUUTAN_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_034": {
+    "set": "B4a",
+    "number": 34,
+    "name": "Gimmighoul",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021480_00_COLLECUREI_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_035": {
+    "set": "B4a",
+    "number": 35,
+    "name": "Cubone",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021490_00_KARAKARA_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_036": {
+    "set": "B4a",
+    "number": 36,
+    "name": "Marowak",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021130_00_GARAGARA_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_037": {
+    "set": "B4a",
+    "number": 37,
+    "name": "Landorus",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021500_00_LANDLOS_R.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_038": {
+    "set": "B4a",
+    "number": 38,
+    "name": "Team Rocket’s Ekans",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021510_00_ROCKETDANNOARBO_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_039": {
+    "set": "B4a",
+    "number": 39,
+    "name": "Team Rocket’s Arbok",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021520_00_ROCKETDANNOARBOK_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_040": {
+    "set": "B4a",
+    "number": 40,
+    "name": "Team Rocket’s Grimer",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021530_00_ROCKETDANNOBETBETER_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_041": {
+    "set": "B4a",
+    "number": 41,
+    "name": "Team Rocket’s Muk",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021540_00_ROCKETDANNOBETBETON_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_042": {
+    "set": "B4a",
+    "number": 42,
+    "name": "Team Rocket’s Koffing",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021550_00_ROCKETDANNODOGARS_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_043": {
+    "set": "B4a",
+    "number": 43,
+    "name": "Team Rocket’s Weezing ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_021560_00_ROCKETDANNOMATADOGASex_RR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_044": {
+    "set": "B4a",
+    "number": 44,
+    "name": "Team Rocket’s Sneasel",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021570_00_ROCKETDANNONYULA_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_045": {
+    "set": "B4a",
+    "number": 45,
+    "name": "Togedemaru",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021580_00_TOGEDEMARU_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_046": {
+    "set": "B4a",
+    "number": 46,
+    "name": "Cufant",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021590_00_ZOUDOU_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_047": {
+    "set": "B4a",
+    "number": 47,
+    "name": "Copperajah",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021600_00_DAIOUDOU_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_048": {
+    "set": "B4a",
+    "number": 48,
+    "name": "Team Rocket’s Tinkatink",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021610_00_ROCKETDANNOKANUCHAN_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_049": {
+    "set": "B4a",
+    "number": 49,
+    "name": "Team Rocket’s Tinkatuff",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021620_00_ROCKETDANNONAKANUCHAN_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_050": {
+    "set": "B4a",
+    "number": 50,
+    "name": "Team Rocket’s Tinkaton",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021630_00_ROCKETDANNODEKANUCHAN_R.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_051": {
+    "set": "B4a",
+    "number": 51,
+    "name": "Gholdengo",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021640_00_SURFUGO_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_052": {
+    "set": "B4a",
+    "number": 52,
+    "name": "Gible",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021140_00_FUKAMARU_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_053": {
+    "set": "B4a",
+    "number": 53,
+    "name": "Gabite",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021150_00_GABITE_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_054": {
+    "set": "B4a",
+    "number": 54,
+    "name": "Garchomp",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021650_00_GABURIAS_R.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_055": {
+    "set": "B4a",
+    "number": 55,
+    "name": "Duraludon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021660_00_DURALUDON_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_056": {
+    "set": "B4a",
+    "number": 56,
+    "name": "Archaludon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021670_00_BRIDURAS_R.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_057": {
+    "set": "B4a",
+    "number": 57,
+    "name": "Regidrago",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021680_00_REGIDORAGO_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_058": {
+    "set": "B4a",
+    "number": 58,
+    "name": "Team Rocket’s Rattata",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021690_00_ROCKETDANNOKORATTA_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_059": {
+    "set": "B4a",
+    "number": 59,
+    "name": "Team Rocket’s Raticate ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "RR",
+    "image": "cPK_10_021700_00_ROCKETDANNORATTAex_RR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_060": {
+    "set": "B4a",
+    "number": 60,
+    "name": "Team Rocket’s Meowth",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021710_00_ROCKETDANNONYARTH_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_061": {
+    "set": "B4a",
+    "number": 61,
+    "name": "Team Rocket’s Persian",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cPK_10_021720_00_ROCKETDANNOPERSIAN_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_062": {
+    "set": "B4a",
+    "number": 62,
+    "name": "Team Rocket’s Kecleon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021730_00_ROCKETDANNOKAKUREON_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_063": {
+    "set": "B4a",
+    "number": 63,
+    "name": "Happiny",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "R",
+    "image": "cPK_10_021740_00_PINPUKU_R.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_064": {
+    "set": "B4a",
+    "number": 64,
+    "name": "Furfrou",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021750_00_TRIMMIEN_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_065": {
+    "set": "B4a",
+    "number": 65,
+    "name": "Lechonk",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021760_00_GOURTON_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_066": {
+    "set": "B4a",
+    "number": 66,
+    "name": "Oinkologne",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "C",
+    "image": "cPK_10_021770_00_PERFUTON_C.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_067": {
+    "set": "B4a",
+    "number": 67,
+    "name": "Team Rocket’s Thieving Machine",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001600_00_ROCKETDANNODOROBOUMASHIN_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_068": {
+    "set": "B4a",
+    "number": 68,
+    "name": "Team Rocket’s Goo-zooka",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001610_00_ROCKETDANNOBETOBETOBAZOOKA_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_069": {
+    "set": "B4a",
+    "number": 69,
+    "name": "Team Rocket’s Researcher",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001620_00_ROCKETDANNOKENKYUUIN_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_070": {
+    "set": "B4a",
+    "number": 70,
+    "name": "Team Rocket’s Master Plan",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001630_00_ROCKETDANNODAISAKUSEN_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_071": {
+    "set": "B4a",
+    "number": 71,
+    "name": "Team Rocket’s Boss",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001640_00_ROCKETDANNOBOSS_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_072": {
+    "set": "B4a",
+    "number": 72,
+    "name": "Arcade",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "U",
+    "image": "cTR_10_001650_00_GAMECENTER_U.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_073": {
+    "set": "B4a",
+    "number": 73,
+    "name": "Delphox",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_021290_00_MAHOXY_AR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_074": {
+    "set": "B4a",
+    "number": 74,
+    "name": "Team Rocket’s Hypno",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_021430_00_ROCKETDANNOSLEEPER_AR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_075": {
+    "set": "B4a",
+    "number": 75,
+    "name": "Team Rocket’s Tinkaton",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_021630_00_ROCKETDANNODEKANUCHAN_AR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_076": {
+    "set": "B4a",
+    "number": 76,
+    "name": "Team Rocket’s Kecleon",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_021730_00_ROCKETDANNOKAKUREON_AR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_077": {
+    "set": "B4a",
+    "number": 77,
+    "name": "Happiny",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_021740_00_PINPUKU_AR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_078": {
+    "set": "B4a",
+    "number": 78,
+    "name": "Lechonk",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "AR",
+    "image": "cPK_20_021760_00_GOURTON_AR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_079": {
+    "set": "B4a",
+    "number": 79,
+    "name": "Team Rocket’s Moltres ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_021250_00_ROCKETDANNOFIREex_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_080": {
+    "set": "B4a",
+    "number": 80,
+    "name": "Team Rocket’s Articuno ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_021300_00_ROCKETDANNOFREEZERex_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_081": {
+    "set": "B4a",
+    "number": 81,
+    "name": "Team Rocket’s Zapdos ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_082": {
+    "set": "B4a",
+    "number": 82,
+    "name": "Team Rocket’s Slowking ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_021410_00_ROCKETDANNOYADOKINGex_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_083": {
+    "set": "B4a",
+    "number": 83,
+    "name": "Team Rocket’s Weezing ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_021560_00_ROCKETDANNOMATADOGASex_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_084": {
+    "set": "B4a",
+    "number": 84,
+    "name": "Team Rocket’s Raticate ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cPK_20_021700_00_ROCKETDANNORATTAex_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_085": {
+    "set": "B4a",
+    "number": 85,
+    "name": "Team Rocket’s Researcher",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cTR_20_001620_00_ROCKETDANNOKENKYUUIN_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_086": {
+    "set": "B4a",
+    "number": 86,
+    "name": "Team Rocket’s Master Plan",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cTR_20_001630_00_ROCKETDANNODAISAKUSEN_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_087": {
+    "set": "B4a",
+    "number": 87,
+    "name": "Team Rocket’s Boss",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SR",
+    "image": "cTR_20_001640_00_ROCKETDANNOBOSS_SR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_088": {
+    "set": "B4a",
+    "number": 88,
+    "name": "Team Rocket’s Moltres ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_021250_01_ROCKETDANNOFIREex_SAR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_089": {
+    "set": "B4a",
+    "number": 89,
+    "name": "Team Rocket’s Articuno ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_021300_01_ROCKETDANNOFREEZERex_SAR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_090": {
+    "set": "B4a",
+    "number": 90,
+    "name": "Team Rocket’s Zapdos ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_021360_01_ROCKETDANNOTHUNDERex_SAR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_091": {
+    "set": "B4a",
+    "number": 91,
+    "name": "Team Rocket’s Slowking ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_021410_01_ROCKETDANNOYADOKINGex_SAR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_092": {
+    "set": "B4a",
+    "number": 92,
+    "name": "Team Rocket’s Weezing ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_021560_01_ROCKETDANNOMATADOGASex_SAR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_093": {
+    "set": "B4a",
+    "number": 93,
+    "name": "Team Rocket’s Raticate ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SAR",
+    "image": "cPK_20_021700_01_ROCKETDANNORATTAex_SAR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_094": {
+    "set": "B4a",
+    "number": 94,
+    "name": "Team Rocket’s Master Plan",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "IM",
+    "image": "cTR_20_001630_01_ROCKETDANNODAISAKUSEN_IM.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_095": {
+    "set": "B4a",
+    "number": 95,
+    "name": "Vulpix",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_019110_01_ROKON_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_096": {
+    "set": "B4a",
+    "number": 96,
+    "name": "Ninetales",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_019120_00_KYUKON_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_097": {
+    "set": "B4a",
+    "number": 97,
+    "name": "Goldeen",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_019130_00_TOSAKINTO_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_098": {
+    "set": "B4a",
+    "number": 98,
+    "name": "Seaking",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_019140_00_AZUMAO_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_099": {
+    "set": "B4a",
+    "number": 99,
+    "name": "Toxel",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014200_01_ELESON_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_100": {
+    "set": "B4a",
+    "number": 100,
+    "name": "Sinistea",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014400_00_YABACHA_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_101": {
+    "set": "B4a",
+    "number": 101,
+    "name": "Polteageist",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014410_00_POTDEATH_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_102": {
+    "set": "B4a",
+    "number": 102,
+    "name": "Mawile",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014780_00_KUCHEAT_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_103": {
+    "set": "B4a",
+    "number": 103,
+    "name": "Taillow",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014980_00_SUBAME_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_104": {
+    "set": "B4a",
+    "number": 104,
+    "name": "Swellow",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "S",
+    "image": "cPK_20_014990_00_OHSUBAME_S.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_105": {
+    "set": "B4a",
+    "number": 105,
+    "name": "Mega Charizard Y ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_013190_02_MEGALIZARDONYex_SSR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_106": {
+    "set": "B4a",
+    "number": 106,
+    "name": "Toxtricity ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_014210_02_STRINDERex_SSR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_107": {
+    "set": "B4a",
+    "number": 107,
+    "name": "Mimikyu ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_014390_02_MIMIKKYUex_SSR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_108": {
+    "set": "B4a",
+    "number": 108,
+    "name": "Mega Mawile ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "SSR",
+    "image": "cPK_20_014790_02_MEGAKUCHEATex_SSR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_109": {
+    "set": "B4a",
+    "number": 109,
+    "name": "Gholdengo",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "UR",
+    "image": "cPK_20_021640_00_SURFUGO_UR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
+  },
+  "B4a_110": {
+    "set": "B4a",
+    "number": 110,
+    "name": "Team Rocket’s Goo-zooka",
+    "type": "",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "rarity": "UR",
+    "image": "cTR_20_001610_00_ROCKETDANNOBETOBETOBAZOOKA_UR.webp",
+    "packs": [
+      "Team Rocket"
+    ]
   }
 }
