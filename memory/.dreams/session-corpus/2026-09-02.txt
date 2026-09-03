@@ -1,0 +1,6 @@
+[celesteela/sessions/celesteela/9c2596b5-08a1-452c-becb-e1742287b0fd#L115] Assistant: 🛡️ **每日資安建議｜2026-09-02** **當日威脅速覽** - 🔴 **PaperCut NG/MF 預認證 RCE 鏈**（CVE-2026-81578 + CVE-2026-82078）— CISA 已列入 KEV，Metasploit 模組公開，攻擊者落地 AnyDesk 後內網橫移 - 🔴 **JFrog Artifactory 認證繞過**（CVE-2026-82329，CVSS 9.8）— 披露 3-4 天內在野利用，直擊軟體供應鏈信任根 - 🟠 **Langflow AI 平台
+[celesteela/sessions/celesteela/9c2596b5-08a1-452c-becb-e1742287b0fd#L115] Assistant: 身份驗證加固（45 分鐘）** - 全帳號強制 MFA，**特別是 Okta、AD 管理員、Artifactory admin** - 檢查不可能旅遊（impossible travel）告警是否啟用 - 對服務帳號啟用憑證輪替，避免長期 token 釀災 **3️⃣ 端點防禦校驗（30 分鐘）** - Defender 是否被停用或排除過多路徑（ValleyRAT 慣用手法） - PowerShell 限制為 Constrained Language Mode - 部署簡單規則：阻擋來自 Office/Win
+[celesteela/sessions/celesteela/ee2bb36f-a75c-4f44-a5aa-362ccc101065#L34] Assistant: 新鮮資料已抓取。今晚樣本偏小（Top1僅155場），需留意。以下是完整分析：
+[celesteela/sessions/celesteela/ee2bb36f-a75c-4f44-a5aa-362ccc101065#L36] Assistant: 現在撰寫並發送 Discord 分析：
+[celesteela/sessions/celesteela/ee2bb36f-a75c-4f44-a5aa-362ccc101065#L38] Assistant: Discord 有 2000 字限制，分段發送：
+[celesteela/sessions/celesteela/ee2bb36f-a75c-4f44-a5aa-362ccc101065#L44] Assistant: **今日 Meta 分析完成。** 執行摘要： **📊 資料狀態**：成功抓取，但今晚樣本偏小（Top1僅N=155，平常1000+），數據波動大，已於分析中標註 ⚠️。 **🔑 關鍵發現**： - **Mega Lucario ex** 穩坐使用率第一（7.35%），AWR 52.78% - **超級巨龍火焰雞 ex** AWR 54.65% 最高，但 N=61，數據不足不建議跟進 - **水君 + 戟脊龍** 跌破 50% AWR（49.69%），為昨日最大跌幅 - **火箭隊瓦斯彈 + 胡帕** 新進韭
