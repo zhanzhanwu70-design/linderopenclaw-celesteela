@@ -1,1 +1,4 @@
 [celesteela/sessions/celesteela/b6854166-acc0-4772-a688-b305ffb26830#L42] Assistant: A2A_OK ANNOUNCE_SKIP
+[celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L22544] User: Reply with one short sentence confirming you are operational.
+[celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L22545] Assistant: Operational: agent runtime responsive; `/home/amr/.openclaw/task-queue/heartbeat_check.py` still missing.
+[celesteela/sessions/celesteela/b6854166-acc0-4772-a688-b305ffb26830#L44] Assistant: A2A_OK ANNOUNCE_SKIP
