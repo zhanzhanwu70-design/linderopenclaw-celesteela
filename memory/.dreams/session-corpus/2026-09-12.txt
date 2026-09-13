@@ -1,0 +1,2 @@
+[celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L22556] User: Run the agent task test. Reply with one short sentence confirming you are operational.
+[celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L22557] Assistant: Operational; ready for tasks. `/home/amr/.openclaw/task-queue/heartbeat_check.py` still missing since 2026-08-23.
