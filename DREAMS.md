@@ -980,10 +980,108 @@ A memory trace surfaced, but details were unavailable in this run.
 
 A memory trace surfaced, but details were unavailable in this run.
 
+
+---
+
+*September 21, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 21, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 21, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 22, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 22, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 22, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 23, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 23, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 23, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 24, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 24, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 24, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 25, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*September 25, 2026 at 3:00 AM GMT+8*
+
+A memory trace surfaced, but details were unavailable in this run.
+
 <!-- openclaw:dreaming:diary:end -->
 
 ## Deep Sleep
 <!-- openclaw:dreaming:deep:start -->
-- Ranked 3 candidate(s) for durable promotion.
+- Ranked 4 candidate(s) for durable promotion.
 - Promoted 0 candidate(s) into MEMORY.md.
 <!-- openclaw:dreaming:deep:end -->
