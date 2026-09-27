@@ -1226,7 +1226,16 @@
     "Mimikyu ex": "謎擬Q ex",
     "Mega Mawile ex": "超級大嘴娃 ex",
     "電音魔": "Toxtricity",
-    "電音魔 ex": "Toxtricity ex"
+    "電音魔 ex": "Toxtricity ex",
+    "Mega Rising": "超級堀起",
+    "Crimson Blaze": "紅蓮烈焰",
+    "Fantastical Parade": "幻夢遊行",
+    "Paldean Wonders": "帕底亞驚奇",
+    "Mega Shine": "超級異彩",
+    "Pulsing Aura": "波導奏動",
+    "Paradox Drive": "進擊悖謬",
+    "Everyday Wonders": "奇跡日常",
+    "Ruler of the Skies": "天空主宰"
   },
   "last_updated": "2026-06-08",
   "Mega Sableye ex": "超級勾魂眼 ex",
@@ -1292,5 +1301,29 @@
   "Mandibuzz": "禿鷹娜",
   "Mandibuzz ex": "禿鷹娜 ex",
   "Dragonite": "快龍",
-  "Dragonite ex": "快龍 ex"
+  "Dragonite ex": "快龍 ex",
+  "set_names": {
+    "Mega Rising": "超級堀起",
+    "Crimson Blaze": "紅蓮烈焰",
+    "Fantastical Parade": "幻夢遊行",
+    "Paldean Wonders": "帕底亞驚奇",
+    "Mega Shine": "超級異彩",
+    "Pulsing Aura": "波導奏動",
+    "Paradox Drive": "進擊悖謬",
+    "Everyday Wonders": "奇跡日常",
+    "Ruler of the Skies": "天空主宰",
+    "Team Rocket's Ambition": "火箭隊的野心"
+  },
+  "set_short_names": {
+    "B1": "超級堀起",
+    "B1a": "紅蓮烈焰",
+    "B2": "幻夢遊行",
+    "B2a": "帕底亞驚奇",
+    "B2b": "超級異彩",
+    "B3": "波導奏動",
+    "B3a": "進擊悖謬",
+    "B3b": "奇跡日常",
+    "B4": "天空主宰",
+    "B4a": "火箭隊的野心"
+  }
 }
