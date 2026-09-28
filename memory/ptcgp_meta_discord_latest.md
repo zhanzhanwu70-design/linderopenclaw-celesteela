@@ -1,1 +1,1 @@
-/home/amr/.openclaw/workspace-celesteela/memory/ptcgp_meta_discord_20260922.md
+ptcgp_meta_discord_20260927.md
