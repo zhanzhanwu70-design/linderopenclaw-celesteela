@@ -1,185 +1,459 @@
 {
-  "update_time": "2026-10-20T12:21:23.052Z",
+  "update_time": "2026-10-22",
+  "set": "B4a",
+  "day": 115,
+  "total_matches": 37326,
+  "source": "Limitless TCG live fetch 2026-10-22 20:20 (identical to 10-21 snapshot)",
   "top_decks": [
     {
       "rank": 1,
-      "name": "Decks",
-      "usage_rate": "N/A",
-      "win_rate": "N/A",
-      "record": "0 - 0",
-      "adjusted_win_rate": "N/A",
-      "sample_size": 0
+      "name": "Mega Altaria ex Espeon",
+      "usage_rate": "7.78%",
+      "win_rate": "",
+      "record": "3228 - 2749 - 248",
+      "adjusted_win_rate": "51.84%",
+      "sample_size": 6225
     },
     {
       "rank": 2,
-      "name": "Mega Altaria ex Espeon",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Mega Lucario ex Lucario",
+      "usage_rate": "7.59%",
+      "win_rate": "",
+      "record": "2809 - 2749 - 156",
+      "adjusted_win_rate": "49.15%",
+      "sample_size": 5714
     },
     {
       "rank": 3,
-      "name": "3200 - 2725 - 244",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Butterfree Mega Sceptile ex",
+      "usage_rate": "4.97%",
+      "win_rate": "",
+      "record": "1971 - 1765 - 135",
+      "adjusted_win_rate": "50.90%",
+      "sample_size": 3871
     },
     {
       "rank": 4,
-      "name": "51.87%",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Suicune ex Baxcalibur",
+      "usage_rate": "4.74%",
+      "win_rate": "",
+      "record": "1891 - 1674 - 127",
+      "adjusted_win_rate": "51.20%",
+      "sample_size": 3692
     },
     {
       "rank": 5,
-      "name": "Mega Lucario ex Lucario",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Vespiquen ex Shuckle ex",
+      "usage_rate": "4.33%",
+      "win_rate": "",
+      "record": "1732 - 1540 - 111",
+      "adjusted_win_rate": "51.17%",
+      "sample_size": 3383
     },
     {
       "rank": 6,
-      "name": "2789 - 2727 - 156",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Dragonair Mega Rayquaza ex",
+      "usage_rate": "3.48%",
+      "win_rate": "",
+      "record": "1369 - 1249 - 93",
+      "adjusted_win_rate": "50.48%",
+      "sample_size": 2711
     },
     {
       "rank": 7,
-      "name": "49.17%",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Hoopa ex Mega Absol ex",
+      "usage_rate": "3.07%",
+      "win_rate": "",
+      "record": "1247 - 1066 - 96",
+      "adjusted_win_rate": "51.73%",
+      "sample_size": 2409
     },
     {
       "rank": 8,
-      "name": "Butterfree Mega Sceptile ex",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Hydreigon Mega Absol ex",
+      "usage_rate": "3.01%",
+      "win_rate": "",
+      "record": "1155 - 1073 - 80",
+      "adjusted_win_rate": "50.02%",
+      "sample_size": 2308
     },
     {
       "rank": 9,
-      "name": "1957 - 1754 - 134",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Magnezone Miraidon ex",
+      "usage_rate": "3.00%",
+      "win_rate": "",
+      "record": "1314 - 1071 - 133",
+      "adjusted_win_rate": "52.14%",
+      "sample_size": 2518
     },
     {
       "rank": 10,
-      "name": "50.90%",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Mega Altaria ex Greninja",
+      "usage_rate": "2.71%",
+      "win_rate": "",
+      "record": "1014 - 947 - 71",
+      "adjusted_win_rate": "49.88%",
+      "sample_size": 2032
     },
     {
       "rank": 11,
-      "name": "Suicune ex Baxcalibur",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Mega Blaziken ex",
+      "usage_rate": "2.62%",
+      "win_rate": "",
+      "record": "1061 - 906 - 87",
+      "adjusted_win_rate": "51.61%",
+      "sample_size": 2054
     },
     {
       "rank": 12,
-      "name": "1877 - 1661 - 124",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Dedenne ex Indeedee ex",
+      "usage_rate": "2.35%",
+      "win_rate": "",
+      "record": "953 - 816 - 67",
+      "adjusted_win_rate": "51.85%",
+      "sample_size": 1836
     },
     {
       "rank": 13,
-      "name": "51.26%",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Mega Charizard Y ex Entei ex",
+      "usage_rate": "2.31%",
+      "win_rate": "",
+      "record": "881 - 799 - 68",
+      "adjusted_win_rate": "50.37%",
+      "sample_size": 1748
     },
     {
       "rank": 14,
-      "name": "Vespiquen ex Shuckle ex",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Mega Manectric ex Heliolisk",
+      "usage_rate": "2.21%",
+      "win_rate": "",
+      "record": "853 - 758 - 70",
+      "adjusted_win_rate": "50.70%",
+      "sample_size": 1681
     },
     {
       "rank": 15,
-      "name": "1730 - 1534 - 111",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Team Rocket's Weezing ex Hoopa ex",
+      "usage_rate": "2.21%",
+      "win_rate": "",
+      "record": "815 - 793 - 63",
+      "adjusted_win_rate": "48.76%",
+      "sample_size": 1671
     },
     {
       "rank": 16,
-      "name": "51.26%",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Mega Sceptile ex Greninja",
+      "usage_rate": "1.86%",
+      "win_rate": "",
+      "record": "762 - 656 - 57",
+      "adjusted_win_rate": "51.60%",
+      "sample_size": 1475
     },
     {
       "rank": 17,
-      "name": "Dragonair Mega Rayquaza ex",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Mega Blaziken ex Greninja",
+      "usage_rate": "1.66%",
+      "win_rate": "",
+      "record": "692 - 607 - 60",
+      "adjusted_win_rate": "50.87%",
+      "sample_size": 1359
     },
     {
       "rank": 18,
-      "name": "1363 - 1243 - 93",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Zoroark ex Mega Absol ex",
+      "usage_rate": "1.23%",
+      "win_rate": "",
+      "record": "482 - 456 - 32",
+      "adjusted_win_rate": "49.65%",
+      "sample_size": 970
     },
     {
       "rank": 19,
-      "name": "50.50%",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Magnezone ex Magnezone",
+      "usage_rate": "1.18%",
+      "win_rate": "",
+      "record": "431 - 419 - 35",
+      "adjusted_win_rate": "48.68%",
+      "sample_size": 885
     },
     {
       "rank": 20,
-      "name": "Hoopa ex Mega Absol ex",
-      "usage_rate": "11067.76%",
-      "win_rate": "54.01%",
-      "record": "3200 - 2725",
-      "adjusted_win_rate": "53.98%",
-      "sample_size": 5925
+      "name": "Team Rocket's Raticate ex Alolan Ninetales ex",
+      "usage_rate": "0.98%",
+      "win_rate": "",
+      "record": "261 - 380 - 19",
+      "adjusted_win_rate": "39.85%",
+      "sample_size": 660
+    },
+    {
+      "rank": 21,
+      "name": "Milotic ex Eevee ex",
+      "usage_rate": "0.95%",
+      "win_rate": "",
+      "record": "402 - 353 - 29",
+      "adjusted_win_rate": "51.17%",
+      "sample_size": 784
+    },
+    {
+      "rank": 22,
+      "name": "Mega Sharpedo ex Gyarados",
+      "usage_rate": "0.88%",
+      "win_rate": "",
+      "record": "365 - 315 - 29",
+      "adjusted_win_rate": "51.36%",
+      "sample_size": 709
+    },
+    {
+      "rank": 23,
+      "name": "Miraidon ex Magnezone",
+      "usage_rate": "0.86%",
+      "win_rate": "",
+      "record": "350 - 310 - 18",
+      "adjusted_win_rate": "51.49%",
+      "sample_size": 678
+    },
+    {
+      "rank": 24,
+      "name": "Mega Altaria ex",
+      "usage_rate": "0.81%",
+      "win_rate": "",
+      "record": "324 - 308 - 29",
+      "adjusted_win_rate": "48.98%",
+      "sample_size": 661
+    },
+    {
+      "rank": 25,
+      "name": "Mega Gardevoir ex Mega Diancie ex",
+      "usage_rate": "0.81%",
+      "win_rate": "",
+      "record": "244 - 290 - 12",
+      "adjusted_win_rate": "44.83%",
+      "sample_size": 546
+    },
+    {
+      "rank": 26,
+      "name": "Beautifly Dustox",
+      "usage_rate": "0.75%",
+      "win_rate": "",
+      "record": "249 - 270 - 15",
+      "adjusted_win_rate": "46.69%",
+      "sample_size": 534
+    },
+    {
+      "rank": 27,
+      "name": "Mega Altaria ex Chingling",
+      "usage_rate": "0.67%",
+      "win_rate": "",
+      "record": "222 - 258 - 15",
+      "adjusted_win_rate": "45.00%",
+      "sample_size": 495
+    },
+    {
+      "rank": 28,
+      "name": "Mega Altaria ex Happiny",
+      "usage_rate": "0.65%",
+      "win_rate": "",
+      "record": "279 - 233 - 27",
+      "adjusted_win_rate": "51.60%",
+      "sample_size": 539
+    },
+    {
+      "rank": 29,
+      "name": "Meowscarada ex Meowscarada",
+      "usage_rate": "0.62%",
+      "win_rate": "",
+      "record": "217 - 233 - 16",
+      "adjusted_win_rate": "46.64%",
+      "sample_size": 466
+    },
+    {
+      "rank": 30,
+      "name": "Hoopa ex Greninja",
+      "usage_rate": "0.50%",
+      "win_rate": "",
+      "record": "199 - 184 - 14",
+      "adjusted_win_rate": "50.00%",
+      "sample_size": 397
+    },
+    {
+      "rank": 31,
+      "name": "Mega Charizard X ex Mega Charizard Y ex",
+      "usage_rate": "0.49%",
+      "win_rate": "",
+      "record": "174 - 180 - 11",
+      "adjusted_win_rate": "47.69%",
+      "sample_size": 365
+    },
+    {
+      "rank": 32,
+      "name": "Garchomp",
+      "usage_rate": "0.49%",
+      "win_rate": "",
+      "record": "134 - 196 - 9",
+      "adjusted_win_rate": "40.11%",
+      "sample_size": 339
+    },
+    {
+      "rank": 33,
+      "name": "Hoopa ex Mega Sableye ex",
+      "usage_rate": "0.48%",
+      "win_rate": "",
+      "record": "203 - 174 - 16",
+      "adjusted_win_rate": "51.44%",
+      "sample_size": 393
+    },
+    {
+      "rank": 34,
+      "name": "Mega Sharpedo ex Chien-Pao ex",
+      "usage_rate": "0.46%",
+      "win_rate": "",
+      "record": "186 - 154 - 18",
+      "adjusted_win_rate": "51.70%",
+      "sample_size": 358
+    },
+    {
+      "rank": 35,
+      "name": "Team Rocket's Slowking ex Meloetta",
+      "usage_rate": "0.46%",
+      "win_rate": "",
+      "record": "140 - 187 - 3",
+      "adjusted_win_rate": "42.82%",
+      "sample_size": 330
+    },
+    {
+      "rank": 36,
+      "name": "Greninja Mega Absol ex",
+      "usage_rate": "0.42%",
+      "win_rate": "",
+      "record": "169 - 141 - 15",
+      "adjusted_win_rate": "51.71%",
+      "sample_size": 325
+    },
+    {
+      "rank": 37,
+      "name": "Mega Altaria ex Igglybuff",
+      "usage_rate": "0.42%",
+      "win_rate": "",
+      "record": "141 - 142 - 9",
+      "adjusted_win_rate": "48.26%",
+      "sample_size": 292
+    },
+    {
+      "rank": 38,
+      "name": "Flygon ex",
+      "usage_rate": "0.38%",
+      "win_rate": "",
+      "record": "138 - 142 - 11",
+      "adjusted_win_rate": "47.47%",
+      "sample_size": 291
+    },
+    {
+      "rank": 39,
+      "name": "Mega Venusaur ex",
+      "usage_rate": "0.37%",
+      "win_rate": "",
+      "record": "104 - 142 - 6",
+      "adjusted_win_rate": "41.88%",
+      "sample_size": 252
+    },
+    {
+      "rank": 40,
+      "name": "Mega Diancie ex Carbink",
+      "usage_rate": "0.35%",
+      "win_rate": "",
+      "record": "135 - 125 - 8",
+      "adjusted_win_rate": "50.17%",
+      "sample_size": 268
+    },
+    {
+      "rank": 41,
+      "name": "Mega Blaziken ex Castform Sunny Form",
+      "usage_rate": "0.34%",
+      "win_rate": "",
+      "record": "124 - 130 - 3",
+      "adjusted_win_rate": "48.23%",
+      "sample_size": 257
+    },
+    {
+      "rank": 42,
+      "name": "Mega Manectric ex Team Rocket's Electrode",
+      "usage_rate": "0.33%",
+      "win_rate": "",
+      "record": "97 - 132 - 4",
+      "adjusted_win_rate": "42.25%",
+      "sample_size": 233
+    },
+    {
+      "rank": 43,
+      "name": "Charizard ex Mega Charizard Y ex",
+      "usage_rate": "0.33%",
+      "win_rate": "",
+      "record": "97 - 108 - 10",
+      "adjusted_win_rate": "45.42%",
+      "sample_size": 215
+    },
+    {
+      "rank": 44,
+      "name": "Team Rocket's Weezing ex Zoroark ex",
+      "usage_rate": "0.32%",
+      "win_rate": "",
+      "record": "117 - 130 - 6",
+      "adjusted_win_rate": "46.40%",
+      "sample_size": 253
+    },
+    {
+      "rank": 45,
+      "name": "Chandelure Oricorio",
+      "usage_rate": "0.32%",
+      "win_rate": "",
+      "record": "83 - 119 - 5",
+      "adjusted_win_rate": "40.95%",
+      "sample_size": 207
+    },
+    {
+      "rank": 46,
+      "name": "Whimsicott ex Ariados",
+      "usage_rate": "0.32%",
+      "win_rate": "",
+      "record": "73 - 114 - 0",
+      "adjusted_win_rate": "40.09%",
+      "sample_size": 187
+    },
+    {
+      "rank": 47,
+      "name": "Dedenne ex Pichu",
+      "usage_rate": "0.31%",
+      "win_rate": "",
+      "record": "106 - 113 - 6",
+      "adjusted_win_rate": "47.20%",
+      "sample_size": 225
+    },
+    {
+      "rank": 48,
+      "name": "Team Rocket's Weezing ex Mega Absol ex",
+      "usage_rate": "0.31%",
+      "win_rate": "",
+      "record": "106 - 125 - 8",
+      "adjusted_win_rate": "44.70%",
+      "sample_size": 239
+    },
+    {
+      "rank": 49,
+      "name": "Mega Mawile ex",
+      "usage_rate": "0.30%",
+      "win_rate": "",
+      "record": "83 - 100 - 3",
+      "adjusted_win_rate": "45.02%",
+      "sample_size": 186
+    },
+    {
+      "rank": 50,
+      "name": "Mega Lucario ex Teal Mask Ogerpon ex",
+      "usage_rate": "0.30%",
+      "win_rate": "",
+      "record": "95 - 116 - 4",
+      "adjusted_win_rate": "44.58%",
+      "sample_size": 215
     }
   ]
 }

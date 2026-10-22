@@ -1520,6 +1520,57 @@
     "most_likely": "A or B",
     "confidence": "medium",
     "check_date": "2026-10-23",
+    "verification": {
+      "check_date": "2026-10-22",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "電系合計使用率突破 10%",
+          "result": "hit - 10.24%"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級路卡利歐 ex 使用率跌破 7%",
+          "result": "miss - 7.59%（快照無變動，資料靜止期）"
+        },
+        {
+          "scenario": "C",
+          "predicted": "火箭隊系合計使用率跌破 3%",
+          "result": "miss - 4.27%（退坑持續中，尚未觸底）"
+        }
+      ]
+    },
+    "reflection": "A 命中（電系 10.24%，低曝光逆轉持續）。B、C 因今日 Limitless 快照與昨日完全相同而無新樣本，維持原判。教訓：預測驗證在資料靜止期應明確標註『無新樣本』，不可把靜止當成未命中或命中。"
+  },
+  {
+    "id": "PRED_20261022",
+    "date": "2026-10-22",
+    "set": "B4a",
+    "source": "Limitless TCG B4a Day 115 (37,326 matches, 196 tournaments) + full matchup matrix re-parsed",
+    "environment_summary": "B4a Day 115，快照與前一日完全一致（環境靜止期）。群加權 AWR 排序：水系 51.21% > 電系 50.93% > 七夕青鳥系 50.83% > 暗/超能 50.78% > 蟲系 50.74% > 龍系 50.56% > 格鬥火 49.95% > 火箭隊系 45.66% > 草/超能草 44.75%。單體效率王仍為自爆磁怪 密勒頓 ex 52.14%。蜂女王（無殼海兔）被確認為環境樞紐節點：壓胡帕 68.2%／壓水君 66.8%／壓火焰雞 68.6%，但輸自爆磁怪 25.3%／輸好壞電龍 31.6%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "電系合計使用率突破 11%",
+        "probability": 0.4,
+        "description": "低曝光逆轉已連續三週（7.34%→9.64%→10.24%），若 B4b 前環境不變，電系將逼近路卡利歐的格鬥系份額"
+      },
+      {
+        "scenario": "B",
+        "name": "超級路卡利歐 ex 使用率跌破 7.0%",
+        "probability": 0.35,
+        "description": "連續六週 AWR 低於 50% 卻仍居最大族群，慣性是最後一道牆；跌破 7% 將是環境最大位移"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系合計使用率跌破 3.5%",
+        "probability": 0.25,
+        "description": "退坑已從 8.96% 砍到 4.27%，若 AWR 持續 45~46% 區間，下一波退坑潮會在 B4b 前完成"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "low",
+    "check_date": "2026-10-24",
     "verification": null,
     "reflection": null
   }

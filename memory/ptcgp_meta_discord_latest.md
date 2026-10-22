@@ -1,1 +1,1 @@
-ptcgp_meta_discord_20261021.md
+ptcgp_meta_discord_20261022.md
