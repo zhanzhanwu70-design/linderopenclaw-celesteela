@@ -1490,5 +1490,37 @@
     "check_date": "2026-08-28",
     "verification": null,
     "reflection": null
+  },
+  {
+    "id": "PRED_20261021",
+    "date": "2026-10-21",
+    "set": "B4a",
+    "source": "Limitless TCG B4a Day 114 live fetch (60,253 matches, 50 deck entries) + matchup matrix",
+    "environment_summary": "B4a Day 114。環境仍高度扁平，路卡利歐/格鬥/火系合計 18.50% 使用率但群加權 AWR 僅 49.59%（最大韭菜群）。電系 8.03%／51.25% 明顯轉正，自爆磁怪＋密勒頓 ex AWR 52.08%。水系 6.08%／51.29% 為最強群組。火箭隊系 4.27%／45.68% 為最差群組。RPS 對位結構成型：路卡利歐→蜂女王→水君→哈克龍→路卡利歐，七夕青鳥壓路卡利歐 68.3% 但輸蜂女王 37.3%／輸胡帕 30.5%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "電系合計使用率突破 10%",
+        "probability": 0.35,
+        "description": "自爆磁怪＋密勒頓 ex 與蜜勒頓 ex 雙版本同時 AWR 51%+，若再有高效新分支曝光，電系會從『陷阱』轉為『主流選項』"
+      },
+      {
+        "scenario": "B",
+        "name": "超級路卡利歐 ex 使用率跌破 7%",
+        "probability": 0.35,
+        "description": "AWR 49.18% 且對七夕青鳥僅 28.6%，韭菜慣性最後拉扯；若跌破 7% 將是兩週內最大使用率位移"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系合計使用率跌破 3%",
+        "probability": 0.3,
+        "description": "群加權 AWR 45.68%，若連續兩週低於 46%，理論上會出現集體退坑潮"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-10-23",
+    "verification": null,
+    "reflection": null
   }
 ]

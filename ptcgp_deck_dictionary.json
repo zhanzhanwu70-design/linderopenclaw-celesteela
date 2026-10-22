@@ -309,7 +309,16 @@
     "Mega Sharpedo ex Chien-Pao ex": "超級巨牙鯊 ex 古劍豹 ex",
     "Mega Lucario ex Greninja": "超級路卡利歐 ex 甲賀忍蛙",
     "Dragonair Altaria": "哈克龍 七夕青鳥",
-    "Wailord ex Indeedee ex": "吼鯨王 ex 愛管仕 ex"
+    "Wailord ex Indeedee ex": "吼鯨王 ex 愛管仕 ex",
+    "Butterfree Mega Sceptile ex": "大蝶 超級蜥蜴王 ex",
+    "Mega Blaziken ex": "超級火焰雞 ex",
+    "Dedenne ex Indeedee ex": "好壞電龍 ex NG戀人 ex",
+    "Team Rocket's Weezing ex Hoopa ex": "火箭隊雙尾怪手 ex 胡帕 ex",
+    "Team Rocket's Raticate ex Alolan Ninetales": "火箭隊拉達 ex 阿羅拉九尾 ex",
+    "Milotic ex Eevee": "時拉比 ex 伊布 ex",
+    "Hoopa ex Mega Sableye ex": "胡帕 ex 超級月亮伊布 ex",
+    "Mega Altaria ex Happiny": "超級七夕青鳥 ex 幸福蛋",
+    "Mega Altaria ex Igglybuff": "超級七夕青鳥 ex 滾滾蛋"
   },
   "card_names": {
     "Bulbasaur": "妙瓜种子",
@@ -1237,7 +1246,7 @@
     "Everyday Wonders": "奇跡日常",
     "Ruler of the Skies": "天空主宰"
   },
-  "last_updated": "2026-06-08",
+  "last_updated": "2026-10-21",
   "Mega Sableye ex": "超級勾魂眼 ex",
   "Mega Sableye": "超級勾魂眼",
   "Dedenne": "咚咚鼠",
