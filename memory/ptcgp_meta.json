@@ -1,459 +1,6404 @@
 {
-  "update_time": "2026-10-24",
-  "set": "B4a",
-  "day": 117,
-  "total_matches": 37969,
-  "source": "Limitless TCG live fetch 2026-10-24 20:05 (Standard/B4a)",
-  "top_decks": [
-    {
-      "rank": 1,
-      "name": "Mega Altaria ex Espeon",
-      "usage_rate": "7.78%",
-      "win_rate": "",
-      "record": "3276 - 249 - 2801",
-      "adjusted_win_rate": "51.77%",
-      "sample_size": 6326
-    },
-    {
-      "rank": 2,
-      "name": "Mega Lucario ex Lucario",
-      "usage_rate": "7.53%",
-      "win_rate": "",
-      "record": "2840 - 156 - 2774",
-      "adjusted_win_rate": "49.21%",
-      "sample_size": 5770
-    },
-    {
-      "rank": 3,
-      "name": "Butterfree Mega Sceptile ex",
-      "usage_rate": "4.97%",
-      "win_rate": "",
-      "record": "1992 - 137 - 1797",
-      "adjusted_win_rate": "50.72%",
-      "sample_size": 3926
-    },
-    {
-      "rank": 4,
-      "name": "Suicune ex Baxcalibur",
-      "usage_rate": "4.73%",
-      "win_rate": "",
-      "record": "1917 - 128 - 1705",
-      "adjusted_win_rate": "51.10%",
-      "sample_size": 3750
-    },
-    {
-      "rank": 5,
-      "name": "Vespiquen ex Shuckle ex",
-      "usage_rate": "4.33%",
-      "win_rate": "",
-      "record": "1766 - 114 - 1569",
-      "adjusted_win_rate": "51.18%",
-      "sample_size": 3449
-    },
-    {
-      "rank": 6,
-      "name": "Dragonair Mega Rayquaza ex",
-      "usage_rate": "3.52%",
-      "win_rate": "",
-      "record": "1396 - 94 - 1281",
-      "adjusted_win_rate": "50.36%",
-      "sample_size": 2771
-    },
-    {
-      "rank": 7,
-      "name": "Magnezone Miraidon ex",
-      "usage_rate": "3.11%",
-      "win_rate": "",
-      "record": "1387 - 135 - 1129",
-      "adjusted_win_rate": "52.28%",
-      "sample_size": 2651
-    },
-    {
-      "rank": 8,
-      "name": "Hoopa ex Mega Absol ex",
-      "usage_rate": "3.09%",
-      "win_rate": "",
-      "record": "1279 - 96 - 1088",
-      "adjusted_win_rate": "51.89%",
-      "sample_size": 2463
-    },
-    {
-      "rank": 9,
-      "name": "Hydreigon Mega Absol ex",
-      "usage_rate": "2.98%",
-      "win_rate": "",
-      "record": "1168 - 80 - 1085",
-      "adjusted_win_rate": "50.04%",
-      "sample_size": 2333
-    },
-    {
-      "rank": 10,
-      "name": "Mega Altaria ex Greninja",
-      "usage_rate": "2.73%",
-      "win_rate": "",
-      "record": "1035 - 72 - 970",
-      "adjusted_win_rate": "49.81%",
-      "sample_size": 2077
-    },
-    {
-      "rank": 11,
-      "name": "Mega Blaziken ex",
-      "usage_rate": "2.57%",
-      "win_rate": "",
-      "record": "1063 - 87 - 908",
-      "adjusted_win_rate": "51.61%",
-      "sample_size": 2058
-    },
-    {
-      "rank": 12,
-      "name": "Dedenne ex Indeedee ex",
-      "usage_rate": "2.37%",
-      "win_rate": "",
-      "record": "982 - 70 - 834",
-      "adjusted_win_rate": "52.01%",
-      "sample_size": 1886
-    },
-    {
-      "rank": 13,
-      "name": "Mega Charizard Y ex Entei ex",
-      "usage_rate": "2.34%",
-      "win_rate": "",
-      "record": "900 - 69 - 823",
-      "adjusted_win_rate": "50.19%",
-      "sample_size": 1792
-    },
-    {
-      "rank": 14,
-      "name": "Mega Manectric ex Heliolisk",
-      "usage_rate": "2.20%",
-      "win_rate": "",
-      "record": "866 - 70 - 768",
-      "adjusted_win_rate": "50.78%",
-      "sample_size": 1704
-    },
-    {
-      "rank": 15,
-      "name": "Team Rocket's Weezing ex Hoopa ex",
-      "usage_rate": "2.18%",
-      "win_rate": "",
-      "record": "823 - 63 - 799",
-      "adjusted_win_rate": "48.83%",
-      "sample_size": 1685
-    },
-    {
-      "rank": 16,
-      "name": "Mega Sceptile ex Greninja",
-      "usage_rate": "1.82%",
-      "win_rate": "",
-      "record": "762 - 57 - 656",
-      "adjusted_win_rate": "51.60%",
-      "sample_size": 1475
-    },
-    {
-      "rank": 17,
-      "name": "Mega Blaziken ex Greninja",
-      "usage_rate": "1.65%",
-      "win_rate": "",
-      "record": "697 - 60 - 612",
-      "adjusted_win_rate": "50.86%",
-      "sample_size": 1369
-    },
-    {
-      "rank": 18,
-      "name": "Zoroark ex Mega Absol ex",
-      "usage_rate": "1.22%",
-      "win_rate": "",
-      "record": "484 - 32 - 462",
-      "adjusted_win_rate": "49.45%",
-      "sample_size": 978
-    },
-    {
-      "rank": 19,
-      "name": "Magnezone ex Magnezone",
-      "usage_rate": "1.17%",
-      "win_rate": "",
-      "record": "435 - 36 - 423",
-      "adjusted_win_rate": "48.64%",
-      "sample_size": 894
-    },
-    {
-      "rank": 20,
-      "name": "Team Rocket's Raticate ex Alolan Ninetales ex",
-      "usage_rate": "0.96%",
-      "win_rate": "",
-      "record": "261 - 19 - 380",
-      "adjusted_win_rate": "39.85%",
-      "sample_size": 660
-    },
-    {
-      "rank": 21,
-      "name": "Milotic ex Eevee ex",
-      "usage_rate": "0.94%",
-      "win_rate": "",
-      "record": "402 - 29 - 357",
-      "adjusted_win_rate": "50.92%",
-      "sample_size": 788
-    },
-    {
-      "rank": 22,
-      "name": "Mega Sharpedo ex Gyarados",
-      "usage_rate": "0.87%",
-      "win_rate": "",
-      "record": "376 - 30 - 319",
-      "adjusted_win_rate": "51.73%",
-      "sample_size": 725
-    },
-    {
-      "rank": 23,
-      "name": "Miraidon ex Magnezone",
-      "usage_rate": "0.85%",
-      "win_rate": "",
-      "record": "351 - 18 - 313",
-      "adjusted_win_rate": "51.34%",
-      "sample_size": 682
-    },
-    {
-      "rank": 24,
-      "name": "Mega Gardevoir ex Mega Diancie ex",
-      "usage_rate": "0.83%",
-      "win_rate": "",
-      "record": "253 - 12 - 306",
-      "adjusted_win_rate": "44.46%",
-      "sample_size": 571
-    },
-    {
-      "rank": 25,
-      "name": "Mega Altaria ex",
-      "usage_rate": "0.79%",
-      "win_rate": "",
-      "record": "324 - 29 - 308",
-      "adjusted_win_rate": "48.98%",
-      "sample_size": 661
-    },
-    {
-      "rank": 26,
-      "name": "Beautifly Dustox",
-      "usage_rate": "0.74%",
-      "win_rate": "",
-      "record": "250 - 15 - 272",
-      "adjusted_win_rate": "46.62%",
-      "sample_size": 537
-    },
-    {
-      "rank": 27,
-      "name": "Mega Altaria ex Chingling",
-      "usage_rate": "0.66%",
-      "win_rate": "",
-      "record": "222 - 15 - 258",
-      "adjusted_win_rate": "45.00%",
-      "sample_size": 495
-    },
-    {
-      "rank": 28,
-      "name": "Mega Altaria ex Happiny",
-      "usage_rate": "0.64%",
-      "win_rate": "",
-      "record": "279 - 27 - 233",
-      "adjusted_win_rate": "51.60%",
-      "sample_size": 539
-    },
-    {
-      "rank": 29,
-      "name": "Meowscarada ex Meowscarada",
-      "usage_rate": "0.62%",
-      "win_rate": "",
-      "record": "219 - 16 - 239",
-      "adjusted_win_rate": "46.29%",
-      "sample_size": 474
-    },
-    {
-      "rank": 30,
-      "name": "Hoopa ex Greninja",
-      "usage_rate": "0.56%",
-      "win_rate": "",
-      "record": "223 - 15 - 203",
-      "adjusted_win_rate": "50.43%",
-      "sample_size": 441
-    },
-    {
-      "rank": 31,
-      "name": "Mega Charizard X ex Mega Charizard Y ex",
-      "usage_rate": "0.51%",
-      "win_rate": "",
-      "record": "179 - 11 - 188",
-      "adjusted_win_rate": "47.39%",
-      "sample_size": 378
-    },
-    {
-      "rank": 32,
-      "name": "Garchomp",
-      "usage_rate": "0.48%",
-      "win_rate": "",
-      "record": "134 - 9 - 196",
-      "adjusted_win_rate": "40.11%",
-      "sample_size": 339
-    },
-    {
-      "rank": 33,
-      "name": "Mega Sharpedo ex Chien-Pao ex",
-      "usage_rate": "0.48%",
-      "win_rate": "",
-      "record": "199 - 19 - 164",
-      "adjusted_win_rate": "51.84%",
-      "sample_size": 382
-    },
-    {
-      "rank": 34,
-      "name": "Hoopa ex Mega Sableye ex",
-      "usage_rate": "0.47%",
-      "win_rate": "",
-      "record": "203 - 16 - 174",
-      "adjusted_win_rate": "51.44%",
-      "sample_size": 393
-    },
-    {
-      "rank": 35,
-      "name": "Team Rocket's Slowking ex Meloetta",
-      "usage_rate": "0.45%",
-      "win_rate": "",
-      "record": "140 - 3 - 187",
-      "adjusted_win_rate": "42.82%",
-      "sample_size": 330
-    },
-    {
-      "rank": 36,
-      "name": "Greninja Mega Absol ex",
-      "usage_rate": "0.43%",
-      "win_rate": "",
-      "record": "177 - 16 - 145",
-      "adjusted_win_rate": "52.07%",
-      "sample_size": 338
-    },
-    {
-      "rank": 37,
-      "name": "Mega Altaria ex Igglybuff",
-      "usage_rate": "0.42%",
-      "win_rate": "",
-      "record": "141 - 9 - 142",
-      "adjusted_win_rate": "48.26%",
-      "sample_size": 292
-    },
-    {
-      "rank": 38,
-      "name": "Mega Diancie ex Carbink",
-      "usage_rate": "0.38%",
-      "win_rate": "",
-      "record": "145 - 9 - 134",
-      "adjusted_win_rate": "50.16%",
-      "sample_size": 288
-    },
-    {
-      "rank": 39,
-      "name": "Mega Venusaur ex",
-      "usage_rate": "0.38%",
-      "win_rate": "",
-      "record": "108 - 6 - 148",
-      "adjusted_win_rate": "41.81%",
-      "sample_size": 262
-    },
-    {
-      "rank": 40,
-      "name": "Flygon ex",
-      "usage_rate": "0.37%",
-      "win_rate": "",
-      "record": "138 - 11 - 142",
-      "adjusted_win_rate": "47.47%",
-      "sample_size": 291
-    },
-    {
-      "rank": 41,
-      "name": "Mega Blaziken ex Castform Sunny Form",
-      "usage_rate": "0.35%",
-      "win_rate": "",
-      "record": "129 - 4 - 135",
-      "adjusted_win_rate": "48.12%",
-      "sample_size": 268
-    },
-    {
-      "rank": 42,
-      "name": "Charizard ex Mega Charizard Y ex",
-      "usage_rate": "0.33%",
-      "win_rate": "",
-      "record": "100 - 10 - 110",
-      "adjusted_win_rate": "45.71%",
-      "sample_size": 220
-    },
-    {
-      "rank": 43,
-      "name": "Mega Manectric ex Team Rocket's Electrode",
-      "usage_rate": "0.33%",
-      "win_rate": "",
-      "record": "97 - 4 - 132",
-      "adjusted_win_rate": "42.25%",
-      "sample_size": 233
-    },
-    {
-      "rank": 44,
-      "name": "Team Rocket's Weezing ex Zoroark ex",
-      "usage_rate": "0.31%",
-      "win_rate": "",
-      "record": "117 - 6 - 130",
-      "adjusted_win_rate": "46.40%",
-      "sample_size": 253
-    },
-    {
-      "rank": 45,
-      "name": "Chandelure Oricorio",
-      "usage_rate": "0.31%",
-      "win_rate": "",
-      "record": "83 - 5 - 119",
-      "adjusted_win_rate": "40.95%",
-      "sample_size": 207
-    },
-    {
-      "rank": 46,
-      "name": "Whimsicott ex Ariados",
-      "usage_rate": "0.31%",
-      "win_rate": "",
-      "record": "73 - 0 - 114",
-      "adjusted_win_rate": "40.09%",
-      "sample_size": 187
-    },
-    {
-      "rank": 47,
-      "name": "Dedenne ex Pichu",
-      "usage_rate": "0.30%",
-      "win_rate": "",
-      "record": "106 - 6 - 113",
-      "adjusted_win_rate": "47.20%",
-      "sample_size": 225
-    },
-    {
-      "rank": 48,
-      "name": "Mega Lucario ex Teal Mask Ogerpon ex",
-      "usage_rate": "0.30%",
-      "win_rate": "",
-      "record": "100 - 4 - 119",
-      "adjusted_win_rate": "45.16%",
-      "sample_size": 223
-    },
-    {
-      "rank": 49,
-      "name": "Team Rocket's Weezing ex Mega Absol ex",
-      "usage_rate": "0.30%",
-      "win_rate": "",
-      "record": "106 - 8 - 125",
-      "adjusted_win_rate": "44.70%",
-      "sample_size": 239
-    },
-    {
-      "rank": 50,
-      "name": "Mega Mawile ex",
-      "usage_rate": "0.29%",
-      "win_rate": "",
-      "record": "83 - 3 - 100",
-      "adjusted_win_rate": "45.02%",
-      "sample_size": 186
-    }
-  ]
+ "date": "2026-10-25",
+ "source": "Limitless TCG B4a standard, 203 tournaments, 14,710 players, 38,157 matches",
+ "decks": [
+  {
+   "name": "Mega Altaria ex Espeon",
+   "share_pct": "7.78%",
+   "win_rate": "51.73%",
+   "record": "3287 - 251 - 2814",
+   "adjusted_wr": "51.73"
+  },
+  {
+   "name": "Mega Lucario ex Lucario",
+   "share_pct": "7.52%",
+   "win_rate": "49.23%",
+   "record": "2851 - 156 - 2784",
+   "adjusted_wr": "49.23"
+  },
+  {
+   "name": "Butterfree Mega Sceptile ex",
+   "share_pct": "4.98%",
+   "win_rate": "50.75%",
+   "record": "2010 - 142 - 1807",
+   "adjusted_wr": "50.75"
+  },
+  {
+   "name": "Suicune ex Baxcalibur",
+   "share_pct": "4.72%",
+   "win_rate": "51.07%",
+   "record": "1918 - 128 - 1708",
+   "adjusted_wr": "51.07"
+  },
+  {
+   "name": "Vespiquen ex Shuckle ex",
+   "share_pct": "4.32%",
+   "win_rate": "51.12%",
+   "record": "1766 - 114 - 1573",
+   "adjusted_wr": "51.12"
+  },
+  {
+   "name": "Dragonair Mega Rayquaza ex",
+   "share_pct": "3.52%",
+   "win_rate": "50.37%",
+   "record": "1405 - 96 - 1287",
+   "adjusted_wr": "50.37"
+  },
+  {
+   "name": "Magnezone Miraidon ex",
+   "share_pct": "3.12%",
+   "win_rate": "52.16%",
+   "record": "1388 - 135 - 1136",
+   "adjusted_wr": "52.16"
+  },
+  {
+   "name": "Hoopa ex Mega Absol ex",
+   "share_pct": "3.09%",
+   "win_rate": "51.87%",
+   "record": "1291 - 99 - 1097",
+   "adjusted_wr": "51.87"
+  },
+  {
+   "name": "Hydreigon Mega Absol ex",
+   "share_pct": "2.98%",
+   "win_rate": "50.04%",
+   "record": "1175 - 83 - 1089",
+   "adjusted_wr": "50.04"
+  },
+  {
+   "name": "Mega Altaria ex Greninja",
+   "share_pct": "2.75%",
+   "win_rate": "49.79%",
+   "record": "1047 - 72 - 983",
+   "adjusted_wr": "49.79"
+  },
+  {
+   "name": "Mega Blaziken ex",
+   "share_pct": "2.58%",
+   "win_rate": "51.62%",
+   "record": "1070 - 88 - 913",
+   "adjusted_wr": "51.62"
+  },
+  {
+   "name": "Dedenne ex Indeedee ex",
+   "share_pct": "2.37%",
+   "win_rate": "52.02%",
+   "record": "990 - 72 - 839",
+   "adjusted_wr": "52.02"
+  },
+  {
+   "name": "Mega Charizard Y ex Entei ex",
+   "share_pct": "2.32%",
+   "win_rate": "50.19%",
+   "record": "900 - 69 - 823",
+   "adjusted_wr": "50.19"
+  },
+  {
+   "name": "Mega Manectric ex Heliolisk",
+   "share_pct": "2.20%",
+   "win_rate": "50.89%",
+   "record": "876 - 71 - 773",
+   "adjusted_wr": "50.89"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Hoopa ex",
+   "share_pct": "2.17%",
+   "win_rate": "48.83%",
+   "record": "823 - 63 - 799",
+   "adjusted_wr": "48.83"
+  },
+  {
+   "name": "Mega Sceptile ex Greninja",
+   "share_pct": "1.84%",
+   "win_rate": "51.48%",
+   "record": "772 - 61 - 665",
+   "adjusted_wr": "51.48"
+  },
+  {
+   "name": "Mega Blaziken ex Greninja",
+   "share_pct": "1.65%",
+   "win_rate": "50.75%",
+   "record": "697 - 60 - 615",
+   "adjusted_wr": "50.75"
+  },
+  {
+   "name": "Zoroark ex Mega Absol ex",
+   "share_pct": "1.22%",
+   "win_rate": "49.45%",
+   "record": "484 - 32 - 462",
+   "adjusted_wr": "49.45"
+  },
+  {
+   "name": "Magnezone ex Magnezone",
+   "share_pct": "1.18%",
+   "win_rate": "48.81%",
+   "record": "440 - 36 - 425",
+   "adjusted_wr": "48.81"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Alolan Ninetales ex",
+   "share_pct": "0.96%",
+   "win_rate": "39.85%",
+   "record": "261 - 19 - 380",
+   "adjusted_wr": "39.85"
+  },
+  {
+   "name": "Milotic ex Eevee ex",
+   "share_pct": "0.94%",
+   "win_rate": "50.92%",
+   "record": "405 - 29 - 360",
+   "adjusted_wr": "50.92"
+  },
+  {
+   "name": "Mega Sharpedo ex Gyarados",
+   "share_pct": "0.88%",
+   "win_rate": "51.65%",
+   "record": "379 - 31 - 322",
+   "adjusted_wr": "51.65"
+  },
+  {
+   "name": "Miraidon ex Magnezone",
+   "share_pct": "0.86%",
+   "win_rate": "51.27%",
+   "record": "351 - 18 - 314",
+   "adjusted_wr": "51.27"
+  },
+  {
+   "name": "Mega Gardevoir ex Mega Diancie ex",
+   "share_pct": "0.84%",
+   "win_rate": "44.54%",
+   "record": "257 - 13 - 309",
+   "adjusted_wr": "44.54"
+  },
+  {
+   "name": "Mega Altaria ex",
+   "share_pct": "0.79%",
+   "win_rate": "48.98%",
+   "record": "324 - 29 - 308",
+   "adjusted_wr": "48.98"
+  },
+  {
+   "name": "Beautifly Dustox",
+   "share_pct": "0.74%",
+   "win_rate": "46.62%",
+   "record": "250 - 15 - 272",
+   "adjusted_wr": "46.62"
+  },
+  {
+   "name": "Mega Altaria ex Chingling",
+   "share_pct": "0.65%",
+   "win_rate": "45.00%",
+   "record": "222 - 15 - 258",
+   "adjusted_wr": "45.00"
+  },
+  {
+   "name": "Mega Altaria ex Happiny",
+   "share_pct": "0.64%",
+   "win_rate": "51.60%",
+   "record": "279 - 27 - 233",
+   "adjusted_wr": "51.60"
+  },
+  {
+   "name": "Meowscarada ex Meowscarada",
+   "share_pct": "0.62%",
+   "win_rate": "46.29%",
+   "record": "219 - 16 - 239",
+   "adjusted_wr": "46.29"
+  },
+  {
+   "name": "Hoopa ex Greninja",
+   "share_pct": "0.57%",
+   "win_rate": "50.11%",
+   "record": "226 - 15 - 209",
+   "adjusted_wr": "50.11"
+  },
+  {
+   "name": "Mega Charizard X ex Mega Charizard Y ex",
+   "share_pct": "0.50%",
+   "win_rate": "47.39%",
+   "record": "179 - 11 - 188",
+   "adjusted_wr": "47.39"
+  },
+  {
+   "name": "Garchomp",
+   "share_pct": "0.48%",
+   "win_rate": "40.11%",
+   "record": "134 - 9 - 196",
+   "adjusted_wr": "40.11"
+  },
+  {
+   "name": "Mega Sharpedo ex Chien-Pao ex",
+   "share_pct": "0.48%",
+   "win_rate": "51.84%",
+   "record": "199 - 19 - 164",
+   "adjusted_wr": "51.84"
+  },
+  {
+   "name": "Hoopa ex Mega Sableye ex",
+   "share_pct": "0.48%",
+   "win_rate": "51.52%",
+   "record": "208 - 17 - 177",
+   "adjusted_wr": "51.52"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Meloetta",
+   "share_pct": "0.45%",
+   "win_rate": "42.82%",
+   "record": "140 - 3 - 187",
+   "adjusted_wr": "42.82"
+  },
+  {
+   "name": "Greninja Mega Absol ex",
+   "share_pct": "0.43%",
+   "win_rate": "52.07%",
+   "record": "177 - 16 - 145",
+   "adjusted_wr": "52.07"
+  },
+  {
+   "name": "Mega Altaria ex Igglybuff",
+   "share_pct": "0.41%",
+   "win_rate": "48.26%",
+   "record": "141 - 9 - 142",
+   "adjusted_wr": "48.26"
+  },
+  {
+   "name": "Mega Diancie ex Carbink",
+   "share_pct": "0.37%",
+   "win_rate": "50.16%",
+   "record": "145 - 9 - 134",
+   "adjusted_wr": "50.16"
+  },
+  {
+   "name": "Mega Venusaur ex",
+   "share_pct": "0.37%",
+   "win_rate": "41.81%",
+   "record": "108 - 6 - 148",
+   "adjusted_wr": "41.81"
+  },
+  {
+   "name": "Flygon ex",
+   "share_pct": "0.37%",
+   "win_rate": "47.47%",
+   "record": "138 - 11 - 142",
+   "adjusted_wr": "47.47"
+  },
+  {
+   "name": "Mega Blaziken ex Castform Sunny Form",
+   "share_pct": "0.35%",
+   "win_rate": "47.99%",
+   "record": "131 - 4 - 138",
+   "adjusted_wr": "47.99"
+  },
+  {
+   "name": "Charizard ex Mega Charizard Y ex",
+   "share_pct": "0.33%",
+   "win_rate": "45.71%",
+   "record": "100 - 10 - 110",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Mega Manectric ex Team Rocket's Electrode",
+   "share_pct": "0.33%",
+   "win_rate": "42.25%",
+   "record": "97 - 4 - 132",
+   "adjusted_wr": "42.25"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Zoroark ex",
+   "share_pct": "0.31%",
+   "win_rate": "46.40%",
+   "record": "117 - 6 - 130",
+   "adjusted_wr": "46.40"
+  },
+  {
+   "name": "Chandelure Oricorio",
+   "share_pct": "0.31%",
+   "win_rate": "40.95%",
+   "record": "83 - 5 - 119",
+   "adjusted_wr": "40.95"
+  },
+  {
+   "name": "Whimsicott ex Ariados",
+   "share_pct": "0.31%",
+   "win_rate": "40.09%",
+   "record": "73 - 0 - 114",
+   "adjusted_wr": "40.09"
+  },
+  {
+   "name": "Mega Lucario ex Teal Mask Ogerpon ex",
+   "share_pct": "0.31%",
+   "win_rate": "45.49%",
+   "record": "104 - 5 - 121",
+   "adjusted_wr": "45.49"
+  },
+  {
+   "name": "Dedenne ex Pichu",
+   "share_pct": "0.30%",
+   "win_rate": "47.20%",
+   "record": "106 - 6 - 113",
+   "adjusted_wr": "47.20"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Mega Absol ex",
+   "share_pct": "0.30%",
+   "win_rate": "44.70%",
+   "record": "106 - 8 - 125",
+   "adjusted_wr": "44.70"
+  },
+  {
+   "name": "Mega Mawile ex",
+   "share_pct": "0.29%",
+   "win_rate": "45.02%",
+   "record": "83 - 3 - 100",
+   "adjusted_wr": "45.02"
+  },
+  {
+   "name": "Jumpluff ex Team Rocket's Electrode",
+   "share_pct": "0.29%",
+   "win_rate": "43.03%",
+   "record": "93 - 7 - 119",
+   "adjusted_wr": "43.03"
+  },
+  {
+   "name": "Hydreigon Mega Sableye ex",
+   "share_pct": "0.26%",
+   "win_rate": "50.79%",
+   "record": "116 - 12 - 99",
+   "adjusted_wr": "50.79"
+  },
+  {
+   "name": "Mega Lucario ex Greninja",
+   "share_pct": "0.26%",
+   "win_rate": "49.78%",
+   "record": "99 - 10 - 89",
+   "adjusted_wr": "49.78"
+  },
+  {
+   "name": "Mega Scizor ex Revavroom",
+   "share_pct": "0.26%",
+   "win_rate": "47.78%",
+   "record": "85 - 4 - 89",
+   "adjusted_wr": "47.78"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Sylveon ex",
+   "share_pct": "0.25%",
+   "win_rate": "38.73%",
+   "record": "55 - 1 - 92",
+   "adjusted_wr": "38.73"
+  },
+  {
+   "name": "Indeedee ex Giratina ex",
+   "share_pct": "0.24%",
+   "win_rate": "50.93%",
+   "record": "97 - 17 - 75",
+   "adjusted_wr": "50.93"
+  },
+  {
+   "name": "Rotom ex Oricorio",
+   "share_pct": "0.24%",
+   "win_rate": "45.63%",
+   "record": "82 - 9 - 90",
+   "adjusted_wr": "45.63"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Team Rocket's Magmar",
+   "share_pct": "0.24%",
+   "win_rate": "38.58%",
+   "record": "64 - 0 - 108",
+   "adjusted_wr": "38.58"
+  },
+  {
+   "name": "Zoroark ex Team Rocket's Weezing ex",
+   "share_pct": "0.23%",
+   "win_rate": "46.53%",
+   "record": "82 - 4 - 91",
+   "adjusted_wr": "46.53"
+  },
+  {
+   "name": "Mega Altaria ex Gourgeist",
+   "share_pct": "0.22%",
+   "win_rate": "44.44%",
+   "record": "72 - 4 - 88",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Lucario ex Hitmonchan ex",
+   "share_pct": "0.22%",
+   "win_rate": "44.71%",
+   "record": "64 - 4 - 77",
+   "adjusted_wr": "44.71"
+  },
+  {
+   "name": "Mega Blastoise ex Eiscue",
+   "share_pct": "0.20%",
+   "win_rate": "44.07%",
+   "record": "66 - 5 - 81",
+   "adjusted_wr": "44.07"
+  },
+  {
+   "name": "Mega Blaziken ex Teal Mask Ogerpon ex",
+   "share_pct": "0.19%",
+   "win_rate": "52.00%",
+   "record": "79 - 7 - 64",
+   "adjusted_wr": "52.00"
+  },
+  {
+   "name": "Mega Sceptile ex Sceptile",
+   "share_pct": "0.19%",
+   "win_rate": "43.67%",
+   "record": "57 - 2 - 74",
+   "adjusted_wr": "43.67"
+  },
+  {
+   "name": "Garchomp Greninja",
+   "share_pct": "0.18%",
+   "win_rate": "44.91%",
+   "record": "63 - 4 - 75",
+   "adjusted_wr": "44.91"
+  },
+  {
+   "name": "Garchomp Goomy",
+   "share_pct": "0.18%",
+   "win_rate": "39.13%",
+   "record": "42 - 3 - 68",
+   "adjusted_wr": "39.13"
+  },
+  {
+   "name": "Beautifly Dustox",
+   "share_pct": "0.18%",
+   "win_rate": "52.35%",
+   "record": "77 - 2 - 66",
+   "adjusted_wr": "52.35"
+  },
+  {
+   "name": "Giratina ex Darkrai ex",
+   "share_pct": "0.18%",
+   "win_rate": "46.81%",
+   "record": "54 - 5 - 57",
+   "adjusted_wr": "46.81"
+  },
+  {
+   "name": "Mega Garchomp ex Dragonair",
+   "share_pct": "0.18%",
+   "win_rate": "43.79%",
+   "record": "55 - 2 - 71",
+   "adjusted_wr": "43.79"
+  },
+  {
+   "name": "Mega Lucario ex",
+   "share_pct": "0.17%",
+   "win_rate": "50.00%",
+   "record": "74 - 3 - 70",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Sceptile ex Teal Mask Ogerpon ex",
+   "share_pct": "0.17%",
+   "win_rate": "46.90%",
+   "record": "56 - 2 - 62",
+   "adjusted_wr": "46.90"
+  },
+  {
+   "name": "Mega Kangaskhan ex Happiny",
+   "share_pct": "0.17%",
+   "win_rate": "45.95%",
+   "record": "56 - 6 - 61",
+   "adjusted_wr": "45.95"
+  },
+  {
+   "name": "Mega Lucario ex Igglybuff",
+   "share_pct": "0.17%",
+   "win_rate": "42.22%",
+   "record": "45 - 6 - 59",
+   "adjusted_wr": "42.22"
+  },
+  {
+   "name": "Garchomp Meowth",
+   "share_pct": "0.16%",
+   "win_rate": "44.03%",
+   "record": "47 - 2 - 60",
+   "adjusted_wr": "44.03"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Lucario ex",
+   "share_pct": "0.16%",
+   "win_rate": "44.06%",
+   "record": "51 - 7 - 60",
+   "adjusted_wr": "44.06"
+  },
+  {
+   "name": "Rotom ex",
+   "share_pct": "0.16%",
+   "win_rate": "41.18%",
+   "record": "37 - 3 - 54",
+   "adjusted_wr": "41.18"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Jolteon ex",
+   "share_pct": "0.16%",
+   "win_rate": "33.88%",
+   "record": "29 - 0 - 67",
+   "adjusted_wr": "33.88"
+  },
+  {
+   "name": "Hoopa ex Team Rocket's Weezing ex",
+   "share_pct": "0.15%",
+   "win_rate": "50.70%",
+   "record": "60 - 1 - 56",
+   "adjusted_wr": "50.70"
+  },
+  {
+   "name": "Espeon ex Giratina ex",
+   "share_pct": "0.15%",
+   "win_rate": "48.53%",
+   "record": "54 - 2 - 55",
+   "adjusted_wr": "48.53"
+  },
+  {
+   "name": "Mega Charizard X ex Team Rocket's Moltres ex",
+   "share_pct": "0.14%",
+   "win_rate": "39.83%",
+   "record": "35 - 0 - 58",
+   "adjusted_wr": "39.83"
+  },
+  {
+   "name": "Mega Charizard Y ex Charizard ex",
+   "share_pct": "0.14%",
+   "win_rate": "37.39%",
+   "record": "31 - 5 - 54",
+   "adjusted_wr": "37.39"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Team Rocket's Weezing ex",
+   "share_pct": "0.14%",
+   "win_rate": "32.35%",
+   "record": "21 - 0 - 56",
+   "adjusted_wr": "32.35"
+  },
+  {
+   "name": "Greninja Oricorio",
+   "share_pct": "0.13%",
+   "win_rate": "51.56%",
+   "record": "54 - 3 - 46",
+   "adjusted_wr": "51.56"
+  },
+  {
+   "name": "Flareon ex Flareon",
+   "share_pct": "0.13%",
+   "win_rate": "48.87%",
+   "record": "53 - 3 - 52",
+   "adjusted_wr": "48.87"
+  },
+  {
+   "name": "Entei ex",
+   "share_pct": "0.12%",
+   "win_rate": "50.78%",
+   "record": "53 - 1 - 49",
+   "adjusted_wr": "50.78"
+  },
+  {
+   "name": "Mega Sharpedo ex Milotic ex",
+   "share_pct": "0.12%",
+   "win_rate": "47.97%",
+   "record": "47 - 0 - 51",
+   "adjusted_wr": "47.97"
+  },
+  {
+   "name": "Mega Blaziken ex Entei ex",
+   "share_pct": "0.12%",
+   "win_rate": "37.72%",
+   "record": "31 - 2 - 56",
+   "adjusted_wr": "37.72"
+  },
+  {
+   "name": "Suicune ex Greninja ex",
+   "share_pct": "0.12%",
+   "win_rate": "37.65%",
+   "record": "20 - 1 - 39",
+   "adjusted_wr": "37.65"
+  },
+  {
+   "name": "Hydreigon Absol",
+   "share_pct": "0.12%",
+   "win_rate": "49.11%",
+   "record": "43 - 2 - 42",
+   "adjusted_wr": "49.11"
+  },
+  {
+   "name": "Koraidon ex Great Tusk",
+   "share_pct": "0.12%",
+   "win_rate": "43.93%",
+   "record": "35 - 2 - 45",
+   "adjusted_wr": "43.93"
+  },
+  {
+   "name": "Magcargo",
+   "share_pct": "0.12%",
+   "win_rate": "43.43%",
+   "record": "31 - 1 - 42",
+   "adjusted_wr": "43.43"
+  },
+  {
+   "name": "Mega Diancie ex Flutter Mane ex",
+   "share_pct": "0.11%",
+   "win_rate": "52.99%",
+   "record": "50 - 6 - 36",
+   "adjusted_wr": "52.99"
+  },
+  {
+   "name": "Mega Steelix ex Indeedee ex",
+   "share_pct": "0.11%",
+   "win_rate": "42.27%",
+   "record": "29 - 1 - 42",
+   "adjusted_wr": "42.27"
+  },
+  {
+   "name": "Heliolisk Team Rocket's Zapdos ex",
+   "share_pct": "0.11%",
+   "win_rate": "40.21%",
+   "record": "27 - 3 - 42",
+   "adjusted_wr": "40.21"
+  },
+  {
+   "name": "Garchomp Mantyke",
+   "share_pct": "0.11%",
+   "win_rate": "38.10%",
+   "record": "20 - 1 - 38",
+   "adjusted_wr": "38.10"
+  },
+  {
+   "name": "Garchomp Happiny",
+   "share_pct": "0.10%",
+   "win_rate": "46.60%",
+   "record": "36 - 1 - 41",
+   "adjusted_wr": "46.60"
+  },
+  {
+   "name": "Ho-Oh ex Charmeleon",
+   "share_pct": "0.10%",
+   "win_rate": "43.81%",
+   "record": "34 - 0 - 46",
+   "adjusted_wr": "43.81"
+  },
+  {
+   "name": "Zoroark ex Mega Sableye ex",
+   "share_pct": "0.10%",
+   "win_rate": "42.57%",
+   "record": "31 - 2 - 43",
+   "adjusted_wr": "42.57"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Terapagos ex",
+   "share_pct": "0.10%",
+   "win_rate": "42.05%",
+   "record": "25 - 2 - 36",
+   "adjusted_wr": "42.05"
+  },
+  {
+   "name": "Flutter Mane ex",
+   "share_pct": "0.10%",
+   "win_rate": "47.00%",
+   "record": "35 - 2 - 38",
+   "adjusted_wr": "47.00"
+  },
+  {
+   "name": "Growlithe Lillipup",
+   "share_pct": "0.10%",
+   "win_rate": "44.33%",
+   "record": "31 - 4 - 37",
+   "adjusted_wr": "44.33"
+  },
+  {
+   "name": "Serperior Mega Heracross ex",
+   "share_pct": "0.10%",
+   "win_rate": "41.38%",
+   "record": "24 - 1 - 37",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Team Rocket's Articuno ex",
+   "share_pct": "0.10%",
+   "win_rate": "37.50%",
+   "record": "15 - 0 - 32",
+   "adjusted_wr": "37.50"
+  },
+  {
+   "name": "Decidueye ex Team Rocket's Electrode",
+   "share_pct": "0.10%",
+   "win_rate": "34.18%",
+   "record": "15 - 0 - 39",
+   "adjusted_wr": "34.18"
+  },
+  {
+   "name": "Mega Sharpedo ex Team Rocket's Articuno ex",
+   "share_pct": "0.09%",
+   "win_rate": "47.56%",
+   "record": "27 - 0 - 30",
+   "adjusted_wr": "47.56"
+  },
+  {
+   "name": "Mega Garchomp ex Garchomp",
+   "share_pct": "0.08%",
+   "win_rate": "47.06%",
+   "record": "28 - 3 - 29",
+   "adjusted_wr": "47.06"
+  },
+  {
+   "name": "Umbreon ex Greninja",
+   "share_pct": "0.08%",
+   "win_rate": "42.17%",
+   "record": "23 - 1 - 34",
+   "adjusted_wr": "42.17"
+  },
+  {
+   "name": "Dragonair Altaria",
+   "share_pct": "0.08%",
+   "win_rate": "42.25%",
+   "record": "18 - 0 - 28",
+   "adjusted_wr": "42.25"
+  },
+  {
+   "name": "Mega Gardevoir ex Gardevoir",
+   "share_pct": "0.07%",
+   "win_rate": "48.72%",
+   "record": "26 - 3 - 24",
+   "adjusted_wr": "48.72"
+  },
+  {
+   "name": "Greninja Decidueye ex",
+   "share_pct": "0.07%",
+   "win_rate": "48.72%",
+   "record": "26 - 0 - 27",
+   "adjusted_wr": "48.72"
+  },
+  {
+   "name": "Indeedee ex Stoutland",
+   "share_pct": "0.07%",
+   "win_rate": "45.78%",
+   "record": "26 - 0 - 32",
+   "adjusted_wr": "45.78"
+  },
+  {
+   "name": "Gourgeist Houndstone",
+   "share_pct": "0.07%",
+   "win_rate": "42.67%",
+   "record": "20 - 2 - 28",
+   "adjusted_wr": "42.67"
+  },
+  {
+   "name": "Greninja ex Samurott",
+   "share_pct": "0.07%",
+   "win_rate": "42.03%",
+   "record": "17 - 1 - 26",
+   "adjusted_wr": "42.03"
+  },
+  {
+   "name": "Garchomp Munchlax",
+   "share_pct": "0.07%",
+   "win_rate": "41.18%",
+   "record": "16 - 1 - 26",
+   "adjusted_wr": "41.18"
+  },
+  {
+   "name": "Mega Sceptile ex Butterfree",
+   "share_pct": "0.07%",
+   "win_rate": "37.84%",
+   "record": "16 - 0 - 33",
+   "adjusted_wr": "37.84"
+  },
+  {
+   "name": "Hisuian Zoroark ex Team Rocket's Electrode",
+   "share_pct": "0.07%",
+   "win_rate": "38.03%",
+   "record": "15 - 1 - 30",
+   "adjusted_wr": "38.03"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Kangaskhan ex",
+   "share_pct": "0.07%",
+   "win_rate": "30.51%",
+   "record": "6 - 0 - 28",
+   "adjusted_wr": "30.51"
+  },
+  {
+   "name": "Indeedee ex Oricorio",
+   "share_pct": "0.07%",
+   "win_rate": "47.89%",
+   "record": "22 - 4 - 20",
+   "adjusted_wr": "47.89"
+  },
+  {
+   "name": "Mega Kangaskhan ex Teal Mask Ogerpon ex",
+   "share_pct": "0.07%",
+   "win_rate": "46.67%",
+   "record": "23 - 1 - 26",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Hoopa ex",
+   "share_pct": "0.07%",
+   "win_rate": "42.47%",
+   "record": "19 - 1 - 28",
+   "adjusted_wr": "42.47"
+  },
+  {
+   "name": "Garchomp Goomy",
+   "share_pct": "0.07%",
+   "win_rate": "40.28%",
+   "record": "17 - 1 - 29",
+   "adjusted_wr": "40.28"
+  },
+  {
+   "name": "Mega Sharpedo ex Mega Gyarados ex",
+   "share_pct": "0.07%",
+   "win_rate": "40.62%",
+   "record": "14 - 0 - 25",
+   "adjusted_wr": "40.62"
+  },
+  {
+   "name": "Beedrill ex Team Rocket's Raticate ex",
+   "share_pct": "0.07%",
+   "win_rate": "32.86%",
+   "record": "11 - 0 - 34",
+   "adjusted_wr": "32.86"
+  },
+  {
+   "name": "Indeedee ex Dedenne ex",
+   "share_pct": "0.06%",
+   "win_rate": "53.16%",
+   "record": "30 - 1 - 23",
+   "adjusted_wr": "53.16"
+  },
+  {
+   "name": "Luxray Sylveon",
+   "share_pct": "0.06%",
+   "win_rate": "51.85%",
+   "record": "30 - 0 - 26",
+   "adjusted_wr": "51.85"
+  },
+  {
+   "name": "Mega Sableye ex Mega Absol ex",
+   "share_pct": "0.06%",
+   "win_rate": "48.81%",
+   "record": "29 - 1 - 29",
+   "adjusted_wr": "48.81"
+  },
+  {
+   "name": "Hisuian Goodra",
+   "share_pct": "0.06%",
+   "win_rate": "47.95%",
+   "record": "23 - 3 - 22",
+   "adjusted_wr": "47.95"
+  },
+  {
+   "name": "Team Rocket's Electrode Pawmot",
+   "share_pct": "0.06%",
+   "win_rate": "46.58%",
+   "record": "22 - 0 - 26",
+   "adjusted_wr": "46.58"
+  },
+  {
+   "name": "Mega Sceptile ex",
+   "share_pct": "0.06%",
+   "win_rate": "45.07%",
+   "record": "20 - 2 - 24",
+   "adjusted_wr": "45.07"
+  },
+  {
+   "name": "Mega Pidgeot ex Pidgeot",
+   "share_pct": "0.06%",
+   "win_rate": "43.94%",
+   "record": "17 - 2 - 22",
+   "adjusted_wr": "43.94"
+  },
+  {
+   "name": "Vespiquen ex Teal Mask Ogerpon ex",
+   "share_pct": "0.06%",
+   "win_rate": "43.33%",
+   "record": "14 - 2 - 19",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Mega Ampharos ex Greninja",
+   "share_pct": "0.06%",
+   "win_rate": "43.08%",
+   "record": "16 - 0 - 24",
+   "adjusted_wr": "43.08"
+  },
+  {
+   "name": "Mega Gardevoir ex Mewtwo ex",
+   "share_pct": "0.06%",
+   "win_rate": "40.68%",
+   "record": "12 - 0 - 22",
+   "adjusted_wr": "40.68"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Dragonite",
+   "share_pct": "0.06%",
+   "win_rate": "40.00%",
+   "record": "14 - 1 - 25",
+   "adjusted_wr": "40.00"
+  },
+  {
+   "name": "Flygon ex Sylveon ex",
+   "share_pct": "0.06%",
+   "win_rate": "38.81%",
+   "record": "14 - 0 - 28",
+   "adjusted_wr": "38.81"
+  },
+  {
+   "name": "Magnezone Heliolisk",
+   "share_pct": "0.05%",
+   "win_rate": "50.82%",
+   "record": "19 - 1 - 16",
+   "adjusted_wr": "50.82"
+  },
+  {
+   "name": "Decidueye ex Decidueye",
+   "share_pct": "0.05%",
+   "win_rate": "50.65%",
+   "record": "27 - 2 - 23",
+   "adjusted_wr": "50.65"
+  },
+  {
+   "name": "Hoopa ex Hydreigon",
+   "share_pct": "0.05%",
+   "win_rate": "48.57%",
+   "record": "22 - 3 - 20",
+   "adjusted_wr": "48.57"
+  },
+  {
+   "name": "Jolteon ex Mega Manectric ex",
+   "share_pct": "0.05%",
+   "win_rate": "47.17%",
+   "record": "13 - 1 - 14",
+   "adjusted_wr": "47.17"
+  },
+  {
+   "name": "Dustox Mega Absol ex",
+   "share_pct": "0.05%",
+   "win_rate": "46.03%",
+   "record": "17 - 2 - 19",
+   "adjusted_wr": "46.03"
+  },
+  {
+   "name": "Mega Ampharos ex Team Rocket's Electrode",
+   "share_pct": "0.05%",
+   "win_rate": "45.90%",
+   "record": "16 - 1 - 19",
+   "adjusted_wr": "45.90"
+  },
+  {
+   "name": "Mega Lucario ex Lucario",
+   "share_pct": "0.05%",
+   "win_rate": "45.00%",
+   "record": "15 - 0 - 20",
+   "adjusted_wr": "45.00"
+  },
+  {
+   "name": "Dragonite ex",
+   "share_pct": "0.05%",
+   "win_rate": "44.26%",
+   "record": "15 - 0 - 21",
+   "adjusted_wr": "44.26"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Indeedee ex",
+   "share_pct": "0.05%",
+   "win_rate": "40.68%",
+   "record": "12 - 0 - 22",
+   "adjusted_wr": "40.68"
+  },
+  {
+   "name": "Mega Absol ex Darkrai ex",
+   "share_pct": "0.05%",
+   "win_rate": "40.68%",
+   "record": "12 - 1 - 21",
+   "adjusted_wr": "40.68"
+  },
+  {
+   "name": "Team Rocket's Electrode Luxray",
+   "share_pct": "0.05%",
+   "win_rate": "39.66%",
+   "record": "11 - 1 - 21",
+   "adjusted_wr": "39.66"
+  },
+  {
+   "name": "Mega Kangaskhan ex Pichu",
+   "share_pct": "0.05%",
+   "win_rate": "37.25%",
+   "record": "7 - 0 - 19",
+   "adjusted_wr": "37.25"
+  },
+  {
+   "name": "Alolan Ninetales ex Wugtrio ex",
+   "share_pct": "0.05%",
+   "win_rate": "32.79%",
+   "record": "8 - 0 - 28",
+   "adjusted_wr": "32.79"
+  },
+  {
+   "name": "Mega Diancie ex Mimikyu ex",
+   "share_pct": "0.05%",
+   "win_rate": "53.73%",
+   "record": "24 - 2 - 16",
+   "adjusted_wr": "53.73"
+  },
+  {
+   "name": "Milotic ex Igglybuff",
+   "share_pct": "0.05%",
+   "win_rate": "52.31%",
+   "record": "22 - 2 - 16",
+   "adjusted_wr": "52.31"
+  },
+  {
+   "name": "Mega Garchomp ex Garchomp",
+   "share_pct": "0.05%",
+   "win_rate": "52.31%",
+   "record": "22 - 2 - 16",
+   "adjusted_wr": "52.31"
+  },
+  {
+   "name": "Garchomp ex Rampardos",
+   "share_pct": "0.05%",
+   "win_rate": "51.61%",
+   "record": "20 - 1 - 16",
+   "adjusted_wr": "51.61"
+  },
+  {
+   "name": "Mega Lucario ex Team Rocket's Raticate ex",
+   "share_pct": "0.05%",
+   "win_rate": "50.79%",
+   "record": "20 - 0 - 18",
+   "adjusted_wr": "50.79"
+  },
+  {
+   "name": "Mega Altaria ex Oricorio",
+   "share_pct": "0.05%",
+   "win_rate": "48.61%",
+   "record": "23 - 2 - 22",
+   "adjusted_wr": "48.61"
+  },
+  {
+   "name": "Mega Blaziken ex Skeledirge",
+   "share_pct": "0.05%",
+   "win_rate": "47.69%",
+   "record": "19 - 0 - 21",
+   "adjusted_wr": "47.69"
+  },
+  {
+   "name": "Milotic ex Chien-Pao ex",
+   "share_pct": "0.05%",
+   "win_rate": "47.37%",
+   "record": "15 - 1 - 16",
+   "adjusted_wr": "47.37"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Indeedee ex",
+   "share_pct": "0.05%",
+   "win_rate": "46.15%",
+   "record": "18 - 1 - 21",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Gallade ex Gallade",
+   "share_pct": "0.05%",
+   "win_rate": "45.90%",
+   "record": "16 - 0 - 20",
+   "adjusted_wr": "45.90"
+  },
+  {
+   "name": "Greninja Dragonite ex",
+   "share_pct": "0.05%",
+   "win_rate": "45.61%",
+   "record": "14 - 2 - 16",
+   "adjusted_wr": "45.61"
+  },
+  {
+   "name": "Rotom ex Zeraora",
+   "share_pct": "0.05%",
+   "win_rate": "44.83%",
+   "record": "14 - 1 - 18",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Garchomp ex Mega Lucario ex",
+   "share_pct": "0.05%",
+   "win_rate": "44.83%",
+   "record": "14 - 1 - 18",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Milotic ex Vaporeon ex",
+   "share_pct": "0.05%",
+   "win_rate": "44.07%",
+   "record": "14 - 0 - 20",
+   "adjusted_wr": "44.07"
+  },
+  {
+   "name": "Koraidon ex Furfrou",
+   "share_pct": "0.05%",
+   "win_rate": "43.55%",
+   "record": "15 - 0 - 22",
+   "adjusted_wr": "43.55"
+  },
+  {
+   "name": "Garchomp Greninja",
+   "share_pct": "0.05%",
+   "win_rate": "43.64%",
+   "record": "12 - 0 - 18",
+   "adjusted_wr": "43.64"
+  },
+  {
+   "name": "Leafeon ex Indeedee ex",
+   "share_pct": "0.05%",
+   "win_rate": "42.22%",
+   "record": "7 - 0 - 13",
+   "adjusted_wr": "42.22"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Manectric ex",
+   "share_pct": "0.05%",
+   "win_rate": "40.74%",
+   "record": "10 - 1 - 18",
+   "adjusted_wr": "40.74"
+  },
+  {
+   "name": "Vaporeon ex Greninja ex",
+   "share_pct": "0.05%",
+   "win_rate": "39.34%",
+   "record": "12 - 2 - 22",
+   "adjusted_wr": "39.34"
+  },
+  {
+   "name": "Team Rocket's Electrode Team Rocket's Zapdos ex",
+   "share_pct": "0.05%",
+   "win_rate": "39.29%",
+   "record": "10 - 1 - 20",
+   "adjusted_wr": "39.29"
+  },
+  {
+   "name": "Mega Houndoom ex Castform Sunny Form",
+   "share_pct": "0.05%",
+   "win_rate": "40.00%",
+   "record": "8 - 0 - 17",
+   "adjusted_wr": "40.00"
+  },
+  {
+   "name": "Mega Altaria ex Indeedee ex",
+   "share_pct": "0.05%",
+   "win_rate": "35.42%",
+   "record": "5 - 0 - 18",
+   "adjusted_wr": "35.42"
+  },
+  {
+   "name": "Wailord ex Indeedee ex",
+   "share_pct": "0.05%",
+   "win_rate": "36.36%",
+   "record": "4 - 0 - 15",
+   "adjusted_wr": "36.36"
+  },
+  {
+   "name": "Mega Rayquaza ex Dragonair",
+   "share_pct": "0.05%",
+   "win_rate": "34.04%",
+   "record": "4 - 0 - 18",
+   "adjusted_wr": "34.04"
+  },
+  {
+   "name": "Giratina ex Indeedee ex",
+   "share_pct": "0.04%",
+   "win_rate": "55.17%",
+   "record": "20 - 1 - 12",
+   "adjusted_wr": "55.17"
+  },
+  {
+   "name": "Mega Lopunny ex",
+   "share_pct": "0.04%",
+   "win_rate": "51.92%",
+   "record": "15 - 0 - 12",
+   "adjusted_wr": "51.92"
+  },
+  {
+   "name": "Milotic ex Mega Sharpedo ex",
+   "share_pct": "0.04%",
+   "win_rate": "51.67%",
+   "record": "19 - 0 - 16",
+   "adjusted_wr": "51.67"
+  },
+  {
+   "name": "Mega Gardevoir ex Gardevoir",
+   "share_pct": "0.04%",
+   "win_rate": "50.00%",
+   "record": "17 - 0 - 16",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mimikyu ex Mega Diancie ex",
+   "share_pct": "0.04%",
+   "win_rate": "46.94%",
+   "record": "11 - 1 - 12",
+   "adjusted_wr": "46.94"
+  },
+  {
+   "name": "Mega Lucario ex Lucario ex",
+   "share_pct": "0.04%",
+   "win_rate": "46.30%",
+   "record": "13 - 0 - 16",
+   "adjusted_wr": "46.30"
+  },
+  {
+   "name": "Mega Swampert ex Greninja",
+   "share_pct": "0.04%",
+   "win_rate": "45.76%",
+   "record": "15 - 3 - 16",
+   "adjusted_wr": "45.76"
+  },
+  {
+   "name": "Garchomp ex Garchomp",
+   "share_pct": "0.04%",
+   "win_rate": "44.90%",
+   "record": "10 - 0 - 14",
+   "adjusted_wr": "44.90"
+  },
+  {
+   "name": "Mega Slowbro ex Mantyke",
+   "share_pct": "0.04%",
+   "win_rate": "43.86%",
+   "record": "13 - 0 - 19",
+   "adjusted_wr": "43.86"
+  },
+  {
+   "name": "Magnezone ex Miraidon ex",
+   "share_pct": "0.04%",
+   "win_rate": "42.31%",
+   "record": "10 - 0 - 17",
+   "adjusted_wr": "42.31"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Guzzlord ex",
+   "share_pct": "0.04%",
+   "win_rate": "41.82%",
+   "record": "11 - 0 - 19",
+   "adjusted_wr": "41.82"
+  },
+  {
+   "name": "Buzzwole ex Pheromosa",
+   "share_pct": "0.04%",
+   "win_rate": "42.00%",
+   "record": "9 - 1 - 15",
+   "adjusted_wr": "42.00"
+  },
+  {
+   "name": "Mega Medicham ex",
+   "share_pct": "0.04%",
+   "win_rate": "40.74%",
+   "record": "10 - 2 - 17",
+   "adjusted_wr": "40.74"
+  },
+  {
+   "name": "Mega Lucario ex Excadrill",
+   "share_pct": "0.04%",
+   "win_rate": "40.82%",
+   "record": "8 - 1 - 15",
+   "adjusted_wr": "40.82"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Altaria ex",
+   "share_pct": "0.04%",
+   "win_rate": "39.22%",
+   "record": "8 - 0 - 18",
+   "adjusted_wr": "39.22"
+  },
+  {
+   "name": "Dragonite ex Dragonite",
+   "share_pct": "0.04%",
+   "win_rate": "39.58%",
+   "record": "7 - 0 - 16",
+   "adjusted_wr": "39.58"
+  },
+  {
+   "name": "Dragonair Haxorus",
+   "share_pct": "0.04%",
+   "win_rate": "39.13%",
+   "record": "6 - 0 - 15",
+   "adjusted_wr": "39.13"
+  },
+  {
+   "name": "Mega Rayquaza ex Igglybuff",
+   "share_pct": "0.03%",
+   "win_rate": "50.00%",
+   "record": "13 - 0 - 12",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Sableye ex Darkrai ex",
+   "share_pct": "0.03%",
+   "win_rate": "50.00%",
+   "record": "16 - 1 - 14",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Crobat Mega Sableye ex",
+   "share_pct": "0.03%",
+   "win_rate": "49.02%",
+   "record": "13 - 1 - 12",
+   "adjusted_wr": "49.02"
+  },
+  {
+   "name": "Hisuian Goodra Mantyke",
+   "share_pct": "0.03%",
+   "win_rate": "49.02%",
+   "record": "13 - 1 - 12",
+   "adjusted_wr": "49.02"
+  },
+  {
+   "name": "Magnezone Heliolisk",
+   "share_pct": "0.03%",
+   "win_rate": "48.94%",
+   "record": "11 - 0 - 11",
+   "adjusted_wr": "48.94"
+  },
+  {
+   "name": "Glimmora Kingambit",
+   "share_pct": "0.03%",
+   "win_rate": "48.08%",
+   "record": "13 - 4 - 10",
+   "adjusted_wr": "48.08"
+  },
+  {
+   "name": "Magnezone Mega Lucario ex",
+   "share_pct": "0.03%",
+   "win_rate": "48.00%",
+   "record": "12 - 1 - 12",
+   "adjusted_wr": "48.00"
+  },
+  {
+   "name": "Mega Sceptile ex Lurantis",
+   "share_pct": "0.03%",
+   "win_rate": "47.73%",
+   "record": "9 - 0 - 10",
+   "adjusted_wr": "47.73"
+  },
+  {
+   "name": "Glimmora Mega Absol ex",
+   "share_pct": "0.03%",
+   "win_rate": "47.46%",
+   "record": "16 - 0 - 18",
+   "adjusted_wr": "47.46"
+  },
+  {
+   "name": "Buzzwole ex Celesteela",
+   "share_pct": "0.03%",
+   "win_rate": "47.17%",
+   "record": "13 - 2 - 13",
+   "adjusted_wr": "47.17"
+  },
+  {
+   "name": "Arceus ex Crobat",
+   "share_pct": "0.03%",
+   "win_rate": "46.30%",
+   "record": "13 - 0 - 16",
+   "adjusted_wr": "46.30"
+  },
+  {
+   "name": "Mega Kangaskhan ex Zeraora",
+   "share_pct": "0.03%",
+   "win_rate": "44.90%",
+   "record": "10 - 2 - 12",
+   "adjusted_wr": "44.90"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Porygon-Z",
+   "share_pct": "0.03%",
+   "win_rate": "44.44%",
+   "record": "12 - 0 - 17",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Darkrai ex",
+   "share_pct": "0.03%",
+   "win_rate": "45.24%",
+   "record": "7 - 0 - 10",
+   "adjusted_wr": "45.24"
+  },
+  {
+   "name": "Suicune ex Greninja",
+   "share_pct": "0.03%",
+   "win_rate": "44.00%",
+   "record": "10 - 0 - 15",
+   "adjusted_wr": "44.00"
+  },
+  {
+   "name": "Garchomp",
+   "share_pct": "0.03%",
+   "win_rate": "43.75%",
+   "record": "9 - 1 - 13",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Serperior Teal Mask Ogerpon ex",
+   "share_pct": "0.03%",
+   "win_rate": "43.75%",
+   "record": "9 - 0 - 14",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Mimikyu ex Greninja",
+   "share_pct": "0.03%",
+   "win_rate": "42.55%",
+   "record": "8 - 2 - 12",
+   "adjusted_wr": "42.55"
+  },
+  {
+   "name": "Mega Blaziken ex Blaziken",
+   "share_pct": "0.03%",
+   "win_rate": "41.30%",
+   "record": "7 - 0 - 14",
+   "adjusted_wr": "41.30"
+  },
+  {
+   "name": "Greninja Team Rocket's Zapdos ex",
+   "share_pct": "0.03%",
+   "win_rate": "40.00%",
+   "record": "8 - 0 - 17",
+   "adjusted_wr": "40.00"
+  },
+  {
+   "name": "Incineroar ex Skeledirge",
+   "share_pct": "0.03%",
+   "win_rate": "40.48%",
+   "record": "5 - 0 - 12",
+   "adjusted_wr": "40.48"
+  },
+  {
+   "name": "Dragonite ex Walking Wake",
+   "share_pct": "0.03%",
+   "win_rate": "38.30%",
+   "record": "6 - 0 - 16",
+   "adjusted_wr": "38.30"
+  },
+  {
+   "name": "Milotic ex Swanna ex",
+   "share_pct": "0.03%",
+   "win_rate": "37.78%",
+   "record": "5 - 0 - 15",
+   "adjusted_wr": "37.78"
+  },
+  {
+   "name": "Haxorus Dragonair",
+   "share_pct": "0.03%",
+   "win_rate": "37.50%",
+   "record": "3 - 0 - 12",
+   "adjusted_wr": "37.50"
+  },
+  {
+   "name": "Espeon ex Sylveon ex",
+   "share_pct": "0.03%",
+   "win_rate": "52.08%",
+   "record": "13 - 0 - 10",
+   "adjusted_wr": "52.08"
+  },
+  {
+   "name": "Meowscarada ex Teal Mask Ogerpon ex",
+   "share_pct": "0.03%",
+   "win_rate": "51.06%",
+   "record": "12 - 0 - 10",
+   "adjusted_wr": "51.06"
+  },
+  {
+   "name": "Garchomp Cleffa",
+   "share_pct": "0.03%",
+   "win_rate": "50.98%",
+   "record": "14 - 0 - 12",
+   "adjusted_wr": "50.98"
+  },
+  {
+   "name": "Magnezone Team Rocket's Electrode",
+   "share_pct": "0.03%",
+   "win_rate": "50.98%",
+   "record": "14 - 0 - 12",
+   "adjusted_wr": "50.98"
+  },
+  {
+   "name": "Togekiss Meowth",
+   "share_pct": "0.03%",
+   "win_rate": "50.00%",
+   "record": "11 - 0 - 10",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Team Rocket's Tinkaton Wynaut",
+   "share_pct": "0.03%",
+   "win_rate": "48.78%",
+   "record": "8 - 2 - 6",
+   "adjusted_wr": "48.78"
+  },
+  {
+   "name": "Flutter Mane ex Mega Altaria ex",
+   "share_pct": "0.03%",
+   "win_rate": "48.94%",
+   "record": "11 - 0 - 11",
+   "adjusted_wr": "48.94"
+  },
+  {
+   "name": "Toxtricity ex Heliolisk",
+   "share_pct": "0.03%",
+   "win_rate": "48.98%",
+   "record": "12 - 0 - 12",
+   "adjusted_wr": "48.98"
+  },
+  {
+   "name": "Mega Altaria ex Team Rocket's Hypno",
+   "share_pct": "0.03%",
+   "win_rate": "48.00%",
+   "record": "12 - 0 - 13",
+   "adjusted_wr": "48.00"
+  },
+  {
+   "name": "Serperior Teal Mask Ogerpon ex",
+   "share_pct": "0.03%",
+   "win_rate": "47.37%",
+   "record": "6 - 0 - 7",
+   "adjusted_wr": "47.37"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Hydreigon",
+   "share_pct": "0.03%",
+   "win_rate": "46.94%",
+   "record": "11 - 0 - 13",
+   "adjusted_wr": "46.94"
+  },
+  {
+   "name": "Charizard ex Entei ex",
+   "share_pct": "0.03%",
+   "win_rate": "46.51%",
+   "record": "8 - 0 - 10",
+   "adjusted_wr": "46.51"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Giratina ex",
+   "share_pct": "0.03%",
+   "win_rate": "46.15%",
+   "record": "6 - 0 - 8",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Flygon ex Dragonair",
+   "share_pct": "0.03%",
+   "win_rate": "45.45%",
+   "record": "8 - 0 - 11",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Blacephalon ex",
+   "share_pct": "0.03%",
+   "win_rate": "45.24%",
+   "record": "7 - 0 - 10",
+   "adjusted_wr": "45.24"
+  },
+  {
+   "name": "Greninja Mega Sableye ex",
+   "share_pct": "0.03%",
+   "win_rate": "45.24%",
+   "record": "7 - 0 - 10",
+   "adjusted_wr": "45.24"
+  },
+  {
+   "name": "Chandelure",
+   "share_pct": "0.03%",
+   "win_rate": "44.44%",
+   "record": "8 - 0 - 12",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Blaziken ex Heatmor",
+   "share_pct": "0.03%",
+   "win_rate": "45.00%",
+   "record": "6 - 0 - 9",
+   "adjusted_wr": "45.00"
+  },
+  {
+   "name": "Rampardos Snorlax",
+   "share_pct": "0.03%",
+   "win_rate": "45.00%",
+   "record": "6 - 0 - 9",
+   "adjusted_wr": "45.00"
+  },
+  {
+   "name": "Ho-Oh ex Lugia ex",
+   "share_pct": "0.03%",
+   "win_rate": "45.00%",
+   "record": "6 - 0 - 9",
+   "adjusted_wr": "45.00"
+  },
+  {
+   "name": "Incineroar ex",
+   "share_pct": "0.03%",
+   "win_rate": "42.86%",
+   "record": "9 - 0 - 15",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Team Rocket's Electrode",
+   "share_pct": "0.03%",
+   "win_rate": "43.18%",
+   "record": "7 - 0 - 12",
+   "adjusted_wr": "43.18"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Mega Sableye ex",
+   "share_pct": "0.03%",
+   "win_rate": "43.59%",
+   "record": "5 - 0 - 9",
+   "adjusted_wr": "43.59"
+  },
+  {
+   "name": "Milotic ex Suicune ex",
+   "share_pct": "0.03%",
+   "win_rate": "42.86%",
+   "record": "6 - 0 - 11",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Hoopa ex Mega Gengar ex",
+   "share_pct": "0.03%",
+   "win_rate": "42.22%",
+   "record": "7 - 1 - 12",
+   "adjusted_wr": "42.22"
+  },
+  {
+   "name": "Mega Metagross ex Orthworm",
+   "share_pct": "0.03%",
+   "win_rate": "41.86%",
+   "record": "6 - 0 - 12",
+   "adjusted_wr": "41.86"
+  },
+  {
+   "name": "Mega Ampharos ex Ampharos",
+   "share_pct": "0.03%",
+   "win_rate": "41.86%",
+   "record": "6 - 0 - 12",
+   "adjusted_wr": "41.86"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Tyrantrum",
+   "share_pct": "0.03%",
+   "win_rate": "40.91%",
+   "record": "6 - 0 - 13",
+   "adjusted_wr": "40.91"
+  },
+  {
+   "name": "Jolteon ex Jolteon",
+   "share_pct": "0.03%",
+   "win_rate": "41.46%",
+   "record": "5 - 0 - 11",
+   "adjusted_wr": "41.46"
+  },
+  {
+   "name": "Porygon-Z Teal Mask Ogerpon ex",
+   "share_pct": "0.03%",
+   "win_rate": "41.46%",
+   "record": "5 - 0 - 11",
+   "adjusted_wr": "41.46"
+  },
+  {
+   "name": "Team Rocket's Articuno ex Gholdengo",
+   "share_pct": "0.03%",
+   "win_rate": "41.46%",
+   "record": "5 - 0 - 11",
+   "adjusted_wr": "41.46"
+  },
+  {
+   "name": "Team Rocket's Zapdos ex Heliolisk",
+   "share_pct": "0.03%",
+   "win_rate": "42.11%",
+   "record": "4 - 0 - 9",
+   "adjusted_wr": "42.11"
+  },
+  {
+   "name": "Wishiwashi ex Indeedee ex",
+   "share_pct": "0.03%",
+   "win_rate": "42.11%",
+   "record": "4 - 2 - 7",
+   "adjusted_wr": "42.11"
+  },
+  {
+   "name": "Arceus ex Oricorio",
+   "share_pct": "0.03%",
+   "win_rate": "39.53%",
+   "record": "5 - 0 - 13",
+   "adjusted_wr": "39.53"
+  },
+  {
+   "name": "Mega Gallade ex",
+   "share_pct": "0.03%",
+   "win_rate": "39.02%",
+   "record": "4 - 0 - 12",
+   "adjusted_wr": "39.02"
+  },
+  {
+   "name": "Team Rocket's Moltres ex Mega Houndoom ex",
+   "share_pct": "0.03%",
+   "win_rate": "42.42%",
+   "record": "2 - 0 - 6",
+   "adjusted_wr": "42.42"
+  },
+  {
+   "name": "Serperior",
+   "share_pct": "0.03%",
+   "win_rate": "40.54%",
+   "record": "3 - 1 - 8",
+   "adjusted_wr": "40.54"
+  },
+  {
+   "name": "Leafeon ex Serperior",
+   "share_pct": "0.03%",
+   "win_rate": "39.47%",
+   "record": "3 - 0 - 10",
+   "adjusted_wr": "39.47"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Crawdaunt",
+   "share_pct": "0.03%",
+   "win_rate": "40.00%",
+   "record": "2 - 0 - 8",
+   "adjusted_wr": "40.00"
+  },
+  {
+   "name": "Mega Charizard Y ex Team Rocket's Moltres ex",
+   "share_pct": "0.03%",
+   "win_rate": "37.50%",
+   "record": "3 - 0 - 12",
+   "adjusted_wr": "37.50"
+  },
+  {
+   "name": "Luxray Zeraora",
+   "share_pct": "0.03%",
+   "win_rate": "36.59%",
+   "record": "3 - 0 - 13",
+   "adjusted_wr": "36.59"
+  },
+  {
+   "name": "Dragonair Hisuian Goodra",
+   "share_pct": "0.03%",
+   "win_rate": "36.84%",
+   "record": "2 - 0 - 11",
+   "adjusted_wr": "36.84"
+  },
+  {
+   "name": "Hoopa ex Galarian Obstagoon",
+   "share_pct": "0.03%",
+   "win_rate": "39.39%",
+   "record": "1 - 0 - 7",
+   "adjusted_wr": "39.39"
+  },
+  {
+   "name": "Greninja ex Suicune ex",
+   "share_pct": "0.03%",
+   "win_rate": "36.11%",
+   "record": "1 - 1 - 9",
+   "adjusted_wr": "36.11"
+  },
+  {
+   "name": "Skeledirge Castform Sunny Form",
+   "share_pct": "0.02%",
+   "win_rate": "53.19%",
+   "record": "13 - 0 - 9",
+   "adjusted_wr": "53.19"
+  },
+  {
+   "name": "Porygon-Z Rampardos",
+   "share_pct": "0.02%",
+   "win_rate": "51.35%",
+   "record": "7 - 0 - 5",
+   "adjusted_wr": "51.35"
+  },
+  {
+   "name": "Mega Sceptile ex Bonsly",
+   "share_pct": "0.02%",
+   "win_rate": "51.16%",
+   "record": "10 - 0 - 8",
+   "adjusted_wr": "51.16"
+  },
+  {
+   "name": "Flutter Mane ex Greninja",
+   "share_pct": "0.02%",
+   "win_rate": "51.16%",
+   "record": "10 - 0 - 8",
+   "adjusted_wr": "51.16"
+  },
+  {
+   "name": "Melmetal ex Melmetal",
+   "share_pct": "0.02%",
+   "win_rate": "50.00%",
+   "record": "10 - 0 - 9",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Ursaluna Teal Mask Ogerpon ex",
+   "share_pct": "0.02%",
+   "win_rate": "48.84%",
+   "record": "9 - 0 - 9",
+   "adjusted_wr": "48.84"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Paldean Clodsire ex",
+   "share_pct": "0.02%",
+   "win_rate": "48.65%",
+   "record": "6 - 0 - 6",
+   "adjusted_wr": "48.65"
+  },
+  {
+   "name": "Mega Gallade ex Hitmonchan ex",
+   "share_pct": "0.02%",
+   "win_rate": "48.78%",
+   "record": "8 - 0 - 8",
+   "adjusted_wr": "48.78"
+  },
+  {
+   "name": "Luxray Zeraora",
+   "share_pct": "0.02%",
+   "win_rate": "48.65%",
+   "record": "6 - 0 - 6",
+   "adjusted_wr": "48.65"
+  },
+  {
+   "name": "Rotom ex Mime Jr.",
+   "share_pct": "0.02%",
+   "win_rate": "48.78%",
+   "record": "8 - 0 - 8",
+   "adjusted_wr": "48.78"
+  },
+  {
+   "name": "Mega Sceptile ex Shuckle ex",
+   "share_pct": "0.02%",
+   "win_rate": "48.72%",
+   "record": "7 - 0 - 7",
+   "adjusted_wr": "48.72"
+  },
+  {
+   "name": "Zoroark ex Darkrai ex",
+   "share_pct": "0.02%",
+   "win_rate": "48.78%",
+   "record": "8 - 0 - 8",
+   "adjusted_wr": "48.78"
+  },
+  {
+   "name": "Team Rocket's Articuno ex Articuno ex",
+   "share_pct": "0.02%",
+   "win_rate": "47.62%",
+   "record": "8 - 0 - 9",
+   "adjusted_wr": "47.62"
+  },
+  {
+   "name": "Greninja Walking Wake",
+   "share_pct": "0.02%",
+   "win_rate": "47.62%",
+   "record": "8 - 0 - 9",
+   "adjusted_wr": "47.62"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Stoutland",
+   "share_pct": "0.02%",
+   "win_rate": "47.50%",
+   "record": "7 - 0 - 8",
+   "adjusted_wr": "47.50"
+  },
+  {
+   "name": "Team Rocket's Articuno ex Froslass",
+   "share_pct": "0.02%",
+   "win_rate": "47.50%",
+   "record": "7 - 0 - 8",
+   "adjusted_wr": "47.50"
+  },
+  {
+   "name": "Dragonite",
+   "share_pct": "0.02%",
+   "win_rate": "47.37%",
+   "record": "6 - 0 - 7",
+   "adjusted_wr": "47.37"
+  },
+  {
+   "name": "Mega Sharpedo ex Suicune ex",
+   "share_pct": "0.02%",
+   "win_rate": "47.37%",
+   "record": "6 - 0 - 7",
+   "adjusted_wr": "47.37"
+  },
+  {
+   "name": "Inteleon Pyukumuku",
+   "share_pct": "0.02%",
+   "win_rate": "47.22%",
+   "record": "5 - 1 - 5",
+   "adjusted_wr": "47.22"
+  },
+  {
+   "name": "Ursaluna",
+   "share_pct": "0.02%",
+   "win_rate": "46.51%",
+   "record": "8 - 1 - 9",
+   "adjusted_wr": "46.51"
+  },
+  {
+   "name": "Mega Sceptile ex Meowscarada ex",
+   "share_pct": "0.02%",
+   "win_rate": "46.51%",
+   "record": "8 - 1 - 9",
+   "adjusted_wr": "46.51"
+  },
+  {
+   "name": "Iron Valiant Iron Boulder",
+   "share_pct": "0.02%",
+   "win_rate": "46.34%",
+   "record": "7 - 2 - 7",
+   "adjusted_wr": "46.34"
+  },
+  {
+   "name": "Leafeon ex Giratina ex",
+   "share_pct": "0.02%",
+   "win_rate": "46.34%",
+   "record": "7 - 2 - 7",
+   "adjusted_wr": "46.34"
+  },
+  {
+   "name": "Flygon ex Goomy",
+   "share_pct": "0.02%",
+   "win_rate": "46.34%",
+   "record": "7 - 1 - 8",
+   "adjusted_wr": "46.34"
+  },
+  {
+   "name": "Togekiss Meloetta",
+   "share_pct": "0.02%",
+   "win_rate": "46.15%",
+   "record": "6 - 0 - 8",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Lucario ex Palossand",
+   "share_pct": "0.02%",
+   "win_rate": "46.15%",
+   "record": "6 - 0 - 8",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Lopunny ex Lucario",
+   "share_pct": "0.02%",
+   "win_rate": "45.45%",
+   "record": "8 - 0 - 11",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Mega Lucario ex Hitmonlee",
+   "share_pct": "0.02%",
+   "win_rate": "45.45%",
+   "record": "8 - 0 - 11",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Mega Swampert ex",
+   "share_pct": "0.02%",
+   "win_rate": "45.95%",
+   "record": "5 - 0 - 7",
+   "adjusted_wr": "45.95"
+  },
+  {
+   "name": "Jolteon ex Raichu",
+   "share_pct": "0.02%",
+   "win_rate": "45.95%",
+   "record": "5 - 1 - 6",
+   "adjusted_wr": "45.95"
+  },
+  {
+   "name": "Greninja Mega Kangaskhan ex",
+   "share_pct": "0.02%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Mewtwo ex Gardevoir",
+   "share_pct": "0.02%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Banette Gholdengo",
+   "share_pct": "0.02%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Mega Sharpedo ex Greninja",
+   "share_pct": "0.02%",
+   "win_rate": "43.90%",
+   "record": "6 - 0 - 10",
+   "adjusted_wr": "43.90"
+  },
+  {
+   "name": "Mega Kangaskhan ex Mantyke",
+   "share_pct": "0.02%",
+   "win_rate": "44.44%",
+   "record": "4 - 0 - 7",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Giratina ex Mimikyu ex",
+   "share_pct": "0.02%",
+   "win_rate": "44.44%",
+   "record": "4 - 0 - 7",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Dragonair Garchomp",
+   "share_pct": "0.02%",
+   "win_rate": "43.59%",
+   "record": "5 - 0 - 9",
+   "adjusted_wr": "43.59"
+  },
+  {
+   "name": "Gholdengo ex Dialga ex",
+   "share_pct": "0.02%",
+   "win_rate": "42.86%",
+   "record": "6 - 0 - 11",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Teal Mask Ogerpon ex",
+   "share_pct": "0.02%",
+   "win_rate": "43.24%",
+   "record": "4 - 1 - 7",
+   "adjusted_wr": "43.24"
+  },
+  {
+   "name": "Mega Gardevoir ex Giratina ex",
+   "share_pct": "0.02%",
+   "win_rate": "43.24%",
+   "record": "4 - 0 - 8",
+   "adjusted_wr": "43.24"
+  },
+  {
+   "name": "Indeedee ex Mega Diancie ex",
+   "share_pct": "0.02%",
+   "win_rate": "43.24%",
+   "record": "4 - 0 - 8",
+   "adjusted_wr": "43.24"
+  },
+  {
+   "name": "Mega Sharpedo ex Iron Bundle ex",
+   "share_pct": "0.02%",
+   "win_rate": "43.24%",
+   "record": "4 - 0 - 8",
+   "adjusted_wr": "43.24"
+  },
+  {
+   "name": "Mega Sharpedo ex Arboliva",
+   "share_pct": "0.02%",
+   "win_rate": "42.50%",
+   "record": "5 - 1 - 9",
+   "adjusted_wr": "42.50"
+  },
+  {
+   "name": "Bellibolt ex Zeraora",
+   "share_pct": "0.02%",
+   "win_rate": "43.24%",
+   "record": "4 - 0 - 8",
+   "adjusted_wr": "43.24"
+  },
+  {
+   "name": "Mega Lopunny ex Greninja",
+   "share_pct": "0.02%",
+   "win_rate": "41.46%",
+   "record": "5 - 0 - 11",
+   "adjusted_wr": "41.46"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Arceus ex",
+   "share_pct": "0.02%",
+   "win_rate": "42.11%",
+   "record": "4 - 0 - 9",
+   "adjusted_wr": "42.11"
+  },
+  {
+   "name": "Raticate Cradily",
+   "share_pct": "0.02%",
+   "win_rate": "41.03%",
+   "record": "4 - 0 - 10",
+   "adjusted_wr": "41.03"
+  },
+  {
+   "name": "Chien-Pao ex Baxcalibur",
+   "share_pct": "0.02%",
+   "win_rate": "41.03%",
+   "record": "4 - 0 - 10",
+   "adjusted_wr": "41.03"
+  },
+  {
+   "name": "Mega Sceptile ex Pheromosa",
+   "share_pct": "0.02%",
+   "win_rate": "41.03%",
+   "record": "4 - 0 - 10",
+   "adjusted_wr": "41.03"
+  },
+  {
+   "name": "Mega Altaria ex Banette",
+   "share_pct": "0.02%",
+   "win_rate": "41.67%",
+   "record": "3 - 0 - 8",
+   "adjusted_wr": "41.67"
+  },
+  {
+   "name": "Typhlosion ex Typhlosion",
+   "share_pct": "0.02%",
+   "win_rate": "41.67%",
+   "record": "3 - 0 - 8",
+   "adjusted_wr": "41.67"
+  },
+  {
+   "name": "Venusaur ex",
+   "share_pct": "0.02%",
+   "win_rate": "40.00%",
+   "record": "4 - 1 - 10",
+   "adjusted_wr": "40.00"
+  },
+  {
+   "name": "Team Rocket's Tinkaton",
+   "share_pct": "0.02%",
+   "win_rate": "42.42%",
+   "record": "2 - 0 - 6",
+   "adjusted_wr": "42.42"
+  },
+  {
+   "name": "Mega Altaria ex Wynaut",
+   "share_pct": "0.02%",
+   "win_rate": "40.54%",
+   "record": "3 - 0 - 9",
+   "adjusted_wr": "40.54"
+  },
+  {
+   "name": "Luxray Team Rocket's Electrode",
+   "share_pct": "0.02%",
+   "win_rate": "40.54%",
+   "record": "3 - 0 - 9",
+   "adjusted_wr": "40.54"
+  },
+  {
+   "name": "Mega Charizard X ex Moltres ex",
+   "share_pct": "0.02%",
+   "win_rate": "40.54%",
+   "record": "3 - 0 - 9",
+   "adjusted_wr": "40.54"
+  },
+  {
+   "name": "Garchomp Chien-Pao ex",
+   "share_pct": "0.02%",
+   "win_rate": "39.47%",
+   "record": "3 - 0 - 10",
+   "adjusted_wr": "39.47"
+  },
+  {
+   "name": "Sylveon Snorlax ex",
+   "share_pct": "0.02%",
+   "win_rate": "41.18%",
+   "record": "2 - 1 - 6",
+   "adjusted_wr": "41.18"
+  },
+  {
+   "name": "Serperior",
+   "share_pct": "0.02%",
+   "win_rate": "41.18%",
+   "record": "2 - 0 - 7",
+   "adjusted_wr": "41.18"
+  },
+  {
+   "name": "Dragonair Salamence",
+   "share_pct": "0.02%",
+   "win_rate": "41.18%",
+   "record": "2 - 0 - 7",
+   "adjusted_wr": "41.18"
+  },
+  {
+   "name": "Leafeon ex Serperior",
+   "share_pct": "0.02%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Mega Houndoom ex Turtonator",
+   "share_pct": "0.02%",
+   "win_rate": "38.89%",
+   "record": "2 - 0 - 9",
+   "adjusted_wr": "38.89"
+  },
+  {
+   "name": "Giratina ex Mewtwo ex",
+   "share_pct": "0.02%",
+   "win_rate": "40.62%",
+   "record": "1 - 0 - 6",
+   "adjusted_wr": "40.62"
+  },
+  {
+   "name": "Galarian Obstagoon Mega Sableye ex",
+   "share_pct": "0.02%",
+   "win_rate": "40.62%",
+   "record": "1 - 0 - 6",
+   "adjusted_wr": "40.62"
+  },
+  {
+   "name": "Decidueye ex Pheromosa",
+   "share_pct": "0.02%",
+   "win_rate": "39.39%",
+   "record": "1 - 0 - 7",
+   "adjusted_wr": "39.39"
+  },
+  {
+   "name": "Magnezone ex Magnezone",
+   "share_pct": "0.02%",
+   "win_rate": "39.39%",
+   "record": "1 - 0 - 7",
+   "adjusted_wr": "39.39"
+  },
+  {
+   "name": "Mega Blaziken ex Team Rocket's Moltres ex",
+   "share_pct": "0.02%",
+   "win_rate": "39.39%",
+   "record": "1 - 0 - 7",
+   "adjusted_wr": "39.39"
+  },
+  {
+   "name": "Hitmonchan ex Mega Lucario ex",
+   "share_pct": "0.02%",
+   "win_rate": "35.14%",
+   "record": "1 - 0 - 11",
+   "adjusted_wr": "35.14"
+  },
+  {
+   "name": "Mega Metagross ex Skarmory",
+   "share_pct": "0.02%",
+   "win_rate": "38.71%",
+   "record": "0 - 0 - 6",
+   "adjusted_wr": "38.71"
+  },
+  {
+   "name": "Jumpluff ex Galarian Cursola",
+   "share_pct": "0.02%",
+   "win_rate": "36.36%",
+   "record": "0 - 0 - 8",
+   "adjusted_wr": "36.36"
+  },
+  {
+   "name": "Mega Kangaskhan ex",
+   "share_pct": "0.02%",
+   "win_rate": "40.00%",
+   "record": "0 - 0 - 5",
+   "adjusted_wr": "40.00"
+  },
+  {
+   "name": "Hoopa ex Darkrai ex",
+   "share_pct": "0.02%",
+   "win_rate": "36.36%",
+   "record": "0 - 0 - 8",
+   "adjusted_wr": "36.36"
+  },
+  {
+   "name": "Decidueye ex Ariados",
+   "share_pct": "0.02%",
+   "win_rate": "35.29%",
+   "record": "0 - 0 - 9",
+   "adjusted_wr": "35.29"
+  },
+  {
+   "name": "Mega Sharpedo ex Palkia ex",
+   "share_pct": "0.01%",
+   "win_rate": "53.85%",
+   "record": "9 - 0 - 5",
+   "adjusted_wr": "53.85"
+  },
+  {
+   "name": "Magnezone Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "52.63%",
+   "record": "8 - 0 - 5",
+   "adjusted_wr": "52.63"
+  },
+  {
+   "name": "Milotic ex Palkia ex",
+   "share_pct": "0.01%",
+   "win_rate": "52.50%",
+   "record": "9 - 0 - 6",
+   "adjusted_wr": "52.50"
+  },
+  {
+   "name": "Mega Altaria ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Meloetta Iron Valiant",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Pikachu ex Tapu Koko ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "5 - 1 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Hitmonchan ex Rampardos",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "5 - 0 - 4",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Flygon ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "6 - 1 - 4",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Kangaskhan ex Tauros ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "8 - 1 - 6",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Lucario ex Rampardos",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "8 - 1 - 6",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Manectric ex Zeraora",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "8 - 2 - 5",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Greninja ex Vaporeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.72%",
+   "record": "7 - 0 - 7",
+   "adjusted_wr": "48.72"
+  },
+  {
+   "name": "Gourgeist Galarian Cursola",
+   "share_pct": "0.01%",
+   "win_rate": "48.57%",
+   "record": "5 - 0 - 5",
+   "adjusted_wr": "48.57"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "48.72%",
+   "record": "7 - 1 - 6",
+   "adjusted_wr": "48.72"
+  },
+  {
+   "name": "Magnezone Miraidon ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.65%",
+   "record": "6 - 0 - 6",
+   "adjusted_wr": "48.65"
+  },
+  {
+   "name": "Alolan Ninetales ex Crawdaunt",
+   "share_pct": "0.01%",
+   "win_rate": "48.48%",
+   "record": "4 - 0 - 4",
+   "adjusted_wr": "48.48"
+  },
+  {
+   "name": "Mega Gallade ex Hitmontop",
+   "share_pct": "0.01%",
+   "win_rate": "48.78%",
+   "record": "8 - 0 - 8",
+   "adjusted_wr": "48.78"
+  },
+  {
+   "name": "Mega Scizor ex Team Rocket's Raticate ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.48%",
+   "record": "4 - 0 - 4",
+   "adjusted_wr": "48.48"
+  },
+  {
+   "name": "Vespiquen ex Buzzwole ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.48%",
+   "record": "4 - 1 - 3",
+   "adjusted_wr": "48.48"
+  },
+  {
+   "name": "Hydreigon Hoopa ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.72%",
+   "record": "7 - 2 - 5",
+   "adjusted_wr": "48.72"
+  },
+  {
+   "name": "Garchomp Hitmontop",
+   "share_pct": "0.01%",
+   "win_rate": "48.65%",
+   "record": "6 - 0 - 6",
+   "adjusted_wr": "48.65"
+  },
+  {
+   "name": "Snorlax ex Ho-Oh ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Team Rocket's Zapdos ex Team Rocket's Electrode",
+   "share_pct": "0.01%",
+   "win_rate": "48.65%",
+   "record": "6 - 0 - 6",
+   "adjusted_wr": "48.65"
+  },
+  {
+   "name": "Dustox Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "47.37%",
+   "record": "6 - 0 - 7",
+   "adjusted_wr": "47.37"
+  },
+  {
+   "name": "Indeedee ex Dragonite",
+   "share_pct": "0.01%",
+   "win_rate": "47.37%",
+   "record": "6 - 0 - 7",
+   "adjusted_wr": "47.37"
+  },
+  {
+   "name": "Mega Altaria ex Bonsly",
+   "share_pct": "0.01%",
+   "win_rate": "47.22%",
+   "record": "5 - 0 - 6",
+   "adjusted_wr": "47.22"
+  },
+  {
+   "name": "Vaporeon ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "47.22%",
+   "record": "5 - 0 - 6",
+   "adjusted_wr": "47.22"
+  },
+  {
+   "name": "Team Rocket's Electrode Mega Kangaskhan ex",
+   "share_pct": "0.01%",
+   "win_rate": "47.22%",
+   "record": "5 - 0 - 6",
+   "adjusted_wr": "47.22"
+  },
+  {
+   "name": "Solgaleo ex Skarmory",
+   "share_pct": "0.01%",
+   "win_rate": "47.22%",
+   "record": "5 - 0 - 6",
+   "adjusted_wr": "47.22"
+  },
+  {
+   "name": "Altaria Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "47.22%",
+   "record": "5 - 0 - 6",
+   "adjusted_wr": "47.22"
+  },
+  {
+   "name": "Hisuian Zoroark ex Froslass",
+   "share_pct": "0.01%",
+   "win_rate": "47.22%",
+   "record": "5 - 0 - 6",
+   "adjusted_wr": "47.22"
+  },
+  {
+   "name": "Dragonite ex Raging Bolt",
+   "share_pct": "0.01%",
+   "win_rate": "47.22%",
+   "record": "5 - 0 - 6",
+   "adjusted_wr": "47.22"
+  },
+  {
+   "name": "Milotic ex Garchomp",
+   "share_pct": "0.01%",
+   "win_rate": "47.06%",
+   "record": "4 - 0 - 5",
+   "adjusted_wr": "47.06"
+  },
+  {
+   "name": "Hydreigon Glimmora",
+   "share_pct": "0.01%",
+   "win_rate": "47.06%",
+   "record": "4 - 0 - 5",
+   "adjusted_wr": "47.06"
+  },
+  {
+   "name": "Mega Lucario ex Mega Lopunny ex",
+   "share_pct": "0.01%",
+   "win_rate": "47.06%",
+   "record": "4 - 0 - 5",
+   "adjusted_wr": "47.06"
+  },
+  {
+   "name": "Magnezone Mega Kangaskhan ex",
+   "share_pct": "0.01%",
+   "win_rate": "47.06%",
+   "record": "4 - 0 - 5",
+   "adjusted_wr": "47.06"
+  },
+  {
+   "name": "Butterfree Mega Venusaur ex",
+   "share_pct": "0.01%",
+   "win_rate": "47.06%",
+   "record": "4 - 1 - 4",
+   "adjusted_wr": "47.06"
+  },
+  {
+   "name": "Gardevoir Mewtwo ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Aerodactyl ex Rampardos",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Hatterene Meowstic",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Garchomp Snorlax",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Team Rocket's Slowking ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.95%",
+   "record": "5 - 0 - 7",
+   "adjusted_wr": "45.95"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Unown",
+   "share_pct": "0.01%",
+   "win_rate": "45.95%",
+   "record": "5 - 0 - 7",
+   "adjusted_wr": "45.95"
+  },
+  {
+   "name": "Mega Gengar ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "45.95%",
+   "record": "5 - 0 - 7",
+   "adjusted_wr": "45.95"
+  },
+  {
+   "name": "Mega Charizard X ex Entei ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Decidueye ex Heliolisk",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 1 - 5",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Dustox Team Rocket's Magmar",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Vaporeon ex Milotic ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Skeledirge Team Rocket's Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Mega Gyarados ex Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Dragonair Archaludon",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Pikachu ex Tauros ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Suicune ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Snorlax ex Sylveon",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Palossand Koraidon ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.71%",
+   "record": "4 - 0 - 6",
+   "adjusted_wr": "45.71"
+  },
+  {
+   "name": "Entei ex Delphox",
+   "share_pct": "0.01%",
+   "win_rate": "45.45%",
+   "record": "3 - 0 - 5",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Milotic ex Hisuian Zoroark ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.45%",
+   "record": "3 - 0 - 5",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Mega Houndoom ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.45%",
+   "record": "3 - 0 - 5",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Mega Lucario ex Koraidon ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.45%",
+   "record": "3 - 0 - 5",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Mega Slowbro ex Eiscue",
+   "share_pct": "0.01%",
+   "win_rate": "45.45%",
+   "record": "3 - 0 - 5",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Dedenne ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "4 - 1 - 6",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Banette",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "4 - 0 - 7",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Lopunny ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "4 - 0 - 7",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Nihilego",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "4 - 0 - 7",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Venusaur ex Venusaur",
+   "share_pct": "0.01%",
+   "win_rate": "44.12%",
+   "record": "3 - 0 - 6",
+   "adjusted_wr": "44.12"
+  },
+  {
+   "name": "Mega Blastoise ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.12%",
+   "record": "3 - 0 - 6",
+   "adjusted_wr": "44.12"
+  },
+  {
+   "name": "Guzzlord",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Decidueye ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.12%",
+   "record": "3 - 0 - 6",
+   "adjusted_wr": "44.12"
+  },
+  {
+   "name": "Vespiquen ex Butterfree",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Dragonite ex Drampa",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Koraidon ex Furfrou",
+   "share_pct": "0.01%",
+   "win_rate": "44.12%",
+   "record": "3 - 0 - 6",
+   "adjusted_wr": "44.12"
+  },
+  {
+   "name": "Mega Steelix ex Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "44.12%",
+   "record": "3 - 0 - 6",
+   "adjusted_wr": "44.12"
+  },
+  {
+   "name": "Mega Gyarados ex Articuno ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.12%",
+   "record": "3 - 0 - 6",
+   "adjusted_wr": "44.12"
+  },
+  {
+   "name": "Mega Manectric ex Heliolisk",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Guzzlord ex Nihilego",
+   "share_pct": "0.01%",
+   "win_rate": "44.12%",
+   "record": "3 - 1 - 5",
+   "adjusted_wr": "44.12"
+  },
+  {
+   "name": "Delphox Entei ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.12%",
+   "record": "3 - 0 - 6",
+   "adjusted_wr": "44.12"
+  },
+  {
+   "name": "Magnezone ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Poliwrath ex Milotic ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Magnezone ex Raikou ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "3 - 0 - 7",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Serperior Celebi ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "3 - 0 - 7",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Decidueye ex Spiritomb",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Darkrai ex Hoopa ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 2 - 3",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Mega Charizard Y ex Charizard",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Mega Gardevoir ex Ceruledge",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Galarian Cursola Aerodactyl ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 1 - 4",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Growlithe Magby",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Eevee ex Alolan Ninetales ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Eevee ex Vaporeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Flareon ex Eevee ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Mega Metagross ex Metagross",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Garchomp Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Solgaleo ex Snorlax",
+   "share_pct": "0.01%",
+   "win_rate": "43.75%",
+   "record": "2 - 0 - 5",
+   "adjusted_wr": "43.75"
+  },
+  {
+   "name": "Milotic ex Mega Gyarados ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.67%",
+   "record": "3 - 0 - 8",
+   "adjusted_wr": "41.67"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Galarian Obstagoon",
+   "share_pct": "0.01%",
+   "win_rate": "41.67%",
+   "record": "3 - 0 - 8",
+   "adjusted_wr": "41.67"
+  },
+  {
+   "name": "Leafeon ex Espeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Charizard Y ex Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "40.54%",
+   "record": "3 - 1 - 8",
+   "adjusted_wr": "40.54"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Dustox",
+   "share_pct": "0.01%",
+   "win_rate": "42.42%",
+   "record": "2 - 0 - 6",
+   "adjusted_wr": "42.42"
+  },
+  {
+   "name": "Garchomp Celebi",
+   "share_pct": "0.01%",
+   "win_rate": "42.42%",
+   "record": "2 - 0 - 6",
+   "adjusted_wr": "42.42"
+  },
+  {
+   "name": "Mega Kangaskhan ex Darkrai ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Furfrou",
+   "share_pct": "0.01%",
+   "win_rate": "41.18%",
+   "record": "2 - 0 - 7",
+   "adjusted_wr": "41.18"
+  },
+  {
+   "name": "Mega Altaria ex Altaria",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Rampardos Tyrantrum",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Togekiss Meloetta",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Samurott Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Garchomp Furfrou",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Mega Altaria ex Sylveon ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Crobat ex Darkrai ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Milotic ex Team Rocket's Articuno ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Butterfree Hisuian Zoroark ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Team Rocket's Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Garchomp Pyukumuku",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Team Rocket's Articuno ex Happiny",
+   "share_pct": "0.01%",
+   "win_rate": "40.62%",
+   "record": "1 - 0 - 6",
+   "adjusted_wr": "40.62"
+  },
+  {
+   "name": "Magneton Lugia ex",
+   "share_pct": "0.01%",
+   "win_rate": "40.62%",
+   "record": "1 - 0 - 6",
+   "adjusted_wr": "40.62"
+  },
+  {
+   "name": "Incineroar ex Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "40.62%",
+   "record": "1 - 0 - 6",
+   "adjusted_wr": "40.62"
+  },
+  {
+   "name": "Mega Audino ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "40.62%",
+   "record": "1 - 1 - 5",
+   "adjusted_wr": "40.62"
+  },
+  {
+   "name": "Hoopa ex Tyranitar",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Crobat ex Weezing",
+   "share_pct": "0.01%",
+   "win_rate": "38.71%",
+   "record": "0 - 0 - 6",
+   "adjusted_wr": "38.71"
+  },
+  {
+   "name": "Iron Bundle ex Iron Valiant",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Celebi ex Serperior",
+   "share_pct": "0.01%",
+   "win_rate": "38.71%",
+   "record": "0 - 0 - 6",
+   "adjusted_wr": "38.71"
+  },
+  {
+   "name": "Hisuian Zoroark ex Butterfree",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Sharpedo ex Gyarados ex",
+   "share_pct": "0.01%",
+   "win_rate": "38.71%",
+   "record": "0 - 0 - 6",
+   "adjusted_wr": "38.71"
+  },
+  {
+   "name": "Mega Metagross ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Team Rocket's Tinkaton",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Butterfree Meowscarada ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Blastoise ex Team Rocket's Articuno ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Arceus ex Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Slurpuff Alcremie",
+   "share_pct": "0.01%",
+   "win_rate": "40.00%",
+   "record": "0 - 0 - 5",
+   "adjusted_wr": "40.00"
+  },
+  {
+   "name": "Serperior Shaymin",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Rotom ex Cinccino",
+   "share_pct": "0.01%",
+   "win_rate": "40.00%",
+   "record": "0 - 0 - 5",
+   "adjusted_wr": "40.00"
+  },
+  {
+   "name": "Mega Medicham ex Spiritomb",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Mega Metagross ex Galarian Perrserker",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Team Rocket's Electrode Pawmot",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Mega Charizard X ex Skeledirge",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Mega Steelix ex Galarian Perrserker",
+   "share_pct": "0.01%",
+   "win_rate": "38.71%",
+   "record": "0 - 0 - 6",
+   "adjusted_wr": "38.71"
+  },
+  {
+   "name": "Rotom ex Pachirisu",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Araquanid",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "1 - 0 - 0",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Heliolisk Zapdos ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "1 - 0 - 0",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Altaria ex Magnezone",
+   "share_pct": "0.01%",
+   "win_rate": "53.12%",
+   "record": "5 - 0 - 2",
+   "adjusted_wr": "53.12"
+  },
+  {
+   "name": "Skeledirge Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "53.12%",
+   "record": "5 - 0 - 2",
+   "adjusted_wr": "53.12"
+  },
+  {
+   "name": "Dedenne ex Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "51.61%",
+   "record": "4 - 0 - 2",
+   "adjusted_wr": "51.61"
+  },
+  {
+   "name": "Giratina ex Team Rocket's Slowking ex",
+   "share_pct": "0.01%",
+   "win_rate": "51.61%",
+   "record": "4 - 0 - 2",
+   "adjusted_wr": "51.61"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Houndoom ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "2 - 0 - 1",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Charizard ex Mega Charizard Y ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "2 - 0 - 1",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Venusaur ex Exeggutor",
+   "share_pct": "0.01%",
+   "win_rate": "51.52%",
+   "record": "5 - 0 - 3",
+   "adjusted_wr": "51.52"
+  },
+  {
+   "name": "Mega Lucario ex Bonsly",
+   "share_pct": "0.01%",
+   "win_rate": "51.52%",
+   "record": "5 - 0 - 3",
+   "adjusted_wr": "51.52"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Scizor ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Sceptile ex Nihilego",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Dragonite Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Rayquaza ex Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Sceptile ex Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Team Rocket's Electrode Pawmot",
+   "share_pct": "0.01%",
+   "win_rate": "51.43%",
+   "record": "6 - 1 - 3",
+   "adjusted_wr": "51.43"
+  },
+  {
+   "name": "Darkrai ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Hisuian Zoroark ex Gourgeist",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Blacephalon ex Nihilego",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "3 - 0 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Vaporeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Arceus ex Miraidon ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Suicune ex Gholdengo",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Slowbro ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Dragonair Mega Latios ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 1 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Lunala ex Mega Diancie ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Greninja Absol",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 1 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Blastoise ex Suicune ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Galarian Obstagoon Mega Absol ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Absol ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Garchomp ex Lucario",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Mega Blastoise ex Snorlax ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Porygon-Z Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Alolan Ninetales ex Alolan Ninetales",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Koraidon ex Hitmonchan ex",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 1 - 2",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Beautifly Dustox",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "4 - 0 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Hypno",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "5 - 0 - 4",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Luxray Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "50.00%",
+   "record": "5 - 1 - 3",
+   "adjusted_wr": "50.00"
+  },
+  {
+   "name": "Decidueye ex Hoopa ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Gallade Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Flygon ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Slaking Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Gengar ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Annihilape Golem",
+   "share_pct": "0.01%",
+   "win_rate": "48.15%",
+   "record": "1 - 0 - 1",
+   "adjusted_wr": "48.15"
+  },
+  {
+   "name": "Hoopa ex Weezing",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Hisuian Basculegion Iron Bundle",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Garchomp ex Garchomp",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Dragonair Magby",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Mega Scizor ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Mega Gyarados ex Manaphy",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Mega Altaria ex Team Rocket's Raticate ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.48%",
+   "record": "4 - 1 - 3",
+   "adjusted_wr": "48.48"
+  },
+  {
+   "name": "Entei ex Mega Blaziken ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Dragonite Eiscue",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Darkrai ex Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Eevee ex Umbreon ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Gardevoir Mega Diancie ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Chandelure Munchlax",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Mega Sceptile ex Leafeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Infernape ex Happiny",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Dragalge ex Hoopa ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Electivire Magmortar",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Alolan Muk Mega Kangaskhan ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Exeggutor ex Venusaur ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Slurpuff Cherubi",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Alolan Ninetales ex Team Rocket's Articuno ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.48%",
+   "record": "4 - 0 - 4",
+   "adjusted_wr": "48.48"
+  },
+  {
+   "name": "Indeedee ex Mismagius",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Charizard ex Team Rocket's Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Mega Altaria ex Furfrou",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Dragonite ex Haxorus",
+   "share_pct": "0.01%",
+   "win_rate": "48.15%",
+   "record": "1 - 0 - 1",
+   "adjusted_wr": "48.15"
+  },
+  {
+   "name": "Wailord ex Wailord",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Rapidash ex Castform Sunny Form",
+   "share_pct": "0.01%",
+   "win_rate": "48.48%",
+   "record": "4 - 1 - 3",
+   "adjusted_wr": "48.48"
+  },
+  {
+   "name": "Mega Sharpedo ex Wailord ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Growlithe Rockruff",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Bastiodon",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Samurott Pyukumuku",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Indeedee ex Delcatty",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Magnezone Hisuian Goodra",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 2 - 1",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Luxray Team Rocket's Electrode",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 1 - 2",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Delphox Castform Sunny Form",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Magnezone Team Rocket's Persian",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Lucario Rampardos",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Mega Sharpedo ex Mamoswine",
+   "share_pct": "0.01%",
+   "win_rate": "48.48%",
+   "record": "4 - 0 - 4",
+   "adjusted_wr": "48.48"
+  },
+  {
+   "name": "Milotic ex Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Incineroar ex Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Mega Gengar ex Chingling",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 1 - 2",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Mega Gengar ex Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Indeedee ex Banette",
+   "share_pct": "0.01%",
+   "win_rate": "48.15%",
+   "record": "1 - 0 - 1",
+   "adjusted_wr": "48.15"
+  },
+  {
+   "name": "Dragonite ex Salamence",
+   "share_pct": "0.01%",
+   "win_rate": "48.15%",
+   "record": "1 - 0 - 1",
+   "adjusted_wr": "48.15"
+  },
+  {
+   "name": "Glimmora Darkrai ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Magnezone Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Mega Lopunny ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Mega Sceptile ex Chingling",
+   "share_pct": "0.01%",
+   "win_rate": "48.15%",
+   "record": "1 - 0 - 1",
+   "adjusted_wr": "48.15"
+  },
+  {
+   "name": "Porygon-Z Hisuian Zoroark ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.15%",
+   "record": "1 - 0 - 1",
+   "adjusted_wr": "48.15"
+  },
+  {
+   "name": "Mega Lopunny ex Furfrou",
+   "share_pct": "0.01%",
+   "win_rate": "48.28%",
+   "record": "2 - 0 - 2",
+   "adjusted_wr": "48.28"
+  },
+  {
+   "name": "Entei ex Ho-Oh ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Espeon ex Mega Altaria ex",
+   "share_pct": "0.01%",
+   "win_rate": "48.39%",
+   "record": "3 - 0 - 3",
+   "adjusted_wr": "48.39"
+  },
+  {
+   "name": "Mega Lopunny ex Primeape",
+   "share_pct": "0.01%",
+   "win_rate": "48.15%",
+   "record": "1 - 0 - 1",
+   "adjusted_wr": "48.15"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Ho-Oh ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Greninja Iron Bundle",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Medicham ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Sableye ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Milotic ex Mega Kangaskhan ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Inteleon",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Greninja ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Mega Blaziken ex Mega Camerupt ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Bellibolt ex Mega Audino ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Hoopa ex Arceus ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Mega Gallade ex Koraidon ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Rotom ex Heliolisk",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Team Rocket's Tinkaton Furfrou",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Mega Sableye ex Scrafty",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Teal Mask Ogerpon ex Rampardos",
+   "share_pct": "0.01%",
+   "win_rate": "46.88%",
+   "record": "3 - 0 - 4",
+   "adjusted_wr": "46.88"
+  },
+  {
+   "name": "Banette Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Alolan Ninetales ex Mega Sharpedo ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Team Rocket's Arbok Team Rocket's Persian",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Banette Araquanid",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Absol ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Leafeon ex Dhelmise ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mimikyu ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Solgaleo ex Arceus ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Blaziken ex Arboliva",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Serperior Mega Sceptile ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Vespiquen ex Mega Heracross ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Flygon ex Munchlax",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Leafeon ex Mega Sceptile ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Gallade ex Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Lucario ex Team Rocket's Weezing ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Staraptor Snorlax",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Absol ex Team Rocket's Magmar",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Zoroark Mega Absol ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Manectric ex Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Jumpluff ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 1 - 2",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Haxorus Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Altaria ex Espeon",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Togekiss Meowth",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Iron Bundle ex Iron Bundle",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Espeon Mimikyu ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Manectric ex Luxray",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Aegislash Archaludon",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Decidueye ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Garchomp Meowth",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Delphox",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Milotic ex Dustox",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Haxorus Skarmory",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Leafeon ex Accelgor",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Garchomp",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Mega Gardevoir ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Dragonite Altaria",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Altaria ex Iron Valiant",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Milotic ex Silvally",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Togekiss Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Hydreigon Zoroark",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Diancie ex Mega Gardevoir ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Machamp Zygarde ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Team Rocket's Electrode Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Mega Manectric ex Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Garchomp Mime Jr.",
+   "share_pct": "0.01%",
+   "win_rate": "46.67%",
+   "record": "2 - 0 - 3",
+   "adjusted_wr": "46.67"
+  },
+  {
+   "name": "Espeon Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "45.45%",
+   "record": "3 - 0 - 5",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Delphox Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "45.45%",
+   "record": "3 - 0 - 5",
+   "adjusted_wr": "45.45"
+  },
+  {
+   "name": "Armaldo Turtonator",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Mega Sharpedo ex Walrein",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Flutter Mane ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Raikou ex Luxray",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Team Rocket's Zapdos ex Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Mega Slowbro ex Cryogonal",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Starmie ex Articuno ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Flygon ex Giratina ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Magnezone Mega Manectric ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Mega Gengar ex Galarian Cursola",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Miltank",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Mega Swampert ex Archaludon",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Serperior Chingling",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Bellibolt ex Team Rocket's Electrode",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Mega Kangaskhan ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Charizard ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Iron Bundle Iron Valiant",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Mega Venusaur ex Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Team Rocket's Tinkaton Skarmory",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Mega Charizard X ex Charizard",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Flygon ex Ariados",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Dedenne ex Emolga",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Poliwrath ex Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Charizard ex Charizard",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Mega Charizard Y ex Castform Sunny Form",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Greninja Team Rocket's Articuno ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Mandibuzz Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Team Rocket's Articuno ex Team Rocket's Lapras",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Garchomp Bonsly",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Flareon ex Mega Charizard Y ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Mega Medicham ex Snorlax",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Mimikyu ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Meowscarada Decidueye ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Greninja Giratina ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Snorlax ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Mega Manectric ex Jolteon",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Giratina ex Mega Diancie ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Mega Houndoom ex Hearthflame Mask Ogerpon",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Weavile ex Darkrai ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Haxorus Happiny",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Garchomp ex Mega Gallade ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Guzzlord ex Darkrai ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Vaporeon ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Alolan Ninetales ex",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Team Rocket's Zapdos ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Jolteon ex Leafeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Mismagius ex Hatterene",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Gholdengo ex Gholdengo",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Mega Gyarados ex Mime Jr.",
+   "share_pct": "0.01%",
+   "win_rate": "45.16%",
+   "record": "2 - 0 - 4",
+   "adjusted_wr": "45.16"
+  },
+  {
+   "name": "Suicune ex Chien-Pao ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Haxorus Archaludon",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Mega Lopunny ex Pidgeot",
+   "share_pct": "0.01%",
+   "win_rate": "46.43%",
+   "record": "1 - 0 - 2",
+   "adjusted_wr": "46.43"
+  },
+  {
+   "name": "Team Rocket's Tinkaton Kartana",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Pachirisu ex Dedenne ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Charizard X ex Flareon",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Swampert ex Munchlax",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Entei ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Houndoom ex Team Rocket's Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Alolan Raichu ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Gholdengo ex Charcadet",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Electrode Luxray",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Ariados Tangrowth",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Guzzlord ex Team Rocket's Raticate ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Buzzwole ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Houndoom ex Houndoom",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Sableye ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Houndoom Nihilego",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Iron Bundle ex Vaporeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Houndoom ex Magby",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Gyarados ex Gholdengo",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Gardevoir Mega Diancie ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Samurott Smeargle",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Solgaleo ex Vaporeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Dragonite ex Hisuian Goodra",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Snorlax ex Tyrantrum",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Lucario ex Marowak",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Zapdos ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Guzzlord ex Hydreigon",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Tinkaton Orthworm",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 1 - 2",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Camerupt ex Charmeleon",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Gholdengo ex Revavroom",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Sharpedo ex Hisuian Zoroark ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Indeedee ex Gengar ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Houndoom ex Houndoom",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Kangaskhan ex Hoopa ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Medicham ex Wynaut",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Venusaur ex Venusaur",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Wailord Gholdengo",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Kangaskhan ex Porygon-Z",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Espathra",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Wigglytuff ex Delcatty",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Flutter Mane ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Indeedee ex Mewtwo",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Mega Kangaskhan ex Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Decidueye ex Lurantis",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Jellicent Team Rocket's Articuno ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Alolan Muk ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Aerodactyl ex Lucario",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Magnezone Ditto",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Magneton",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Garchomp ex Hitmontop",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Arceus ex Hoopa ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "44.83%",
+   "record": "1 - 0 - 3",
+   "adjusted_wr": "44.83"
+  },
+  {
+   "name": "Rampardos",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Haxorus Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Ditto Hitmontop",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Lanturn ex Milotic ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Aegislash Smoochum",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Mega Blaziken ex Turtonator",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Gholdengo ex Skarmory",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Crobat ex Mega Sableye ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Team Rocket's Persian",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Mega Charizard X ex Armarouge ex",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Magikarp",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Mega Steelix ex Sylveon",
+   "share_pct": "0.01%",
+   "win_rate": "43.33%",
+   "record": "1 - 0 - 4",
+   "adjusted_wr": "43.33"
+  },
+  {
+   "name": "Mega Sharpedo ex Mega Swampert ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Victreebel Pidgeot",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Mega Lucario ex Snorlax",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Hatterene Spinda",
+   "share_pct": "0.01%",
+   "win_rate": "41.94%",
+   "record": "1 - 0 - 5",
+   "adjusted_wr": "41.94"
+  },
+  {
+   "name": "Tsareena Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Indeedee ex Team Rocket's Tinkaton",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Hoopa ex Umbreon ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Umbreon ex Hoopa ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Altaria ex Polteageist",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Swampert ex Mega Sharpedo ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Lucario ex Tyrogue",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Skarmory Team Rocket's Tinkaton",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Serperior Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Beedrill ex Bonsly",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Metagross ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Sylveon ex Garchomp",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Decidueye ex Hydreigon",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Sylveon Mega Diancie ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Magnezone Hisuian Zoroark ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Garchomp ex Koraidon ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Reuniclus Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Gengar ex Munchlax",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Dragonite ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Dragonite Goomy",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Aegislash Skarmory",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Flutter Mane ex Chingling",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Milotic ex Accelgor",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Crobat Mega Absol ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Charizard X ex Hearthflame Mask Ogerpon",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Raichu Pawmot",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Crobat ex Nihilego",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Medicham ex Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Jolteon ex Team Rocket's Zapdos ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Serperior Mega Heracross ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Rotom ex Smeargle",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Altaria ex Goomy",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Alolan Ninetales ex Team Rocket's Raticate ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Pikachu ex Pichu",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Blastoise ex Mega Sharpedo ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Iron Bundle",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Swampert ex Swampert",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Houndoom ex Victini",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Guzzlord ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Dragonite Salamence",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Mega Absol ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Nidoking Munchlax",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Venusaur ex Igglybuff",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Dragonair Noivern",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Dialga ex Aegislash",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Nidoking",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Jolteon ex Team Rocket's Electrode",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Charizard ex Eevee ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Wailord ex Suicune ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Porygon-Z Crawdaunt",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Ceruledge ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Magneton Giratina ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Armarouge ex Sylveon",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Ho-Oh ex Mega Rayquaza ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Kangaskhan ex Snorlax",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Togekiss Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Blastoise ex Zapdos ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Xatu",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Miraidon ex Magnezone",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Shuckle ex Vespiquen ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Gengar ex Dusknoir",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Jolteon ex Zeraora",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Hoopa ex Decidueye ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Magneton Miraidon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Lanturn ex Raikou ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Swampert ex Dusknoir",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Garchomp Munchlax",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Team Rocket's Hypno Giratina ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Team Rocket's Houndoom",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Hitmonchan ex Mega Gallade ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Team Rocket's Articuno ex Mew ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Rotom ex Tapu Koko ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Mega Sceptile ex Vespiquen ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Moltres ex Mega Blaziken ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Incineroar ex Mega Charizard Y ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Suicune ex Vaporeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Vaporeon ex Vaporeon",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Magnezone Zapdos ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Swampert ex Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Altaria ex Mimikyu ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Garchomp Elekid",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Serperior Exeggutor",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Vaporeon ex Leafeon ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Suicune ex Samurott",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Kingambit Glimmora",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Scizor ex Scizor",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Indeedee ex Delphox",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Gourgeist",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Team Rocket's Slowking ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Butterfree",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Team Rocket's Raticate ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Flareon ex Walking Wake",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Pidgeot ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Jumpluff ex Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Greninja Inteleon",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Melmetal ex Bastiodon",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Team Rocket's Muk",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Lucario ex Garchomp",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Milotic ex Garchomp",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Terapagos ex Team Rocket's Raticate ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Articuno ex Inteleon",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Wailord Tyrantrum",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Magnezone Lugia ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Weavile ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Meowscarada ex Decidueye ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Camerupt ex Team Rocket's Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Indeedee ex Goodra",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Tinkaton Team Rocket's Arbok",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Charizard ex Incineroar ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Dudunsparce",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Persian Chandelure",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Scizor ex Mantyke",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Gallade ex Lucario",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Melmetal ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Wugtrio ex Milotic ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Hisuian Zoroark ex Jellicent",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Galarian Obstagoon Darkrai ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Palkia ex Vaporeon",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mewtwo ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Greninja Darkrai ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Naganadel Guzzlord ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Altaria ex Gengar",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Gardevoir ex Houndstone",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Decidueye ex Miltank",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Venusaur ex Arboliva",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Dragonite Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Articuno ex Mewtwo ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Dedenne ex Happiny",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Metagross ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Typhlosion ex Team Rocket's Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "41.38%",
+   "record": "0 - 0 - 4",
+   "adjusted_wr": "41.38"
+  },
+  {
+   "name": "Mega Houndoom ex Iron Moth",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Altaria ex Kirlia",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Blastoise ex Dhelmise",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Lugia ex Ho-Oh ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Medicham ex Giratina ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Infernape ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Team Rocket's Weezing ex Giratina ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Teal Mask Ogerpon ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Gholdengo ex Orthworm",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Lilligant Teal MaskOgerpon",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Team Rocket's Zapdos ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Sceptile ex Happiny",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Jolteon ex Eevee ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Indeedee ex Togekiss",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Lucario ex Sandslash",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Milotic ex Greninja",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Dragonair Miraidon ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Slowking ex Shiinotic",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Typhlosion Team Rocket's Magmar",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Pawmot",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Mega Sceptile ex Dustox",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Meowscarada ex Mega Sceptile ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Ceruledge ex Indeedee ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Seaking",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Giratina ex",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Incineroar ex Team Rocket's Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Tinkaton ex Skarmory",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Ampharos ex Oricorio",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Alolan Ninetales ex Gholdengo",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Iron Valiant Iron Crown",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Primarina ex Crabominable ex",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Probopass ex Magby",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Altaria ex Team Rocket's Mr. Mime",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Gengar ex Mega Diancie ex",
+   "share_pct": "0.01%",
+   "win_rate": "42.86%",
+   "record": "0 - 0 - 3",
+   "adjusted_wr": "42.86"
+  },
+  {
+   "name": "Mega Sableye ex Glimmora",
+   "share_pct": "0.01%",
+   "win_rate": "44.44%",
+   "record": "0 - 0 - 2",
+   "adjusted_wr": "44.44"
+  },
+  {
+   "name": "Mega Sharpedo ex Araquanid",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Hoopa ex Mandibuzz",
+   "share_pct": "0.01%",
+   "win_rate": "46.15%",
+   "record": "0 - 0 - 1",
+   "adjusted_wr": "46.15"
+  },
+  {
+   "name": "Team Rocket's Raticate ex Flygon ex",
+   "share_pct": "0.01%",
+   "win_rate": "0.00%",
+   "record": "0 - 0 - 0",
+   "adjusted_wr": "0.00"
+  },
+  {
+   "name": "Charizard ex Moltres ex",
+   "share_pct": "0.01%",
+   "win_rate": "0.00%",
+   "record": "0 - 0 - 0",
+   "adjusted_wr": "0.00"
+  }
+ ]
 }
