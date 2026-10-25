@@ -1,0 +1,8228 @@
+[
+ {
+  "name": "Mega Altaria ex Espeon",
+  "share": 7.777929527451516,
+  "w": 3276,
+  "l": 249,
+  "d": 2801,
+  "n": 6326,
+  "awr": 51.771374586679265
+ },
+ {
+  "name": "Mega Lucario ex Lucario",
+  "share": 7.53209505599563,
+  "w": 2840,
+  "l": 156,
+  "d": 2774,
+  "n": 5770,
+  "awr": 49.21484037963762
+ },
+ {
+  "name": "Butterfree Mega Sceptile ex",
+  "share": 4.97131931166348,
+  "w": 1992,
+  "l": 137,
+  "d": 1797,
+  "n": 3926,
+  "awr": 50.721336370539106
+ },
+ {
+  "name": "Suicune ex Baxcalibur",
+  "share": 4.732313575525813,
+  "w": 1917,
+  "l": 128,
+  "d": 1705,
+  "n": 3750,
+  "awr": 51.099337748344375
+ },
+ {
+  "name": "Vespiquen ex Shuckle ex",
+  "share": 4.329418191750888,
+  "w": 1766,
+  "l": 114,
+  "d": 1569,
+  "n": 3449,
+  "awr": 51.18019573978123
+ },
+ {
+  "name": "Dragonair Mega Rayquaza ex",
+  "share": 3.516798688882819,
+  "w": 1396,
+  "l": 94,
+  "d": 1281,
+  "n": 2771,
+  "awr": 50.35765379113018
+ },
+ {
+  "name": "Magnezone Miraidon ex",
+  "share": 3.113903305107894,
+  "w": 1387,
+  "l": 135,
+  "d": 1129,
+  "n": 2651,
+  "awr": 52.279521674140504
+ },
+ {
+  "name": "Hoopa ex Mega Absol ex",
+  "share": 3.086588363835018,
+  "w": 1279,
+  "l": 96,
+  "d": 1088,
+  "n": 2463,
+  "awr": 51.88906752411575
+ },
+ {
+  "name": "Hydreigon Mega Absol ex",
+  "share": 2.984157334061732,
+  "w": 1168,
+  "l": 80,
+  "d": 1085,
+  "n": 2333,
+  "awr": 50.042408821034776
+ },
+ {
+  "name": "Mega Altaria ex Greninja",
+  "share": 2.7314941272876263,
+  "w": 1035,
+  "l": 72,
+  "d": 970,
+  "n": 2077,
+  "awr": 49.80970504281637
+ },
+ {
+  "name": "Mega Blaziken ex",
+  "share": 2.574433214968588,
+  "w": 1063,
+  "l": 87,
+  "d": 908,
+  "n": 2058,
+  "awr": 51.60825732117139
+ },
+ {
+  "name": "Dedenne ex Indeedee ex",
+  "share": 2.369571155422016,
+  "w": 982,
+  "l": 70,
+  "d": 834,
+  "n": 1886,
+  "awr": 52.01465201465202
+ },
+ {
+  "name": "Mega Charizard Y ex Entei ex",
+  "share": 2.3354274788309204,
+  "w": 900,
+  "l": 69,
+  "d": 823,
+  "n": 1792,
+  "awr": 50.19262520638414
+ },
+ {
+  "name": "Mega Manectric ex Heliolisk",
+  "share": 2.198852772466539,
+  "w": 866,
+  "l": 70,
+  "d": 768,
+  "n": 1704,
+  "awr": 50.780798149219194
+ },
+ {
+  "name": "Team Rocket's Weezing ex Hoopa ex",
+  "share": 2.178366566511882,
+  "w": 823,
+  "l": 63,
+  "d": 799,
+  "n": 1685,
+  "awr": 48.83040935672515
+ },
+ {
+  "name": "Mega Sceptile ex Greninja",
+  "share": 1.8232723299644906,
+  "w": 762,
+  "l": 57,
+  "d": 656,
+  "n": 1475,
+  "awr": 51.6
+ },
+ {
+  "name": "Mega Blaziken ex Greninja",
+  "share": 1.6457252116907948,
+  "w": 697,
+  "l": 60,
+  "d": 612,
+  "n": 1369,
+  "awr": 50.86083213773315
+ },
+ {
+  "name": "Zoroark ex Mega Absol ex",
+  "share": 1.2223436219612127,
+  "w": 484,
+  "l": 32,
+  "d": 462,
+  "n": 978,
+  "awr": 49.45164506480558
+ },
+ {
+  "name": "Magnezone ex Magnezone",
+  "share": 1.1745424747336795,
+  "w": 435,
+  "l": 36,
+  "d": 423,
+  "n": 894,
+  "awr": 48.63982589771491
+ },
+ {
+  "name": "Team Rocket's Raticate ex Alolan Ninetales ex",
+  "share": 0.9628516798688882,
+  "w": 261,
+  "l": 19,
+  "d": 380,
+  "n": 660,
+  "awr": 39.85401459854015
+ },
+ {
+  "name": "Milotic ex Eevee ex",
+  "share": 0.9355367385960119,
+  "w": 402,
+  "l": 29,
+  "d": 357,
+  "n": 788,
+  "awr": 50.92250922509225
+ },
+ {
+  "name": "Mega Sharpedo ex Gyarados",
+  "share": 0.8740781207320404,
+  "w": 376,
+  "l": 30,
+  "d": 319,
+  "n": 725,
+  "awr": 51.733333333333334
+ },
+ {
+  "name": "Miraidon ex Magnezone",
+  "share": 0.8535919147773833,
+  "w": 351,
+  "l": 18,
+  "d": 313,
+  "n": 682,
+  "awr": 51.34370579915134
+ },
+ {
+  "name": "Mega Gardevoir ex Mega Diancie ex",
+  "share": 0.8331057088227259,
+  "w": 253,
+  "l": 12,
+  "d": 306,
+  "n": 571,
+  "awr": 44.46308724832215
+ },
+ {
+  "name": "Mega Altaria ex",
+  "share": 0.7921332969134116,
+  "w": 324,
+  "l": 29,
+  "d": 308,
+  "n": 661,
+  "awr": 48.97959183673469
+ },
+ {
+  "name": "Beautifly Dustox",
+  "share": 0.7443321496858781,
+  "w": 250,
+  "l": 15,
+  "d": 272,
+  "n": 537,
+  "awr": 46.619217081850536
+ },
+ {
+  "name": "Mega Altaria ex Chingling",
+  "share": 0.6555585905490303,
+  "w": 222,
+  "l": 15,
+  "d": 258,
+  "n": 495,
+  "awr": 45.0
+ },
+ {
+  "name": "Mega Altaria ex Happiny",
+  "share": 0.6419011199125922,
+  "w": 279,
+  "l": 27,
+  "d": 233,
+  "n": 539,
+  "awr": 51.59574468085106
+ },
+ {
+  "name": "Meowscarada ex Meowscarada",
+  "share": 0.621414913957935,
+  "w": 219,
+  "l": 16,
+  "d": 239,
+  "n": 474,
+  "awr": 46.292585170340686
+ },
+ {
+  "name": "Hoopa ex Greninja",
+  "share": 0.5599562960939634,
+  "w": 223,
+  "l": 15,
+  "d": 203,
+  "n": 441,
+  "awr": 50.42918454935622
+ },
+ {
+  "name": "Mega Charizard X ex Mega Charizard Y ex",
+  "share": 0.505326413548211,
+  "w": 179,
+  "l": 11,
+  "d": 188,
+  "n": 378,
+  "awr": 47.39454094292804
+ },
+ {
+  "name": "Garchomp",
+  "share": 0.4848402075935536,
+  "w": 134,
+  "l": 9,
+  "d": 196,
+  "n": 339,
+  "awr": 40.10989010989011
+ },
+ {
+  "name": "Mega Sharpedo ex Chien-Pao ex",
+  "share": 0.47801147227533464,
+  "w": 199,
+  "l": 19,
+  "d": 164,
+  "n": 382,
+  "awr": 51.842751842751845
+ },
+ {
+  "name": "Hoopa ex Mega Sableye ex",
+  "share": 0.4711827369571156,
+  "w": 203,
+  "l": 16,
+  "d": 174,
+  "n": 393,
+  "awr": 51.43540669856459
+ },
+ {
+  "name": "Team Rocket's Slowking ex Meloetta",
+  "share": 0.4506965310024583,
+  "w": 140,
+  "l": 3,
+  "d": 187,
+  "n": 330,
+  "awr": 42.816901408450704
+ },
+ {
+  "name": "Greninja Mega Absol ex",
+  "share": 0.43021032504780116,
+  "w": 177,
+  "l": 16,
+  "d": 145,
+  "n": 338,
+  "awr": 52.066115702479344
+ },
+ {
+  "name": "Mega Altaria ex Igglybuff",
+  "share": 0.41655285441136297,
+  "w": 141,
+  "l": 9,
+  "d": 142,
+  "n": 292,
+  "awr": 48.26498422712934
+ },
+ {
+  "name": "Mega Diancie ex Carbink",
+  "share": 0.3755804425020486,
+  "w": 145,
+  "l": 9,
+  "d": 134,
+  "n": 288,
+  "awr": 50.159744408945684
+ },
+ {
+  "name": "Mega Venusaur ex",
+  "share": 0.3755804425020486,
+  "w": 108,
+  "l": 6,
+  "d": 148,
+  "n": 262,
+  "awr": 41.81184668989547
+ },
+ {
+  "name": "Flygon ex",
+  "share": 0.36875170718382955,
+  "w": 138,
+  "l": 11,
+  "d": 142,
+  "n": 291,
+  "awr": 47.46835443037975
+ },
+ {
+  "name": "Mega Blaziken ex Castform Sunny Form",
+  "share": 0.3482655012291723,
+  "w": 129,
+  "l": 4,
+  "d": 135,
+  "n": 268,
+  "awr": 48.122866894197955
+ },
+ {
+  "name": "Charizard ex Mega Charizard Y ex",
+  "share": 0.32777929527451516,
+  "w": 100,
+  "l": 10,
+  "d": 110,
+  "n": 220,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Mega Manectric ex Team Rocket's Electrode",
+  "share": 0.32777929527451516,
+  "w": 97,
+  "l": 4,
+  "d": 132,
+  "n": 233,
+  "awr": 42.248062015503876
+ },
+ {
+  "name": "Team Rocket's Weezing ex Zoroark ex",
+  "share": 0.31412182463807703,
+  "w": 117,
+  "l": 6,
+  "d": 130,
+  "n": 253,
+  "awr": 46.402877697841724
+ },
+ {
+  "name": "Chandelure Oricorio",
+  "share": 0.31412182463807703,
+  "w": 83,
+  "l": 5,
+  "d": 119,
+  "n": 207,
+  "awr": 40.94827586206897
+ },
+ {
+  "name": "Whimsicott ex Ariados",
+  "share": 0.31412182463807703,
+  "w": 73,
+  "l": 0,
+  "d": 114,
+  "n": 187,
+  "awr": 40.09433962264151
+ },
+ {
+  "name": "Dedenne ex Pichu",
+  "share": 0.3004643540016389,
+  "w": 106,
+  "l": 6,
+  "d": 113,
+  "n": 225,
+  "awr": 47.199999999999996
+ },
+ {
+  "name": "Mega Lucario ex Teal Mask Ogerpon ex",
+  "share": 0.3004643540016389,
+  "w": 100,
+  "l": 4,
+  "d": 119,
+  "n": 223,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Team Rocket's Weezing ex Mega Absol ex",
+  "share": 0.3004643540016389,
+  "w": 106,
+  "l": 8,
+  "d": 125,
+  "n": 239,
+  "awr": 44.696969696969695
+ },
+ {
+  "name": "Mega Mawile ex",
+  "share": 0.29363561868341986,
+  "w": 83,
+  "l": 3,
+  "d": 100,
+  "n": 186,
+  "awr": 45.023696682464454
+ },
+ {
+  "name": "Jumpluff ex Team Rocket's Electrode",
+  "share": 0.29363561868341986,
+  "w": 93,
+  "l": 7,
+  "d": 119,
+  "n": 219,
+  "awr": 43.0327868852459
+ },
+ {
+  "name": "Mega Scizor ex Revavroom",
+  "share": 0.25949194209232446,
+  "w": 85,
+  "l": 4,
+  "d": 89,
+  "n": 178,
+  "awr": 47.783251231527096
+ },
+ {
+  "name": "Team Rocket's Slowking ex Sylveon ex",
+  "share": 0.2526632067741055,
+  "w": 55,
+  "l": 1,
+  "d": 92,
+  "n": 148,
+  "awr": 38.72832369942196
+ },
+ {
+  "name": "Indeedee ex Giratina ex",
+  "share": 0.24583447145588638,
+  "w": 97,
+  "l": 17,
+  "d": 75,
+  "n": 189,
+  "awr": 50.93457943925234
+ },
+ {
+  "name": "Mega Lucario ex Greninja",
+  "share": 0.24583447145588638,
+  "w": 98,
+  "l": 10,
+  "d": 83,
+  "n": 191,
+  "awr": 50.92592592592593
+ },
+ {
+  "name": "Team Rocket's Weezing ex Team Rocket's Magmar",
+  "share": 0.24583447145588638,
+  "w": 64,
+  "l": 0,
+  "d": 108,
+  "n": 172,
+  "awr": 38.578680203045685
+ },
+ {
+  "name": "Hydreigon Mega Sableye ex",
+  "share": 0.23900573613766732,
+  "w": 105,
+  "l": 9,
+  "d": 91,
+  "n": 205,
+  "awr": 50.8695652173913
+ },
+ {
+  "name": "Rotom ex Oricorio",
+  "share": 0.23900573613766732,
+  "w": 80,
+  "l": 9,
+  "d": 87,
+  "n": 176,
+  "awr": 45.77114427860697
+ },
+ {
+  "name": "Zoroark ex Team Rocket's Weezing ex",
+  "share": 0.23217700081944823,
+  "w": 82,
+  "l": 4,
+  "d": 91,
+  "n": 177,
+  "awr": 46.53465346534654
+ },
+ {
+  "name": "Mega Altaria ex Gourgeist",
+  "share": 0.22534826550122916,
+  "w": 72,
+  "l": 4,
+  "d": 88,
+  "n": 164,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Lucario ex Hitmonchan ex",
+  "share": 0.2185195301830101,
+  "w": 64,
+  "l": 4,
+  "d": 77,
+  "n": 145,
+  "awr": 44.70588235294118
+ },
+ {
+  "name": "Mega Blastoise ex Eiscue",
+  "share": 0.1980333242283529,
+  "w": 66,
+  "l": 5,
+  "d": 81,
+  "n": 152,
+  "awr": 44.06779661016949
+ },
+ {
+  "name": "Mega Blaziken ex Teal Mask Ogerpon ex",
+  "share": 0.19120458891013384,
+  "w": 79,
+  "l": 7,
+  "d": 64,
+  "n": 150,
+  "awr": 52.0
+ },
+ {
+  "name": "Mega Sceptile ex Sceptile",
+  "share": 0.19120458891013384,
+  "w": 57,
+  "l": 2,
+  "d": 74,
+  "n": 133,
+  "awr": 43.67088607594937
+ },
+ {
+  "name": "Garchomp Greninja",
+  "share": 0.18437585359191477,
+  "w": 63,
+  "l": 4,
+  "d": 75,
+  "n": 142,
+  "awr": 44.91017964071856
+ },
+ {
+  "name": "Garchomp Goomy",
+  "share": 0.18437585359191477,
+  "w": 42,
+  "l": 3,
+  "d": 68,
+  "n": 113,
+  "awr": 39.130434782608695
+ },
+ {
+  "name": "Beautifly Dustox",
+  "share": 0.1775471182736957,
+  "w": 77,
+  "l": 2,
+  "d": 66,
+  "n": 145,
+  "awr": 52.352941176470594
+ },
+ {
+  "name": "Giratina ex Darkrai ex",
+  "share": 0.1775471182736957,
+  "w": 54,
+  "l": 5,
+  "d": 57,
+  "n": 116,
+  "awr": 46.808510638297875
+ },
+ {
+  "name": "Mega Garchomp ex Dragonair",
+  "share": 0.1775471182736957,
+  "w": 55,
+  "l": 2,
+  "d": 71,
+  "n": 128,
+  "awr": 43.790849673202615
+ },
+ {
+  "name": "Mega Lucario ex",
+  "share": 0.17071838295547664,
+  "w": 74,
+  "l": 3,
+  "d": 70,
+  "n": 147,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Sceptile ex Teal Mask Ogerpon ex",
+  "share": 0.17071838295547664,
+  "w": 56,
+  "l": 2,
+  "d": 62,
+  "n": 120,
+  "awr": 46.89655172413793
+ },
+ {
+  "name": "Mega Kangaskhan ex Happiny",
+  "share": 0.17071838295547664,
+  "w": 56,
+  "l": 6,
+  "d": 61,
+  "n": 123,
+  "awr": 45.94594594594595
+ },
+ {
+  "name": "Mega Lucario ex Igglybuff",
+  "share": 0.17071838295547664,
+  "w": 45,
+  "l": 6,
+  "d": 59,
+  "n": 110,
+  "awr": 42.22222222222222
+ },
+ {
+  "name": "Garchomp Meowth",
+  "share": 0.16388964763725758,
+  "w": 47,
+  "l": 2,
+  "d": 60,
+  "n": 109,
+  "awr": 44.02985074626866
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Lucario ex",
+  "share": 0.15706091231903851,
+  "w": 51,
+  "l": 7,
+  "d": 60,
+  "n": 118,
+  "awr": 44.05594405594406
+ },
+ {
+  "name": "Rotom ex",
+  "share": 0.15706091231903851,
+  "w": 37,
+  "l": 3,
+  "d": 54,
+  "n": 94,
+  "awr": 41.17647058823529
+ },
+ {
+  "name": "Team Rocket's Raticate ex Jolteon ex",
+  "share": 0.15706091231903851,
+  "w": 29,
+  "l": 0,
+  "d": 67,
+  "n": 96,
+  "awr": 33.88429752066116
+ },
+ {
+  "name": "Hoopa ex Team Rocket's Weezing ex",
+  "share": 0.15023217700081945,
+  "w": 60,
+  "l": 1,
+  "d": 56,
+  "n": 117,
+  "awr": 50.70422535211267
+ },
+ {
+  "name": "Espeon ex Giratina ex",
+  "share": 0.15023217700081945,
+  "w": 54,
+  "l": 2,
+  "d": 55,
+  "n": 111,
+  "awr": 48.529411764705884
+ },
+ {
+  "name": "Mega Charizard X ex Team Rocket's Moltres ex",
+  "share": 0.14340344168260039,
+  "w": 35,
+  "l": 0,
+  "d": 58,
+  "n": 93,
+  "awr": 39.83050847457627
+ },
+ {
+  "name": "Mega Charizard Y ex Charizard ex",
+  "share": 0.13657470636438132,
+  "w": 31,
+  "l": 5,
+  "d": 54,
+  "n": 90,
+  "awr": 37.391304347826086
+ },
+ {
+  "name": "Team Rocket's Raticate ex Team Rocket's Weezing ex",
+  "share": 0.13657470636438132,
+  "w": 21,
+  "l": 0,
+  "d": 56,
+  "n": 77,
+  "awr": 32.35294117647059
+ },
+ {
+  "name": "Greninja Oricorio",
+  "share": 0.12974597104616223,
+  "w": 54,
+  "l": 3,
+  "d": 46,
+  "n": 103,
+  "awr": 51.5625
+ },
+ {
+  "name": "Flareon ex Flareon",
+  "share": 0.12974597104616223,
+  "w": 53,
+  "l": 3,
+  "d": 52,
+  "n": 108,
+  "awr": 48.87218045112782
+ },
+ {
+  "name": "Entei ex",
+  "share": 0.12291723572794319,
+  "w": 53,
+  "l": 1,
+  "d": 49,
+  "n": 103,
+  "awr": 50.78125
+ },
+ {
+  "name": "Mega Sharpedo ex Milotic ex",
+  "share": 0.12291723572794319,
+  "w": 47,
+  "l": 0,
+  "d": 51,
+  "n": 98,
+  "awr": 47.96747967479675
+ },
+ {
+  "name": "Mega Blaziken ex Entei ex",
+  "share": 0.12291723572794319,
+  "w": 31,
+  "l": 2,
+  "d": 56,
+  "n": 89,
+  "awr": 37.719298245614034
+ },
+ {
+  "name": "Suicune ex Greninja ex",
+  "share": 0.12291723572794319,
+  "w": 20,
+  "l": 1,
+  "d": 39,
+  "n": 60,
+  "awr": 37.64705882352941
+ },
+ {
+  "name": "Hydreigon Absol",
+  "share": 0.11608850040972411,
+  "w": 43,
+  "l": 2,
+  "d": 42,
+  "n": 87,
+  "awr": 49.107142857142854
+ },
+ {
+  "name": "Koraidon ex Great Tusk",
+  "share": 0.11608850040972411,
+  "w": 35,
+  "l": 2,
+  "d": 45,
+  "n": 82,
+  "awr": 43.925233644859816
+ },
+ {
+  "name": "Mega Diancie ex Flutter Mane ex",
+  "share": 0.10925976509150505,
+  "w": 50,
+  "l": 6,
+  "d": 36,
+  "n": 92,
+  "awr": 52.991452991452995
+ },
+ {
+  "name": "Magcargo",
+  "share": 0.10925976509150505,
+  "w": 30,
+  "l": 1,
+  "d": 39,
+  "n": 70,
+  "awr": 44.21052631578947
+ },
+ {
+  "name": "Mega Steelix ex Indeedee ex",
+  "share": 0.10925976509150505,
+  "w": 29,
+  "l": 1,
+  "d": 42,
+  "n": 72,
+  "awr": 42.2680412371134
+ },
+ {
+  "name": "Heliolisk Team Rocket's Zapdos ex",
+  "share": 0.10925976509150505,
+  "w": 27,
+  "l": 3,
+  "d": 42,
+  "n": 72,
+  "awr": 40.20618556701031
+ },
+ {
+  "name": "Garchomp Mantyke",
+  "share": 0.10925976509150505,
+  "w": 20,
+  "l": 1,
+  "d": 38,
+  "n": 59,
+  "awr": 38.095238095238095
+ },
+ {
+  "name": "Garchomp Happiny",
+  "share": 0.102431029773286,
+  "w": 36,
+  "l": 1,
+  "d": 41,
+  "n": 78,
+  "awr": 46.601941747572816
+ },
+ {
+  "name": "Zoroark ex Mega Sableye ex",
+  "share": 0.102431029773286,
+  "w": 31,
+  "l": 2,
+  "d": 43,
+  "n": 76,
+  "awr": 42.57425742574257
+ },
+ {
+  "name": "Team Rocket's Raticate ex Terapagos ex",
+  "share": 0.102431029773286,
+  "w": 25,
+  "l": 2,
+  "d": 36,
+  "n": 63,
+  "awr": 42.04545454545455
+ },
+ {
+  "name": "Flutter Mane ex",
+  "share": 0.09560229445506692,
+  "w": 35,
+  "l": 2,
+  "d": 38,
+  "n": 75,
+  "awr": 47.0
+ },
+ {
+  "name": "Growlithe Lillipup",
+  "share": 0.09560229445506692,
+  "w": 31,
+  "l": 4,
+  "d": 37,
+  "n": 72,
+  "awr": 44.329896907216494
+ },
+ {
+  "name": "Ho-Oh ex Charmeleon",
+  "share": 0.09560229445506692,
+  "w": 31,
+  "l": 0,
+  "d": 43,
+  "n": 74,
+  "awr": 43.43434343434344
+ },
+ {
+  "name": "Serperior Mega Heracross ex",
+  "share": 0.09560229445506692,
+  "w": 24,
+  "l": 1,
+  "d": 37,
+  "n": 62,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Team Rocket's Articuno ex",
+  "share": 0.09560229445506692,
+  "w": 15,
+  "l": 0,
+  "d": 32,
+  "n": 47,
+  "awr": 37.5
+ },
+ {
+  "name": "Decidueye ex Team Rocket's Electrode",
+  "share": 0.09560229445506692,
+  "w": 15,
+  "l": 0,
+  "d": 39,
+  "n": 54,
+  "awr": 34.177215189873415
+ },
+ {
+  "name": "Mega Sharpedo ex Team Rocket's Articuno ex",
+  "share": 0.08877355913684785,
+  "w": 27,
+  "l": 0,
+  "d": 30,
+  "n": 57,
+  "awr": 47.5609756097561
+ },
+ {
+  "name": "Mega Garchomp ex Garchomp",
+  "share": 0.08194482381862879,
+  "w": 28,
+  "l": 3,
+  "d": 29,
+  "n": 60,
+  "awr": 47.05882352941176
+ },
+ {
+  "name": "Umbreon ex Greninja",
+  "share": 0.08194482381862879,
+  "w": 23,
+  "l": 1,
+  "d": 34,
+  "n": 58,
+  "awr": 42.168674698795186
+ },
+ {
+  "name": "Dragonair Altaria",
+  "share": 0.08194482381862879,
+  "w": 18,
+  "l": 0,
+  "d": 28,
+  "n": 46,
+  "awr": 42.25352112676056
+ },
+ {
+  "name": "Greninja Decidueye ex",
+  "share": 0.07511608850040973,
+  "w": 26,
+  "l": 0,
+  "d": 27,
+  "n": 53,
+  "awr": 48.717948717948715
+ },
+ {
+  "name": "Mega Gardevoir ex Gardevoir",
+  "share": 0.07511608850040973,
+  "w": 26,
+  "l": 3,
+  "d": 24,
+  "n": 53,
+  "awr": 48.717948717948715
+ },
+ {
+  "name": "Indeedee ex Stoutland",
+  "share": 0.07511608850040973,
+  "w": 26,
+  "l": 0,
+  "d": 32,
+  "n": 58,
+  "awr": 45.78313253012048
+ },
+ {
+  "name": "Gourgeist Houndstone",
+  "share": 0.07511608850040973,
+  "w": 20,
+  "l": 2,
+  "d": 28,
+  "n": 50,
+  "awr": 42.66666666666667
+ },
+ {
+  "name": "Greninja ex Samurott",
+  "share": 0.07511608850040973,
+  "w": 17,
+  "l": 1,
+  "d": 26,
+  "n": 44,
+  "awr": 42.028985507246375
+ },
+ {
+  "name": "Garchomp Munchlax",
+  "share": 0.07511608850040973,
+  "w": 16,
+  "l": 1,
+  "d": 26,
+  "n": 43,
+  "awr": 41.17647058823529
+ },
+ {
+  "name": "Mega Sceptile ex Butterfree",
+  "share": 0.07511608850040973,
+  "w": 16,
+  "l": 0,
+  "d": 33,
+  "n": 49,
+  "awr": 37.83783783783784
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Kangaskhan ex",
+  "share": 0.07511608850040973,
+  "w": 6,
+  "l": 0,
+  "d": 28,
+  "n": 34,
+  "awr": 30.508474576271187
+ },
+ {
+  "name": "Indeedee ex Oricorio",
+  "share": 0.06828735318219066,
+  "w": 22,
+  "l": 4,
+  "d": 20,
+  "n": 46,
+  "awr": 47.88732394366197
+ },
+ {
+  "name": "Mega Kangaskhan ex Teal Mask Ogerpon ex",
+  "share": 0.06828735318219066,
+  "w": 23,
+  "l": 1,
+  "d": 26,
+  "n": 50,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Team Rocket's Raticate ex Hoopa ex",
+  "share": 0.06828735318219066,
+  "w": 19,
+  "l": 1,
+  "d": 28,
+  "n": 48,
+  "awr": 42.465753424657535
+ },
+ {
+  "name": "Garchomp Goomy",
+  "share": 0.06828735318219066,
+  "w": 17,
+  "l": 1,
+  "d": 29,
+  "n": 47,
+  "awr": 40.27777777777778
+ },
+ {
+  "name": "Mega Sharpedo ex Mega Gyarados ex",
+  "share": 0.06828735318219066,
+  "w": 14,
+  "l": 0,
+  "d": 25,
+  "n": 39,
+  "awr": 40.625
+ },
+ {
+  "name": "Hisuian Zoroark ex Team Rocket's Electrode",
+  "share": 0.06828735318219066,
+  "w": 14,
+  "l": 1,
+  "d": 27,
+  "n": 42,
+  "awr": 38.80597014925373
+ },
+ {
+  "name": "Beedrill ex Team Rocket's Raticate ex",
+  "share": 0.06828735318219066,
+  "w": 11,
+  "l": 0,
+  "d": 34,
+  "n": 45,
+  "awr": 32.857142857142854
+ },
+ {
+  "name": "Indeedee ex Dedenne ex",
+  "share": 0.061458617863971596,
+  "w": 30,
+  "l": 1,
+  "d": 23,
+  "n": 54,
+  "awr": 53.16455696202531
+ },
+ {
+  "name": "Luxray Sylveon",
+  "share": 0.061458617863971596,
+  "w": 30,
+  "l": 0,
+  "d": 26,
+  "n": 56,
+  "awr": 51.85185185185185
+ },
+ {
+  "name": "Mega Sableye ex Mega Absol ex",
+  "share": 0.061458617863971596,
+  "w": 29,
+  "l": 1,
+  "d": 29,
+  "n": 59,
+  "awr": 48.80952380952381
+ },
+ {
+  "name": "Hisuian Goodra",
+  "share": 0.061458617863971596,
+  "w": 23,
+  "l": 3,
+  "d": 22,
+  "n": 48,
+  "awr": 47.94520547945205
+ },
+ {
+  "name": "Team Rocket's Electrode Pawmot",
+  "share": 0.061458617863971596,
+  "w": 22,
+  "l": 0,
+  "d": 26,
+  "n": 48,
+  "awr": 46.57534246575342
+ },
+ {
+  "name": "Mega Sceptile ex",
+  "share": 0.061458617863971596,
+  "w": 20,
+  "l": 2,
+  "d": 24,
+  "n": 46,
+  "awr": 45.07042253521127
+ },
+ {
+  "name": "Mega Pidgeot ex Pidgeot",
+  "share": 0.061458617863971596,
+  "w": 17,
+  "l": 2,
+  "d": 22,
+  "n": 41,
+  "awr": 43.93939393939394
+ },
+ {
+  "name": "Vespiquen ex Teal Mask Ogerpon ex",
+  "share": 0.061458617863971596,
+  "w": 14,
+  "l": 2,
+  "d": 19,
+  "n": 35,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Mega Ampharos ex Greninja",
+  "share": 0.061458617863971596,
+  "w": 16,
+  "l": 0,
+  "d": 24,
+  "n": 40,
+  "awr": 43.07692307692308
+ },
+ {
+  "name": "Mega Gardevoir ex Mewtwo ex",
+  "share": 0.061458617863971596,
+  "w": 12,
+  "l": 0,
+  "d": 22,
+  "n": 34,
+  "awr": 40.67796610169492
+ },
+ {
+  "name": "Team Rocket's Raticate ex Dragonite",
+  "share": 0.061458617863971596,
+  "w": 14,
+  "l": 1,
+  "d": 25,
+  "n": 40,
+  "awr": 40.0
+ },
+ {
+  "name": "Flygon ex Sylveon ex",
+  "share": 0.061458617863971596,
+  "w": 14,
+  "l": 0,
+  "d": 28,
+  "n": 42,
+  "awr": 38.80597014925373
+ },
+ {
+  "name": "Magnezone Heliolisk",
+  "share": 0.054629882545752524,
+  "w": 19,
+  "l": 1,
+  "d": 16,
+  "n": 36,
+  "awr": 50.81967213114754
+ },
+ {
+  "name": "Decidueye ex Decidueye",
+  "share": 0.054629882545752524,
+  "w": 27,
+  "l": 2,
+  "d": 23,
+  "n": 52,
+  "awr": 50.649350649350644
+ },
+ {
+  "name": "Hoopa ex Hydreigon",
+  "share": 0.054629882545752524,
+  "w": 22,
+  "l": 3,
+  "d": 20,
+  "n": 45,
+  "awr": 48.57142857142857
+ },
+ {
+  "name": "Jolteon ex Mega Manectric ex",
+  "share": 0.054629882545752524,
+  "w": 13,
+  "l": 1,
+  "d": 14,
+  "n": 28,
+  "awr": 47.16981132075472
+ },
+ {
+  "name": "Dustox Mega Absol ex",
+  "share": 0.054629882545752524,
+  "w": 17,
+  "l": 2,
+  "d": 19,
+  "n": 38,
+  "awr": 46.03174603174603
+ },
+ {
+  "name": "Mega Ampharos ex Team Rocket's Electrode",
+  "share": 0.054629882545752524,
+  "w": 16,
+  "l": 1,
+  "d": 19,
+  "n": 36,
+  "awr": 45.90163934426229
+ },
+ {
+  "name": "Mega Lucario ex Lucario",
+  "share": 0.054629882545752524,
+  "w": 15,
+  "l": 0,
+  "d": 20,
+  "n": 35,
+  "awr": 45.0
+ },
+ {
+  "name": "Dragonite ex",
+  "share": 0.054629882545752524,
+  "w": 15,
+  "l": 0,
+  "d": 21,
+  "n": 36,
+  "awr": 44.26229508196721
+ },
+ {
+  "name": "Team Rocket's Raticate ex Indeedee ex",
+  "share": 0.054629882545752524,
+  "w": 12,
+  "l": 0,
+  "d": 22,
+  "n": 34,
+  "awr": 40.67796610169492
+ },
+ {
+  "name": "Mega Absol ex Darkrai ex",
+  "share": 0.054629882545752524,
+  "w": 12,
+  "l": 1,
+  "d": 21,
+  "n": 34,
+  "awr": 40.67796610169492
+ },
+ {
+  "name": "Team Rocket's Electrode Luxray",
+  "share": 0.054629882545752524,
+  "w": 11,
+  "l": 1,
+  "d": 21,
+  "n": 33,
+  "awr": 39.6551724137931
+ },
+ {
+  "name": "Mega Kangaskhan ex Pichu",
+  "share": 0.054629882545752524,
+  "w": 7,
+  "l": 0,
+  "d": 19,
+  "n": 26,
+  "awr": 37.254901960784316
+ },
+ {
+  "name": "Alolan Ninetales ex Wugtrio ex",
+  "share": 0.054629882545752524,
+  "w": 8,
+  "l": 0,
+  "d": 28,
+  "n": 36,
+  "awr": 32.78688524590164
+ },
+ {
+  "name": "Mega Diancie ex Mimikyu ex",
+  "share": 0.04780114722753346,
+  "w": 24,
+  "l": 2,
+  "d": 16,
+  "n": 42,
+  "awr": 53.73134328358209
+ },
+ {
+  "name": "Milotic ex Igglybuff",
+  "share": 0.04780114722753346,
+  "w": 22,
+  "l": 2,
+  "d": 16,
+  "n": 40,
+  "awr": 52.307692307692314
+ },
+ {
+  "name": "Mega Garchomp ex Garchomp",
+  "share": 0.04780114722753346,
+  "w": 22,
+  "l": 2,
+  "d": 16,
+  "n": 40,
+  "awr": 52.307692307692314
+ },
+ {
+  "name": "Garchomp ex Rampardos",
+  "share": 0.04780114722753346,
+  "w": 20,
+  "l": 1,
+  "d": 16,
+  "n": 37,
+  "awr": 51.61290322580645
+ },
+ {
+  "name": "Mega Lucario ex Team Rocket's Raticate ex",
+  "share": 0.04780114722753346,
+  "w": 20,
+  "l": 0,
+  "d": 18,
+  "n": 38,
+  "awr": 50.79365079365079
+ },
+ {
+  "name": "Mega Altaria ex Oricorio",
+  "share": 0.04780114722753346,
+  "w": 23,
+  "l": 2,
+  "d": 22,
+  "n": 47,
+  "awr": 48.61111111111111
+ },
+ {
+  "name": "Mega Blaziken ex Skeledirge",
+  "share": 0.04780114722753346,
+  "w": 19,
+  "l": 0,
+  "d": 21,
+  "n": 40,
+  "awr": 47.69230769230769
+ },
+ {
+  "name": "Milotic ex Chien-Pao ex",
+  "share": 0.04780114722753346,
+  "w": 15,
+  "l": 1,
+  "d": 16,
+  "n": 32,
+  "awr": 47.368421052631575
+ },
+ {
+  "name": "Team Rocket's Slowking ex Indeedee ex",
+  "share": 0.04780114722753346,
+  "w": 18,
+  "l": 1,
+  "d": 21,
+  "n": 40,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Gallade ex Gallade",
+  "share": 0.04780114722753346,
+  "w": 16,
+  "l": 0,
+  "d": 20,
+  "n": 36,
+  "awr": 45.90163934426229
+ },
+ {
+  "name": "Greninja Dragonite ex",
+  "share": 0.04780114722753346,
+  "w": 14,
+  "l": 2,
+  "d": 16,
+  "n": 32,
+  "awr": 45.614035087719294
+ },
+ {
+  "name": "Garchomp ex Mega Lucario ex",
+  "share": 0.04780114722753346,
+  "w": 14,
+  "l": 1,
+  "d": 18,
+  "n": 33,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Rotom ex Zeraora",
+  "share": 0.04780114722753346,
+  "w": 14,
+  "l": 1,
+  "d": 18,
+  "n": 33,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Milotic ex Vaporeon ex",
+  "share": 0.04780114722753346,
+  "w": 14,
+  "l": 0,
+  "d": 20,
+  "n": 34,
+  "awr": 44.06779661016949
+ },
+ {
+  "name": "Koraidon ex Furfrou",
+  "share": 0.04780114722753346,
+  "w": 15,
+  "l": 0,
+  "d": 22,
+  "n": 37,
+  "awr": 43.54838709677419
+ },
+ {
+  "name": "Garchomp Greninja",
+  "share": 0.04780114722753346,
+  "w": 12,
+  "l": 0,
+  "d": 18,
+  "n": 30,
+  "awr": 43.63636363636363
+ },
+ {
+  "name": "Leafeon ex Indeedee ex",
+  "share": 0.04780114722753346,
+  "w": 7,
+  "l": 0,
+  "d": 13,
+  "n": 20,
+  "awr": 42.22222222222222
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Manectric ex",
+  "share": 0.04780114722753346,
+  "w": 10,
+  "l": 1,
+  "d": 18,
+  "n": 29,
+  "awr": 40.74074074074074
+ },
+ {
+  "name": "Vaporeon ex Greninja ex",
+  "share": 0.04780114722753346,
+  "w": 12,
+  "l": 2,
+  "d": 22,
+  "n": 36,
+  "awr": 39.34426229508197
+ },
+ {
+  "name": "Team Rocket's Electrode Team Rocket's Zapdos ex",
+  "share": 0.04780114722753346,
+  "w": 10,
+  "l": 1,
+  "d": 20,
+  "n": 31,
+  "awr": 39.285714285714285
+ },
+ {
+  "name": "Mega Houndoom ex Castform Sunny Form",
+  "share": 0.04780114722753346,
+  "w": 8,
+  "l": 0,
+  "d": 17,
+  "n": 25,
+  "awr": 40.0
+ },
+ {
+  "name": "Mega Altaria ex Indeedee ex",
+  "share": 0.04780114722753346,
+  "w": 5,
+  "l": 0,
+  "d": 18,
+  "n": 23,
+  "awr": 35.41666666666667
+ },
+ {
+  "name": "Wailord ex Indeedee ex",
+  "share": 0.04780114722753346,
+  "w": 4,
+  "l": 0,
+  "d": 15,
+  "n": 19,
+  "awr": 36.36363636363637
+ },
+ {
+  "name": "Mega Rayquaza ex Dragonair",
+  "share": 0.04780114722753346,
+  "w": 4,
+  "l": 0,
+  "d": 18,
+  "n": 22,
+  "awr": 34.04255319148936
+ },
+ {
+  "name": "Giratina ex Indeedee ex",
+  "share": 0.040972411909314395,
+  "w": 20,
+  "l": 1,
+  "d": 12,
+  "n": 33,
+  "awr": 55.172413793103445
+ },
+ {
+  "name": "Mega Lopunny ex",
+  "share": 0.040972411909314395,
+  "w": 15,
+  "l": 0,
+  "d": 12,
+  "n": 27,
+  "awr": 51.92307692307693
+ },
+ {
+  "name": "Milotic ex Mega Sharpedo ex",
+  "share": 0.040972411909314395,
+  "w": 19,
+  "l": 0,
+  "d": 16,
+  "n": 35,
+  "awr": 51.66666666666667
+ },
+ {
+  "name": "Mega Gardevoir ex Gardevoir",
+  "share": 0.040972411909314395,
+  "w": 17,
+  "l": 0,
+  "d": 16,
+  "n": 33,
+  "awr": 50.0
+ },
+ {
+  "name": "Mimikyu ex Mega Diancie ex",
+  "share": 0.040972411909314395,
+  "w": 11,
+  "l": 1,
+  "d": 12,
+  "n": 24,
+  "awr": 46.93877551020408
+ },
+ {
+  "name": "Mega Swampert ex Greninja",
+  "share": 0.040972411909314395,
+  "w": 15,
+  "l": 3,
+  "d": 16,
+  "n": 34,
+  "awr": 45.76271186440678
+ },
+ {
+  "name": "Garchomp ex Garchomp",
+  "share": 0.040972411909314395,
+  "w": 10,
+  "l": 0,
+  "d": 14,
+  "n": 24,
+  "awr": 44.89795918367347
+ },
+ {
+  "name": "Mega Slowbro ex Mantyke",
+  "share": 0.040972411909314395,
+  "w": 13,
+  "l": 0,
+  "d": 19,
+  "n": 32,
+  "awr": 43.859649122807014
+ },
+ {
+  "name": "Magnezone ex Miraidon ex",
+  "share": 0.040972411909314395,
+  "w": 10,
+  "l": 0,
+  "d": 17,
+  "n": 27,
+  "awr": 42.30769230769231
+ },
+ {
+  "name": "Team Rocket's Raticate ex Guzzlord ex",
+  "share": 0.040972411909314395,
+  "w": 11,
+  "l": 0,
+  "d": 19,
+  "n": 30,
+  "awr": 41.81818181818181
+ },
+ {
+  "name": "Buzzwole ex Pheromosa",
+  "share": 0.040972411909314395,
+  "w": 9,
+  "l": 1,
+  "d": 15,
+  "n": 25,
+  "awr": 42.0
+ },
+ {
+  "name": "Mega Medicham ex",
+  "share": 0.040972411909314395,
+  "w": 10,
+  "l": 2,
+  "d": 17,
+  "n": 29,
+  "awr": 40.74074074074074
+ },
+ {
+  "name": "Mega Lucario ex Excadrill",
+  "share": 0.040972411909314395,
+  "w": 8,
+  "l": 1,
+  "d": 15,
+  "n": 24,
+  "awr": 40.816326530612244
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Altaria ex",
+  "share": 0.040972411909314395,
+  "w": 8,
+  "l": 0,
+  "d": 18,
+  "n": 26,
+  "awr": 39.21568627450981
+ },
+ {
+  "name": "Dragonite ex Dragonite",
+  "share": 0.040972411909314395,
+  "w": 7,
+  "l": 0,
+  "d": 16,
+  "n": 23,
+  "awr": 39.58333333333333
+ },
+ {
+  "name": "Dragonair Haxorus",
+  "share": 0.040972411909314395,
+  "w": 6,
+  "l": 0,
+  "d": 15,
+  "n": 21,
+  "awr": 39.130434782608695
+ },
+ {
+  "name": "Mega Rayquaza ex Igglybuff",
+  "share": 0.03414367659109533,
+  "w": 13,
+  "l": 0,
+  "d": 12,
+  "n": 25,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Sableye ex Darkrai ex",
+  "share": 0.03414367659109533,
+  "w": 16,
+  "l": 1,
+  "d": 14,
+  "n": 31,
+  "awr": 50.0
+ },
+ {
+  "name": "Magnezone Heliolisk",
+  "share": 0.03414367659109533,
+  "w": 11,
+  "l": 0,
+  "d": 11,
+  "n": 22,
+  "awr": 48.93617021276596
+ },
+ {
+  "name": "Hisuian Goodra Mantyke",
+  "share": 0.03414367659109533,
+  "w": 13,
+  "l": 1,
+  "d": 12,
+  "n": 26,
+  "awr": 49.01960784313725
+ },
+ {
+  "name": "Crobat Mega Sableye ex",
+  "share": 0.03414367659109533,
+  "w": 13,
+  "l": 1,
+  "d": 12,
+  "n": 26,
+  "awr": 49.01960784313725
+ },
+ {
+  "name": "Glimmora Kingambit",
+  "share": 0.03414367659109533,
+  "w": 13,
+  "l": 4,
+  "d": 10,
+  "n": 27,
+  "awr": 48.07692307692308
+ },
+ {
+  "name": "Magnezone Mega Lucario ex",
+  "share": 0.03414367659109533,
+  "w": 12,
+  "l": 1,
+  "d": 12,
+  "n": 25,
+  "awr": 48.0
+ },
+ {
+  "name": "Mega Sceptile ex Lurantis",
+  "share": 0.03414367659109533,
+  "w": 9,
+  "l": 0,
+  "d": 10,
+  "n": 19,
+  "awr": 47.72727272727273
+ },
+ {
+  "name": "Glimmora Mega Absol ex",
+  "share": 0.03414367659109533,
+  "w": 16,
+  "l": 0,
+  "d": 18,
+  "n": 34,
+  "awr": 47.45762711864407
+ },
+ {
+  "name": "Buzzwole ex Celesteela",
+  "share": 0.03414367659109533,
+  "w": 13,
+  "l": 2,
+  "d": 13,
+  "n": 28,
+  "awr": 47.16981132075472
+ },
+ {
+  "name": "Arceus ex Crobat",
+  "share": 0.03414367659109533,
+  "w": 13,
+  "l": 0,
+  "d": 16,
+  "n": 29,
+  "awr": 46.2962962962963
+ },
+ {
+  "name": "Mega Kangaskhan ex Zeraora",
+  "share": 0.03414367659109533,
+  "w": 10,
+  "l": 2,
+  "d": 12,
+  "n": 24,
+  "awr": 44.89795918367347
+ },
+ {
+  "name": "Team Rocket's Raticate ex Porygon-Z",
+  "share": 0.03414367659109533,
+  "w": 12,
+  "l": 0,
+  "d": 17,
+  "n": 29,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Weezing ex Darkrai ex",
+  "share": 0.03414367659109533,
+  "w": 7,
+  "l": 0,
+  "d": 10,
+  "n": 17,
+  "awr": 45.23809523809524
+ },
+ {
+  "name": "Suicune ex Greninja",
+  "share": 0.03414367659109533,
+  "w": 10,
+  "l": 0,
+  "d": 15,
+  "n": 25,
+  "awr": 44.0
+ },
+ {
+  "name": "Garchomp",
+  "share": 0.03414367659109533,
+  "w": 9,
+  "l": 1,
+  "d": 13,
+  "n": 23,
+  "awr": 43.75
+ },
+ {
+  "name": "Serperior Teal Mask Ogerpon ex",
+  "share": 0.03414367659109533,
+  "w": 9,
+  "l": 0,
+  "d": 14,
+  "n": 23,
+  "awr": 43.75
+ },
+ {
+  "name": "Mimikyu ex Greninja",
+  "share": 0.03414367659109533,
+  "w": 8,
+  "l": 2,
+  "d": 12,
+  "n": 22,
+  "awr": 42.5531914893617
+ },
+ {
+  "name": "Mega Lucario ex Lucario ex",
+  "share": 0.03414367659109533,
+  "w": 8,
+  "l": 0,
+  "d": 14,
+  "n": 22,
+  "awr": 42.5531914893617
+ },
+ {
+  "name": "Mega Blaziken ex Blaziken",
+  "share": 0.03414367659109533,
+  "w": 7,
+  "l": 0,
+  "d": 14,
+  "n": 21,
+  "awr": 41.30434782608695
+ },
+ {
+  "name": "Greninja Team Rocket's Zapdos ex",
+  "share": 0.03414367659109533,
+  "w": 8,
+  "l": 0,
+  "d": 17,
+  "n": 25,
+  "awr": 40.0
+ },
+ {
+  "name": "Incineroar ex Skeledirge",
+  "share": 0.03414367659109533,
+  "w": 5,
+  "l": 0,
+  "d": 12,
+  "n": 17,
+  "awr": 40.476190476190474
+ },
+ {
+  "name": "Dragonite ex Walking Wake",
+  "share": 0.03414367659109533,
+  "w": 6,
+  "l": 0,
+  "d": 16,
+  "n": 22,
+  "awr": 38.297872340425535
+ },
+ {
+  "name": "Milotic ex Swanna ex",
+  "share": 0.03414367659109533,
+  "w": 5,
+  "l": 0,
+  "d": 15,
+  "n": 20,
+  "awr": 37.77777777777778
+ },
+ {
+  "name": "Haxorus Dragonair",
+  "share": 0.03414367659109533,
+  "w": 3,
+  "l": 0,
+  "d": 12,
+  "n": 15,
+  "awr": 37.5
+ },
+ {
+  "name": "Espeon ex Sylveon ex",
+  "share": 0.027314941272876262,
+  "w": 13,
+  "l": 0,
+  "d": 10,
+  "n": 23,
+  "awr": 52.083333333333336
+ },
+ {
+  "name": "Meowscarada ex Teal Mask Ogerpon ex",
+  "share": 0.027314941272876262,
+  "w": 12,
+  "l": 0,
+  "d": 10,
+  "n": 22,
+  "awr": 51.06382978723404
+ },
+ {
+  "name": "Garchomp Cleffa",
+  "share": 0.027314941272876262,
+  "w": 14,
+  "l": 0,
+  "d": 12,
+  "n": 26,
+  "awr": 50.98039215686274
+ },
+ {
+  "name": "Magnezone Team Rocket's Electrode",
+  "share": 0.027314941272876262,
+  "w": 14,
+  "l": 0,
+  "d": 12,
+  "n": 26,
+  "awr": 50.98039215686274
+ },
+ {
+  "name": "Togekiss Meowth",
+  "share": 0.027314941272876262,
+  "w": 11,
+  "l": 0,
+  "d": 10,
+  "n": 21,
+  "awr": 50.0
+ },
+ {
+  "name": "Flutter Mane ex Mega Altaria ex",
+  "share": 0.027314941272876262,
+  "w": 11,
+  "l": 0,
+  "d": 11,
+  "n": 22,
+  "awr": 48.93617021276596
+ },
+ {
+  "name": "Toxtricity ex Heliolisk",
+  "share": 0.027314941272876262,
+  "w": 12,
+  "l": 0,
+  "d": 12,
+  "n": 24,
+  "awr": 48.97959183673469
+ },
+ {
+  "name": "Team Rocket's Tinkaton Wynaut",
+  "share": 0.027314941272876262,
+  "w": 8,
+  "l": 2,
+  "d": 6,
+  "n": 16,
+  "awr": 48.78048780487805
+ },
+ {
+  "name": "Mega Altaria ex Team Rocket's Hypno",
+  "share": 0.027314941272876262,
+  "w": 12,
+  "l": 0,
+  "d": 13,
+  "n": 25,
+  "awr": 48.0
+ },
+ {
+  "name": "Serperior Teal Mask Ogerpon ex",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 7,
+  "n": 13,
+  "awr": 47.368421052631575
+ },
+ {
+  "name": "Team Rocket's Weezing ex Hydreigon",
+  "share": 0.027314941272876262,
+  "w": 11,
+  "l": 0,
+  "d": 13,
+  "n": 24,
+  "awr": 46.93877551020408
+ },
+ {
+  "name": "Charizard ex Entei ex",
+  "share": 0.027314941272876262,
+  "w": 8,
+  "l": 0,
+  "d": 10,
+  "n": 18,
+  "awr": 46.51162790697674
+ },
+ {
+  "name": "Team Rocket's Slowking ex Giratina ex",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 8,
+  "n": 14,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Flygon ex Dragonair",
+  "share": 0.027314941272876262,
+  "w": 8,
+  "l": 0,
+  "d": 11,
+  "n": 19,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Blacephalon ex",
+  "share": 0.027314941272876262,
+  "w": 7,
+  "l": 0,
+  "d": 10,
+  "n": 17,
+  "awr": 45.23809523809524
+ },
+ {
+  "name": "Greninja Mega Sableye ex",
+  "share": 0.027314941272876262,
+  "w": 7,
+  "l": 0,
+  "d": 10,
+  "n": 17,
+  "awr": 45.23809523809524
+ },
+ {
+  "name": "Rampardos Snorlax",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 9,
+  "n": 15,
+  "awr": 45.0
+ },
+ {
+  "name": "Mega Blaziken ex Heatmor",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 9,
+  "n": 15,
+  "awr": 45.0
+ },
+ {
+  "name": "Ho-Oh ex Lugia ex",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 9,
+  "n": 15,
+  "awr": 45.0
+ },
+ {
+  "name": "Chandelure",
+  "share": 0.027314941272876262,
+  "w": 8,
+  "l": 0,
+  "d": 12,
+  "n": 20,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Incineroar ex",
+  "share": 0.027314941272876262,
+  "w": 9,
+  "l": 0,
+  "d": 15,
+  "n": 24,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Team Rocket's Raticate ex Team Rocket's Electrode",
+  "share": 0.027314941272876262,
+  "w": 7,
+  "l": 0,
+  "d": 12,
+  "n": 19,
+  "awr": 43.18181818181818
+ },
+ {
+  "name": "Team Rocket's Weezing ex Mega Sableye ex",
+  "share": 0.027314941272876262,
+  "w": 5,
+  "l": 0,
+  "d": 9,
+  "n": 14,
+  "awr": 43.58974358974359
+ },
+ {
+  "name": "Milotic ex Suicune ex",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 11,
+  "n": 17,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Hoopa ex Mega Gengar ex",
+  "share": 0.027314941272876262,
+  "w": 7,
+  "l": 1,
+  "d": 12,
+  "n": 20,
+  "awr": 42.22222222222222
+ },
+ {
+  "name": "Mega Metagross ex Orthworm",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 12,
+  "n": 18,
+  "awr": 41.86046511627907
+ },
+ {
+  "name": "Mega Ampharos ex Ampharos",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 12,
+  "n": 18,
+  "awr": 41.86046511627907
+ },
+ {
+  "name": "Team Rocket's Raticate ex Tyrantrum",
+  "share": 0.027314941272876262,
+  "w": 6,
+  "l": 0,
+  "d": 13,
+  "n": 19,
+  "awr": 40.909090909090914
+ },
+ {
+  "name": "Team Rocket's Articuno ex Gholdengo",
+  "share": 0.027314941272876262,
+  "w": 5,
+  "l": 0,
+  "d": 11,
+  "n": 16,
+  "awr": 41.46341463414634
+ },
+ {
+  "name": "Jolteon ex Jolteon",
+  "share": 0.027314941272876262,
+  "w": 5,
+  "l": 0,
+  "d": 11,
+  "n": 16,
+  "awr": 41.46341463414634
+ },
+ {
+  "name": "Porygon-Z Teal Mask Ogerpon ex",
+  "share": 0.027314941272876262,
+  "w": 5,
+  "l": 0,
+  "d": 11,
+  "n": 16,
+  "awr": 41.46341463414634
+ },
+ {
+  "name": "Wishiwashi ex Indeedee ex",
+  "share": 0.027314941272876262,
+  "w": 4,
+  "l": 2,
+  "d": 7,
+  "n": 13,
+  "awr": 42.10526315789473
+ },
+ {
+  "name": "Team Rocket's Zapdos ex Heliolisk",
+  "share": 0.027314941272876262,
+  "w": 4,
+  "l": 0,
+  "d": 9,
+  "n": 13,
+  "awr": 42.10526315789473
+ },
+ {
+  "name": "Mega Gallade ex",
+  "share": 0.027314941272876262,
+  "w": 4,
+  "l": 0,
+  "d": 12,
+  "n": 16,
+  "awr": 39.02439024390244
+ },
+ {
+  "name": "Serperior",
+  "share": 0.027314941272876262,
+  "w": 3,
+  "l": 1,
+  "d": 8,
+  "n": 12,
+  "awr": 40.54054054054054
+ },
+ {
+  "name": "Team Rocket's Moltres ex Mega Houndoom ex",
+  "share": 0.027314941272876262,
+  "w": 2,
+  "l": 0,
+  "d": 6,
+  "n": 8,
+  "awr": 42.42424242424242
+ },
+ {
+  "name": "Leafeon ex Serperior",
+  "share": 0.027314941272876262,
+  "w": 3,
+  "l": 0,
+  "d": 10,
+  "n": 13,
+  "awr": 39.473684210526315
+ },
+ {
+  "name": "Team Rocket's Raticate ex Crawdaunt",
+  "share": 0.027314941272876262,
+  "w": 2,
+  "l": 0,
+  "d": 8,
+  "n": 10,
+  "awr": 40.0
+ },
+ {
+  "name": "Mega Charizard Y ex Team Rocket's Moltres ex",
+  "share": 0.027314941272876262,
+  "w": 3,
+  "l": 0,
+  "d": 12,
+  "n": 15,
+  "awr": 37.5
+ },
+ {
+  "name": "Luxray Zeraora",
+  "share": 0.027314941272876262,
+  "w": 3,
+  "l": 0,
+  "d": 13,
+  "n": 16,
+  "awr": 36.58536585365854
+ },
+ {
+  "name": "Dragonair Hisuian Goodra",
+  "share": 0.027314941272876262,
+  "w": 2,
+  "l": 0,
+  "d": 11,
+  "n": 13,
+  "awr": 36.84210526315789
+ },
+ {
+  "name": "Hoopa ex Galarian Obstagoon",
+  "share": 0.027314941272876262,
+  "w": 1,
+  "l": 0,
+  "d": 7,
+  "n": 8,
+  "awr": 39.39393939393939
+ },
+ {
+  "name": "Greninja ex Suicune ex",
+  "share": 0.027314941272876262,
+  "w": 1,
+  "l": 1,
+  "d": 9,
+  "n": 11,
+  "awr": 36.11111111111111
+ },
+ {
+  "name": "Skeledirge Castform Sunny Form",
+  "share": 0.020486205954657197,
+  "w": 13,
+  "l": 0,
+  "d": 9,
+  "n": 22,
+  "awr": 53.191489361702125
+ },
+ {
+  "name": "Porygon-Z Rampardos",
+  "share": 0.020486205954657197,
+  "w": 7,
+  "l": 0,
+  "d": 5,
+  "n": 12,
+  "awr": 51.35135135135135
+ },
+ {
+  "name": "Mega Sceptile ex Bonsly",
+  "share": 0.020486205954657197,
+  "w": 10,
+  "l": 0,
+  "d": 8,
+  "n": 18,
+  "awr": 51.162790697674424
+ },
+ {
+  "name": "Flutter Mane ex Greninja",
+  "share": 0.020486205954657197,
+  "w": 10,
+  "l": 0,
+  "d": 8,
+  "n": 18,
+  "awr": 51.162790697674424
+ },
+ {
+  "name": "Melmetal ex Melmetal",
+  "share": 0.020486205954657197,
+  "w": 10,
+  "l": 0,
+  "d": 9,
+  "n": 19,
+  "awr": 50.0
+ },
+ {
+  "name": "Zoroark ex Darkrai ex",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 0,
+  "d": 8,
+  "n": 16,
+  "awr": 48.78048780487805
+ },
+ {
+  "name": "Rotom ex Mime Jr.",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 0,
+  "d": 8,
+  "n": 16,
+  "awr": 48.78048780487805
+ },
+ {
+  "name": "Team Rocket's Weezing ex Paldean Clodsire ex",
+  "share": 0.020486205954657197,
+  "w": 6,
+  "l": 0,
+  "d": 6,
+  "n": 12,
+  "awr": 48.64864864864865
+ },
+ {
+  "name": "Mega Gallade ex Hitmonchan ex",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 0,
+  "d": 8,
+  "n": 16,
+  "awr": 48.78048780487805
+ },
+ {
+  "name": "Mega Sceptile ex Shuckle ex",
+  "share": 0.020486205954657197,
+  "w": 7,
+  "l": 0,
+  "d": 7,
+  "n": 14,
+  "awr": 48.717948717948715
+ },
+ {
+  "name": "Luxray Zeraora",
+  "share": 0.020486205954657197,
+  "w": 6,
+  "l": 0,
+  "d": 6,
+  "n": 12,
+  "awr": 48.64864864864865
+ },
+ {
+  "name": "Ursaluna Teal Mask Ogerpon ex",
+  "share": 0.020486205954657197,
+  "w": 9,
+  "l": 0,
+  "d": 9,
+  "n": 18,
+  "awr": 48.837209302325576
+ },
+ {
+  "name": "Greninja Walking Wake",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 0,
+  "d": 9,
+  "n": 17,
+  "awr": 47.61904761904761
+ },
+ {
+  "name": "Team Rocket's Articuno ex Articuno ex",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 0,
+  "d": 9,
+  "n": 17,
+  "awr": 47.61904761904761
+ },
+ {
+  "name": "Team Rocket's Articuno ex Froslass",
+  "share": 0.020486205954657197,
+  "w": 7,
+  "l": 0,
+  "d": 8,
+  "n": 15,
+  "awr": 47.5
+ },
+ {
+  "name": "Team Rocket's Raticate ex Stoutland",
+  "share": 0.020486205954657197,
+  "w": 7,
+  "l": 0,
+  "d": 8,
+  "n": 15,
+  "awr": 47.5
+ },
+ {
+  "name": "Dragonite",
+  "share": 0.020486205954657197,
+  "w": 6,
+  "l": 0,
+  "d": 7,
+  "n": 13,
+  "awr": 47.368421052631575
+ },
+ {
+  "name": "Mega Sharpedo ex Suicune ex",
+  "share": 0.020486205954657197,
+  "w": 6,
+  "l": 0,
+  "d": 7,
+  "n": 13,
+  "awr": 47.368421052631575
+ },
+ {
+  "name": "Inteleon Pyukumuku",
+  "share": 0.020486205954657197,
+  "w": 5,
+  "l": 1,
+  "d": 5,
+  "n": 11,
+  "awr": 47.22222222222222
+ },
+ {
+  "name": "Ursaluna",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 1,
+  "d": 9,
+  "n": 18,
+  "awr": 46.51162790697674
+ },
+ {
+  "name": "Mega Sceptile ex Meowscarada ex",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 1,
+  "d": 9,
+  "n": 18,
+  "awr": 46.51162790697674
+ },
+ {
+  "name": "Leafeon ex Giratina ex",
+  "share": 0.020486205954657197,
+  "w": 7,
+  "l": 2,
+  "d": 7,
+  "n": 16,
+  "awr": 46.34146341463415
+ },
+ {
+  "name": "Flygon ex Goomy",
+  "share": 0.020486205954657197,
+  "w": 7,
+  "l": 1,
+  "d": 8,
+  "n": 16,
+  "awr": 46.34146341463415
+ },
+ {
+  "name": "Iron Valiant Iron Boulder",
+  "share": 0.020486205954657197,
+  "w": 7,
+  "l": 2,
+  "d": 7,
+  "n": 16,
+  "awr": 46.34146341463415
+ },
+ {
+  "name": "Togekiss Meloetta",
+  "share": 0.020486205954657197,
+  "w": 6,
+  "l": 0,
+  "d": 8,
+  "n": 14,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Lucario ex Palossand",
+  "share": 0.020486205954657197,
+  "w": 6,
+  "l": 0,
+  "d": 8,
+  "n": 14,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Lopunny ex Lucario",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 0,
+  "d": 11,
+  "n": 19,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Mega Lucario ex Hitmonlee",
+  "share": 0.020486205954657197,
+  "w": 8,
+  "l": 0,
+  "d": 11,
+  "n": 19,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Jolteon ex Raichu",
+  "share": 0.020486205954657197,
+  "w": 5,
+  "l": 1,
+  "d": 6,
+  "n": 12,
+  "awr": 45.94594594594595
+ },
+ {
+  "name": "Mega Swampert ex",
+  "share": 0.020486205954657197,
+  "w": 5,
+  "l": 0,
+  "d": 7,
+  "n": 12,
+  "awr": 45.94594594594595
+ },
+ {
+  "name": "Greninja Mega Kangaskhan ex",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Mewtwo ex Gardevoir",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Banette Gholdengo",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Mega Sharpedo ex Greninja",
+  "share": 0.020486205954657197,
+  "w": 6,
+  "l": 0,
+  "d": 10,
+  "n": 16,
+  "awr": 43.90243902439025
+ },
+ {
+  "name": "Giratina ex Mimikyu ex",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 7,
+  "n": 11,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Kangaskhan ex Mantyke",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 7,
+  "n": 11,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Dragonair Garchomp",
+  "share": 0.020486205954657197,
+  "w": 5,
+  "l": 0,
+  "d": 9,
+  "n": 14,
+  "awr": 43.58974358974359
+ },
+ {
+  "name": "Gholdengo ex Dialga ex",
+  "share": 0.020486205954657197,
+  "w": 6,
+  "l": 0,
+  "d": 11,
+  "n": 17,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Sharpedo ex Arboliva",
+  "share": 0.020486205954657197,
+  "w": 5,
+  "l": 1,
+  "d": 9,
+  "n": 15,
+  "awr": 42.5
+ },
+ {
+  "name": "Team Rocket's Weezing ex Teal Mask Ogerpon ex",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 1,
+  "d": 7,
+  "n": 12,
+  "awr": 43.24324324324324
+ },
+ {
+  "name": "Mega Sharpedo ex Iron Bundle ex",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 8,
+  "n": 12,
+  "awr": 43.24324324324324
+ },
+ {
+  "name": "Indeedee ex Mega Diancie ex",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 8,
+  "n": 12,
+  "awr": 43.24324324324324
+ },
+ {
+  "name": "Bellibolt ex Zeraora",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 8,
+  "n": 12,
+  "awr": 43.24324324324324
+ },
+ {
+  "name": "Mega Gardevoir ex Giratina ex",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 8,
+  "n": 12,
+  "awr": 43.24324324324324
+ },
+ {
+  "name": "Mega Lopunny ex Greninja",
+  "share": 0.020486205954657197,
+  "w": 5,
+  "l": 0,
+  "d": 11,
+  "n": 16,
+  "awr": 41.46341463414634
+ },
+ {
+  "name": "Team Rocket's Raticate ex Arceus ex",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 9,
+  "n": 13,
+  "awr": 42.10526315789473
+ },
+ {
+  "name": "Raticate Cradily",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 10,
+  "n": 14,
+  "awr": 41.02564102564102
+ },
+ {
+  "name": "Chien-Pao ex Baxcalibur",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 10,
+  "n": 14,
+  "awr": 41.02564102564102
+ },
+ {
+  "name": "Mega Sceptile ex Pheromosa",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 0,
+  "d": 10,
+  "n": 14,
+  "awr": 41.02564102564102
+ },
+ {
+  "name": "Mega Altaria ex Banette",
+  "share": 0.020486205954657197,
+  "w": 3,
+  "l": 0,
+  "d": 8,
+  "n": 11,
+  "awr": 41.66666666666667
+ },
+ {
+  "name": "Typhlosion ex Typhlosion",
+  "share": 0.020486205954657197,
+  "w": 3,
+  "l": 0,
+  "d": 8,
+  "n": 11,
+  "awr": 41.66666666666667
+ },
+ {
+  "name": "Venusaur ex",
+  "share": 0.020486205954657197,
+  "w": 4,
+  "l": 1,
+  "d": 10,
+  "n": 15,
+  "awr": 40.0
+ },
+ {
+  "name": "Luxray Team Rocket's Electrode",
+  "share": 0.020486205954657197,
+  "w": 3,
+  "l": 0,
+  "d": 9,
+  "n": 12,
+  "awr": 40.54054054054054
+ },
+ {
+  "name": "Mega Charizard X ex Moltres ex",
+  "share": 0.020486205954657197,
+  "w": 3,
+  "l": 0,
+  "d": 9,
+  "n": 12,
+  "awr": 40.54054054054054
+ },
+ {
+  "name": "Arceus ex Oricorio",
+  "share": 0.020486205954657197,
+  "w": 3,
+  "l": 0,
+  "d": 9,
+  "n": 12,
+  "awr": 40.54054054054054
+ },
+ {
+  "name": "Mega Altaria ex Wynaut",
+  "share": 0.020486205954657197,
+  "w": 3,
+  "l": 0,
+  "d": 9,
+  "n": 12,
+  "awr": 40.54054054054054
+ },
+ {
+  "name": "Team Rocket's Tinkaton",
+  "share": 0.020486205954657197,
+  "w": 2,
+  "l": 0,
+  "d": 6,
+  "n": 8,
+  "awr": 42.42424242424242
+ },
+ {
+  "name": "Garchomp Chien-Pao ex",
+  "share": 0.020486205954657197,
+  "w": 3,
+  "l": 0,
+  "d": 10,
+  "n": 13,
+  "awr": 39.473684210526315
+ },
+ {
+  "name": "Serperior",
+  "share": 0.020486205954657197,
+  "w": 2,
+  "l": 0,
+  "d": 7,
+  "n": 9,
+  "awr": 41.17647058823529
+ },
+ {
+  "name": "Sylveon Snorlax ex",
+  "share": 0.020486205954657197,
+  "w": 2,
+  "l": 1,
+  "d": 6,
+  "n": 9,
+  "awr": 41.17647058823529
+ },
+ {
+  "name": "Dragonair Salamence",
+  "share": 0.020486205954657197,
+  "w": 2,
+  "l": 0,
+  "d": 7,
+  "n": 9,
+  "awr": 41.17647058823529
+ },
+ {
+  "name": "Leafeon ex Serperior",
+  "share": 0.020486205954657197,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Mega Houndoom ex Turtonator",
+  "share": 0.020486205954657197,
+  "w": 2,
+  "l": 0,
+  "d": 9,
+  "n": 11,
+  "awr": 38.88888888888889
+ },
+ {
+  "name": "Galarian Obstagoon Mega Sableye ex",
+  "share": 0.020486205954657197,
+  "w": 1,
+  "l": 0,
+  "d": 6,
+  "n": 7,
+  "awr": 40.625
+ },
+ {
+  "name": "Giratina ex Mewtwo ex",
+  "share": 0.020486205954657197,
+  "w": 1,
+  "l": 0,
+  "d": 6,
+  "n": 7,
+  "awr": 40.625
+ },
+ {
+  "name": "Decidueye ex Pheromosa",
+  "share": 0.020486205954657197,
+  "w": 1,
+  "l": 0,
+  "d": 7,
+  "n": 8,
+  "awr": 39.39393939393939
+ },
+ {
+  "name": "Magnezone ex Magnezone",
+  "share": 0.020486205954657197,
+  "w": 1,
+  "l": 0,
+  "d": 7,
+  "n": 8,
+  "awr": 39.39393939393939
+ },
+ {
+  "name": "Mega Blaziken ex Team Rocket's Moltres ex",
+  "share": 0.020486205954657197,
+  "w": 1,
+  "l": 0,
+  "d": 7,
+  "n": 8,
+  "awr": 39.39393939393939
+ },
+ {
+  "name": "Hitmonchan ex Mega Lucario ex",
+  "share": 0.020486205954657197,
+  "w": 1,
+  "l": 0,
+  "d": 11,
+  "n": 12,
+  "awr": 35.13513513513514
+ },
+ {
+  "name": "Mega Metagross ex Skarmory",
+  "share": 0.020486205954657197,
+  "w": 0,
+  "l": 0,
+  "d": 6,
+  "n": 6,
+  "awr": 38.70967741935484
+ },
+ {
+  "name": "Decidueye ex Ariados",
+  "share": 0.020486205954657197,
+  "w": 0,
+  "l": 0,
+  "d": 9,
+  "n": 9,
+  "awr": 35.294117647058826
+ },
+ {
+  "name": "Jumpluff ex Galarian Cursola",
+  "share": 0.020486205954657197,
+  "w": 0,
+  "l": 0,
+  "d": 8,
+  "n": 8,
+  "awr": 36.36363636363637
+ },
+ {
+  "name": "Mega Kangaskhan ex",
+  "share": 0.020486205954657197,
+  "w": 0,
+  "l": 0,
+  "d": 5,
+  "n": 5,
+  "awr": 40.0
+ },
+ {
+  "name": "Mega Sharpedo ex Palkia ex",
+  "share": 0.013657470636438131,
+  "w": 9,
+  "l": 0,
+  "d": 5,
+  "n": 14,
+  "awr": 53.84615384615385
+ },
+ {
+  "name": "Magnezone Teal Mask Ogerpon ex",
+  "share": 0.013657470636438131,
+  "w": 8,
+  "l": 0,
+  "d": 5,
+  "n": 13,
+  "awr": 52.63157894736842
+ },
+ {
+  "name": "Mega Altaria ex Teal Mask Ogerpon ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Milotic ex Palkia ex",
+  "share": 0.013657470636438131,
+  "w": 9,
+  "l": 0,
+  "d": 6,
+  "n": 15,
+  "awr": 52.5
+ },
+ {
+  "name": "Meloetta Iron Valiant",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Pikachu ex Tapu Koko ex",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 1,
+  "d": 3,
+  "n": 9,
+  "awr": 50.0
+ },
+ {
+  "name": "Hitmonchan ex Rampardos",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 4,
+  "n": 9,
+  "awr": 50.0
+ },
+ {
+  "name": "Flygon ex Teal Mask Ogerpon ex",
+  "share": 0.013657470636438131,
+  "w": 6,
+  "l": 1,
+  "d": 4,
+  "n": 11,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Manectric ex Zeraora",
+  "share": 0.013657470636438131,
+  "w": 8,
+  "l": 2,
+  "d": 5,
+  "n": 15,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Kangaskhan ex Tauros ex",
+  "share": 0.013657470636438131,
+  "w": 8,
+  "l": 1,
+  "d": 6,
+  "n": 15,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Lucario ex Rampardos",
+  "share": 0.013657470636438131,
+  "w": 8,
+  "l": 1,
+  "d": 6,
+  "n": 15,
+  "awr": 50.0
+ },
+ {
+  "name": "Greninja ex Vaporeon ex",
+  "share": 0.013657470636438131,
+  "w": 7,
+  "l": 0,
+  "d": 7,
+  "n": 14,
+  "awr": 48.717948717948715
+ },
+ {
+  "name": "Snorlax ex Ho-Oh ex",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Gourgeist Galarian Cursola",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 5,
+  "n": 10,
+  "awr": 48.57142857142857
+ },
+ {
+  "name": "Hydreigon Hoopa ex",
+  "share": 0.013657470636438131,
+  "w": 7,
+  "l": 2,
+  "d": 5,
+  "n": 14,
+  "awr": 48.717948717948715
+ },
+ {
+  "name": "Vespiquen ex Buzzwole ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 1,
+  "d": 3,
+  "n": 8,
+  "awr": 48.484848484848484
+ },
+ {
+  "name": "Team Rocket's Zapdos ex Team Rocket's Electrode",
+  "share": 0.013657470636438131,
+  "w": 6,
+  "l": 0,
+  "d": 6,
+  "n": 12,
+  "awr": 48.64864864864865
+ },
+ {
+  "name": "Alolan Ninetales ex Crawdaunt",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 4,
+  "n": 8,
+  "awr": 48.484848484848484
+ },
+ {
+  "name": "Mega Scizor ex Team Rocket's Raticate ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 4,
+  "n": 8,
+  "awr": 48.484848484848484
+ },
+ {
+  "name": "Garchomp Hitmontop",
+  "share": 0.013657470636438131,
+  "w": 6,
+  "l": 0,
+  "d": 6,
+  "n": 12,
+  "awr": 48.64864864864865
+ },
+ {
+  "name": "Magnezone Miraidon ex",
+  "share": 0.013657470636438131,
+  "w": 6,
+  "l": 0,
+  "d": 6,
+  "n": 12,
+  "awr": 48.64864864864865
+ },
+ {
+  "name": "Team Rocket's Raticate ex Igglybuff",
+  "share": 0.013657470636438131,
+  "w": 7,
+  "l": 1,
+  "d": 6,
+  "n": 14,
+  "awr": 48.717948717948715
+ },
+ {
+  "name": "Mega Gallade ex Hitmontop",
+  "share": 0.013657470636438131,
+  "w": 8,
+  "l": 0,
+  "d": 8,
+  "n": 16,
+  "awr": 48.78048780487805
+ },
+ {
+  "name": "Indeedee ex Dragonite",
+  "share": 0.013657470636438131,
+  "w": 6,
+  "l": 0,
+  "d": 7,
+  "n": 13,
+  "awr": 47.368421052631575
+ },
+ {
+  "name": "Dustox Teal Mask Ogerpon ex",
+  "share": 0.013657470636438131,
+  "w": 6,
+  "l": 0,
+  "d": 7,
+  "n": 13,
+  "awr": 47.368421052631575
+ },
+ {
+  "name": "Solgaleo ex Skarmory",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 6,
+  "n": 11,
+  "awr": 47.22222222222222
+ },
+ {
+  "name": "Team Rocket's Electrode Mega Kangaskhan ex",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 6,
+  "n": 11,
+  "awr": 47.22222222222222
+ },
+ {
+  "name": "Vaporeon ex Greninja",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 6,
+  "n": 11,
+  "awr": 47.22222222222222
+ },
+ {
+  "name": "Dragonite ex Raging Bolt",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 6,
+  "n": 11,
+  "awr": 47.22222222222222
+ },
+ {
+  "name": "Altaria Mantyke",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 6,
+  "n": 11,
+  "awr": 47.22222222222222
+ },
+ {
+  "name": "Mega Altaria ex Bonsly",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 6,
+  "n": 11,
+  "awr": 47.22222222222222
+ },
+ {
+  "name": "Hisuian Zoroark ex Froslass",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 6,
+  "n": 11,
+  "awr": 47.22222222222222
+ },
+ {
+  "name": "Hydreigon Glimmora",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 5,
+  "n": 9,
+  "awr": 47.05882352941176
+ },
+ {
+  "name": "Mega Lucario ex Mega Lopunny ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 5,
+  "n": 9,
+  "awr": 47.05882352941176
+ },
+ {
+  "name": "Magnezone Mega Kangaskhan ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 5,
+  "n": 9,
+  "awr": 47.05882352941176
+ },
+ {
+  "name": "Butterfree Mega Venusaur ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 1,
+  "d": 4,
+  "n": 9,
+  "awr": 47.05882352941176
+ },
+ {
+  "name": "Milotic ex Garchomp",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 5,
+  "n": 9,
+  "awr": 47.05882352941176
+ },
+ {
+  "name": "Garchomp Snorlax",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Aerodactyl ex Rampardos",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Gardevoir Mewtwo ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Hatterene Meowstic",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Team Rocket's Slowking ex Unown",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 7,
+  "n": 12,
+  "awr": 45.94594594594595
+ },
+ {
+  "name": "Team Rocket's Slowking ex",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 7,
+  "n": 12,
+  "awr": 45.94594594594595
+ },
+ {
+  "name": "Mega Gengar ex Greninja",
+  "share": 0.013657470636438131,
+  "w": 5,
+  "l": 0,
+  "d": 7,
+  "n": 12,
+  "awr": 45.94594594594595
+ },
+ {
+  "name": "Team Rocket's Raticate ex Suicune ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Skeledirge Team Rocket's Moltres ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Mega Charizard X ex Entei ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Snorlax ex Sylveon",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Pikachu ex Tauros ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Dragonair Archaludon",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Palossand Koraidon ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Mega Gyarados ex Mantyke",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Decidueye ex Heliolisk",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 1,
+  "d": 5,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Dustox Team Rocket's Magmar",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Vaporeon ex Milotic ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 6,
+  "n": 10,
+  "awr": 45.714285714285715
+ },
+ {
+  "name": "Mega Lucario ex Koraidon ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 5,
+  "n": 8,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Milotic ex Hisuian Zoroark ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 5,
+  "n": 8,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Entei ex Delphox",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 5,
+  "n": 8,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Mega Houndoom ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 5,
+  "n": 8,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Mega Slowbro ex Eiscue",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 5,
+  "n": 8,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Team Rocket's Weezing ex Nihilego",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 7,
+  "n": 11,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Raticate ex Banette",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 7,
+  "n": 11,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Lopunny ex Teal Mask Ogerpon ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 0,
+  "d": 7,
+  "n": 11,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Dedenne ex Teal Mask Ogerpon ex",
+  "share": 0.013657470636438131,
+  "w": 4,
+  "l": 1,
+  "d": 6,
+  "n": 11,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Decidueye ex Teal Mask Ogerpon ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 6,
+  "n": 9,
+  "awr": 44.11764705882353
+ },
+ {
+  "name": "Guzzlord",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Poliwrath ex Milotic ex",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Mega Venusaur ex Venusaur",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 6,
+  "n": 9,
+  "awr": 44.11764705882353
+ },
+ {
+  "name": "Dragonite ex Drampa",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Vespiquen ex Butterfree",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Guzzlord ex Nihilego",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 1,
+  "d": 5,
+  "n": 9,
+  "awr": 44.11764705882353
+ },
+ {
+  "name": "Mega Manectric ex Heliolisk",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Koraidon ex Furfrou",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 6,
+  "n": 9,
+  "awr": 44.11764705882353
+ },
+ {
+  "name": "Mega Blastoise ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 6,
+  "n": 9,
+  "awr": 44.11764705882353
+ },
+ {
+  "name": "Mega Gyarados ex Articuno ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 6,
+  "n": 9,
+  "awr": 44.11764705882353
+ },
+ {
+  "name": "Magnezone ex Teal Mask Ogerpon ex",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Mega Steelix ex Mantyke",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 6,
+  "n": 9,
+  "awr": 44.11764705882353
+ },
+ {
+  "name": "Delphox Entei ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 6,
+  "n": 9,
+  "awr": 44.11764705882353
+ },
+ {
+  "name": "Magnezone ex Raikou ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 7,
+  "n": 10,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Serperior Celebi ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 7,
+  "n": 10,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Garchomp Mantyke",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Mega Charizard Y ex Charizard",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Growlithe Magby",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Eevee ex Vaporeon ex",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Flareon ex Eevee ex",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Decidueye ex Spiritomb",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Solgaleo ex Snorlax",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Darkrai ex Hoopa ex",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 2,
+  "d": 3,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Galarian Cursola Aerodactyl ex",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 1,
+  "d": 4,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Eevee ex Alolan Ninetales ex",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Mega Gardevoir ex Ceruledge",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 5,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Milotic ex Mega Gyarados ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 8,
+  "n": 11,
+  "awr": 41.66666666666667
+ },
+ {
+  "name": "Team Rocket's Weezing ex Galarian Obstagoon",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 0,
+  "d": 8,
+  "n": 11,
+  "awr": 41.66666666666667
+ },
+ {
+  "name": "Garchomp Celebi",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 6,
+  "n": 8,
+  "awr": 42.42424242424242
+ },
+ {
+  "name": "Team Rocket's Weezing ex Dustox",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 6,
+  "n": 8,
+  "awr": 42.42424242424242
+ },
+ {
+  "name": "Mega Kangaskhan ex Darkrai ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Leafeon ex Espeon ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Charizard Y ex Moltres ex",
+  "share": 0.013657470636438131,
+  "w": 3,
+  "l": 1,
+  "d": 8,
+  "n": 12,
+  "awr": 40.54054054054054
+ },
+ {
+  "name": "Furfrou",
+  "share": 0.013657470636438131,
+  "w": 2,
+  "l": 0,
+  "d": 7,
+  "n": 9,
+  "awr": 41.17647058823529
+ },
+ {
+  "name": "Samurott Greninja",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Mega Altaria ex Altaria",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Rampardos Tyrantrum",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Mega Altaria ex Sylveon ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Team Rocket's Weezing ex Igglybuff",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Togekiss Meloetta",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Garchomp Furfrou",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Milotic ex Team Rocket's Articuno ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 5,
+  "n": 6,
+  "awr": 41.935483870967744
+ },
+ {
+  "name": "Team Rocket's Raticate ex Team Rocket's Moltres ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 5,
+  "n": 6,
+  "awr": 41.935483870967744
+ },
+ {
+  "name": "Crobat ex Darkrai ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 5,
+  "n": 6,
+  "awr": 41.935483870967744
+ },
+ {
+  "name": "Garchomp Pyukumuku",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 5,
+  "n": 6,
+  "awr": 41.935483870967744
+ },
+ {
+  "name": "Magneton Lugia ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 6,
+  "n": 7,
+  "awr": 40.625
+ },
+ {
+  "name": "Mega Audino ex Indeedee ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 1,
+  "d": 5,
+  "n": 7,
+  "awr": 40.625
+ },
+ {
+  "name": "Team Rocket's Articuno ex Happiny",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 6,
+  "n": 7,
+  "awr": 40.625
+ },
+ {
+  "name": "Incineroar ex Moltres ex",
+  "share": 0.013657470636438131,
+  "w": 1,
+  "l": 0,
+  "d": 6,
+  "n": 7,
+  "awr": 40.625
+ },
+ {
+  "name": "Mega Charizard X ex Skeledirge",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Rotom ex Pachirisu",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Metagross ex Galarian Perrserker",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Mega Medicham ex Spiritomb",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Slurpuff Alcremie",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 5,
+  "n": 5,
+  "awr": 40.0
+ },
+ {
+  "name": "Butterfree Meowscarada ex",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Hoopa ex Darkrai ex",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Team Rocket's Raticate ex Team Rocket's Tinkaton",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Steelix ex Galarian Perrserker",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 6,
+  "n": 6,
+  "awr": 38.70967741935484
+ },
+ {
+  "name": "Arceus ex Pichu",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Team Rocket's Electrode Pawmot",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Serperior Shaymin",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Crobat ex Weezing",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 6,
+  "n": 6,
+  "awr": 38.70967741935484
+ },
+ {
+  "name": "Hoopa ex Tyranitar",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Celebi ex Serperior",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 6,
+  "n": 6,
+  "awr": 38.70967741935484
+ },
+ {
+  "name": "Iron Bundle ex Iron Valiant",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Hisuian Zoroark ex Butterfree",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Blastoise ex Team Rocket's Articuno ex",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Mega Sharpedo ex Gyarados ex",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 6,
+  "n": 6,
+  "awr": 38.70967741935484
+ },
+ {
+  "name": "Rotom ex Cinccino",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 5,
+  "n": 5,
+  "awr": 40.0
+ },
+ {
+  "name": "Mega Metagross ex",
+  "share": 0.013657470636438131,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Team Rocket's Raticate ex Araquanid",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 0,
+  "n": 1,
+  "awr": 50.0
+ },
+ {
+  "name": "Heliolisk Zapdos ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 0,
+  "n": 1,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Altaria ex Magnezone",
+  "share": 0.0068287353182190655,
+  "w": 5,
+  "l": 0,
+  "d": 2,
+  "n": 7,
+  "awr": 53.125
+ },
+ {
+  "name": "Skeledirge Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 5,
+  "l": 0,
+  "d": 2,
+  "n": 7,
+  "awr": 53.125
+ },
+ {
+  "name": "Dedenne ex Igglybuff",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 2,
+  "n": 6,
+  "awr": 51.61290322580645
+ },
+ {
+  "name": "Giratina ex Team Rocket's Slowking ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 2,
+  "n": 6,
+  "awr": 51.61290322580645
+ },
+ {
+  "name": "Charizard ex Mega Charizard Y ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 1,
+  "n": 3,
+  "awr": 50.0
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Houndoom ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 1,
+  "n": 3,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Venusaur ex Exeggutor",
+  "share": 0.0068287353182190655,
+  "w": 5,
+  "l": 0,
+  "d": 3,
+  "n": 8,
+  "awr": 51.515151515151516
+ },
+ {
+  "name": "Mega Lucario ex Bonsly",
+  "share": 0.0068287353182190655,
+  "w": 5,
+  "l": 0,
+  "d": 3,
+  "n": 8,
+  "awr": 51.515151515151516
+ },
+ {
+  "name": "Mega Sceptile ex Nihilego",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Team Rocket's Electrode Pawmot",
+  "share": 0.0068287353182190655,
+  "w": 6,
+  "l": 1,
+  "d": 3,
+  "n": 10,
+  "awr": 51.42857142857142
+ },
+ {
+  "name": "Dragonite Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Rayquaza ex Pichu",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Scizor ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Hisuian Zoroark ex Gourgeist",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Sceptile ex Igglybuff",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Darkrai ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Blacephalon ex Nihilego",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 2,
+  "n": 5,
+  "awr": 50.0
+ },
+ {
+  "name": "Garchomp ex Lucario",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Absol ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Greninja Absol",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 1,
+  "d": 2,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Lunala ex Mega Diancie ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Blastoise ex Suicune ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Blastoise ex Snorlax ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Porygon-Z Mantyke",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Beautifly Dustox",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Dragonair Mega Latios ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 1,
+  "d": 2,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Slowbro ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Arceus ex Miraidon ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Suicune ex Gholdengo",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Team Rocket's Raticate ex Vaporeon ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Koraidon ex Hitmonchan ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 1,
+  "d": 2,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Alolan Ninetales ex Alolan Ninetales",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Galarian Obstagoon Mega Absol ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 3,
+  "n": 7,
+  "awr": 50.0
+ },
+ {
+  "name": "Team Rocket's Weezing ex Hypno",
+  "share": 0.0068287353182190655,
+  "w": 5,
+  "l": 0,
+  "d": 4,
+  "n": 9,
+  "awr": 50.0
+ },
+ {
+  "name": "Luxray Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 5,
+  "l": 1,
+  "d": 3,
+  "n": 9,
+  "awr": 50.0
+ },
+ {
+  "name": "Indeedee ex Mismagius",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Alolan Muk Mega Kangaskhan ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Infernape ex Happiny",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Entei ex Mega Blaziken ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Exeggutor ex Venusaur ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Slurpuff Cherubi",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Mega Gyarados ex Manaphy",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Gallade Pichu",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Charizard ex Team Rocket's Moltres ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Mega Altaria ex Furfrou",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Electivire Magmortar",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Garchomp ex Garchomp",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Flygon ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Annihilape Golem",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 1,
+  "n": 2,
+  "awr": 48.148148148148145
+ },
+ {
+  "name": "Magnezone Team Rocket's Persian",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Dragonite ex Haxorus",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 1,
+  "n": 2,
+  "awr": 48.148148148148145
+ },
+ {
+  "name": "Mega Lopunny ex Furfrou",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Bastiodon",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Growlithe Rockruff",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Dragonite ex Salamence",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 1,
+  "n": 2,
+  "awr": 48.148148148148145
+ },
+ {
+  "name": "Incineroar ex Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Gengar ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Mega Sceptile ex Chingling",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 1,
+  "n": 2,
+  "awr": 48.148148148148145
+ },
+ {
+  "name": "Luxray Team Rocket's Electrode",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 1,
+  "d": 2,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Slaking Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Dragalge ex Hoopa ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Decidueye ex Hoopa ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Mega Altaria ex Team Rocket's Raticate ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 1,
+  "d": 3,
+  "n": 8,
+  "awr": 48.484848484848484
+ },
+ {
+  "name": "Hisuian Basculegion Iron Bundle",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Chandelure Munchlax",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Dragonite Eiscue",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Darkrai ex Pichu",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Eevee ex Umbreon ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Gardevoir Mega Diancie ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Mega Sceptile ex Leafeon ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Alolan Ninetales ex Team Rocket's Articuno ex",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 4,
+  "n": 8,
+  "awr": 48.484848484848484
+ },
+ {
+  "name": "Wailord ex Wailord",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Milotic ex Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Rapidash ex Castform Sunny Form",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 1,
+  "d": 3,
+  "n": 8,
+  "awr": 48.484848484848484
+ },
+ {
+  "name": "Mega Gengar ex Chingling",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 1,
+  "d": 2,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Mega Gengar ex Igglybuff",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Indeedee ex Delcatty",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Mega Sharpedo ex Mamoswine",
+  "share": 0.0068287353182190655,
+  "w": 4,
+  "l": 0,
+  "d": 4,
+  "n": 8,
+  "awr": 48.484848484848484
+ },
+ {
+  "name": "Glimmora Darkrai ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Magnezone Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Team Rocket's Weezing ex Mega Lopunny ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Samurott Pyukumuku",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Mega Lopunny ex Primeape",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 1,
+  "n": 2,
+  "awr": 48.148148148148145
+ },
+ {
+  "name": "Espeon ex Mega Altaria ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Mega Sharpedo ex Wailord ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Lucario Rampardos",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Dragonair Magby",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Delphox Castform Sunny Form",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 2,
+  "n": 4,
+  "awr": 48.275862068965516
+ },
+ {
+  "name": "Mega Scizor ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Indeedee ex Banette",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 1,
+  "n": 2,
+  "awr": 48.148148148148145
+ },
+ {
+  "name": "Magnezone Hisuian Goodra",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 2,
+  "d": 1,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Hoopa ex Weezing",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Entei ex Ho-Oh ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 3,
+  "n": 6,
+  "awr": 48.38709677419355
+ },
+ {
+  "name": "Porygon-Z Hisuian Zoroark ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 1,
+  "n": 2,
+  "awr": 48.148148148148145
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Sableye ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Team Rocket's Tinkaton Furfrou",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Team Rocket's Raticate ex Ho-Oh ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Greninja Iron Bundle",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Medicham ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Mega Blaziken ex Mega Camerupt ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Greninja ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Mega Sableye ex Scrafty",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Teal Mask Ogerpon ex Rampardos",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Hoopa ex Arceus ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Milotic ex Mega Kangaskhan ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Mega Gallade ex Koraidon ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Rotom ex Heliolisk",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Bellibolt ex Mega Audino ex",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Inteleon",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 4,
+  "n": 7,
+  "awr": 46.875
+ },
+ {
+  "name": "Solgaleo ex Arceus ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Blaziken ex Arboliva",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Serperior Mega Sceptile ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Alolan Ninetales ex Mega Sharpedo ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Banette Greninja",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mimikyu ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Manectric ex Pichu",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Delphox",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Lucario ex Team Rocket's Weezing ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Manectric ex Igglybuff",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Jumpluff ex Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 1,
+  "d": 2,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Haxorus Igglybuff",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Altaria ex Espeon",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Absol ex Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Banette Araquanid",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Leafeon ex Dhelmise ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Iron Bundle ex Iron Bundle",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Espeon Mimikyu ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Absol ex Team Rocket's Magmar",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Staraptor Snorlax",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Team Rocket's Arbok Team Rocket's Persian",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Gallade ex Igglybuff",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Manectric ex Luxray",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Aegislash Archaludon",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Decidueye ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Leafeon ex Mega Sceptile ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Garchomp Meowth",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Togekiss Meowth",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Flygon ex Munchlax",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Metagross ex Metagross",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Vespiquen ex Mega Heracross ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Zoroark Mega Absol ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Team Rocket's Slowking ex Mega Gardevoir ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Altaria ex Iron Valiant",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Mega Diancie ex Mega Gardevoir ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Togekiss Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Machamp Zygarde ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Team Rocket's Weezing ex Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Leafeon ex Accelgor",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Hydreigon Zoroark",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Milotic ex Silvally",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Dragonite Altaria",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Haxorus Skarmory",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Team Rocket's Electrode Greninja",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Garchomp Mime Jr.",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Team Rocket's Raticate ex Garchomp",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Milotic ex Dustox",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 3,
+  "n": 5,
+  "awr": 46.666666666666664
+ },
+ {
+  "name": "Espeon Igglybuff",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 5,
+  "n": 8,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Delphox Pichu",
+  "share": 0.0068287353182190655,
+  "w": 3,
+  "l": 0,
+  "d": 5,
+  "n": 8,
+  "awr": 45.45454545454545
+ },
+ {
+  "name": "Poliwrath ex Mantyke",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Greninja Giratina ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Starmie ex Articuno ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Garchomp Bonsly",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Haxorus Archaludon",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Venusaur ex Pichu",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Iron Bundle Iron Valiant",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Armaldo Turtonator",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Charizard ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Garchomp ex Mega Gallade ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Team Rocket's Slowking ex Mimikyu ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Suicune ex Chien-Pao ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Slowbro ex Cryogonal",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Mega Medicham ex Snorlax",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Team Rocket's Articuno ex Team Rocket's Lapras",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Team Rocket's Tinkaton Skarmory",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Greninja Team Rocket's Articuno ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Meowscarada Decidueye ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Team Rocket's Zapdos ex Pichu",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Weavile ex Darkrai ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Houndoom ex Hearthflame Mask Ogerpon",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Flutter Mane ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Gyarados ex Mime Jr.",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Giratina ex Mega Diancie ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Snorlax ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Guzzlord ex Darkrai ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Flygon ex Ariados",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Dedenne ex Emolga",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Manectric ex Jolteon",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Gholdengo ex Gholdengo",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Mega Charizard Y ex Castform Sunny Form",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Charizard X ex Charizard",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Swampert ex Archaludon",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Bellibolt ex Team Rocket's Electrode",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Team Rocket's Zapdos ex Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Charizard ex Charizard",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Haxorus Happiny",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Jolteon ex Leafeon ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Sharpedo ex Walrein",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Miltank",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Mega Kangaskhan ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Raikou ex Luxray",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Gengar ex Galarian Cursola",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Flygon ex Giratina ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Vaporeon ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Mandibuzz Greninja",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Serperior Chingling",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Alolan Ninetales ex",
+  "share": 0.0068287353182190655,
+  "w": 2,
+  "l": 0,
+  "d": 4,
+  "n": 6,
+  "awr": 45.16129032258064
+ },
+ {
+  "name": "Magnezone Mega Manectric ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Flareon ex Mega Charizard Y ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Lopunny ex Pidgeot",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mismagius ex Hatterene",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 2,
+  "n": 3,
+  "awr": 46.42857142857143
+ },
+ {
+  "name": "Mega Houndoom ex Houndoom",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Gholdengo ex Revavroom",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Weezing ex Alolan Muk ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Zapdos ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Snorlax ex Tyrantrum",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Aerodactyl ex Lucario",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Garchomp ex Hitmontop",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Houndoom ex Houndoom",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Indeedee ex Gengar ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Charizard X ex Flareon",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Pachirisu ex Dedenne ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Sharpedo ex Hisuian Zoroark ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Kangaskhan ex Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Guzzlord ex Hydreigon",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Tinkaton Kartana",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Dragonite ex Hisuian Goodra",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Camerupt ex Charmeleon",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Gholdengo ex Charcadet",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Lucario ex Marowak",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Weezing ex Entei ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Tinkaton Orthworm",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 1,
+  "d": 2,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Buzzwole ex Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Arceus ex Hoopa ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Indeedee ex Mewtwo",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Medicham ex Wynaut",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Kangaskhan ex Porygon-Z",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Solgaleo ex Vaporeon ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Electrode Luxray",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Samurott Smeargle",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Slowking ex Magneton",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Swampert ex Munchlax",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Houndoom ex Team Rocket's Moltres ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Iron Bundle ex Vaporeon ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Wigglytuff ex Delcatty",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Gardevoir Mega Diancie ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Houndoom ex Magby",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Decidueye ex Lurantis",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Weezing ex Flutter Mane ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Venusaur ex Venusaur",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Gyarados ex Gholdengo",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Houndoom Nihilego",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Sableye ex Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Jellicent Team Rocket's Articuno ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Raticate ex Espathra",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Raticate ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Team Rocket's Raticate ex Alolan Raichu ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Mega Kangaskhan ex Hoopa ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Guzzlord ex Team Rocket's Raticate ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Ariados Tangrowth",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Magnezone Ditto",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Wailord Gholdengo",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 3,
+  "n": 4,
+  "awr": 44.827586206896555
+ },
+ {
+  "name": "Rampardos",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Aegislash Smoochum",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Mega Blaziken ex Turtonator",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Magikarp",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Haxorus Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Mega Charizard X ex Armarouge ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Gholdengo ex Skarmory",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Ditto Hitmontop",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Lanturn ex Milotic ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Crobat ex Mega Sableye ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Team Rocket's Raticate ex Team Rocket's Persian",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Mega Steelix ex Sylveon",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 4,
+  "n": 5,
+  "awr": 43.333333333333336
+ },
+ {
+  "name": "Mega Lucario ex Snorlax",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 5,
+  "n": 6,
+  "awr": 41.935483870967744
+ },
+ {
+  "name": "Mega Sharpedo ex Mega Swampert ex",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 5,
+  "n": 6,
+  "awr": 41.935483870967744
+ },
+ {
+  "name": "Hatterene Spinda",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 5,
+  "n": 6,
+  "awr": 41.935483870967744
+ },
+ {
+  "name": "Victreebel Pidgeot",
+  "share": 0.0068287353182190655,
+  "w": 1,
+  "l": 0,
+  "d": 5,
+  "n": 6,
+  "awr": 41.935483870967744
+ },
+ {
+  "name": "Milotic ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Medicham ex Giratina ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Raichu Pawmot",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Lugia ex Ho-Oh ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Gengar ex Dusknoir",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Venusaur ex Arboliva",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Milotic ex Accelgor",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Dragonite Goomy",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Gengar ex Munchlax",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Lucario ex Sandslash",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Metagross ex Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Hoopa ex Umbreon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Magneton Miraidon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Indeedee ex Togekiss",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Team Rocket's Zapdos ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Jolteon ex Eevee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Tsareena Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Team Rocket's Raticate ex Mega Absol ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Garchomp Munchlax",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Hitmonchan ex Mega Gallade ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Rotom ex Tapu Koko ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Team Rocket's Moltres ex Mega Blaziken ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Incineroar ex Mega Charizard Y ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Dragonair Noivern",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Alolan Ninetales ex Team Rocket's Raticate ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Blastoise ex Mega Sharpedo ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Suicune ex Vaporeon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Wailord ex Suicune ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Kangaskhan ex Snorlax",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Nidoking Munchlax",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Venusaur ex Igglybuff",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Dialga ex Aegislash",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Team Rocket's Weezing ex Nidoking",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Charizard ex Eevee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Altaria ex Goomy",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Porygon-Z Crawdaunt",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Team Rocket's Raticate ex Ceruledge ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Armarouge ex Sylveon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Melmetal ex Bastiodon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Serperior Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Jolteon ex Team Rocket's Zapdos ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Charizard X ex Hearthflame Mask Ogerpon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Serperior Mega Heracross ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Aegislash Skarmory",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Indeedee ex Team Rocket's Tinkaton",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Crobat Mega Absol ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Umbreon ex Hoopa ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Altaria ex Polteageist",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Lucario ex Tyrogue",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Skarmory Team Rocket's Tinkaton",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Medicham ex Mantyke",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Beedrill ex Bonsly",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Sylveon Mega Diancie ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Magnezone Hisuian Zoroark ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Jolteon ex Zeraora",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Swampert ex Dusknoir",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Articuno ex Inteleon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Hoopa ex Decidueye ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Decidueye ex Hydreigon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Lanturn ex Raikou ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Garchomp ex Koraidon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Milotic ex Garchomp",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Sceptile ex Happiny",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Raticate ex Teal Mask Ogerpon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Decidueye ex Miltank",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Ampharos ex Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Infernape ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Sableye ex Glimmora",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Gengar ex Mega Diancie ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Incineroar ex Team Rocket's Moltres ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Terapagos ex Team Rocket's Raticate ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Jumpluff ex Oricorio",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Slowking ex Gourgeist",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Magnezone Zapdos ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Team Rocket's Weezing ex Team Rocket's Raticate ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Swampert ex Mega Sharpedo ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Weezing ex Team Rocket's Muk",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Vaporeon ex Leafeon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Serperior Exeggutor",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Galarian Obstagoon Darkrai ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Hisuian Zoroark ex Jellicent",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Scizor ex Mantyke",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Indeedee ex Goodra",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Meowscarada ex Decidueye ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Magnezone Lugia ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Wailord Tyrantrum",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Tinkaton Team Rocket's Arbok",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Butterfree Hisuian Zoroark ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Shuckle ex Vespiquen ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Magneton Giratina ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Ho-Oh ex Mega Rayquaza ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Guzzlord ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Dragonite Salamence",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Houndoom ex Victini",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Pikachu ex Pichu",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Jolteon ex Team Rocket's Electrode",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Swampert ex Swampert",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Iron Bundle",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Team Rocket's Articuno ex Mew ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Sceptile ex Vespiquen ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Blastoise ex Zapdos ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Team Rocket's Weezing ex Team Rocket's Houndoom",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Team Rocket's Weezing ex Weavile ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Miraidon ex Magnezone",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Team Rocket's Hypno Giratina ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Weezing ex Xatu",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Sylveon ex Garchomp",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Togekiss Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Rotom ex Smeargle",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Gholdengo ex Orthworm",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Dragonite ex Greninja",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Flutter Mane ex Chingling",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Weezing ex Giratina ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Crobat ex Nihilego",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Reuniclus Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Dragonair Miraidon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Gallade ex Lucario",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Lucario ex Garchomp",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Raticate ex Giratina ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Team Rocket's Slowking ex Shiinotic",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Typhlosion Team Rocket's Magmar",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Pawmot",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Sceptile ex Dustox",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Meowscarada ex Mega Sceptile ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Ceruledge ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Team Rocket's Raticate ex Seaking",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Primarina ex Crabominable ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Tinkaton ex Skarmory",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Iron Valiant Iron Crown",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Greninja Inteleon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Altaria ex Team Rocket's Mr. Mime",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Dragonite Greninja",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Probopass ex Magby",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Sharpedo ex Araquanid",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Hoopa ex Mandibuzz",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Alolan Ninetales ex Gholdengo",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Articuno ex Mewtwo ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Dedenne ex Happiny",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Mega Metagross ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Typhlosion ex Team Rocket's Moltres ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 4,
+  "n": 4,
+  "awr": 41.37931034482759
+ },
+ {
+  "name": "Mega Houndoom ex Iron Moth",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Lilligant Teal MaskOgerpon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Altaria ex Kirlia",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Altaria ex Mimikyu ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Camerupt ex Team Rocket's Moltres ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Charizard ex Incineroar ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Team Rocket's Raticate ex Dudunsparce",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Melmetal ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Wugtrio ex Milotic ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Persian Chandelure",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mewtwo ex Indeedee ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Palkia ex Vaporeon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Greninja Darkrai ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Altaria ex Gengar",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Gardevoir ex Houndstone",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Team Rocket's Raticate ex Team Rocket's Slowking ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Swampert ex Mantyke",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Mega Blastoise ex Dhelmise",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Garchomp Elekid",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Naganadel Guzzlord ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Suicune ex Samurott",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Kingambit Glimmora",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Indeedee ex Delphox",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Mega Scizor ex Scizor",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Vaporeon ex Vaporeon",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Team Rocket's Weezing ex Butterfree",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 1,
+  "n": 1,
+  "awr": 46.15384615384615
+ },
+ {
+  "name": "Flareon ex Walking Wake",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 2,
+  "n": 2,
+  "awr": 44.44444444444444
+ },
+ {
+  "name": "Pidgeot ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 3,
+  "n": 3,
+  "awr": 42.857142857142854
+ },
+ {
+  "name": "Team Rocket's Raticate ex Flygon ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 0,
+  "n": 0,
+  "awr": 48.0
+ },
+ {
+  "name": "Charizard ex Moltres ex",
+  "share": 0.0068287353182190655,
+  "w": 0,
+  "l": 0,
+  "d": 0,
+  "n": 0,
+  "awr": 48.0
+ }
+]

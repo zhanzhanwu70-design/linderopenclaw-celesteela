@@ -1,78 +1,41 @@
 ---
 name: "ptcgp-tw-translation"
-description: "PTCGP 台灣繁體中文卡包名稱翻譯字典維護。新擴充發布或翻譯錯誤被指出時用。"
+description: "查 PTCGP 台版卡包/卡片中文名、更新翻譯字典時用。新擴充發布或翻譯錯誤被指出時觸發。"
 ---
 
 # PTCGP 台灣繁體中文翻譯字典維護
 
 ## 觸發條件
-- 新擴充發布時（PTCG Pocket 約每 1-1.5 月推一個擴充包）
-- 用戶要求「查官方翻譯」、「查台灣版本」、「更新字典」
-- 卡包或卡片名稱翻譯錯誤被指出時
+- 新擴充發布（PTCG Pocket 約每 1–1.5 個月推一個擴充包）
+- 使用者要求「查官方翻譯」「查台灣版本」「更新字典」
+- 卡包或卡片名稱翻譯錯誤被指出
 
-## 核心權威來源
-1. **Pokemon Hubs**（pokemonhubs.com）— 台港最大寶可夢繁中資訊站，最權威
-2. **Bahamut 巴哈姆特**（forum.gamer.com.tw）— 台灣最大電玩社群 PTCGP 哈啦板
+## 來源
+- 英文卡包名與代碼：Limitless TCG Pocket，或 GitHub `flibustier/pokemon-tcg-pocket-database`
+- 台版中文名：Pokemon Hubs（pokemonhubs.com）、Bahamut（forum.gamer.com.tw）PTCGP 哈啦板
+- 搜尋範本：`PTCG Pocket [English Name] 卡包名 繁體中文`
 
-搜尋範本：`PTCG Pocket [English Name] 卡包名 繁體中文`
+## 步驟
 
-## 標準作業流程
-
-### 1. 確認擴充代碼與英文名
-   - 從 Limitless TCG Pocket 或 GitHub flibustier/pokemon-tcg-pocket-database 取得英文名稱
-
-### 2. 多源驗證台版名稱
-   - 用 `web_search` 對 Pokemon Hubs + Bahamut 各查一次
-   - 兩個來源都出現相同中文名才算確認
-   - 找不到時：試搜 Bahamut 全文、Reddit r/PTCGP 中文討論
-
-### 3. 更新字典 `ptcgp_deck_dictionary.json`
-   必須新增/更新兩個區塊：
+1. 讀 `ptcgp_deck_dictionary.json` 取得既有對照與 B 代碼，避免重複鍵或漏改。
+2. 確認新擴充的英文名與代碼後，用 `web_search` 對 Pokemon Hubs 與 Bahamut 各查一次台版中文名；兩個來源出現相同名稱才算確認。查不到時改搜 Bahamut 全文或 Reddit r/PTCGP 中文討論。
+3. 更新 `ptcgp_deck_dictionary.json`：`set_names` 用英文鍵、`set_short_names` 用 B 代碼鍵、`card_names` 用英文卡片名鍵。
 
 ```json
 {
-  "set_names": {
-    "Mega Rising": "超級堀起"
-  },
-  "set_short_names": {
-    "B1": "超級堀起"
-  },
-  "card_names": {
-    "<English Pack Name>": "<台版中文>"
-  }
+  "set_names": { "Mega Rising": "超級堀起" },
+  "set_short_names": { "B1": "超級堀起" },
+  "card_names": { "<English Pack Name>": "<台版中文>" }
 }
 ```
 
-`set_names` 用英文鍵，`set_short_names` 用 B 代碼鍵。
+4. 逐字核對易錯字：`堀`（非 `崛`）、`帕底亞`（非 `帕底`）、`紅蓮`（非 `深紅`）、`天空主宰`（非 `天空之主`）。字典與官方不一致時以官方為準修正。
+5. 驗證：`python3 scripts/ptcgp_meta.py -d <deck_key>` 顯示新名稱，且 grep 字典確認新對照已寫入。
 
-### 4. 常見誤譯陷阱
-- `堀`（不是 `崛`）— B1 Mega Rising 官方用字
-- `帕底亞`（不是 `帕底`）— B2a Paldean Wonders
-- `紅蓮`（不是 `深紅`）— B1a Crimson Blaze
-- `天空主宰`（不是 `天空之主`）— B4 Ruler of the Skies
+## 回報
+簡短確認說明 + 對照表，標記修正項。
 
-### 5. 驗證步驟
-   - 執行 `python3 scripts/ptcgp_meta.py -d <deck_key>` 確認翻譯正確
-   - 用 grep 確認字典中已包含新對照
-
-## 已知 B 系列台版字典（已建）
-```
-B1   Mega Rising         → 超級堀起
-B1a  Crimson Blaze       → 紅蓮烈焰
-B2   Fantastical Parade  → 幻夢遊行
-B2a  Paldean Wonders     → 帕底亞驚奇
-B2b  Mega Shine          → 超級異彩
-B3   Pulsing Aura        → 波導奏動
-B3a  Paradox Drive       → 進擊悖謬
-B3b  Everyday Wonders    → 奇跡日常
-B4   Ruler of the Skies  → 天空主宰
-B4a  Team Rocket's Ambition → 火箭隊的野心
-```
-
-## 輸出回報格式
-簡短確認 + 對照表，標記修正項。
-
-## 工具依賴
+## 依賴
 - `ptcgp_deck_dictionary.json`
+- `scripts/ptcgp_meta.py`
 - `web_search`
-- `scripts/ptcgp_meta.py`（驗證用）

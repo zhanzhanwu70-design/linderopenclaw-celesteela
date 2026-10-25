@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
-    "version": "3.6",
-    "last_updated": "2026-06-08",
+    "version": "3.7",
+    "last_updated": "2026-10-24",
     "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
     "last_video_ingest_update": "2026-06-02T16:09Z"
   },
@@ -334,7 +334,10 @@
     "Team Rocket's Weezing ex Mega Absol ex": "火箭隊雙尾怪手 ex 超級阿博梭魯 ex",
     "Dedenne ex Pichu": "電擊蟲 ex 皮丘",
     "Mega Lucario ex Teal Mask Ogerpon ex": "超級路卡利歐 ex 碧綠面具厄诡椪 ex",
-    "Flygon ex": "土狼龍 ex"
+    "Flygon ex": "土狼龍 ex",
+    "Mega Diancie ex Flutter Mane ex": "超級蒂安希 ex 幻鳴獼猴 ex",
+    "Mega Diancie ex Mimikyu ex": "超級蒂安希 ex  Mimikyu ex",
+    "Giratina ex Indeedee ex": "幻achines ex 愛管仕 ex"
   },
   "card_names": {
     "Bulbasaur": "妙瓜种子",
