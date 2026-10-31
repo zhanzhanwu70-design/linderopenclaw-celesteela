@@ -1,0 +1,4510 @@
+[
+  {
+    "set": "C1",
+    "number": 1,
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "hp": 70,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "GC",
+        "name": "Leech Seed",
+        "damage": 30,
+        "effect": "Heal 10 damage from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "GC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 2,
+    "name": "Ivysaur",
+    "type": "Grass",
+    "hp": 100,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "GCC",
+        "name": "Leaf Drain",
+        "damage": 50,
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Bulbasaur",
+    "attack_costs": [
+      "GCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 3,
+    "name": "Venusaur",
+    "type": "Grass",
+    "hp": 150,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "GCCC",
+        "name": "Solar Beam",
+        "damage": 90,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Ivysaur",
+    "attack_costs": [
+      "GCCC"
+    ],
+    "ability": "Sunny Heal",
+    "ability_effect": "Once during your turn, you may heal 30 damage from your Active Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 4,
+    "name": "Exeggcute",
+    "type": "Grass",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Nap",
+        "damage": null,
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 5,
+    "name": "Alolan Exeggutor ex",
+    "type": "Grass",
+    "hp": 180,
+    "weakness": "Fire",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "GGG",
+        "name": "Long-Neck Hammering",
+        "damage": 100,
+        "effect": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 50 damage to it."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Exeggcute",
+    "attack_costs": [
+      "GGG"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 6,
+    "name": "Pinsir",
+    "type": "Grass",
+    "hp": 90,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "G",
+        "name": "Vise Grip",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "G"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 7,
+    "name": "Combee",
+    "type": "Grass",
+    "hp": 50,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "G",
+        "name": "Flap",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "G"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 8,
+    "name": "Vespiquen",
+    "type": "Grass",
+    "hp": 80,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "GG",
+        "name": "Honey Rush 50x",
+        "damage": null,
+        "effect": "Reveal all of the Sweet Honey in your hand, and this attack does 50 damage for each card you revealed in this way."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Combee",
+    "attack_costs": [
+      "GG"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 9,
+    "name": "Deerling",
+    "type": "Grass",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "GC",
+        "name": "Flop",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "GC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 10,
+    "name": "Sawsbuck",
+    "type": "Grass",
+    "hp": 120,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "GCC",
+        "name": "Leaf Litter Tackle",
+        "damage": 100,
+        "effect": "Discard a [ G ] Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Deerling",
+    "attack_costs": [
+      "GCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 11,
+    "name": "Foongus",
+    "type": "Grass",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "G",
+        "name": "Beat",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "G"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 12,
+    "name": "Amoonguss",
+    "type": "Grass",
+    "hp": 100,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "GC",
+        "name": "Astonish",
+        "damage": 50,
+        "effect": "Look at a random card from your opponent's hand and shuffle it into their deck."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Foongus",
+    "attack_costs": [
+      "GC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 13,
+    "name": "Genesect",
+    "type": "Grass",
+    "hp": 110,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "GCC",
+        "name": "Signal Beam",
+        "damage": 60,
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "GCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 14,
+    "name": "Cutiefly",
+    "type": "Grass",
+    "hp": 30,
+    "weakness": "Fire",
+    "retreat": 0,
+    "attacks": [
+      {
+        "cost": "G",
+        "name": "Bug Bite",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "G"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 15,
+    "name": "Ribombee",
+    "type": "Grass",
+    "hp": 70,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "G",
+        "name": "Bug Buzz",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Cutiefly",
+    "attack_costs": [
+      "G"
+    ],
+    "ability": "Honey Gather",
+    "ability_effect": "Once during your turn, you may use this Ability. Put a rental card into your hand."
+  },
+  {
+    "set": "C1",
+    "number": 16,
+    "name": "Charmander",
+    "type": "Fire",
+    "hp": 60,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "RC",
+        "name": "Ember",
+        "damage": 50,
+        "effect": "Discard a [ R ] Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "RC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 17,
+    "name": "Charmeleon",
+    "type": "Fire",
+    "hp": 80,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "RR",
+        "name": "Flame Tail",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Charmander",
+    "attack_costs": [
+      "RR"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 18,
+    "name": "Charizard",
+    "type": "Fire",
+    "hp": 150,
+    "weakness": "Water",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "RRC",
+        "name": "Fire Wing",
+        "damage": 90,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Charmeleon",
+    "attack_costs": [
+      "RRC"
+    ],
+    "ability": "Flame Aura",
+    "ability_effect": "Whenever you attach a [ R ] Energy from your Energy Zone to this Pokémon, do 30 damage to your opponent's Active Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 19,
+    "name": "Volcanion",
+    "type": "Fire",
+    "hp": 120,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "RRRC",
+        "name": "Dynamite Steam 110x",
+        "damage": null,
+        "effect": "Flip 2 coins. This attack does 110 damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "RRRC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 20,
+    "name": "Salandit",
+    "type": "Fire",
+    "hp": 50,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "R",
+        "name": "Flare",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "R"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 21,
+    "name": "Salazzle",
+    "type": "Fire",
+    "hp": 90,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "RR",
+        "name": "Heat Blast",
+        "damage": 70,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Salandit",
+    "attack_costs": [
+      "RR"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 22,
+    "name": "Scorbunny",
+    "type": "Fire",
+    "hp": 50,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Rabbit Jumping 20x",
+        "damage": null,
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 23,
+    "name": "Raboot",
+    "type": "Fire",
+    "hp": 70,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Headbutt",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Scorbunny",
+    "attack_costs": [
+      "C"
+    ],
+    "ability": "Jumping Coach",
+    "ability_effect": "As long as this Pokémon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 24,
+    "name": "Cinderace",
+    "type": "Fire",
+    "hp": 140,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "RR",
+        "name": "Spinning Kick",
+        "damage": 100,
+        "effect": "This Pokémon also does 20 damage to itself."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Raboot",
+    "attack_costs": [
+      "RR"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 25,
+    "name": "Fuecoco ex",
+    "type": "Fire",
+    "hp": 130,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "R",
+        "name": "Bite",
+        "damage": 30,
+        "effect": ""
+      },
+      {
+        "cost": "RC",
+        "name": "Feisty Flames 50+",
+        "damage": null,
+        "effect": "If this Pokémon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "R",
+      "RC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 26,
+    "name": "Charcadet",
+    "type": "Fire",
+    "hp": 60,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "RR",
+        "name": "Will-O-Wisp",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "RR"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 27,
+    "name": "Armarouge",
+    "type": "Fire",
+    "hp": 120,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "RRR",
+        "name": "Boundless Power",
+        "damage": 130,
+        "effect": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Charcadet",
+    "attack_costs": [
+      "RRR"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 28,
+    "name": "Ceruledge",
+    "type": "Fire",
+    "hp": 120,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "RRC",
+        "name": "Rally Back 70+",
+        "damage": null,
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 70 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Charcadet",
+    "attack_costs": [
+      "RRC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 29,
+    "name": "Squirtle",
+    "type": "Water",
+    "hp": 60,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "W",
+        "name": "Bubble",
+        "damage": 10,
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "W"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 30,
+    "name": "Wartortle",
+    "type": "Water",
+    "hp": 90,
+    "weakness": "Lightning",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "WW",
+        "name": "Spinning Attack",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Squirtle",
+    "attack_costs": [
+      "WW"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 31,
+    "name": "Blastoise",
+    "type": "Water",
+    "hp": 150,
+    "weakness": "Lightning",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "WWW",
+        "name": "Surf",
+        "damage": 100,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Wartortle",
+    "attack_costs": [
+      "WWW"
+    ],
+    "ability": "Aqua Charge",
+    "ability_effect": "Once during your turn, you may take a [ W ] Energy from your Energy Zone and attach it to this Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 32,
+    "name": "Seel",
+    "type": "Water",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "WW",
+        "name": "Waterfall",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "WW"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 33,
+    "name": "Dewgong",
+    "type": "Water",
+    "hp": 120,
+    "weakness": "Metal",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "WWW",
+        "name": "Dual Blizzard",
+        "damage": null,
+        "effect": "Discard 2 [ W ] Energy from this Pokémon, and this attack does 60 damage to 2 of your opponent's Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Seel",
+    "attack_costs": [
+      "WWW"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 34,
+    "name": "Shellder",
+    "type": "Water",
+    "hp": 60,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "WC",
+        "name": "Water Gun",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "WC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 35,
+    "name": "Cloyster",
+    "type": "Water",
+    "hp": 120,
+    "weakness": "Metal",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "WWC",
+        "name": "Blizzard",
+        "damage": 60,
+        "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Shellder",
+    "attack_costs": [
+      "WWC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 36,
+    "name": "Jynx",
+    "type": "Water",
+    "hp": 80,
+    "weakness": "Metal",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "W",
+        "name": "Slap",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "W"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 37,
+    "name": "Lapras",
+    "type": "Water",
+    "hp": 100,
+    "weakness": "Metal",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "W",
+        "name": "Ice Blade",
+        "damage": null,
+        "effect": "This attack does 20 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "W"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 38,
+    "name": "Palkia",
+    "type": "Water",
+    "hp": 120,
+    "weakness": "Lightning",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "WWC",
+        "name": "Spacial Rend",
+        "damage": 70,
+        "effect": "If your opponent has a Stadium in play, discard it."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "WWC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 39,
+    "name": "Basculin",
+    "type": "Water",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "WC",
+        "name": "Rock Head",
+        "damage": 40,
+        "effect": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "WC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 40,
+    "name": "Froakie",
+    "type": "Water",
+    "hp": 60,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "W",
+        "name": "Pound",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "W"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 41,
+    "name": "Frogadier",
+    "type": "Water",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "WW",
+        "name": "Wave Splash",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Froakie",
+    "attack_costs": [
+      "WW"
+    ],
+    "ability": "Sudden Duplication",
+    "ability_effect": "Once during your turn, when you play this card from your hand to evolve 1 of your Pokémon, you may use this Ability. Put a random Frogadier from your deck onto your Bench."
+  },
+  {
+    "set": "C1",
+    "number": 42,
+    "name": "Mega Greninja ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "Lightning",
+    "retreat": 0,
+    "attacks": [
+      {
+        "cost": "WW",
+        "name": "Splash of Darkness",
+        "damage": 100,
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Frogadier",
+    "attack_costs": [
+      "WW"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 43,
+    "name": "Pikachu ex",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Pika Punch",
+        "damage": 30,
+        "effect": ""
+      },
+      {
+        "cost": "LLC",
+        "name": "Thundertail",
+        "damage": 130,
+        "effect": "Discard 2 [ L ] Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "L",
+      "LLC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 44,
+    "name": "Voltorb",
+    "type": "Lightning",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Rollout",
+        "damage": 10,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 45,
+    "name": "Electrode",
+    "type": "Lightning",
+    "hp": 90,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Self-Destruct",
+        "damage": 90,
+        "effect": "This Pokémon also does 90 damage to itself."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Voltorb",
+    "attack_costs": [
+      "CC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 46,
+    "name": "Stunfisk",
+    "type": "Lightning",
+    "hp": 100,
+    "weakness": "Fighting",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "LLC",
+        "name": "Electric Ball",
+        "damage": 80,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "LLC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 47,
+    "name": "Zeraora",
+    "type": "Lightning",
+    "hp": 90,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "LL",
+        "name": "Thunderbolt",
+        "damage": 90,
+        "effect": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "LL"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 48,
+    "name": "Pawmi",
+    "type": "Lightning",
+    "hp": 40,
+    "weakness": "Fighting",
+    "retreat": 0,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Zap Kick",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "L"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 49,
+    "name": "Pawmo",
+    "type": "Lightning",
+    "hp": 80,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Electric Punch",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Pawmi",
+    "attack_costs": [
+      "L"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 50,
+    "name": "Pawmot",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Mach Bolt",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Pawmo",
+    "attack_costs": [
+      "L"
+    ],
+    "ability": "Electrocreation",
+    "ability_effect": "Once during your turn, you may take a [ L ] Energy from your Energy Zone and attach it to the [ L ] Pokémon in the Active Spot."
+  },
+  {
+    "set": "C1",
+    "number": 51,
+    "name": "Jigglypuff",
+    "type": "Psychic",
+    "hp": 50,
+    "weakness": "Metal",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PP",
+        "name": "Soothing Lullaby",
+        "damage": 30,
+        "effect": "Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pokémon is still Asleep."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "PP"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 52,
+    "name": "Wigglytuff",
+    "type": "Psychic",
+    "hp": 100,
+    "weakness": "Metal",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "PP",
+        "name": "Do the Wave 30x",
+        "damage": null,
+        "effect": "This attack does 30 damage for each of your Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Jigglypuff",
+    "attack_costs": [
+      "PP"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 53,
+    "name": "Abra",
+    "type": "Psychic",
+    "hp": 50,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Beam",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 54,
+    "name": "Kadabra",
+    "type": "Psychic",
+    "hp": 80,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PC",
+        "name": "Psychic Sphere",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Abra",
+    "attack_costs": [
+      "PC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 55,
+    "name": "Alakazam",
+    "type": "Psychic",
+    "hp": 130,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PC",
+        "name": "Mind Jack 50+",
+        "damage": null,
+        "effect": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Kadabra",
+    "attack_costs": [
+      "PC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 56,
+    "name": "Mega Mewtwo X ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "Darkness",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "PPC",
+        "name": "Dual Impact 100+",
+        "damage": null,
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "PPC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 57,
+    "name": "Mew ex",
+    "type": "Psychic",
+    "hp": 130,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Secret Guidance",
+        "damage": null,
+        "effect": "Flip 3 coins. Take an amount of [ P ] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [ P ] Pokémon in any way you like."
+      },
+      {
+        "cost": "PC",
+        "name": "Psyburn",
+        "damage": 60,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P",
+      "PC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 58,
+    "name": "Marill",
+    "type": "Psychic",
+    "hp": 60,
+    "weakness": "Metal",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Rollout",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 59,
+    "name": "Azumarill",
+    "type": "Psychic",
+    "hp": 120,
+    "weakness": "Metal",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "PC",
+        "name": "Rabbit Jumping 60x",
+        "damage": null,
+        "effect": "Flip 2 coins. This attack does 60 damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Marill",
+    "attack_costs": [
+      "PC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 60,
+    "name": "Espeon",
+    "type": "Psychic",
+    "hp": 90,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Brainwave 10+",
+        "damage": null,
+        "effect": "This attack does 20 more damage for each [ P ] Energy attached to this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Eevee",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 61,
+    "name": "Wobbuffet",
+    "type": "Psychic",
+    "hp": 90,
+    "weakness": "Darkness",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Headbutt Bounce",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 62,
+    "name": "Deoxys",
+    "type": "Psychic",
+    "hp": 100,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PPC",
+        "name": "Psycho Boost",
+        "damage": 100,
+        "effect": "During your next turn, this Pokémon's Psycho Boost does −50 damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "PPC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 63,
+    "name": "Mimikyu",
+    "type": "Psychic",
+    "hp": 70,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Dress Up 20+",
+        "damage": null,
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 64,
+    "name": "Cosmog",
+    "type": "Psychic",
+    "hp": 60,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Dust Gathering",
+        "damage": null,
+        "effect": "Draw a card."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 65,
+    "name": "Cosmoem",
+    "type": "Psychic",
+    "hp": 100,
+    "weakness": "Darkness",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Ram",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Cosmog",
+    "attack_costs": [
+      "CC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 66,
+    "name": "Lunala",
+    "type": "Psychic",
+    "hp": 150,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PP",
+        "name": "Wings of the Moone",
+        "damage": 110,
+        "effect": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Cosmoem",
+    "attack_costs": [
+      "PP"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 67,
+    "name": "Diglett",
+    "type": "Fighting",
+    "hp": 50,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "F",
+        "name": "Dig",
+        "damage": 10,
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "F"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 68,
+    "name": "Dugtrio",
+    "type": "Fighting",
+    "hp": 90,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "F",
+        "name": "Triple Smash 30x",
+        "damage": null,
+        "effect": "Flip 3 coins. This attack does 30 damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Diglett",
+    "attack_costs": [
+      "F"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 69,
+    "name": "Rhyhorn",
+    "type": "Fighting",
+    "hp": 80,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "F",
+        "name": "Lunge Out",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "F"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 70,
+    "name": "Rhydon",
+    "type": "Fighting",
+    "hp": 110,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "FF",
+        "name": "Megahorn",
+        "damage": 100,
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Rhyhorn",
+    "attack_costs": [
+      "FF"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 71,
+    "name": "Rhyperior",
+    "type": "Fighting",
+    "hp": 160,
+    "weakness": "Grass",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "FFF",
+        "name": "Earthen Press",
+        "damage": 110,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Rhydon",
+    "attack_costs": [
+      "FFF"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 72,
+    "name": "Sudowoodo",
+    "type": "Fighting",
+    "hp": 100,
+    "weakness": "Grass",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Elbow Strike",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 73,
+    "name": "Paldean Wooper",
+    "type": "Fighting",
+    "hp": 60,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "F",
+        "name": "Mud-Slap",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "F"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 74,
+    "name": "Paldean Clodsire",
+    "type": "Fighting",
+    "hp": 130,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "FFF",
+        "name": "Earthquake",
+        "damage": 130,
+        "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Paldean Wooper",
+    "attack_costs": [
+      "FFF"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 75,
+    "name": "Larvitar",
+    "type": "Fighting",
+    "hp": 50,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Bite",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 76,
+    "name": "Pupitar",
+    "type": "Fighting",
+    "hp": 100,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Amass",
+        "damage": null,
+        "effect": "Take 2 [ F ] Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Larvitar",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 77,
+    "name": "Barboach",
+    "type": "Fighting",
+    "hp": 60,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "F",
+        "name": "Vibration",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "F"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 78,
+    "name": "Whiscash",
+    "type": "Fighting",
+    "hp": 120,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "F",
+        "name": "Power Press 40+",
+        "damage": null,
+        "effect": "If this Pokémon has at least 3 extra [ F ] Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Barboach",
+    "attack_costs": [
+      "F"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 79,
+    "name": "Rockruff",
+    "type": "Fighting",
+    "hp": 70,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "F",
+        "name": "Paw Shake Punch",
+        "damage": 10,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "F"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 80,
+    "name": "Lycanroc ex",
+    "type": "Fighting",
+    "hp": 150,
+    "weakness": "Grass",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "FC",
+        "name": "Slashing Claw",
+        "damage": 70,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Rockruff",
+    "attack_costs": [
+      "FC"
+    ],
+    "ability": "Reflexive Retaliation",
+    "ability_effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 30 damage to the Attacking Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 81,
+    "name": "Gastly",
+    "type": "Darkness",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "D",
+        "name": "Severe Gas",
+        "damage": null,
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "D"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 82,
+    "name": "Haunter",
+    "type": "Darkness",
+    "hp": 80,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "D",
+        "name": "Suffocating Gas",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Gastly",
+    "attack_costs": [
+      "D"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 83,
+    "name": "Gengar",
+    "type": "Darkness",
+    "hp": 130,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "D",
+        "name": "Twilight Poison",
+        "damage": 50,
+        "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Haunter",
+    "attack_costs": [
+      "D"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 84,
+    "name": "Umbreon",
+    "type": "Darkness",
+    "hp": 90,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "D",
+        "name": "Moonlit Raid 30+",
+        "damage": null,
+        "effect": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 50 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Eevee",
+    "attack_costs": [
+      "D"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 85,
+    "name": "Mega Tyranitar ex",
+    "type": "Darkness",
+    "hp": 240,
+    "weakness": "Grass",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "DDCC",
+        "name": "Crushing Rampage",
+        "damage": 180,
+        "effect": "Discard the top 2 cards of your deck."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Pupitar",
+    "attack_costs": [
+      "DDCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 86,
+    "name": "Seviper",
+    "type": "Darkness",
+    "hp": 80,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "DD",
+        "name": "Venomous Fang",
+        "damage": 40,
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "DD"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 87,
+    "name": "Zorua",
+    "type": "Darkness",
+    "hp": 60,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Scratch",
+        "damage": 10,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 88,
+    "name": "Zoroark",
+    "type": "Darkness",
+    "hp": 100,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Foul Play",
+        "damage": null,
+        "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Zorua",
+    "attack_costs": [
+      "CC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 89,
+    "name": "Nickit",
+    "type": "Darkness",
+    "hp": 60,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "D",
+        "name": "Rear Kick",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "D"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 90,
+    "name": "Thievul",
+    "type": "Darkness",
+    "hp": 100,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "DD",
+        "name": "Claw Slash",
+        "damage": 70,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Nickit",
+    "attack_costs": [
+      "DD"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 91,
+    "name": "Mega Skarmory ex",
+    "type": "Metal",
+    "hp": 170,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "MMC",
+        "name": "Shredding Claw 90+",
+        "damage": null,
+        "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "MMC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 92,
+    "name": "Dialga",
+    "type": "Metal",
+    "hp": 120,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "MMC",
+        "name": "Roar of Time",
+        "damage": 70,
+        "effect": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "MMC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 93,
+    "name": "Ferroseed",
+    "type": "Metal",
+    "hp": 70,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "MM",
+        "name": "Pierce",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "MM"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 94,
+    "name": "Ferrothorn",
+    "type": "Metal",
+    "hp": 120,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "MMM",
+        "name": "Hammer In",
+        "damage": 90,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Ferroseed",
+    "attack_costs": [
+      "MMM"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 95,
+    "name": "Solgaleo",
+    "type": "Metal",
+    "hp": 160,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "MMM",
+        "name": "Claws of the Sunne 90+",
+        "damage": null,
+        "effect": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Cosmoem",
+    "attack_costs": [
+      "MMM"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 96,
+    "name": "Meltan",
+    "type": "Metal",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "MC",
+        "name": "Ram",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "MC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 97,
+    "name": "Melmetal",
+    "type": "Metal",
+    "hp": 120,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "MMC",
+        "name": "Confront",
+        "damage": 70,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Meltan",
+    "attack_costs": [
+      "MMC"
+    ],
+    "ability": "Metal Scrum",
+    "ability_effect": "As long as this Pokémon is in play, all of your [ M ] Pokémon take −20 damage from attacks from your opponent's Pokémon. This effect doesn't stack."
+  },
+  {
+    "set": "C1",
+    "number": 98,
+    "name": "Dratini",
+    "type": "Dragon",
+    "hp": 70,
+    "weakness": "none",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Hook",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 99,
+    "name": "Dragonair",
+    "type": "Dragon",
+    "hp": 100,
+    "weakness": "none",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "CCC",
+        "name": "Beam",
+        "damage": 60,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Dratini",
+    "attack_costs": [
+      "CCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 100,
+    "name": "Mega Dragonite ex",
+    "type": "Dragon",
+    "hp": 240,
+    "weakness": "none",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "WLCCC",
+        "name": "Draconic Meteor",
+        "damage": null,
+        "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Dragonair",
+    "attack_costs": [
+      "WLCCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 101,
+    "name": "Giratina ex",
+    "type": "Dragon",
+    "hp": 150,
+    "weakness": "none",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Slash",
+        "damage": 50,
+        "effect": ""
+      },
+      {
+        "cost": "GPC",
+        "name": "Dragon Impact",
+        "damage": 140,
+        "effect": "Discard 2 random Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CC",
+      "GPC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 102,
+    "name": "Pidgey",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Find a Friend",
+        "damage": null,
+        "effect": "Put 1 random [ C ] Pokémon from your deck into your hand."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 103,
+    "name": "Pidgeotto",
+    "type": "Colorless",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Cutting Wind",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Pidgey",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 104,
+    "name": "Pidgeot",
+    "type": "Colorless",
+    "hp": 130,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Clean Hit 40+",
+        "damage": null,
+        "effect": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 80 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Pidgeotto",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 105,
+    "name": "Spearow",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Flap",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 106,
+    "name": "Fearow",
+    "type": "Colorless",
+    "hp": 90,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Drill Peck",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Spearow",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 107,
+    "name": "Eevee",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Signs of Evolution",
+        "damage": null,
+        "effect": "Put a random card that evolves from Eevee from your deck into your hand."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 108,
+    "name": "Porygon",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Powered Ball",
+        "damage": 30,
+        "effect": "Discard a random Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 109,
+    "name": "Porygon2",
+    "type": "Colorless",
+    "hp": 90,
+    "weakness": "Fighting",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Tackle",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Porygon",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 110,
+    "name": "Porygon-Z",
+    "type": "Colorless",
+    "hp": 130,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Overdrive Smash",
+        "damage": 50,
+        "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +50 damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Porygon2",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 111,
+    "name": "Snorlax",
+    "type": "Colorless",
+    "hp": 130,
+    "weakness": "Fighting",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "CCCC",
+        "name": "Body Slam",
+        "damage": 80,
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CCCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 112,
+    "name": "Zangoose",
+    "type": "Colorless",
+    "hp": 80,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Claw Slash",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ],
+    "ability": "Immunity",
+    "ability_effect": "This Pokémon can't be affected by any Special Conditions."
+  },
+  {
+    "set": "C1",
+    "number": 113,
+    "name": "Bidoof",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Gnaw",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 114,
+    "name": "Bibarel",
+    "type": "Colorless",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "CCC",
+        "name": "Strength",
+        "damage": 80,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Bidoof",
+    "attack_costs": [
+      "CCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 115,
+    "name": "Buneary",
+    "type": "Colorless",
+    "hp": 50,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Rabbit Jumping 20x",
+        "damage": null,
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 116,
+    "name": "Lopunny",
+    "type": "Colorless",
+    "hp": 100,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Rabbit Jumping 40x",
+        "damage": null,
+        "effect": "Flip 2 coins. This attack does 40 damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Buneary",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 117,
+    "name": "Stufful",
+    "type": "Colorless",
+    "hp": 70,
+    "weakness": "Fighting",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Beat",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 118,
+    "name": "Bewear ex",
+    "type": "Colorless",
+    "hp": 160,
+    "weakness": "Fighting",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "CCC",
+        "name": "Hyper Lariat 100+",
+        "damage": null,
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Stufful",
+    "attack_costs": [
+      "CCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 119,
+    "name": "Sweet Honey",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Item"
+  },
+  {
+    "set": "C1",
+    "number": 120,
+    "name": "Super Potion",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Item"
+  },
+  {
+    "set": "C1",
+    "number": 121,
+    "name": "Max Repel",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Item"
+  },
+  {
+    "set": "C1",
+    "number": 122,
+    "name": "Full Heal",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Item"
+  },
+  {
+    "set": "C1",
+    "number": 123,
+    "name": "Eviolite",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Tool"
+  },
+  {
+    "set": "C1",
+    "number": 124,
+    "name": "Light Ball",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Tool"
+  },
+  {
+    "set": "C1",
+    "number": 125,
+    "name": "Lorelei",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 126,
+    "name": "Blue's Provocation",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 127,
+    "name": "Serena's Choice",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 128,
+    "name": "Rika",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 129,
+    "name": "Poké Mart Guy",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 130,
+    "name": "Rising Star",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 131,
+    "name": "Abandoned Station",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Stadium"
+  },
+  {
+    "set": "C1",
+    "number": 132,
+    "name": "Venusaur",
+    "type": "Grass",
+    "hp": 150,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "GCCC",
+        "name": "Solar Beam",
+        "damage": 90,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Ivysaur",
+    "attack_costs": [
+      "GCCC"
+    ],
+    "ability": "Sunny Heal",
+    "ability_effect": "Once during your turn, you may heal 30 damage from your Active Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 133,
+    "name": "Exeggcute",
+    "type": "Grass",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Nap",
+        "damage": null,
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 134,
+    "name": "Deerling",
+    "type": "Grass",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "GC",
+        "name": "Flop",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "GC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 135,
+    "name": "Ribombee",
+    "type": "Grass",
+    "hp": 70,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "G",
+        "name": "Bug Buzz",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Cutiefly",
+    "attack_costs": [
+      "G"
+    ],
+    "ability": "Honey Gather",
+    "ability_effect": "Once during your turn, you may use this Ability. Put a rental card into your hand."
+  },
+  {
+    "set": "C1",
+    "number": 136,
+    "name": "Charizard",
+    "type": "Fire",
+    "hp": 150,
+    "weakness": "Water",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "RRC",
+        "name": "Fire Wing",
+        "damage": 90,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Charmeleon",
+    "attack_costs": [
+      "RRC"
+    ],
+    "ability": "Flame Aura",
+    "ability_effect": "Whenever you attach a [ R ] Energy from your Energy Zone to this Pokémon, do 30 damage to your opponent's Active Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 137,
+    "name": "Raboot",
+    "type": "Fire",
+    "hp": 70,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Headbutt",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Scorbunny",
+    "attack_costs": [
+      "C"
+    ],
+    "ability": "Jumping Coach",
+    "ability_effect": "As long as this Pokémon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 138,
+    "name": "Ceruledge",
+    "type": "Fire",
+    "hp": 120,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "RRC",
+        "name": "Rally Back 70+",
+        "damage": null,
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 70 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Charcadet",
+    "attack_costs": [
+      "RRC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 139,
+    "name": "Blastoise",
+    "type": "Water",
+    "hp": 150,
+    "weakness": "Lightning",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "WWW",
+        "name": "Surf",
+        "damage": 100,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Wartortle",
+    "attack_costs": [
+      "WWW"
+    ],
+    "ability": "Aqua Charge",
+    "ability_effect": "Once during your turn, you may take a [ W ] Energy from your Energy Zone and attach it to this Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 140,
+    "name": "Palkia",
+    "type": "Water",
+    "hp": 120,
+    "weakness": "Lightning",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "WWC",
+        "name": "Spacial Rend",
+        "damage": 70,
+        "effect": "If your opponent has a Stadium in play, discard it."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "WWC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 141,
+    "name": "Frogadier",
+    "type": "Water",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "WW",
+        "name": "Wave Splash",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Froakie",
+    "attack_costs": [
+      "WW"
+    ],
+    "ability": "Sudden Duplication",
+    "ability_effect": "Once during your turn, when you play this card from your hand to evolve 1 of your Pokémon, you may use this Ability. Put a random Frogadier from your deck onto your Bench."
+  },
+  {
+    "set": "C1",
+    "number": 142,
+    "name": "Pawmot",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Mach Bolt",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Pawmo",
+    "attack_costs": [
+      "L"
+    ],
+    "ability": "Electrocreation",
+    "ability_effect": "Once during your turn, you may take a [ L ] Energy from your Energy Zone and attach it to the [ L ] Pokémon in the Active Spot."
+  },
+  {
+    "set": "C1",
+    "number": 143,
+    "name": "Mimikyu",
+    "type": "Psychic",
+    "hp": 70,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Dress Up 20+",
+        "damage": null,
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 144,
+    "name": "Cosmoem",
+    "type": "Psychic",
+    "hp": 100,
+    "weakness": "Darkness",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Ram",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Cosmog",
+    "attack_costs": [
+      "CC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 145,
+    "name": "Larvitar",
+    "type": "Fighting",
+    "hp": 50,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Bite",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 146,
+    "name": "Pupitar",
+    "type": "Fighting",
+    "hp": 100,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Amass",
+        "damage": null,
+        "effect": "Take 2 [ F ] Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Larvitar",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 147,
+    "name": "Paldean Clodsire",
+    "type": "Fighting",
+    "hp": 130,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "FFF",
+        "name": "Earthquake",
+        "damage": 130,
+        "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Paldean Wooper",
+    "attack_costs": [
+      "FFF"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 148,
+    "name": "Gengar",
+    "type": "Darkness",
+    "hp": 130,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "D",
+        "name": "Twilight Poison",
+        "damage": 50,
+        "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Haunter",
+    "attack_costs": [
+      "D"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 149,
+    "name": "Dialga",
+    "type": "Metal",
+    "hp": 120,
+    "weakness": "Fire",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "MMC",
+        "name": "Roar of Time",
+        "damage": 70,
+        "effect": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "MMC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 150,
+    "name": "Melmetal",
+    "type": "Metal",
+    "hp": 120,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "MMC",
+        "name": "Confront",
+        "damage": 70,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Meltan",
+    "attack_costs": [
+      "MMC"
+    ],
+    "ability": "Metal Scrum",
+    "ability_effect": "As long as this Pokémon is in play, all of your [ M ] Pokémon take −20 damage from attacks from your opponent's Pokémon. This effect doesn't stack."
+  },
+  {
+    "set": "C1",
+    "number": 151,
+    "name": "Bidoof",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Gnaw",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 152,
+    "name": "Sweet Honey",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Item"
+  },
+  {
+    "set": "C1",
+    "number": 153,
+    "name": "Alolan Exeggutor ex",
+    "type": "Grass",
+    "hp": 180,
+    "weakness": "Fire",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "GGG",
+        "name": "Long-Neck Hammering",
+        "damage": 100,
+        "effect": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 50 damage to it."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Exeggcute",
+    "attack_costs": [
+      "GGG"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 154,
+    "name": "Fuecoco ex",
+    "type": "Fire",
+    "hp": 130,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "R",
+        "name": "Bite",
+        "damage": 30,
+        "effect": ""
+      },
+      {
+        "cost": "RC",
+        "name": "Feisty Flames 50+",
+        "damage": null,
+        "effect": "If this Pokémon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "R",
+      "RC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 155,
+    "name": "Mega Greninja ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "Lightning",
+    "retreat": 0,
+    "attacks": [
+      {
+        "cost": "WW",
+        "name": "Splash of Darkness",
+        "damage": 100,
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Frogadier",
+    "attack_costs": [
+      "WW"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 156,
+    "name": "Pikachu ex",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Pika Punch",
+        "damage": 30,
+        "effect": ""
+      },
+      {
+        "cost": "LLC",
+        "name": "Thundertail",
+        "damage": 130,
+        "effect": "Discard 2 [ L ] Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "L",
+      "LLC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 157,
+    "name": "Mega Mewtwo X ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "Darkness",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "PPC",
+        "name": "Dual Impact 100+",
+        "damage": null,
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "PPC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 158,
+    "name": "Mew ex",
+    "type": "Psychic",
+    "hp": 130,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Secret Guidance",
+        "damage": null,
+        "effect": "Flip 3 coins. Take an amount of [ P ] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [ P ] Pokémon in any way you like."
+      },
+      {
+        "cost": "PC",
+        "name": "Psyburn",
+        "damage": 60,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P",
+      "PC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 159,
+    "name": "Lycanroc ex",
+    "type": "Fighting",
+    "hp": 150,
+    "weakness": "Grass",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "FC",
+        "name": "Slashing Claw",
+        "damage": 70,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Rockruff",
+    "attack_costs": [
+      "FC"
+    ],
+    "ability": "Reflexive Retaliation",
+    "ability_effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 30 damage to the Attacking Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 160,
+    "name": "Mega Tyranitar ex",
+    "type": "Darkness",
+    "hp": 240,
+    "weakness": "Grass",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "DDCC",
+        "name": "Crushing Rampage",
+        "damage": 180,
+        "effect": "Discard the top 2 cards of your deck."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Pupitar",
+    "attack_costs": [
+      "DDCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 161,
+    "name": "Mega Skarmory ex",
+    "type": "Metal",
+    "hp": 170,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "MMC",
+        "name": "Shredding Claw 90+",
+        "damage": null,
+        "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "MMC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 162,
+    "name": "Mega Dragonite ex",
+    "type": "Dragon",
+    "hp": 240,
+    "weakness": "none",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "WLCCC",
+        "name": "Draconic Meteor",
+        "damage": null,
+        "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Dragonair",
+    "attack_costs": [
+      "WLCCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 163,
+    "name": "Giratina ex",
+    "type": "Dragon",
+    "hp": 150,
+    "weakness": "none",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Slash",
+        "damage": 50,
+        "effect": ""
+      },
+      {
+        "cost": "GPC",
+        "name": "Dragon Impact",
+        "damage": 140,
+        "effect": "Discard 2 random Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CC",
+      "GPC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 164,
+    "name": "Bewear ex",
+    "type": "Colorless",
+    "hp": 160,
+    "weakness": "Fighting",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "CCC",
+        "name": "Hyper Lariat 100+",
+        "damage": null,
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Stufful",
+    "attack_costs": [
+      "CCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 165,
+    "name": "Lorelei",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 166,
+    "name": "Blue's Provocation",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 167,
+    "name": "Serena's Choice",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 168,
+    "name": "Rika",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 169,
+    "name": "Poké Mart Guy",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 170,
+    "name": "Rising Star",
+    "type": "Trainer",
+    "hp": 0,
+    "weakness": "",
+    "retreat": 0,
+    "attacks": [],
+    "stage": "Trainer - Supporter"
+  },
+  {
+    "set": "C1",
+    "number": 171,
+    "name": "Alolan Exeggutor ex",
+    "type": "Grass",
+    "hp": 180,
+    "weakness": "Fire",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "GGG",
+        "name": "Long-Neck Hammering",
+        "damage": 100,
+        "effect": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 50 damage to it."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Exeggcute",
+    "attack_costs": [
+      "GGG"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 172,
+    "name": "Fuecoco ex",
+    "type": "Fire",
+    "hp": 130,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "R",
+        "name": "Bite",
+        "damage": 30,
+        "effect": ""
+      },
+      {
+        "cost": "RC",
+        "name": "Feisty Flames 50+",
+        "damage": null,
+        "effect": "If this Pokémon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "R",
+      "RC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 173,
+    "name": "Mega Greninja ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "Lightning",
+    "retreat": 0,
+    "attacks": [
+      {
+        "cost": "WW",
+        "name": "Splash of Darkness",
+        "damage": 100,
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Frogadier",
+    "attack_costs": [
+      "WW"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 174,
+    "name": "Pikachu ex",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Pika Punch",
+        "damage": 30,
+        "effect": ""
+      },
+      {
+        "cost": "LLC",
+        "name": "Thundertail",
+        "damage": 130,
+        "effect": "Discard 2 [ L ] Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "L",
+      "LLC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 175,
+    "name": "Mega Mewtwo X ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "Darkness",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "PPC",
+        "name": "Dual Impact 100+",
+        "damage": null,
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "PPC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 176,
+    "name": "Mew ex",
+    "type": "Psychic",
+    "hp": 130,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Secret Guidance",
+        "damage": null,
+        "effect": "Flip 3 coins. Take an amount of [ P ] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [ P ] Pokémon in any way you like."
+      },
+      {
+        "cost": "PC",
+        "name": "Psyburn",
+        "damage": 60,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P",
+      "PC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 177,
+    "name": "Lycanroc ex",
+    "type": "Fighting",
+    "hp": 150,
+    "weakness": "Grass",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "FC",
+        "name": "Slashing Claw",
+        "damage": 70,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Rockruff",
+    "attack_costs": [
+      "FC"
+    ],
+    "ability": "Reflexive Retaliation",
+    "ability_effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 30 damage to the Attacking Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 178,
+    "name": "Mega Tyranitar ex",
+    "type": "Darkness",
+    "hp": 240,
+    "weakness": "Grass",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "DDCC",
+        "name": "Crushing Rampage",
+        "damage": 180,
+        "effect": "Discard the top 2 cards of your deck."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Pupitar",
+    "attack_costs": [
+      "DDCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 179,
+    "name": "Mega Skarmory ex",
+    "type": "Metal",
+    "hp": 170,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "MMC",
+        "name": "Shredding Claw 90+",
+        "damage": null,
+        "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "MMC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 180,
+    "name": "Mega Dragonite ex",
+    "type": "Dragon",
+    "hp": 240,
+    "weakness": "none",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "WLCCC",
+        "name": "Draconic Meteor",
+        "damage": null,
+        "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Dragonair",
+    "attack_costs": [
+      "WLCCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 181,
+    "name": "Giratina ex",
+    "type": "Dragon",
+    "hp": 150,
+    "weakness": "none",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Slash",
+        "damage": 50,
+        "effect": ""
+      },
+      {
+        "cost": "GPC",
+        "name": "Dragon Impact",
+        "damage": 140,
+        "effect": "Discard 2 random Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CC",
+      "GPC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 182,
+    "name": "Bewear ex",
+    "type": "Colorless",
+    "hp": 160,
+    "weakness": "Fighting",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "CCC",
+        "name": "Hyper Lariat 100+",
+        "damage": null,
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Stufful",
+    "attack_costs": [
+      "CCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 183,
+    "name": "Pikachu ex",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Pika Punch",
+        "damage": 30,
+        "effect": ""
+      },
+      {
+        "cost": "LLC",
+        "name": "Thundertail",
+        "damage": 130,
+        "effect": "Discard 2 [ L ] Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "L",
+      "LLC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 184,
+    "name": "Jigglypuff",
+    "type": "Psychic",
+    "hp": 50,
+    "weakness": "Metal",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PP",
+        "name": "Soothing Lullaby",
+        "damage": 30,
+        "effect": "Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pokémon is still Asleep."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "PP"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 185,
+    "name": "Mega Mewtwo X ex",
+    "type": "",
+    "hp": 0,
+    "weakness": "Darkness",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "PPC",
+        "name": "Dual Impact 100+",
+        "damage": null,
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "PPC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 186,
+    "name": "Umbreon",
+    "type": "Darkness",
+    "hp": 90,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "D",
+        "name": "Moonlit Raid 30+",
+        "damage": null,
+        "effect": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 50 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Eevee",
+    "attack_costs": [
+      "D"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 187,
+    "name": "Celebi",
+    "type": "Grass",
+    "hp": 70,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Smack",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CC"
+    ],
+    "ability": "Time Recall",
+    "ability_effect": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)"
+  },
+  {
+    "set": "C1",
+    "number": 188,
+    "name": "Treecko",
+    "type": "Grass",
+    "hp": 60,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "G",
+        "name": "Pound",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "G"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 189,
+    "name": "Grovyle",
+    "type": "Grass",
+    "hp": 80,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "GG",
+        "name": "Slicing Snipe",
+        "damage": null,
+        "effect": "This attack does 50 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Treecko",
+    "attack_costs": [
+      "GG"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 190,
+    "name": "Cyndaquil",
+    "type": "Fire",
+    "hp": 60,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "R",
+        "name": "Singe",
+        "damage": null,
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "R"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 191,
+    "name": "Quilava",
+    "type": "Fire",
+    "hp": 80,
+    "weakness": "Water",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "RR",
+        "name": "Heat Wave",
+        "damage": 30,
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Cyndaquil",
+    "attack_costs": [
+      "RR"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 192,
+    "name": "Seel",
+    "type": "Water",
+    "hp": 70,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "WW",
+        "name": "Waterfall",
+        "damage": 40,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "WW"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 193,
+    "name": "Dewgong",
+    "type": "Water",
+    "hp": 120,
+    "weakness": "Metal",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "WWW",
+        "name": "Dual Blizzard",
+        "damage": null,
+        "effect": "Discard 2 [ W ] Energy from this Pokémon, and this attack does 60 damage to 2 of your opponent's Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Seel",
+    "attack_costs": [
+      "WWW"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 194,
+    "name": "Pachirisu",
+    "type": "Lightning",
+    "hp": 70,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Crackling Snap 30+",
+        "damage": null,
+        "effect": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "L"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 195,
+    "name": "Abra",
+    "type": "Psychic",
+    "hp": 50,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "P",
+        "name": "Beam",
+        "damage": 30,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "P"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 196,
+    "name": "Kadabra",
+    "type": "Psychic",
+    "hp": 80,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PC",
+        "name": "Psychic Sphere",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Abra",
+    "attack_costs": [
+      "PC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 197,
+    "name": "Alakazam",
+    "type": "Psychic",
+    "hp": 130,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PC",
+        "name": "Mind Jack 50+",
+        "damage": null,
+        "effect": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Kadabra",
+    "attack_costs": [
+      "PC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 198,
+    "name": "Lunala",
+    "type": "Psychic",
+    "hp": 150,
+    "weakness": "Darkness",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "PP",
+        "name": "Wings of the Moone",
+        "damage": 110,
+        "effect": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Cosmoem",
+    "attack_costs": [
+      "PP"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 199,
+    "name": "Rhyhorn",
+    "type": "Fighting",
+    "hp": 80,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "F",
+        "name": "Lunge Out",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "F"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 200,
+    "name": "Rhydon",
+    "type": "Fighting",
+    "hp": 110,
+    "weakness": "Grass",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "FF",
+        "name": "Megahorn",
+        "damage": 100,
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Rhyhorn",
+    "attack_costs": [
+      "FF"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 201,
+    "name": "Morpeko",
+    "type": "Darkness",
+    "hp": 70,
+    "weakness": "Grass",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "DD",
+        "name": "Energizer Wheel",
+        "damage": 50,
+        "effect": "Move 2 [ D ] Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "DD"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 202,
+    "name": "Solgaleo",
+    "type": "Metal",
+    "hp": 160,
+    "weakness": "Fire",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "MMM",
+        "name": "Claws of the Sunne 90+",
+        "damage": null,
+        "effect": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Cosmoem",
+    "attack_costs": [
+      "MMM"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 203,
+    "name": "Spearow",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Flap",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 204,
+    "name": "Fearow",
+    "type": "Colorless",
+    "hp": 90,
+    "weakness": "Lightning",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Drill Peck",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Spearow",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 205,
+    "name": "Hisuian Zorua",
+    "type": "Colorless",
+    "hp": 60,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Run Around",
+        "damage": null,
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 206,
+    "name": "Stufful",
+    "type": "Colorless",
+    "hp": 70,
+    "weakness": "Fighting",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "C",
+        "name": "Beat",
+        "damage": 20,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "C"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 207,
+    "name": "Mega Sceptile ex",
+    "type": "Grass",
+    "hp": 210,
+    "weakness": "Fire",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "GG",
+        "name": "Terminating Tail",
+        "damage": 130,
+        "effect": "Discard a [ G ] Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Grovyle",
+    "attack_costs": [
+      "GG"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 208,
+    "name": "Typhlosion ex",
+    "type": "Fire",
+    "hp": 180,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "RRC",
+        "name": "Destructive Inferno",
+        "damage": 110,
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Quilava",
+    "attack_costs": [
+      "RRC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 209,
+    "name": "Mega Gallade ex",
+    "type": "Fighting",
+    "hp": 220,
+    "weakness": "Psychic",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "FCC",
+        "name": "Resonating Blade 100+",
+        "damage": null,
+        "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Kirlia",
+    "attack_costs": [
+      "FCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 210,
+    "name": "Lycanroc ex",
+    "type": "Fighting",
+    "hp": 150,
+    "weakness": "Grass",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "FC",
+        "name": "Slashing Claw",
+        "damage": 70,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Rockruff",
+    "attack_costs": [
+      "FC"
+    ],
+    "ability": "Reflexive Retaliation",
+    "ability_effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 30 damage to the Attacking Pokémon."
+  },
+  {
+    "set": "C1",
+    "number": 211,
+    "name": "Mega Dragonite ex",
+    "type": "Dragon",
+    "hp": 240,
+    "weakness": "none",
+    "retreat": 4,
+    "attacks": [
+      {
+        "cost": "WLCCC",
+        "name": "Draconic Meteor",
+        "damage": null,
+        "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Dragonair",
+    "attack_costs": [
+      "WLCCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 212,
+    "name": "Mega Audino ex",
+    "type": "Colorless",
+    "hp": 180,
+    "weakness": "Fighting",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "CCC",
+        "name": "Heartfelt Shine",
+        "damage": 90,
+        "effect": "Heal 30 damage from each of your Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 213,
+    "name": "Hisuian Zoroark ex",
+    "type": "Colorless",
+    "hp": 150,
+    "weakness": "Fighting",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "CCC",
+        "name": "Spiteful Illusion 80+",
+        "damage": null,
+        "effect": "This attack does 20 more damage for each Pokémon in your discard pile."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Hisuian Zorua",
+    "attack_costs": [
+      "CCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 214,
+    "name": "Bewear ex",
+    "type": "Colorless",
+    "hp": 160,
+    "weakness": "Fighting",
+    "retreat": 3,
+    "attacks": [
+      {
+        "cost": "CCC",
+        "name": "Hyper Lariat 100+",
+        "damage": null,
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+      }
+    ],
+    "stage": "Pokémon - Stage 1 - Evolves from Stufful",
+    "attack_costs": [
+      "CCC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 215,
+    "name": "Fuecoco ex",
+    "type": "Fire",
+    "hp": 130,
+    "weakness": "Water",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "R",
+        "name": "Bite",
+        "damage": 30,
+        "effect": ""
+      },
+      {
+        "cost": "RC",
+        "name": "Feisty Flames 50+",
+        "damage": null,
+        "effect": "If this Pokémon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "R",
+      "RC"
+    ]
+  },
+  {
+    "set": "C1",
+    "number": 216,
+    "name": "Pawmot",
+    "type": "Lightning",
+    "hp": 120,
+    "weakness": "Fighting",
+    "retreat": 1,
+    "attacks": [
+      {
+        "cost": "L",
+        "name": "Mach Bolt",
+        "damage": 50,
+        "effect": ""
+      }
+    ],
+    "stage": "Pokémon - Stage 2 - Evolves from Pawmo",
+    "attack_costs": [
+      "L"
+    ],
+    "ability": "Electrocreation",
+    "ability_effect": "Once during your turn, you may take a [ L ] Energy from your Energy Zone and attach it to the [ L ] Pokémon in the Active Spot."
+  },
+  {
+    "set": "C1",
+    "number": 217,
+    "name": "Giratina ex",
+    "type": "Dragon",
+    "hp": 150,
+    "weakness": "none",
+    "retreat": 2,
+    "attacks": [
+      {
+        "cost": "CC",
+        "name": "Slash",
+        "damage": 50,
+        "effect": ""
+      },
+      {
+        "cost": "GPC",
+        "name": "Dragon Impact",
+        "damage": 140,
+        "effect": "Discard 2 random Energy from this Pokémon."
+      }
+    ],
+    "stage": "Pokémon - Basic",
+    "attack_costs": [
+      "CC",
+      "GPC"
+    ]
+  }
+]

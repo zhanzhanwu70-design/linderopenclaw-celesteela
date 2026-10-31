@@ -1,5 +1,10 @@
 # Long-Term Memory
 
+## PTCGP Meta 輸出規範（2026-10-31 Linder 指示）
+- Meta 分析一律只輸出推薦結果前五名，依調整後勝率 (勝場+12)/(總場+25) 排序。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 單次輸出總字數控制在 500 字內，超長就刪到合格；不用表格、不列第六名以後。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- Meta 對外輸出改為每三天彙整一次（Job `6ddc8b4c-6963-4c68-9f01-5773722fbd76`，每 72 小時）；每日分析仍照跑，但只寫本地筆記（Job `09c7940b-c32b-4336-928f-6f158947147d`，每日 20:05 Asia/Taipei，delivery=none）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 每日筆記寫入 `memory/YYYY-MM-DD.md` 與 `memory/ptcgp_meta_discord_YYYYMMDD.md`；每日排程不得再用 curl／message 發 Discord。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 
 ## Auto Video Processing
 - Linder 明確要求：看到 YouTube PTCGP 影片 URL 一律直接處理，不再等詢問

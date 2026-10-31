@@ -11,8 +11,11 @@ description: "查 PTCGP 台版卡包/卡片中文名、更新翻譯字典時用�
 - 卡包或卡片名稱翻譯錯誤被指出
 
 ## 來源
-- 英文卡包名與代碼：Limitless TCG Pocket，或 GitHub `flibustier/pokemon-tcg-pocket-database`
-- 台版中文名：Pokemon Hubs（pokemonhubs.com）、Bahamut（forum.gamer.com.tw）PTCGP 哈啦板
+- 英文卡包名與代碼：Limitless TCG Pocket（`pocket.limitlesstcg.com/cards/{SET}`）；GitHub `flibustier/pokemon-tcg-pocket-database` 常未同步新擴充（缺 C1），不可當唯一來源
+- **逐卡台版名稱首選**：`https://tcgpocket.centropkmn.com/zh_TW/{SET}` — 每張卡的 tile 有 `aria-label="#NNN 中文名"`，等同遊戲內台版正式譯名，可一次抓完整個系列
+  - 以**卡號**對照英文卡名（slug 不等於英文名，例如 slug `wooper-paldea` 對應卡名 `Paldean Wooper`）
+  - 抓取必須自行 utf-8 解碼（requests 預設 ISO-8859-1，中文會整批變亂碼並污染字典）
+- 卡包中文名：Pokemon Hubs（pokemonhubs.com）、Bahamut（gnn.gamer.com.tw）PTCGP 哈啦板；兩來源一致才算確認
 - 搜尋範本：`PTCG Pocket [English Name] 卡包名 繁體中文`
 
 ## 步驟

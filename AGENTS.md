@@ -79,13 +79,13 @@ If unsure whether text is user-visible, treat it as user-visible and do not use 
 - Video workspace: `video/`, `video2/`, `video3/`
 
 ### 卡圖工作區
-- 卡圖目錄: `cards/`（21個系列，DB 記錄 3232 張含 B3b）
+- 卡圖目錄: `cards/`（23個系列，DB 記錄 3792 張含 C1）
 - 卡圖下載: `scripts/download_limitless.sh`（從 Limitless TCG 網站）
 - 卡號格式: `{SET}_{NUM}.webp`，例如 `A1_001.webp`, `B2a_042.webp`
 
 ### 卡片資料庫
-- 完整資料: `memory/ptcgp_cards_full.json`（3465張卡，含 B4 233張新卡）
-- 欄位: name, type, hp, weakness, retreat, attacks
+- 完整資料: `memory/ptcgp_cards_full.json`（3792張卡，含 C1 雙元融合 217 張）
+- 欄位: name, type, hp, weakness, retreat, attacks（+ stage / ability / attack_details）
 - 查詢方式: `node -e "const d=require('./memory/ptcgp_cards_full.json'); console.log(d['A1_001'])"`
 - 卡圖路徑: `cards/{SET}/{SET}_{NUM}.webp`
 
@@ -100,7 +100,7 @@ If unsure whether text is user-visible, treat it as user-visible and do not use 
 3. 若需確認版本，再跑影像辨識
 4. 用編號精準查詢資料庫
 
-### 卡圖對應表（2026-06-30 更新）
+### 卡圖對應表（2026-10-31 更新）
 | 系列 | 目錄 | 說明 |
 |------|------|------|
 | A1 Genetic Apex | cards/A1/ | 286 |
@@ -123,10 +123,12 @@ If unsure whether text is user-visible, treat it as user-visible and do not use 
 | B3a Paradox Drive | cards/B3a/ | 109 |
 | B3b Everyday Wonders | cards/B3b/ | 90（2026-06-30 新卡包）|
 | B4 Ruler of Skies | cards/B4/ | 233（2026-07-30 新擴展）|
+| B4a Team Rocket's Ambition | cards/B4a/ | 110 |
+| C1 Dual Fusion 雙元融合 | cards/C1/ | 217（2026-10-29 新卡包，C系列首發）|
 | P-A Promo-A | cards/P-A/ | 117 |
 | P-B Promo-B | cards/P-B/ | 40 |
 
-> 卡圖總數：DB 記錄 3232 張（含 B3b 新卡 90 張）| 卡圖實際下載：僅 B2b/B3/B3a 部分有圖
+> 卡圖總數：DB 記錄 3792 張（含 C1 新卡 217 張）| 卡圖實際下載：B2b/B3/B3a/B4/C1 有圖
 
 ### YouTube 影片下載
 ```bash
@@ -172,6 +174,22 @@ OPENAI_API_KEY_DIR = /home/amr/.openclaw/secrets/openai-api-key.txt
 - 反省心得：`memory/meta_predictions/reflections.md`
 
 **預測格式**：3 種情境 + 最大機率 + 檢查日期（兩天後）
+
+### Meta 分析輸出格式（2026-10-31 Linder 規定）
+
+任何 Meta 分析輸出（自動排程或使用者提問）一律遵守：
+1. 只輸出推薦結果前五名，依調整後勝率 (勝場+12)/(總場+25) 排序。
+2. 總輸出字數 ≤ 500 字（含標點），超長就刪到合格。
+3. 全繁體中文，牌組名以 `ptcgp_deck_dictionary.json` 為準，禁英文名、禁即興機翻。
+4. 不用表格，用精簡 bullet；不列第六名以後、不貼長篇分析。
+5. 完整數據與變化寫入本地筆記，不塞進 Discord 貼文。
+
+### PTCGP Meta 排程（2026-10-31 調整）
+
+| 用途 | Job ID | 排程 | 行為 |
+|------|--------|------|------|
+| 每日記錄 | `09c7940b-c32b-4336-928f-6f158947147d` | 每日 20:05 Asia/Taipei | 只寫 `memory/YYYY-MM-DD.md` 與 `memory/ptcgp_meta_discord_YYYYMMDD.md`，delivery=none 不發 Discord |
+| 三日彙整 | `6ddc8b4c-6963-4c68-9f01-5773722fbd76` | 每 72 小時 | 讀最近三天筆記，輸出前五名、500 字內，announce 到 Discord `channel:1338836482420510764` |
 
 ### 每日台北時間 08:00 翻譯更新 Cron
 - Job ID: `72a0c6ef-3762-4ec5-b529-0cc1d9c585eb`
