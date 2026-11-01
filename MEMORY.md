@@ -6,6 +6,14 @@
 - Meta 對外輸出改為每三天彙整一次（Job `6ddc8b4c-6963-4c68-9f01-5773722fbd76`，每 72 小時）；每日分析仍照跑，但只寫本地筆記（Job `09c7940b-c32b-4336-928f-6f158947147d`，每日 20:05 Asia/Taipei，delivery=none）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 - 每日筆記寫入 `memory/YYYY-MM-DD.md` 與 `memory/ptcgp_meta_discord_YYYYMMDD.md`；每日排程不得再用 curl／message 發 Discord。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 
+## PTCGP Meta 分析流程規則（累積教訓，長期有效）
+- **跨日比較前必須用同一支 parser 重新解析當日 raw HTML**，並比對 row 數 + 錦標賽／對局數確認口徑；不可直接沿用前次留下的 JSON 快取（檔名與 raw 不同步會誤用舊快照）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **新分支的第一份 AWR 不能當定論**：需 N≥1500 且連續 2 日同方向、族群合併值同方向確認，才視為真實反轉；否則視為噪音。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **預測判定線**：靜止期與換包期都改用「崩解型／守住型」雙條件判定線，不要設「份額擴張門檻」型情境（已連續多日全滅）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **追蹤主力時必須同時列出同核心的所有分支版本**，否則會低估擴張幅度（自爆磁怪 → 密勒頓分支；忍蛙 → 水君／甲賀忍蛙／反制三分支）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **換包後必須同時維護新舊兩個 set 的頁面並在數字旁標註出自哪一頁**；舊頁凍結要寫「凍結」不可寫成「延續」。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **份額第一 = 環境靶心**：牌組被三方以上對位同時圍剿時會快速崩解，判讀崩壞原因要看對位結構而非只看勝率。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
 ## Auto Video Processing
 - Linder 明確要求：看到 YouTube PTCGP 影片 URL 一律直接處理，不再等詢問
 - 處理流程：下載 → 截圖分析 → 寫 wiki → 回報 Discord

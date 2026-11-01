@@ -1,0 +1,802 @@
+[
+ {
+  "name": "Mega Greninja ex",
+  "slug": "mega-greninja-ex-c1",
+  "share": 15.9763,
+  "w": 327,
+  "l": 362,
+  "d": 26,
+  "n": 715,
+  "awr": 45.81
+ },
+ {
+  "name": "Mega Charizard Y ex",
+  "slug": "mega-charizard-y-ex-b1a",
+  "share": 12.5444,
+  "w": 304,
+  "l": 270,
+  "d": 32,
+  "n": 606,
+  "awr": 50.08
+ },
+ {
+  "name": "Umbreon",
+  "slug": "umbreon-c1",
+  "share": 6.5089,
+  "w": 192,
+  "l": 155,
+  "d": 10,
+  "n": 357,
+  "awr": 53.4
+ },
+ {
+  "name": "Pikachu ex",
+  "slug": "pikachu-ex-c1",
+  "share": 6.0355,
+  "w": 126,
+  "l": 139,
+  "d": 12,
+  "n": 277,
+  "awr": 45.7
+ },
+ {
+  "name": "Greninja ex",
+  "slug": "greninja-ex-b1",
+  "share": 4.9704,
+  "w": 121,
+  "l": 106,
+  "d": 8,
+  "n": 235,
+  "awr": 51.15
+ },
+ {
+  "name": "Mega Mewtwo X ex",
+  "slug": "mega-mewtwo-x-ex-c1",
+  "share": 4.7337,
+  "w": 105,
+  "l": 119,
+  "d": 6,
+  "n": 230,
+  "awr": 45.88
+ },
+ {
+  "name": "Giratina ex",
+  "slug": "giratina-ex-c1",
+  "share": 3.5503,
+  "w": 114,
+  "l": 75,
+  "d": 10,
+  "n": 199,
+  "awr": 56.25
+ },
+ {
+  "name": "Miraidon ex",
+  "slug": "miraidon-ex-b3a",
+  "share": 3.5503,
+  "w": 88,
+  "l": 66,
+  "d": 8,
+  "n": 162,
+  "awr": 53.48
+ },
+ {
+  "name": "Alolan Exeggutor ex",
+  "slug": "alolan-exeggutor-ex-c1",
+  "share": 2.7219,
+  "w": 66,
+  "l": 52,
+  "d": 5,
+  "n": 123,
+  "awr": 52.7
+ },
+ {
+  "name": "Mega Manectric ex",
+  "slug": "mega-manectric-ex-b2b",
+  "share": 2.4852,
+  "w": 75,
+  "l": 49,
+  "d": 7,
+  "n": 131,
+  "awr": 55.77
+ },
+ {
+  "name": "Suicune ex",
+  "slug": "suicune-ex-a4a",
+  "share": 2.4852,
+  "w": 58,
+  "l": 51,
+  "d": 7,
+  "n": 116,
+  "awr": 49.65
+ },
+ {
+  "name": "Mega Altaria ex",
+  "slug": "mega-altaria-ex-b1",
+  "share": 2.3669,
+  "w": 54,
+  "l": 56,
+  "d": 1,
+  "n": 111,
+  "awr": 48.53
+ },
+ {
+  "name": "Mega Dragonite ex",
+  "slug": "mega-dragonite-ex-c1",
+  "share": 2.1302,
+  "w": 41,
+  "l": 54,
+  "d": 3,
+  "n": 98,
+  "awr": 43.09
+ },
+ {
+  "name": "Magnezone",
+  "slug": "magnezone-b1a",
+  "share": 1.7751,
+  "w": 35,
+  "l": 33,
+  "d": 1,
+  "n": 69,
+  "awr": 50.0
+ },
+ {
+  "name": "Hydreigon",
+  "slug": "hydreigon-b1",
+  "share": 1.7751,
+  "w": 42,
+  "l": 31,
+  "d": 4,
+  "n": 77,
+  "awr": 52.94
+ },
+ {
+  "name": "Paldean Clodsire",
+  "slug": "paldean-clodsire-c1",
+  "share": 1.7751,
+  "w": 39,
+  "l": 42,
+  "d": 3,
+  "n": 84,
+  "awr": 46.79
+ },
+ {
+  "name": "Azumarill",
+  "slug": "azumarill-c1",
+  "share": 1.5385,
+  "w": 31,
+  "l": 41,
+  "d": 1,
+  "n": 73,
+  "awr": 43.88
+ },
+ {
+  "name": "Dedenne ex",
+  "slug": "dedenne-ex-b3b",
+  "share": 1.3018,
+  "w": 19,
+  "l": 23,
+  "d": 1,
+  "n": 43,
+  "awr": 45.59
+ },
+ {
+  "name": "Raikou ex",
+  "slug": "raikou-ex-a4a",
+  "share": 1.3018,
+  "w": 12,
+  "l": 28,
+  "d": 2,
+  "n": 42,
+  "awr": 35.82
+ },
+ {
+  "name": "Umbreon ex",
+  "slug": "umbreon-ex-a4",
+  "share": 1.0651,
+  "w": 32,
+  "l": 25,
+  "d": 2,
+  "n": 59,
+  "awr": 52.38
+ },
+ {
+  "name": "Dragonair",
+  "slug": "dragonair-b4",
+  "share": 1.0651,
+  "w": 24,
+  "l": 22,
+  "d": 2,
+  "n": 48,
+  "awr": 49.32
+ },
+ {
+  "name": "Hoopa ex",
+  "slug": "hoopa-ex-b4",
+  "share": 1.0651,
+  "w": 18,
+  "l": 19,
+  "d": 2,
+  "n": 39,
+  "awr": 46.88
+ },
+ {
+  "name": "Mega Lucario ex",
+  "slug": "mega-lucario-ex-b3",
+  "share": 0.9467,
+  "w": 22,
+  "l": 17,
+  "d": 4,
+  "n": 43,
+  "awr": 50.0
+ },
+ {
+  "name": "Mega Gardevoir ex",
+  "slug": "mega-gardevoir-ex-b2",
+  "share": 0.9467,
+  "w": 18,
+  "l": 20,
+  "d": 0,
+  "n": 38,
+  "awr": 47.62
+ },
+ {
+  "name": "Butterfree",
+  "slug": "butterfree-b3b",
+  "share": 0.8284,
+  "w": 14,
+  "l": 21,
+  "d": 0,
+  "n": 35,
+  "awr": 43.33
+ },
+ {
+  "name": "Mew ex",
+  "slug": "mew-ex-c1",
+  "share": 0.8284,
+  "w": 12,
+  "l": 17,
+  "d": 1,
+  "n": 30,
+  "awr": 43.64
+ },
+ {
+  "name": "Mega Blaziken ex",
+  "slug": "mega-blaziken-ex-b1",
+  "share": 0.8284,
+  "w": 20,
+  "l": 20,
+  "d": 0,
+  "n": 40,
+  "awr": 49.23
+ },
+ {
+  "name": "Vespiquen ex",
+  "slug": "vespiquen-ex-b4",
+  "share": 0.7101,
+  "w": 13,
+  "l": 16,
+  "d": 0,
+  "n": 29,
+  "awr": 46.3
+ },
+ {
+  "name": "Indeedee ex",
+  "slug": "indeedee-ex-b1",
+  "share": 0.7101,
+  "w": 6,
+  "l": 14,
+  "d": 1,
+  "n": 21,
+  "awr": 39.13
+ },
+ {
+  "name": "Mega Tyranitar ex",
+  "slug": "mega-tyranitar-ex-c1",
+  "share": 0.7101,
+  "w": 7,
+  "l": 22,
+  "d": 0,
+  "n": 29,
+  "awr": 35.19
+ },
+ {
+  "name": "Mega Skarmory ex",
+  "slug": "mega-skarmory-ex-c1",
+  "share": 0.5917,
+  "w": 9,
+  "l": 14,
+  "d": 2,
+  "n": 25,
+  "awr": 42.0
+ },
+ {
+  "name": "Mega Sceptile ex",
+  "slug": "mega-sceptile-ex-b3",
+  "share": 0.5917,
+  "w": 16,
+  "l": 12,
+  "d": 0,
+  "n": 28,
+  "awr": 52.83
+ },
+ {
+  "name": "Team Rockets Slowking ex",
+  "slug": "team-rockets-slowking-ex-b4a",
+  "share": 0.4734,
+  "w": 3,
+  "l": 10,
+  "d": 0,
+  "n": 13,
+  "awr": 39.47
+ },
+ {
+  "name": "Pikachu ex",
+  "slug": "pikachu-ex-a1",
+  "share": 0.4734,
+  "w": 9,
+  "l": 9,
+  "d": 0,
+  "n": 18,
+  "awr": 48.84
+ },
+ {
+  "name": "Mega Garchomp ex",
+  "slug": "mega-garchomp-ex-p-b",
+  "share": 0.4734,
+  "w": 8,
+  "l": 7,
+  "d": 0,
+  "n": 15,
+  "awr": 50.0
+ },
+ {
+  "name": "Lycanroc ex",
+  "slug": "lycanroc-ex-c1",
+  "share": 0.4734,
+  "w": 7,
+  "l": 12,
+  "d": 1,
+  "n": 20,
+  "awr": 42.22
+ },
+ {
+  "name": "Greninja",
+  "slug": "greninja-a1",
+  "share": 0.4734,
+  "w": 2,
+  "l": 9,
+  "d": 0,
+  "n": 11,
+  "awr": 38.89
+ },
+ {
+  "name": "Lopunny",
+  "slug": "lopunny-c1",
+  "share": 0.355,
+  "w": 10,
+  "l": 10,
+  "d": 1,
+  "n": 21,
+  "awr": 47.83
+ },
+ {
+  "name": "Milotic ex",
+  "slug": "milotic-ex-b3b",
+  "share": 0.355,
+  "w": 6,
+  "l": 8,
+  "d": 0,
+  "n": 14,
+  "awr": 46.15
+ },
+ {
+  "name": "Mega Pidgeot ex",
+  "slug": "mega-pidgeot-ex-p-b",
+  "share": 0.355,
+  "w": 7,
+  "l": 10,
+  "d": 1,
+  "n": 18,
+  "awr": 44.19
+ },
+ {
+  "name": "Tyranitar",
+  "slug": "tyranitar-a2a",
+  "share": 0.355,
+  "w": 1,
+  "l": 7,
+  "d": 0,
+  "n": 8,
+  "awr": 39.39
+ },
+ {
+  "name": "Magnezone ex",
+  "slug": "magnezone-ex-b3",
+  "share": 0.355,
+  "w": 8,
+  "l": 7,
+  "d": 0,
+  "n": 15,
+  "awr": 50.0
+ },
+ {
+  "name": "Guzzlord ex",
+  "slug": "guzzlord-ex-a3a",
+  "share": 0.355,
+  "w": 11,
+  "l": 10,
+  "d": 0,
+  "n": 21,
+  "awr": 50.0
+ },
+ {
+  "name": "Koraidon ex",
+  "slug": "koraidon-ex-b3a",
+  "share": 0.355,
+  "w": 5,
+  "l": 7,
+  "d": 1,
+  "n": 13,
+  "awr": 44.74
+ },
+ {
+  "name": "Mega Sharpedo ex",
+  "slug": "mega-sharpedo-ex-b4",
+  "share": 0.355,
+  "w": 6,
+  "l": 11,
+  "d": 0,
+  "n": 17,
+  "awr": 42.86
+ },
+ {
+  "name": "Mega Sableye ex",
+  "slug": "mega-sableye-ex-b3b",
+  "share": 0.355,
+  "w": 4,
+  "l": 6,
+  "d": 2,
+  "n": 12,
+  "awr": 43.24
+ },
+ {
+  "name": "Zoroark ex",
+  "slug": "zoroark-ex-b3",
+  "share": 0.2367,
+  "w": 7,
+  "l": 7,
+  "d": 0,
+  "n": 14,
+  "awr": 48.72
+ },
+ {
+  "name": "Mega Charizard X ex B2b Mega Charizard Y ex",
+  "slug": "mega-charizard-x-ex-b2b-mega-charizard-y-ex-b1a",
+  "share": 0.2367,
+  "w": 4,
+  "l": 7,
+  "d": 0,
+  "n": 11,
+  "awr": 44.44
+ },
+ {
+  "name": "Giratina ex",
+  "slug": "giratina-ex-a2b",
+  "share": 0.2367,
+  "w": 11,
+  "l": 5,
+  "d": 1,
+  "n": 17,
+  "awr": 54.76
+ },
+ {
+  "name": "Flygon ex",
+  "slug": "flygon-ex-b3",
+  "share": 0.2367,
+  "w": 1,
+  "l": 3,
+  "d": 0,
+  "n": 4,
+  "awr": 44.83
+ },
+ {
+  "name": "Meowscarada ex",
+  "slug": "meowscarada-ex-b2a",
+  "share": 0.2367,
+  "w": 3,
+  "l": 5,
+  "d": 2,
+  "n": 10,
+  "awr": 42.86
+ },
+ {
+  "name": "Whiscash",
+  "slug": "whiscash-a3b",
+  "share": 0.2367,
+  "w": 2,
+  "l": 5,
+  "d": 0,
+  "n": 7,
+  "awr": 43.75
+ },
+ {
+  "name": "Flareon ex",
+  "slug": "flareon-ex-a3b",
+  "share": 0.2367,
+  "w": 1,
+  "l": 3,
+  "d": 0,
+  "n": 4,
+  "awr": 44.83
+ },
+ {
+  "name": "Mega Steelix ex",
+  "slug": "mega-steelix-ex-b1a",
+  "share": 0.2367,
+  "w": 1,
+  "l": 3,
+  "d": 0,
+  "n": 4,
+  "awr": 44.83
+ },
+ {
+  "name": "Gourgeist",
+  "slug": "gourgeist-b2",
+  "share": 0.1183,
+  "w": 5,
+  "l": 3,
+  "d": 0,
+  "n": 8,
+  "awr": 51.52
+ },
+ {
+  "name": "Mega Charizard X ex",
+  "slug": "mega-charizard-x-ex-b2b",
+  "share": 0.1183,
+  "w": 6,
+  "l": 3,
+  "d": 1,
+  "n": 10,
+  "awr": 51.43
+ },
+ {
+  "name": "Tapu Koko ex",
+  "slug": "tapu-koko-ex-a3a",
+  "share": 0.1183,
+  "w": 2,
+  "l": 2,
+  "d": 0,
+  "n": 4,
+  "awr": 48.28
+ },
+ {
+  "name": "Blacephalon ex",
+  "slug": "blacephalon-ex-b2",
+  "share": 0.1183,
+  "w": 4,
+  "l": 4,
+  "d": 0,
+  "n": 8,
+  "awr": 48.48
+ },
+ {
+  "name": "Dewgong",
+  "slug": "dewgong-c1",
+  "share": 0.1183,
+  "w": 4,
+  "l": 4,
+  "d": 0,
+  "n": 8,
+  "awr": 48.48
+ },
+ {
+  "name": "Wigglytuff ex",
+  "slug": "wigglytuff-ex-a1",
+  "share": 0.1183,
+  "w": 3,
+  "l": 3,
+  "d": 0,
+  "n": 6,
+  "awr": 48.39
+ },
+ {
+  "name": "Eevee ex",
+  "slug": "eevee-ex-a3b",
+  "share": 0.1183,
+  "w": 3,
+  "l": 3,
+  "d": 0,
+  "n": 6,
+  "awr": 48.39
+ },
+ {
+  "name": "Bellibolt ex",
+  "slug": "bellibolt-ex-b2a",
+  "share": 0.1183,
+  "w": 3,
+  "l": 4,
+  "d": 0,
+  "n": 7,
+  "awr": 46.88
+ },
+ {
+  "name": "Armarouge ex",
+  "slug": "armarouge-ex-b2a",
+  "share": 0.1183,
+  "w": 3,
+  "l": 3,
+  "d": 1,
+  "n": 7,
+  "awr": 46.88
+ },
+ {
+  "name": "Mega Venusaur ex",
+  "slug": "mega-venusaur-ex-b1a",
+  "share": 0.1183,
+  "w": 2,
+  "l": 3,
+  "d": 0,
+  "n": 5,
+  "awr": 46.67
+ },
+ {
+  "name": "Serperior",
+  "slug": "serperior-a1a",
+  "share": 0.1183,
+  "w": 1,
+  "l": 2,
+  "d": 0,
+  "n": 3,
+  "awr": 46.43
+ },
+ {
+  "name": "Jolteon ex",
+  "slug": "jolteon-ex-b1",
+  "share": 0.1183,
+  "w": 1,
+  "l": 2,
+  "d": 0,
+  "n": 3,
+  "awr": 46.43
+ },
+ {
+  "name": "Simisear",
+  "slug": "simisear-b1",
+  "share": 0.1183,
+  "w": 1,
+  "l": 2,
+  "d": 0,
+  "n": 3,
+  "awr": 46.43
+ },
+ {
+  "name": "Mega Rayquaza ex",
+  "slug": "mega-rayquaza-ex-b4",
+  "share": 0.1183,
+  "w": 1,
+  "l": 2,
+  "d": 0,
+  "n": 3,
+  "awr": 46.43
+ },
+ {
+  "name": "Pidgeot",
+  "slug": "pidgeot-c1",
+  "share": 0.1183,
+  "w": 1,
+  "l": 3,
+  "d": 0,
+  "n": 4,
+  "awr": 44.83
+ },
+ {
+  "name": "Vespiquen",
+  "slug": "vespiquen-c1",
+  "share": 0.1183,
+  "w": 1,
+  "l": 3,
+  "d": 0,
+  "n": 4,
+  "awr": 44.83
+ },
+ {
+  "name": "Rotom ex",
+  "slug": "rotom-ex-b4",
+  "share": 0.1183,
+  "w": 1,
+  "l": 3,
+  "d": 0,
+  "n": 4,
+  "awr": 44.83
+ },
+ {
+  "name": "Miltank",
+  "slug": "miltank-a4a",
+  "share": 0.1183,
+  "w": 1,
+  "l": 4,
+  "d": 0,
+  "n": 5,
+  "awr": 43.33
+ },
+ {
+  "name": "Mega Diancie ex",
+  "slug": "mega-diancie-ex-b3b",
+  "share": 0.1183,
+  "w": 0,
+  "l": 4,
+  "d": 0,
+  "n": 4,
+  "awr": 41.38
+ },
+ {
+  "name": "Umbreon",
+  "slug": "umbreon-a3b",
+  "share": 0.1183,
+  "w": 0,
+  "l": 1,
+  "d": 0,
+  "n": 1,
+  "awr": 46.15
+ },
+ {
+  "name": "Dragalge ex",
+  "slug": "dragalge-ex-b1",
+  "share": 0.1183,
+  "w": 0,
+  "l": 1,
+  "d": 0,
+  "n": 1,
+  "awr": 46.15
+ },
+ {
+  "name": "Melmetal ex",
+  "slug": "melmetal-ex-b1",
+  "share": 0.1183,
+  "w": 0,
+  "l": 1,
+  "d": 0,
+  "n": 1,
+  "awr": 46.15
+ },
+ {
+  "name": "Vaporeon ex",
+  "slug": "vaporeon-ex-b3",
+  "share": 0.1183,
+  "w": 0,
+  "l": 2,
+  "d": 0,
+  "n": 2,
+  "awr": 44.44
+ },
+ {
+  "name": "Pikachu ex",
+  "slug": "pikachu-ex-a2b",
+  "share": 0.1183,
+  "w": 0,
+  "l": 2,
+  "d": 0,
+  "n": 2,
+  "awr": 44.44
+ },
+ {
+  "name": "Oricorio",
+  "slug": "oricorio-a3",
+  "share": 0.1183,
+  "w": 0,
+  "l": 3,
+  "d": 0,
+  "n": 3,
+  "awr": 42.86
+ },
+ {
+  "name": "Fuecoco ex",
+  "slug": "fuecoco-ex-c1",
+  "share": 0.1183,
+  "w": 0,
+  "l": 1,
+  "d": 0,
+  "n": 1,
+  "awr": 46.15
+ }
+]

@@ -1,0 +1,4454 @@
+{
+ "Alolan Exeggutor ex Ribombee": {
+  "Mega Greninja ex Suicune ex": [
+   70.0,
+   10
+  ],
+  "Mega Greninja ex Greninja ex": [
+   50.0,
+   8
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   50.0,
+   8
+  ],
+  "Miraidon ex Magnezone": [
+   50.0,
+   8
+  ],
+  "Umbreon Hydreigon": [
+   100.0,
+   6
+  ],
+  "Giratina ex Dragonair": [
+   33.3,
+   6
+  ],
+  "Pikachu ex Pawmot": [
+   60.0,
+   5
+  ],
+  "Mega Charizard Y ex Entei ex": [
+   0.0,
+   5
+  ],
+  "Mega Manectric ex Heliolisk": [
+   25.0,
+   4
+  ],
+  "Greninja ex Mega Greninja ex": [
+   66.7,
+   3
+  ],
+  "Azumarill Lopunny": [
+   66.7,
+   3
+  ],
+  "Hoopa ex Mega Absol ex": [
+   66.7,
+   3
+  ],
+  "Mew ex Mega Diancie ex": [
+   100.0,
+   2
+  ],
+  "Hydreigon Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   50.0,
+   2
+  ],
+  "Pikachu ex Raikou ex": [
+   50.0,
+   2
+  ],
+  "Umbreon Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Alolan Exeggutor ex Leafeon ex": [
+   0.0,
+   2
+  ],
+  "Suicune ex Baxcalibur": [
+   0.0,
+   2
+  ],
+  "Mega Altaria ex Greninja": [
+   100.0,
+   1
+  ],
+  "Vespiquen ex Shuckle ex": [
+   100.0,
+   1
+  ],
+  "Mega Charizard X ex Mega Charizard Y ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Pichu": [
+   100.0,
+   1
+  ],
+  "Mega Sableye ex Darkrai ex": [
+   100.0,
+   1
+  ],
+  "Mega Greninja ex Greninja": [
+   100.0,
+   1
+  ],
+  "Armarouge ex Castform Sunny Form": [
+   100.0,
+   1
+  ],
+  "Mega Tyranitar ex Tyranitar": [
+   100.0,
+   1
+  ],
+  "Mega Sharpedo ex Chien-Pao ex": [
+   100.0,
+   1
+  ],
+  "Hoopa ex Mega Tyranitar ex": [
+   100.0,
+   1
+  ],
+  "Mega Charizard Y ex Charizard": [
+   100.0,
+   1
+  ],
+  "Guzzlord ex Indeedee ex": [
+   100.0,
+   1
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   100.0,
+   1
+  ],
+  "Bellibolt ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Flygon ex Sylveon ex": [
+   100.0,
+   1
+  ],
+  "Mega Sableye ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Butterfree Mega Sceptile ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Espeon": [
+   0.0,
+   1
+  ],
+  "Magnezone Miraidon ex": [
+   0.0,
+   1
+  ],
+  "Azumarill Raboot": [
+   0.0,
+   1
+  ],
+  "Mega Venusaur ex Ribombee": [
+   0.0,
+   1
+  ],
+  "Dedenne ex Indeedee ex": [
+   0.0,
+   1
+  ],
+  "Pidgeot Umbreon": [
+   0.0,
+   1
+  ],
+  "Vespiquen Ribombee": [
+   0.0,
+   1
+  ],
+  "Greninja ex Suicune ex": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   0.0,
+   1
+  ],
+  "Mew ex Mega Mewtwo X ex": [
+   0.0,
+   1
+  ]
+ },
+ "Azumarill Lopunny": {
+  "Mega Greninja ex Greninja ex": [
+   57.1,
+   7
+  ],
+  "Mega Greninja ex Suicune ex": [
+   50.0,
+   6
+  ],
+  "Mega Charizard Y ex Entei ex": [
+   20.0,
+   5
+  ],
+  "Pikachu ex Pawmot": [
+   75.0,
+   4
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   33.3,
+   3
+  ],
+  "Giratina ex Dragonair": [
+   33.3,
+   3
+  ],
+  "Miraidon ex Magnezone": [
+   0.0,
+   3
+  ],
+  "Magnezone Miraidon ex": [
+   50.0,
+   2
+  ],
+  "Greninja ex Mega Greninja ex": [
+   50.0,
+   2
+  ],
+  "Umbreon Hydreigon": [
+   50.0,
+   2
+  ],
+  "Mega Lucario ex Lucario": [
+   50.0,
+   2
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   50.0,
+   2
+  ],
+  "Suicune ex Baxcalibur": [
+   50.0,
+   2
+  ],
+  "Azumarill Lopunny": [
+   50.0,
+   2
+  ],
+  "Mega Altaria ex Espeon": [
+   100.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Mega Venusaur ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Skarmory ex Mantyke": [
+   100.0,
+   1
+  ],
+  "Dedenne ex Indeedee ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Zeraora": [
+   100.0,
+   1
+  ],
+  "Mew ex Mega Mewtwo X ex": [
+   100.0,
+   1
+  ],
+  "Hydreigon Hoopa ex": [
+   0.0,
+   1
+  ],
+  "Wigglytuff ex Mega Altaria ex": [
+   0.0,
+   1
+  ],
+  "Raikou ex Pawmot": [
+   0.0,
+   1
+  ],
+  "Vespiquen ex Shuckle ex": [
+   0.0,
+   1
+  ],
+  "Zoroark ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Umbreon Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Umbreon ex Umbreon": [
+   0.0,
+   1
+  ]
+ },
+ "Butterfree Mega Sceptile ex": {
+  "Mega Greninja ex Suicune ex": [
+   16.7,
+   6
+  ],
+  "Mega Charizard Y ex Entei ex": [
+   25.0,
+   4
+  ],
+  "Miraidon ex Magnezone": [
+   50.0,
+   2
+  ],
+  "Mega Manectric ex Heliolisk": [
+   50.0,
+   2
+  ],
+  "Pikachu ex Pawmot": [
+   50.0,
+   2
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   0.0,
+   2
+  ],
+  "Greninja ex Mega Greninja ex": [
+   100.0,
+   1
+  ],
+  "Mega Sableye ex Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Giratina ex Dragonair": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mew ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Greninja Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire": [
+   100.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   100.0,
+   1
+  ],
+  "Mega Greninja ex Greninja ex": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Lucario": [
+   0.0,
+   1
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   0.0,
+   1
+  ],
+  "Mega Venusaur ex Ribombee": [
+   0.0,
+   1
+  ],
+  "Umbreon Hydreigon": [
+   0.0,
+   1
+  ],
+  "Mega Greninja ex Greninja": [
+   0.0,
+   1
+  ],
+  "Magnezone Miraidon ex": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Miraidon ex": [
+   0.0,
+   1
+  ],
+  "Mega Mewtwo X ex Gardevoir": [
+   0.0,
+   1
+  ]
+ },
+ "Dedenne ex Indeedee ex": {
+  "Mega Charizard Y ex Entei ex": [
+   66.7,
+   6
+  ],
+  "Mega Greninja ex Suicune ex": [
+   60.0,
+   5
+  ],
+  "Mega Greninja ex Greninja ex": [
+   40.0,
+   5
+  ],
+  "Umbreon Hydreigon": [
+   25.0,
+   4
+  ],
+  "Greninja ex Mega Greninja ex": [
+   50.0,
+   2
+  ],
+  "Mega Dragonite ex Dragonite": [
+   0.0,
+   2
+  ],
+  "Mega Skarmory ex Orthworm": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Raikou ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Leafeon ex": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex Greninja": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Dedenne ex": [
+   0.0,
+   1
+  ],
+  "Mega Sableye ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Mega Gardevoir ex Gardevoir": [
+   0.0,
+   1
+  ],
+  "Mega Sceptile ex Ribombee": [
+   0.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   0.0,
+   1
+  ],
+  "Mega Lucario ex Greninja": [
+   0.0,
+   1
+  ],
+  "Armarouge ex Castform Sunny Form": [
+   0.0,
+   1
+  ],
+  "Azumarill Lopunny": [
+   0.0,
+   1
+  ],
+  "Mega Mewtwo X ex Dusknoir": [
+   0.0,
+   1
+  ],
+  "Blacephalon ex Charizard": [
+   0.0,
+   1
+  ],
+  "Vespiquen ex Shuckle ex": [
+   0.0,
+   1
+  ]
+ },
+ "Dragonair Mega Rayquaza ex": {
+  "Mega Charizard Y ex Entei ex": [
+   60.0,
+   5
+  ],
+  "Mega Greninja ex Suicune ex": [
+   50.0,
+   4
+  ],
+  "Magnezone Miraidon ex": [
+   33.3,
+   3
+  ],
+  "Mega Greninja ex Greninja ex": [
+   0.0,
+   3
+  ],
+  "Umbreon Hydreigon": [
+   100.0,
+   2
+  ],
+  "Mega Altaria ex Espeon": [
+   50.0,
+   2
+  ],
+  "Greninja ex Mega Greninja ex": [
+   50.0,
+   2
+  ],
+  "Umbreon Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Hydreigon Mega Absol ex": [
+   0.0,
+   2
+  ],
+  "Pikachu ex Dedenne ex": [
+   100.0,
+   1
+  ],
+  "Mega Dragonite ex Dragonite": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Greninja Flutter Mane ex": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Hitmonlee": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   100.0,
+   1
+  ],
+  "Suicune ex Baxcalibur": [
+   100.0,
+   1
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   100.0,
+   1
+  ],
+  "Giratina ex Dragonair": [
+   100.0,
+   1
+  ],
+  "Miraidon ex Magnezone": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   0.0,
+   1
+  ]
+ },
+ "Giratina ex Dragonair": {
+  "Mega Charizard Y ex Entei ex": [
+   33.3,
+   27
+  ],
+  "Mega Greninja ex Suicune ex": [
+   78.9,
+   19
+  ],
+  "Mega Greninja ex Greninja ex": [
+   100.0,
+   15
+  ],
+  "Umbreon Hydreigon": [
+   66.7,
+   15
+  ],
+  "Pikachu ex Pawmot": [
+   66.7,
+   9
+  ],
+  "Miraidon ex Magnezone": [
+   37.5,
+   8
+  ],
+  "Greninja ex Mega Greninja ex": [
+   57.1,
+   7
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   66.7,
+   6
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   50.0,
+   6
+  ],
+  "Mega Manectric ex Heliolisk": [
+   16.7,
+   6
+  ],
+  "Umbreon Mega Absol ex": [
+   16.7,
+   6
+  ],
+  "Suicune ex Baxcalibur": [
+   60.0,
+   5
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   75.0,
+   4
+  ],
+  "Giratina ex Dragonair": [
+   50.0,
+   4
+  ],
+  "Mega Greninja ex Greninja": [
+   100.0,
+   3
+  ],
+  "Azumarill Lopunny": [
+   66.7,
+   3
+  ],
+  "Mega Dragonite ex Dragonite": [
+   66.7,
+   3
+  ],
+  "Umbreon ex Umbreon": [
+   0.0,
+   3
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   100.0,
+   2
+  ],
+  "Mega Sceptile ex Greninja": [
+   100.0,
+   2
+  ],
+  "Raikou ex Pawmot": [
+   100.0,
+   2
+  ],
+  "Magnezone Miraidon ex": [
+   50.0,
+   2
+  ],
+  "Umbreon Greninja": [
+   50.0,
+   2
+  ],
+  "Hoopa ex Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Suicune ex Blastoise": [
+   50.0,
+   2
+  ],
+  "Mega Gardevoir ex Indeedee ex": [
+   100.0,
+   1
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   100.0,
+   1
+  ],
+  "Mega Altaria ex Espeon": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Zeraora": [
+   100.0,
+   1
+  ],
+  "Koraidon ex Paldean Clodsire": [
+   100.0,
+   1
+  ],
+  "Guzzlord ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Lucario": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Magnezone": [
+   100.0,
+   1
+  ],
+  "Hoopa ex Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Magnezone ex Pikachu ex": [
+   100.0,
+   1
+  ],
+  "Miraidon ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Suicune ex Mega Greninja ex": [
+   100.0,
+   1
+  ],
+  "Dewgong Baxcalibur": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Raikou ex": [
+   100.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   100.0,
+   1
+  ],
+  "Greninja ex Suicune ex": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Dusknoir": [
+   100.0,
+   1
+  ],
+  "Mew ex Mega Diancie ex": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Greninja": [
+   0.0,
+   1
+  ],
+  "Butterfree Mega Sceptile ex": [
+   0.0,
+   1
+  ],
+  "Mega Charizard X ex Mega Charizard Y ex": [
+   0.0,
+   1
+  ],
+  "Hydreigon Mega Sableye ex": [
+   0.0,
+   1
+  ],
+  "Hydreigon Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Mega Lucario ex Paldean Clodsire": [
+   0.0,
+   1
+  ],
+  "Tapu Koko ex Pikachu ex": [
+   0.0,
+   1
+  ],
+  "Flareon ex Leafeon ex": [
+   0.0,
+   1
+  ],
+  "Alolan Exeggutor ex Leafeon ex": [
+   0.0,
+   1
+  ],
+  "Mega Skarmory ex Mantyke": [
+   0.0,
+   1
+  ],
+  "Lopunny Raboot": [
+   0.0,
+   1
+  ],
+  "Paldean Clodsire": [
+   0.0,
+   1
+  ],
+  "Umbreon Mega Sableye ex": [
+   0.0,
+   1
+  ],
+  "Guzzlord ex Indeedee ex": [
+   0.0,
+   1
+  ],
+  "Magnezone ex Magnezone": [
+   0.0,
+   1
+  ],
+  "Mega Charizard X ex Entei ex": [
+   0.0,
+   1
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   0.0,
+   1
+  ]
+ },
+ "Greninja ex Mega Greninja ex": {
+  "Mega Charizard Y ex Entei ex": [
+   58.6,
+   29
+  ],
+  "Mega Greninja ex Greninja ex": [
+   58.8,
+   17
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   60.0,
+   10
+  ],
+  "Greninja ex Mega Greninja ex": [
+   40.0,
+   10
+  ],
+  "Umbreon Hydreigon": [
+   44.4,
+   9
+  ],
+  "Mega Greninja ex Suicune ex": [
+   50.0,
+   8
+  ],
+  "Pikachu ex Pawmot": [
+   25.0,
+   8
+  ],
+  "Giratina ex Dragonair": [
+   28.6,
+   7
+  ],
+  "Mega Manectric ex Heliolisk": [
+   16.7,
+   6
+  ],
+  "Mega Greninja ex Greninja": [
+   75.0,
+   4
+  ],
+  "Suicune ex Baxcalibur": [
+   50.0,
+   4
+  ],
+  "Umbreon Mega Absol ex": [
+   100.0,
+   3
+  ],
+  "Vespiquen ex Shuckle ex": [
+   66.7,
+   3
+  ],
+  "Lopunny Raboot": [
+   66.7,
+   3
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   33.3,
+   3
+  ],
+  "Miraidon ex Magnezone": [
+   33.3,
+   3
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   0.0,
+   3
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   50.0,
+   2
+  ],
+  "Azumarill Lopunny": [
+   50.0,
+   2
+  ],
+  "Hydreigon Mega Sableye ex": [
+   50.0,
+   2
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   50.0,
+   2
+  ],
+  "Dedenne ex Indeedee ex": [
+   50.0,
+   2
+  ],
+  "Azumarill Raboot": [
+   50.0,
+   2
+  ],
+  "Mega Dragonite ex Dragonite": [
+   50.0,
+   2
+  ],
+  "Hydreigon Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   50.0,
+   2
+  ],
+  "Magnezone Miraidon ex": [
+   0.0,
+   2
+  ],
+  "Hoopa ex Mega Absol ex": [
+   0.0,
+   2
+  ],
+  "Suicune ex Blastoise": [
+   0.0,
+   2
+  ],
+  "Mega Sceptile ex Greninja": [
+   0.0,
+   2
+  ],
+  "Hydreigon Hoopa ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Dedenne ex": [
+   100.0,
+   1
+  ],
+  "Suicune ex Greninja ex": [
+   100.0,
+   1
+  ],
+  "Mew ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Mega Garchomp ex Dragonair": [
+   100.0,
+   1
+  ],
+  "Raikou ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Leafeon ex": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Lycanroc ex Rampardos": [
+   100.0,
+   1
+  ],
+  "Dragonair Mega Mewtwo X ex": [
+   100.0,
+   1
+  ],
+  "Hoopa ex Mega Tyranitar ex": [
+   100.0,
+   1
+  ],
+  "Magnezone ex Pikachu ex": [
+   100.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   100.0,
+   1
+  ],
+  "Mega Dragonite ex Altaria": [
+   100.0,
+   1
+  ],
+  "Mega Sceptile ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire Furfrou": [
+   100.0,
+   1
+  ],
+  "Blacephalon ex Charizard": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex Greninja": [
+   100.0,
+   1
+  ],
+  "Milotic ex Darkrai": [
+   100.0,
+   1
+  ],
+  "Umbreon Eevee ex": [
+   0.0,
+   1
+  ],
+  "Butterfree Mega Sceptile ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Espeon": [
+   0.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Raikou ex": [
+   0.0,
+   1
+  ],
+  "Meowscarada ex Teal Mask Ogerpon ex": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex": [
+   0.0,
+   1
+  ],
+  "Greninja ex Suicune ex": [
+   0.0,
+   1
+  ],
+  "Flygon ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Jigglypuff": [
+   0.0,
+   1
+  ],
+  "Mega Dragonite ex": [
+   0.0,
+   1
+  ],
+  "Mega Charizard X ex Entei ex": [
+   0.0,
+   1
+  ]
+ },
+ "Greninja ex Suicune ex": {
+  "Mega Charizard Y ex Entei ex": [
+   42.9,
+   7
+  ],
+  "Mega Manectric ex Heliolisk": [
+   66.7,
+   3
+  ],
+  "Mega Greninja ex Suicune ex": [
+   66.7,
+   3
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   33.3,
+   3
+  ],
+  "Pikachu ex Pawmot": [
+   33.3,
+   3
+  ],
+  "Suicune ex Baxcalibur": [
+   100.0,
+   2
+  ],
+  "Umbreon Hydreigon": [
+   50.0,
+   2
+  ],
+  "Umbreon ex Umbreon": [
+   50.0,
+   2
+  ],
+  "Miraidon ex Magnezone": [
+   50.0,
+   2
+  ],
+  "Hydreigon Mega Sableye ex": [
+   0.0,
+   2
+  ],
+  "Pikachu ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Umbreon Greninja": [
+   100.0,
+   1
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   100.0,
+   1
+  ],
+  "Hoopa ex Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Greninja ex Mega Greninja ex": [
+   100.0,
+   1
+  ],
+  "Mega Skarmory ex Mantyke": [
+   100.0,
+   1
+  ],
+  "Hoopa ex Mega Tyranitar ex": [
+   100.0,
+   1
+  ],
+  "Magnezone Miraidon ex": [
+   100.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   100.0,
+   1
+  ],
+  "Hoopa ex Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Greninja ex Greninja ex": [
+   100.0,
+   1
+  ],
+  "Mega Greninja ex Greninja": [
+   100.0,
+   1
+  ],
+  "Umbreon Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Magnezone": [
+   0.0,
+   1
+  ],
+  "Giratina ex Dragonair": [
+   0.0,
+   1
+  ]
+ },
+ "Hydreigon Mega Absol ex": {
+  "Mega Mewtwo X ex Mew ex": [
+   50.0,
+   4
+  ],
+  "Mega Charizard Y ex Entei ex": [
+   50.0,
+   4
+  ],
+  "Suicune ex Baxcalibur": [
+   66.7,
+   3
+  ],
+  "Mega Greninja ex Greninja ex": [
+   33.3,
+   3
+  ],
+  "Umbreon Hydreigon": [
+   33.3,
+   3
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   100.0,
+   2
+  ],
+  "Mega Greninja ex Suicune ex": [
+   50.0,
+   2
+  ],
+  "Miraidon ex Magnezone": [
+   50.0,
+   2
+  ],
+  "Mega Manectric ex Heliolisk": [
+   50.0,
+   2
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   0.0,
+   2
+  ],
+  "Greninja ex Mega Greninja ex": [
+   0.0,
+   2
+  ],
+  "Team Rocket's Slowking ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Zeraora": [
+   100.0,
+   1
+  ],
+  "Giratina ex Dragonair": [
+   100.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Mega Sharpedo ex Chien-Pao ex": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   100.0,
+   1
+  ],
+  "Umbreon Mega Sableye ex": [
+   0.0,
+   1
+  ]
+ },
+ "Magnezone Miraidon ex": {
+  "Mega Charizard Y ex Entei ex": [
+   50.0,
+   6
+  ],
+  "Mega Greninja ex Suicune ex": [
+   60.0,
+   5
+  ],
+  "Mega Greninja ex Greninja ex": [
+   75.0,
+   4
+  ],
+  "Umbreon Hydreigon": [
+   25.0,
+   4
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   66.7,
+   3
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   66.7,
+   3
+  ],
+  "Mega Altaria ex Espeon": [
+   50.0,
+   2
+  ],
+  "Magnezone Miraidon ex": [
+   50.0,
+   2
+  ],
+  "Giratina ex Dragonair": [
+   50.0,
+   2
+  ],
+  "Azumarill Lopunny": [
+   50.0,
+   2
+  ],
+  "Greninja ex Mega Greninja ex": [
+   50.0,
+   2
+  ],
+  "Blacephalon ex Charizard": [
+   50.0,
+   2
+  ],
+  "Mega Manectric ex Heliolisk": [
+   0.0,
+   2
+  ],
+  "Pikachu ex Pawmot": [
+   0.0,
+   2
+  ],
+  "Mega Gardevoir ex Mega Mewtwo X ex": [
+   100.0,
+   1
+  ],
+  "Raikou ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Umbreon Eevee ex": [
+   100.0,
+   1
+  ],
+  "Mew ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Greninja": [
+   100.0,
+   1
+  ],
+  "Armarouge ex Castform Sunny Form": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Dragalge ex Darkrai ex": [
+   100.0,
+   1
+  ],
+  "Butterfree Mega Sceptile ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Raikou ex": [
+   100.0,
+   1
+  ],
+  "Lopunny Raboot": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Dusknoir": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   100.0,
+   1
+  ],
+  "Zoroark ex Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Vespiquen ex Shuckle ex": [
+   100.0,
+   1
+  ],
+  "Mega Sableye ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Whiscash Mime Jr.": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex": [
+   0.0,
+   1
+  ],
+  "Wigglytuff ex Mega Altaria ex": [
+   0.0,
+   1
+  ],
+  "Hydreigon Mega Sableye ex": [
+   0.0,
+   1
+  ],
+  "Miraidon ex Magnezone": [
+   0.0,
+   1
+  ],
+  "Greninja ex Suicune ex": [
+   0.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   0.0,
+   1
+  ],
+  "Miraidon ex Pawmot": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   0.0,
+   1
+  ],
+  "Umbreon Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Dewgong Baxcalibur": [
+   0.0,
+   1
+  ]
+ },
+ "Mega Altaria ex Espeon": {
+  "Mega Charizard Y ex Entei ex": [
+   20.0,
+   10
+  ],
+  "Mega Greninja ex Suicune ex": [
+   57.1,
+   7
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   40.0,
+   5
+  ],
+  "Mega Altaria ex Espeon": [
+   50.0,
+   4
+  ],
+  "Mega Greninja ex Greninja ex": [
+   25.0,
+   4
+  ],
+  "Umbreon ex Umbreon": [
+   100.0,
+   2
+  ],
+  "Miraidon ex Magnezone": [
+   50.0,
+   2
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   50.0,
+   2
+  ],
+  "Magnezone Miraidon ex": [
+   50.0,
+   2
+  ],
+  "Mega Dragonite ex Dragonite": [
+   50.0,
+   2
+  ],
+  "Mega Greninja ex Greninja": [
+   50.0,
+   2
+  ],
+  "Mega Lucario ex Lucario": [
+   50.0,
+   2
+  ],
+  "Umbreon Hydreigon": [
+   50.0,
+   2
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex Greninja": [
+   100.0,
+   1
+  ],
+  "Mega Sableye ex Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Greninja ex Mega Greninja ex": [
+   100.0,
+   1
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   100.0,
+   1
+  ],
+  "Rotom ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Manectric ex Heliolisk": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Raikou ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Mega Sharpedo ex Chien-Pao ex": [
+   100.0,
+   1
+  ],
+  "Mega Charizard X ex Mega Charizard Y ex": [
+   100.0,
+   1
+  ],
+  "Mega Charizard Y ex Charizard": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Gardevoir": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex": [
+   0.0,
+   1
+  ],
+  "Azumarill Lopunny": [
+   0.0,
+   1
+  ],
+  "Umbreon Eevee ex": [
+   0.0,
+   1
+  ],
+  "Giratina ex Dragonair": [
+   0.0,
+   1
+  ],
+  "Greninja Flutter Mane ex": [
+   0.0,
+   1
+  ],
+  "Umbreon Greninja": [
+   0.0,
+   1
+  ],
+  "Zoroark ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Pawmot": [
+   0.0,
+   1
+  ],
+  "Mega Steelix ex Ribombee": [
+   0.0,
+   1
+  ]
+ },
+ "Mega Charizard Y ex Entei ex": {
+  "Mega Charizard Y ex Entei ex": [
+   45.7,
+   94
+  ],
+  "Mega Greninja ex Greninja ex": [
+   41.3,
+   46
+  ],
+  "Umbreon Hydreigon": [
+   30.6,
+   36
+  ],
+  "Mega Greninja ex Suicune ex": [
+   34.3,
+   35
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   50.0,
+   34
+  ],
+  "Greninja ex Mega Greninja ex": [
+   34.5,
+   29
+  ],
+  "Pikachu ex Pawmot": [
+   59.3,
+   27
+  ],
+  "Giratina ex Dragonair": [
+   55.6,
+   27
+  ],
+  "Miraidon ex Magnezone": [
+   56.2,
+   16
+  ],
+  "Mega Manectric ex Heliolisk": [
+   50.0,
+   16
+  ],
+  "Suicune ex Baxcalibur": [
+   37.5,
+   16
+  ],
+  "Umbreon Mega Absol ex": [
+   33.3,
+   12
+  ],
+  "Mega Altaria ex Espeon": [
+   80.0,
+   10
+  ],
+  "Umbreon ex Umbreon": [
+   50.0,
+   10
+  ],
+  "Greninja ex Suicune ex": [
+   57.1,
+   7
+  ],
+  "Magnezone Miraidon ex": [
+   50.0,
+   6
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   50.0,
+   6
+  ],
+  "Dedenne ex Indeedee ex": [
+   33.3,
+   6
+  ],
+  "Mega Greninja ex Greninja": [
+   33.3,
+   6
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   100.0,
+   5
+  ],
+  "Vespiquen ex Shuckle ex": [
+   80.0,
+   5
+  ],
+  "Azumarill Lopunny": [
+   80.0,
+   5
+  ],
+  "Mega Altaria ex Greninja": [
+   60.0,
+   5
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   20.0,
+   5
+  ],
+  "Butterfree Mega Sceptile ex": [
+   75.0,
+   4
+  ],
+  "Paldean Clodsire": [
+   75.0,
+   4
+  ],
+  "Hydreigon Mega Sableye ex": [
+   75.0,
+   4
+  ],
+  "Mega Altaria ex Jigglypuff": [
+   75.0,
+   4
+  ],
+  "Raikou ex Pawmot": [
+   50.0,
+   4
+  ],
+  "Mega Blaziken ex Greninja": [
+   50.0,
+   4
+  ],
+  "Hydreigon Mega Absol ex": [
+   50.0,
+   4
+  ],
+  "Giratina ex Mega Mewtwo X ex": [
+   50.0,
+   4
+  ],
+  "Mega Mewtwo X ex Carbink": [
+   50.0,
+   4
+  ],
+  "Mega Sceptile ex Greninja": [
+   25.0,
+   4
+  ],
+  "Mew ex Mega Diancie ex": [
+   100.0,
+   3
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   100.0,
+   3
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   100.0,
+   3
+  ],
+  "Zoroark ex Mega Absol ex": [
+   100.0,
+   3
+  ],
+  "Mega Skarmory ex Mantyke": [
+   66.7,
+   3
+  ],
+  "Mega Sharpedo ex Chien-Pao ex": [
+   66.7,
+   3
+  ],
+  "Milotic ex Darkrai": [
+   33.3,
+   3
+  ],
+  "Lopunny Raboot": [
+   33.3,
+   3
+  ],
+  "Pikachu ex Magnezone": [
+   33.3,
+   3
+  ],
+  "Mega Lucario ex Lucario": [
+   0.0,
+   3
+  ],
+  "Wigglytuff ex Mega Altaria ex": [
+   100.0,
+   2
+  ],
+  "Mega Dragonite ex Dragonite": [
+   100.0,
+   2
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   2
+  ],
+  "Dragonair Giratina ex": [
+   100.0,
+   2
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   100.0,
+   2
+  ],
+  "Dewgong Baxcalibur": [
+   100.0,
+   2
+  ],
+  "Mega Mewtwo X ex Gardevoir": [
+   50.0,
+   2
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   50.0,
+   2
+  ],
+  "Mega Dragonite ex Team Rocket's Raticate ex": [
+   50.0,
+   2
+  ],
+  "Magnezone ex Pikachu ex": [
+   50.0,
+   2
+  ],
+  "Mega Lucario ex Hitmonlee": [
+   50.0,
+   2
+  ],
+  "Lycanroc ex Rampardos": [
+   50.0,
+   2
+  ],
+  "Hoopa ex Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Suicune ex Blastoise": [
+   50.0,
+   2
+  ],
+  "Hydreigon Hoopa ex": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Mew ex": [
+   100.0,
+   1
+  ],
+  "Eevee ex Vaporeon ex": [
+   100.0,
+   1
+  ],
+  "Fuecoco ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex": [
+   100.0,
+   1
+  ],
+  "Flareon ex Sylveon ex": [
+   100.0,
+   1
+  ],
+  "Mega Charizard X ex Mega Charizard Y ex": [
+   100.0,
+   1
+  ],
+  "Giratina ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Mega Tyranitar ex Tyranitar": [
+   100.0,
+   1
+  ],
+  "Rotom ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Dedenne ex": [
+   100.0,
+   1
+  ],
+  "Flareon ex Leafeon ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Zeraora": [
+   100.0,
+   1
+  ],
+  "Meowscarada ex Meowscarada": [
+   100.0,
+   1
+  ],
+  "Mega Dragonite ex Altaria": [
+   100.0,
+   1
+  ],
+  "Mega Diancie ex Carbink": [
+   100.0,
+   1
+  ],
+  "Greninja Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Miraidon ex": [
+   100.0,
+   1
+  ],
+  "Mega Sceptile ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Flygon ex Sylveon ex": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Dusknoir": [
+   100.0,
+   1
+  ],
+  "Guzzlord ex Indeedee ex": [
+   100.0,
+   1
+  ],
+  "Mew ex Mega Mewtwo X ex": [
+   100.0,
+   1
+  ],
+  "Mega Sharpedo ex Gyarados": [
+   0.0,
+   1
+  ],
+  "Mega Gardevoir ex Mega Mewtwo X ex": [
+   0.0,
+   1
+  ],
+  "Mega Sableye ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Jolteon ex Jolteon": [
+   0.0,
+   1
+  ],
+  "Umbreon Greninja": [
+   0.0,
+   1
+  ],
+  "Koraidon ex Paldean Clodsire": [
+   0.0,
+   1
+  ],
+  "Guzzlord ex Ribombee": [
+   0.0,
+   1
+  ],
+  "Mega Skarmory ex Orthworm": [
+   0.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   0.0,
+   1
+  ],
+  "Miraidon ex Pawmot": [
+   0.0,
+   1
+  ],
+  "Umbreon Mega Sableye ex": [
+   0.0,
+   1
+  ]
+ },
+ "Mega Dragonite ex Dragonite": {
+  "Mega Greninja ex Suicune ex": [
+   66.7,
+   6
+  ],
+  "Mega Greninja ex Greninja ex": [
+   40.0,
+   5
+  ],
+  "Pikachu ex Pawmot": [
+   50.0,
+   4
+  ],
+  "Giratina ex Dragonair": [
+   33.3,
+   3
+  ],
+  "Mega Mewtwo X ex Gardevoir": [
+   50.0,
+   2
+  ],
+  "Greninja ex Mega Greninja ex": [
+   50.0,
+   2
+  ],
+  "Lycanroc ex Rampardos": [
+   0.0,
+   2
+  ],
+  "Mega Charizard Y ex Entei ex": [
+   0.0,
+   2
+  ],
+  "Azumarill Raboot": [
+   100.0,
+   1
+  ],
+  "Team Rocket's Slowking ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Manectric ex Heliolisk": [
+   100.0,
+   1
+  ],
+  "Umbreon Greninja": [
+   100.0,
+   1
+  ],
+  "Tyranitar Arceus ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Raikou ex": [
+   100.0,
+   1
+  ],
+  "Suicune ex Baxcalibur": [
+   100.0,
+   1
+  ],
+  "Vespiquen ex Shuckle ex": [
+   0.0,
+   1
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   0.0,
+   1
+  ],
+  "Raikou ex Pawmot": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Greninja": [
+   0.0,
+   1
+  ],
+  "Eevee ex Vaporeon ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Espeon": [
+   0.0,
+   1
+  ],
+  "Umbreon Hydreigon": [
+   0.0,
+   1
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   0.0,
+   1
+  ],
+  "Lycanroc ex Mega Lucario ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   0.0,
+   1
+  ],
+  "Lopunny Raboot": [
+   0.0,
+   1
+  ]
+ },
+ "Mega Greninja ex Greninja": {
+  "Umbreon Hydreigon": [
+   11.1,
+   9
+  ],
+  "Mega Charizard Y ex Entei ex": [
+   66.7,
+   6
+  ],
+  "Mega Greninja ex Greninja ex": [
+   25.0,
+   4
+  ],
+  "Miraidon ex Magnezone": [
+   25.0,
+   4
+  ],
+  "Greninja ex Mega Greninja ex": [
+   25.0,
+   4
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   100.0,
+   3
+  ],
+  "Pikachu ex Pawmot": [
+   33.3,
+   3
+  ],
+  "Giratina ex Dragonair": [
+   0.0,
+   3
+  ],
+  "Mega Altaria ex Espeon": [
+   50.0,
+   2
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   0.0,
+   2
+  ],
+  "Mega Greninja ex Suicune ex": [
+   0.0,
+   2
+  ],
+  "Suicune ex Baxcalibur": [
+   0.0,
+   2
+  ],
+  "Giratina ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Whiscash Fuecoco ex": [
+   100.0,
+   1
+  ],
+  "Simisear Team Rocket's Moltres ex": [
+   100.0,
+   1
+  ],
+  "Umbreon Greninja": [
+   100.0,
+   1
+  ],
+  "Hoopa ex Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Hydreigon Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Butterfree Mega Sceptile ex": [
+   100.0,
+   1
+  ],
+  "Pidgeot Umbreon": [
+   100.0,
+   1
+  ],
+  "Azumarill Raboot": [
+   100.0,
+   1
+  ],
+  "Mega Diancie ex Carbink": [
+   100.0,
+   1
+  ],
+  "Vespiquen ex Shuckle ex": [
+   100.0,
+   1
+  ],
+  "Mega Sceptile ex Greninja": [
+   100.0,
+   1
+  ],
+  "Raikou ex Pawmot": [
+   0.0,
+   1
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Greninja": [
+   0.0,
+   1
+  ],
+  "Paldean Clodsire Furfrou": [
+   0.0,
+   1
+  ],
+  "Dewgong Baxcalibur": [
+   0.0,
+   1
+  ],
+  "Greninja ex Suicune ex": [
+   0.0,
+   1
+  ]
+ },
+ "Mega Greninja ex Greninja ex": {
+  "Mega Charizard Y ex Entei ex": [
+   52.2,
+   46
+  ],
+  "Mega Greninja ex Greninja ex": [
+   45.8,
+   24
+  ],
+  "Umbreon Hydreigon": [
+   52.6,
+   19
+  ],
+  "Pikachu ex Pawmot": [
+   55.6,
+   18
+  ],
+  "Mega Greninja ex Suicune ex": [
+   50.0,
+   18
+  ],
+  "Greninja ex Mega Greninja ex": [
+   35.3,
+   17
+  ],
+  "Miraidon ex Magnezone": [
+   23.5,
+   17
+  ],
+  "Giratina ex Dragonair": [
+   0.0,
+   15
+  ],
+  "Mega Manectric ex Heliolisk": [
+   10.0,
+   10
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   55.6,
+   9
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   37.5,
+   8
+  ],
+  "Suicune ex Baxcalibur": [
+   12.5,
+   8
+  ],
+  "Azumarill Lopunny": [
+   42.9,
+   7
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   50.0,
+   6
+  ],
+  "Umbreon ex Umbreon": [
+   80.0,
+   5
+  ],
+  "Mega Dragonite ex Dragonite": [
+   60.0,
+   5
+  ],
+  "Dedenne ex Indeedee ex": [
+   60.0,
+   5
+  ],
+  "Mega Altaria ex Espeon": [
+   75.0,
+   4
+  ],
+  "Mega Greninja ex Greninja": [
+   75.0,
+   4
+  ],
+  "Magnezone Miraidon ex": [
+   25.0,
+   4
+  ],
+  "Pikachu ex Magnezone": [
+   25.0,
+   4
+  ],
+  "Raikou ex Pawmot": [
+   66.7,
+   3
+  ],
+  "Hydreigon Mega Absol ex": [
+   66.7,
+   3
+  ],
+  "Hoopa ex Mega Absol ex": [
+   66.7,
+   3
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   66.7,
+   3
+  ],
+  "Hydreigon Mega Sableye ex": [
+   33.3,
+   3
+  ],
+  "Umbreon Mega Absol ex": [
+   0.0,
+   3
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   2
+  ],
+  "Tyranitar Arceus ex": [
+   100.0,
+   2
+  ],
+  "Mega Skarmory ex Mantyke": [
+   100.0,
+   2
+  ],
+  "Mega Blaziken ex": [
+   50.0,
+   2
+  ],
+  "Gourgeist Zoroark": [
+   50.0,
+   2
+  ],
+  "Umbreon Greninja": [
+   50.0,
+   2
+  ],
+  "Azumarill Raboot": [
+   50.0,
+   2
+  ],
+  "Meowscarada ex Teal Mask Ogerpon ex": [
+   50.0,
+   2
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   0.0,
+   2
+  ],
+  "Paldean Clodsire": [
+   0.0,
+   2
+  ],
+  "Zoroark ex Mega Absol ex": [
+   0.0,
+   2
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   0.0,
+   2
+  ],
+  "Mega Gardevoir ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Mega Mewtwo X ex": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Jolteon ex Jolteon": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Lucario": [
+   100.0,
+   1
+  ],
+  "Greninja Flutter Mane ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Dedenne ex": [
+   100.0,
+   1
+  ],
+  "Greninja Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Mega Venusaur ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Altaria ex Jigglypuff": [
+   100.0,
+   1
+  ],
+  "Mega Tyranitar ex Tyranitar": [
+   100.0,
+   1
+  ],
+  "Lycanroc ex Mega Lucario ex": [
+   100.0,
+   1
+  ],
+  "Mega Charizard X ex Mega Charizard Y ex": [
+   100.0,
+   1
+  ],
+  "Vespiquen Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   100.0,
+   1
+  ],
+  "Vespiquen ex Shuckle ex": [
+   100.0,
+   1
+  ],
+  "Mega Sceptile ex Greninja": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex Greninja": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Zeraora": [
+   0.0,
+   1
+  ],
+  "Simisear Team Rocket's Moltres ex": [
+   0.0,
+   1
+  ],
+  "Mega Lucario ex Paldean Clodsire": [
+   0.0,
+   1
+  ],
+  "Mega Skarmory ex Orthworm": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Raikou ex": [
+   0.0,
+   1
+  ],
+  "Koraidon ex Whiscash": [
+   0.0,
+   1
+  ],
+  "Mega Sharpedo ex Chien-Pao ex": [
+   0.0,
+   1
+  ],
+  "Lycanroc ex Rampardos": [
+   0.0,
+   1
+  ],
+  "Lopunny Raboot": [
+   0.0,
+   1
+  ],
+  "Magnezone ex Pikachu ex": [
+   0.0,
+   1
+  ],
+  "Umbreon Mega Sableye ex": [
+   0.0,
+   1
+  ],
+  "Guzzlord ex Indeedee ex": [
+   0.0,
+   1
+  ],
+  "Greninja ex Suicune ex": [
+   0.0,
+   1
+  ],
+  "Butterfree Mega Sceptile ex": [
+   0.0,
+   1
+  ],
+  "Mega Mewtwo X ex Dusknoir": [
+   0.0,
+   1
+  ]
+ },
+ "Mega Greninja ex Suicune ex": {
+  "Mega Charizard Y ex Entei ex": [
+   54.3,
+   35
+  ],
+  "Mega Greninja ex Suicune ex": [
+   46.9,
+   32
+  ],
+  "Giratina ex Dragonair": [
+   21.1,
+   19
+  ],
+  "Mega Greninja ex Greninja ex": [
+   44.4,
+   18
+  ],
+  "Pikachu ex Pawmot": [
+   60.0,
+   15
+  ],
+  "Umbreon Hydreigon": [
+   60.0,
+   10
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   30.0,
+   10
+  ],
+  "Miraidon ex Magnezone": [
+   33.3,
+   9
+  ],
+  "Mega Manectric ex Heliolisk": [
+   22.2,
+   9
+  ],
+  "Greninja ex Mega Greninja ex": [
+   50.0,
+   8
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   85.7,
+   7
+  ],
+  "Mega Altaria ex Espeon": [
+   42.9,
+   7
+  ],
+  "Suicune ex Baxcalibur": [
+   28.6,
+   7
+  ],
+  "Butterfree Mega Sceptile ex": [
+   83.3,
+   6
+  ],
+  "Azumarill Lopunny": [
+   50.0,
+   6
+  ],
+  "Mega Dragonite ex Dragonite": [
+   33.3,
+   6
+  ],
+  "Dedenne ex Indeedee ex": [
+   40.0,
+   5
+  ],
+  "Magnezone Miraidon ex": [
+   40.0,
+   5
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   40.0,
+   5
+  ],
+  "Umbreon Mega Absol ex": [
+   20.0,
+   5
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   50.0,
+   4
+  ],
+  "Mega Altaria ex Greninja": [
+   66.7,
+   3
+  ],
+  "Gourgeist Zoroark": [
+   66.7,
+   3
+  ],
+  "Hydreigon Mega Sableye ex": [
+   66.7,
+   3
+  ],
+  "Pikachu ex Raikou ex": [
+   66.7,
+   3
+  ],
+  "Mew ex Mega Diancie ex": [
+   33.3,
+   3
+  ],
+  "Team Rocket's Slowking ex Ribombee": [
+   33.3,
+   3
+  ],
+  "Umbreon ex Umbreon": [
+   33.3,
+   3
+  ],
+  "Raikou ex Pawmot": [
+   33.3,
+   3
+  ],
+  "Milotic ex Darkrai": [
+   33.3,
+   3
+  ],
+  "Greninja ex Suicune ex": [
+   33.3,
+   3
+  ],
+  "Paldean Clodsire": [
+   0.0,
+   3
+  ],
+  "Hoopa ex Mega Absol ex": [
+   100.0,
+   2
+  ],
+  "Mega Greninja ex Greninja": [
+   100.0,
+   2
+  ],
+  "Wigglytuff ex Mega Altaria ex": [
+   50.0,
+   2
+  ],
+  "Mega Charizard X ex Mega Charizard Y ex": [
+   50.0,
+   2
+  ],
+  "Hydreigon Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Mew ex Mega Mewtwo X ex": [
+   50.0,
+   2
+  ],
+  "Bellibolt ex Pawmot": [
+   50.0,
+   2
+  ],
+  "Mega Dragonite ex Team Rocket's Raticate ex": [
+   0.0,
+   2
+  ],
+  "Vespiquen ex Shuckle ex": [
+   0.0,
+   2
+  ],
+  "Whiscash Mime Jr.": [
+   100.0,
+   1
+  ],
+  "Lycanroc ex Rampardos": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Dedenne ex": [
+   100.0,
+   1
+  ],
+  "Umbreon Eevee ex": [
+   100.0,
+   1
+  ],
+  "Azumarill Raboot": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex": [
+   100.0,
+   1
+  ],
+  "Whiscash Fuecoco ex": [
+   100.0,
+   1
+  ],
+  "Mega Tyranitar ex Tyranitar": [
+   100.0,
+   1
+  ],
+  "Miltank": [
+   100.0,
+   1
+  ],
+  "Rotom ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Jolteon ex Jolteon": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Zeraora": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Lucario": [
+   100.0,
+   1
+  ],
+  "Greninja Flutter Mane ex": [
+   100.0,
+   1
+  ],
+  "Magnezone ex Pikachu ex": [
+   100.0,
+   1
+  ],
+  "Mega Altaria ex Jigglypuff": [
+   100.0,
+   1
+  ],
+  "Mega Venusaur ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Zoroark ex Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Mega Skarmory ex Orthworm": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Tapu Koko ex Pikachu ex": [
+   100.0,
+   1
+  ],
+  "Mega Rayquaza ex Dragonair": [
+   100.0,
+   1
+  ],
+  "Melmetal ex Melmetal": [
+   100.0,
+   1
+  ],
+  "Lycanroc ex Lucario": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Flygon ex": [
+   100.0,
+   1
+  ],
+  "Serperior Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Carbink": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex Greninja": [
+   100.0,
+   1
+  ],
+  "Dragonair Giratina ex": [
+   100.0,
+   1
+  ],
+  "Mega Sceptile ex Ribombee": [
+   0.0,
+   1
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   0.0,
+   1
+  ],
+  "Guzzlord ex Ribombee": [
+   0.0,
+   1
+  ],
+  "Mega Lucario ex Paldean Clodsire": [
+   0.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   0.0,
+   1
+  ],
+  "Alolan Exeggutor ex Leafeon ex": [
+   0.0,
+   1
+  ],
+  "Mega Skarmory ex Mantyke": [
+   0.0,
+   1
+  ],
+  "Mega Sableye ex Darkrai ex": [
+   0.0,
+   1
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Miraidon ex": [
+   0.0,
+   1
+  ],
+  "Dewgong Baxcalibur": [
+   0.0,
+   1
+  ],
+  "Blacephalon ex Charizard": [
+   0.0,
+   1
+  ]
+ },
+ "Mega Manectric ex Heliolisk": {
+  "Mega Charizard Y ex Entei ex": [
+   37.5,
+   16
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   27.3,
+   11
+  ],
+  "Umbreon Hydreigon": [
+   27.3,
+   11
+  ],
+  "Mega Greninja ex Greninja ex": [
+   80.0,
+   10
+  ],
+  "Mega Greninja ex Suicune ex": [
+   77.8,
+   9
+  ],
+  "Giratina ex Dragonair": [
+   83.3,
+   6
+  ],
+  "Greninja ex Mega Greninja ex": [
+   83.3,
+   6
+  ],
+  "Pikachu ex Pawmot": [
+   60.0,
+   5
+  ],
+  "Miraidon ex Magnezone": [
+   60.0,
+   5
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   75.0,
+   4
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   75.0,
+   4
+  ],
+  "Raikou ex Pawmot": [
+   66.7,
+   3
+  ],
+  "Suicune ex Baxcalibur": [
+   66.7,
+   3
+  ],
+  "Umbreon ex Umbreon": [
+   66.7,
+   3
+  ],
+  "Greninja ex Suicune ex": [
+   33.3,
+   3
+  ],
+  "Umbreon Mega Absol ex": [
+   33.3,
+   3
+  ],
+  "Magnezone Miraidon ex": [
+   100.0,
+   2
+  ],
+  "Vespiquen ex Shuckle ex": [
+   100.0,
+   2
+  ],
+  "Butterfree Mega Sceptile ex": [
+   50.0,
+   2
+  ],
+  "Hydreigon Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Mega Dragonite ex Dragonite": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Mew ex": [
+   100.0,
+   1
+  ],
+  "Zoroark ex Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Guzzlord ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Skarmory ex Orthworm": [
+   100.0,
+   1
+  ],
+  "Armarouge ex Castform Sunny Form": [
+   100.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Koraidon ex Whiscash": [
+   100.0,
+   1
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   100.0,
+   1
+  ],
+  "Magnezone ex Magnezone": [
+   100.0,
+   1
+  ],
+  "Mega Charizard X ex Entei ex": [
+   100.0,
+   1
+  ],
+  "Greninja Mega Absol ex": [
+   100.0,
+   1
+  ],
+  "Mega Charizard X ex Mega Charizard Y ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Espeon": [
+   0.0,
+   1
+  ],
+  "Mega Lucario ex Lucario": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Oricorio": [
+   0.0,
+   1
+  ],
+  "Alolan Exeggutor ex Leafeon ex": [
+   0.0,
+   1
+  ],
+  "Hydreigon Mega Sableye ex": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   0.0,
+   1
+  ],
+  "Giratina ex Mega Mewtwo X ex": [
+   0.0,
+   1
+  ]
+ },
+ "Mega Mewtwo X ex Mew ex": {
+  "Mega Charizard Y ex Entei ex": [
+   47.1,
+   34
+  ],
+  "Mega Manectric ex Heliolisk": [
+   63.6,
+   11
+  ],
+  "Umbreon Hydreigon": [
+   40.0,
+   10
+  ],
+  "Greninja ex Mega Greninja ex": [
+   40.0,
+   10
+  ],
+  "Miraidon ex Magnezone": [
+   55.6,
+   9
+  ],
+  "Mega Greninja ex Greninja ex": [
+   44.4,
+   9
+  ],
+  "Pikachu ex Pawmot": [
+   75.0,
+   8
+  ],
+  "Suicune ex Baxcalibur": [
+   62.5,
+   8
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   50.0,
+   8
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   50.0,
+   8
+  ],
+  "Mega Greninja ex Suicune ex": [
+   14.3,
+   7
+  ],
+  "Umbreon ex Umbreon": [
+   33.3,
+   6
+  ],
+  "Giratina ex Dragonair": [
+   16.7,
+   6
+  ],
+  "Mega Altaria ex Espeon": [
+   60.0,
+   5
+  ],
+  "Hydreigon Mega Absol ex": [
+   50.0,
+   4
+  ],
+  "Greninja ex Suicune ex": [
+   66.7,
+   3
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   66.7,
+   3
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   33.3,
+   3
+  ],
+  "Magnezone Miraidon ex": [
+   33.3,
+   3
+  ],
+  "Mega Greninja ex Greninja": [
+   0.0,
+   3
+  ],
+  "Butterfree Mega Sceptile ex": [
+   100.0,
+   2
+  ],
+  "Vespiquen ex Shuckle ex": [
+   100.0,
+   2
+  ],
+  "Lopunny Raboot": [
+   100.0,
+   2
+  ],
+  "Raikou ex Pawmot": [
+   50.0,
+   2
+  ],
+  "Azumarill Lopunny": [
+   50.0,
+   2
+  ],
+  "Azumarill Raboot": [
+   50.0,
+   2
+  ],
+  "Hoopa ex Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Milotic ex Darkrai": [
+   50.0,
+   2
+  ],
+  "Mega Altaria ex Jigglypuff": [
+   0.0,
+   2
+  ],
+  "Miltank": [
+   100.0,
+   1
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   100.0,
+   1
+  ],
+  "Pikachu ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Magnezone": [
+   100.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire": [
+   100.0,
+   1
+  ],
+  "Hoopa ex Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Bellibolt ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Lucario": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   0.0,
+   1
+  ],
+  "Mega Sharpedo ex Chien-Pao ex": [
+   0.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   0.0,
+   1
+  ],
+  "Mega Dragonite ex": [
+   0.0,
+   1
+  ],
+  "Mega Charizard X ex Entei ex": [
+   0.0,
+   1
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   0.0,
+   1
+  ],
+  "Guzzlord ex Indeedee ex": [
+   0.0,
+   1
+  ],
+  "Umbreon Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Raikou ex": [
+   0.0,
+   1
+  ],
+  "Mega Charizard Y ex Charizard": [
+   0.0,
+   1
+  ],
+  "Hydreigon Mega Sableye ex": [
+   0.0,
+   1
+  ]
+ },
+ "Miraidon ex Magnezone": {
+  "Mega Greninja ex Greninja ex": [
+   76.5,
+   17
+  ],
+  "Mega Charizard Y ex Entei ex": [
+   43.8,
+   16
+  ],
+  "Mega Greninja ex Suicune ex": [
+   66.7,
+   9
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   22.2,
+   9
+  ],
+  "Giratina ex Dragonair": [
+   50.0,
+   8
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   50.0,
+   8
+  ],
+  "Pikachu ex Pawmot": [
+   42.9,
+   7
+  ],
+  "Mega Manectric ex Heliolisk": [
+   40.0,
+   5
+  ],
+  "Mega Greninja ex Greninja": [
+   75.0,
+   4
+  ],
+  "Raikou ex Pawmot": [
+   50.0,
+   4
+  ],
+  "Miraidon ex Magnezone": [
+   25.0,
+   4
+  ],
+  "Azumarill Lopunny": [
+   100.0,
+   3
+  ],
+  "Umbreon Hydreigon": [
+   66.7,
+   3
+  ],
+  "Greninja ex Mega Greninja ex": [
+   66.7,
+   3
+  ],
+  "Mega Lucario ex Greninja": [
+   33.3,
+   3
+  ],
+  "Lopunny Raboot": [
+   33.3,
+   3
+  ],
+  "Umbreon ex Umbreon": [
+   0.0,
+   3
+  ],
+  "Miltank": [
+   100.0,
+   2
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   100.0,
+   2
+  ],
+  "Mega Altaria ex Espeon": [
+   50.0,
+   2
+  ],
+  "Butterfree Mega Sceptile ex": [
+   50.0,
+   2
+  ],
+  "Hydreigon Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Mega Lucario ex Lucario": [
+   50.0,
+   2
+  ],
+  "Pikachu ex Raikou ex": [
+   50.0,
+   2
+  ],
+  "Greninja ex Suicune ex": [
+   50.0,
+   2
+  ],
+  "Pikachu ex Dedenne ex": [
+   0.0,
+   2
+  ],
+  "Umbreon Mega Absol ex": [
+   0.0,
+   2
+  ],
+  "Mew ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Mew ex": [
+   100.0,
+   1
+  ],
+  "Magnezone Mega Gengar ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex": [
+   100.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Magnezone Miraidon ex": [
+   100.0,
+   1
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   100.0,
+   1
+  ],
+  "Hydreigon Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Pidgeot Umbreon": [
+   100.0,
+   1
+  ],
+  "Vespiquen Ribombee": [
+   100.0,
+   1
+  ],
+  "Suicune ex Mega Greninja ex": [
+   100.0,
+   1
+  ],
+  "Umbreon Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Greninja Decidueye ex": [
+   100.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   100.0,
+   1
+  ],
+  "Mega Dragonite ex": [
+   100.0,
+   1
+  ],
+  "Armarouge ex Castform Sunny Form": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Zeraora": [
+   0.0,
+   1
+  ],
+  "Mega Lucario ex Hitmonlee": [
+   0.0,
+   1
+  ],
+  "Mega Skarmory ex Mantyke": [
+   0.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   0.0,
+   1
+  ],
+  "Suicune ex Blastoise": [
+   0.0,
+   1
+  ],
+  "Guzzlord ex Indeedee ex": [
+   0.0,
+   1
+  ]
+ },
+ "Paldean Clodsire Koraidon ex": {
+  "Mega Charizard Y ex Entei ex": [
+   50.0,
+   6
+  ],
+  "Mega Greninja ex Greninja ex": [
+   33.3,
+   6
+  ],
+  "Mega Greninja ex Suicune ex": [
+   60.0,
+   5
+  ],
+  "Mega Manectric ex Heliolisk": [
+   25.0,
+   4
+  ],
+  "Greninja ex Mega Greninja ex": [
+   100.0,
+   3
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   66.7,
+   3
+  ],
+  "Pikachu ex Pawmot": [
+   33.3,
+   3
+  ],
+  "Mega Greninja ex Greninja": [
+   100.0,
+   2
+  ],
+  "Raikou ex Pawmot": [
+   100.0,
+   2
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   50.0,
+   2
+  ],
+  "Umbreon Hydreigon": [
+   0.0,
+   2
+  ],
+  "Umbreon ex Umbreon": [
+   0.0,
+   2
+  ],
+  "Mega Gardevoir ex Indeedee ex": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Lucario": [
+   100.0,
+   1
+  ],
+  "Guzzlord ex Indeedee ex": [
+   100.0,
+   1
+  ],
+  "Dragonair Giratina ex": [
+   100.0,
+   1
+  ],
+  "Hydreigon Hoopa ex": [
+   0.0,
+   1
+  ],
+  "Mega Gardevoir ex Mega Mewtwo X ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Espeon": [
+   0.0,
+   1
+  ],
+  "Guzzlord ex Ribombee": [
+   0.0,
+   1
+  ],
+  "Hydreigon Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Serperior Ribombee": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   0.0,
+   1
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   0.0,
+   1
+  ],
+  "Suicune ex Baxcalibur": [
+   0.0,
+   1
+  ],
+  "Bellibolt ex Pawmot": [
+   0.0,
+   1
+  ]
+ },
+ "Pikachu ex Pawmot": {
+  "Mega Charizard Y ex Entei ex": [
+   37.0,
+   27
+  ],
+  "Mega Greninja ex Greninja ex": [
+   44.4,
+   18
+  ],
+  "Mega Greninja ex Suicune ex": [
+   33.3,
+   15
+  ],
+  "Giratina ex Dragonair": [
+   33.3,
+   9
+  ],
+  "Greninja ex Mega Greninja ex": [
+   75.0,
+   8
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   25.0,
+   8
+  ],
+  "Miraidon ex Magnezone": [
+   42.9,
+   7
+  ],
+  "Umbreon Hydreigon": [
+   28.6,
+   7
+  ],
+  "Mega Manectric ex Heliolisk": [
+   40.0,
+   5
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   40.0,
+   5
+  ],
+  "Mega Dragonite ex Dragonite": [
+   50.0,
+   4
+  ],
+  "Pikachu ex Pawmot": [
+   50.0,
+   4
+  ],
+  "Azumarill Lopunny": [
+   25.0,
+   4
+  ],
+  "Suicune ex Baxcalibur": [
+   25.0,
+   4
+  ],
+  "Raikou ex Pawmot": [
+   100.0,
+   3
+  ],
+  "Mega Greninja ex Greninja": [
+   66.7,
+   3
+  ],
+  "Umbreon Mega Absol ex": [
+   66.7,
+   3
+  ],
+  "Greninja ex Suicune ex": [
+   66.7,
+   3
+  ],
+  "Mega Gardevoir ex Indeedee ex": [
+   33.3,
+   3
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   33.3,
+   3
+  ],
+  "Umbreon ex Umbreon": [
+   100.0,
+   2
+  ],
+  "Team Rocket's Slowking ex Ribombee": [
+   100.0,
+   2
+  ],
+  "Magnezone Miraidon ex": [
+   100.0,
+   2
+  ],
+  "Pikachu ex Magnezone": [
+   50.0,
+   2
+  ],
+  "Butterfree Mega Sceptile ex": [
+   50.0,
+   2
+  ],
+  "Mew ex Mega Diancie ex": [
+   0.0,
+   2
+  ],
+  "Guzzlord ex Ribombee": [
+   0.0,
+   2
+  ],
+  "Hydreigon Mega Sableye ex": [
+   0.0,
+   2
+  ],
+  "Pikachu ex Raikou ex": [
+   0.0,
+   2
+  ],
+  "Hydreigon Hoopa ex": [
+   100.0,
+   1
+  ],
+  "Suicune ex Greninja ex": [
+   100.0,
+   1
+  ],
+  "Mega Sceptile ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Azumarill Raboot": [
+   100.0,
+   1
+  ],
+  "Mega Garchomp ex Suicune ex": [
+   100.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Paldean Clodsire": [
+   100.0,
+   1
+  ],
+  "Koraidon ex Whiscash": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Leafeon ex": [
+   100.0,
+   1
+  ],
+  "Lycanroc ex Lucario": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Dedenne ex": [
+   100.0,
+   1
+  ],
+  "Mega Charizard X ex Mega Charizard Y ex": [
+   100.0,
+   1
+  ],
+  "Meowscarada ex Teal Mask Ogerpon ex": [
+   100.0,
+   1
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   100.0,
+   1
+  ],
+  "Oricorio": [
+   100.0,
+   1
+  ],
+  "Suicune ex Blastoise": [
+   100.0,
+   1
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   100.0,
+   1
+  ],
+  "Mega Altaria ex Espeon": [
+   100.0,
+   1
+  ],
+  "Miraidon ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Gardevoir": [
+   0.0,
+   1
+  ],
+  "Mega Sableye ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Lycanroc ex Rampardos": [
+   0.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   0.0,
+   1
+  ],
+  "Paldean Clodsire": [
+   0.0,
+   1
+  ],
+  "Dedenne ex Indeedee ex": [
+   0.0,
+   1
+  ],
+  "Mega Lucario ex Hitmonlee": [
+   0.0,
+   1
+  ],
+  "Mega Sceptile ex Greninja": [
+   0.0,
+   1
+  ],
+  "Mega Charizard X ex Entei ex": [
+   0.0,
+   1
+  ]
+ },
+ "Raikou ex Pawmot": {
+  "Mega Charizard Y ex Entei ex": [
+   50.0,
+   4
+  ],
+  "Miraidon ex Magnezone": [
+   25.0,
+   4
+  ],
+  "Mega Greninja ex Suicune ex": [
+   66.7,
+   3
+  ],
+  "Mega Greninja ex Greninja ex": [
+   33.3,
+   3
+  ],
+  "Mega Manectric ex Heliolisk": [
+   33.3,
+   3
+  ],
+  "Pikachu ex Pawmot": [
+   0.0,
+   3
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   50.0,
+   2
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   0.0,
+   2
+  ],
+  "Umbreon Hydreigon": [
+   0.0,
+   2
+  ],
+  "Giratina ex Dragonair": [
+   0.0,
+   2
+  ],
+  "Mega Dragonite ex Dragonite": [
+   100.0,
+   1
+  ],
+  "Azumarill Lopunny": [
+   100.0,
+   1
+  ],
+  "Mega Sableye ex Darkrai ex": [
+   100.0,
+   1
+  ],
+  "Mega Greninja ex Greninja": [
+   100.0,
+   1
+  ],
+  "Magnezone Miraidon ex": [
+   0.0,
+   1
+  ],
+  "Mew ex Mega Diancie ex": [
+   0.0,
+   1
+  ],
+  "Mega Gardevoir ex Indeedee ex": [
+   0.0,
+   1
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Espeon": [
+   0.0,
+   1
+  ],
+  "Koraidon ex Paldean Clodsire": [
+   0.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   0.0,
+   1
+  ],
+  "Dedenne ex Indeedee ex": [
+   0.0,
+   1
+  ],
+  "Greninja ex Mega Greninja ex": [
+   0.0,
+   1
+  ],
+  "Greninja Mega Absol ex": [
+   0.0,
+   1
+  ]
+ },
+ "Suicune ex Baxcalibur": {
+  "Mega Charizard Y ex Entei ex": [
+   62.5,
+   16
+  ],
+  "Umbreon Hydreigon": [
+   55.6,
+   9
+  ],
+  "Mega Greninja ex Greninja ex": [
+   75.0,
+   8
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   37.5,
+   8
+  ],
+  "Mega Greninja ex Suicune ex": [
+   71.4,
+   7
+  ],
+  "Giratina ex Dragonair": [
+   40.0,
+   5
+  ],
+  "Greninja ex Mega Greninja ex": [
+   50.0,
+   4
+  ],
+  "Suicune ex Baxcalibur": [
+   50.0,
+   4
+  ],
+  "Pikachu ex Pawmot": [
+   25.0,
+   4
+  ],
+  "Hydreigon Mega Absol ex": [
+   33.3,
+   3
+  ],
+  "Mega Manectric ex Heliolisk": [
+   0.0,
+   3
+  ],
+  "Mega Greninja ex Greninja": [
+   100.0,
+   2
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   100.0,
+   2
+  ],
+  "Umbreon ex Umbreon": [
+   50.0,
+   2
+  ],
+  "Azumarill Lopunny": [
+   50.0,
+   2
+  ],
+  "Hoopa ex Mega Absol ex": [
+   0.0,
+   2
+  ],
+  "Greninja ex Suicune ex": [
+   0.0,
+   2
+  ],
+  "Mega Sharpedo ex Gyarados": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Oricorio": [
+   100.0,
+   1
+  ],
+  "Mega Garchomp ex Garchomp": [
+   100.0,
+   1
+  ],
+  "Mega Charizard X ex Entei ex": [
+   100.0,
+   1
+  ],
+  "Mega Steelix ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Vaporeon ex Greninja": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   100.0,
+   1
+  ],
+  "Mega Altaria ex Jigglypuff": [
+   100.0,
+   1
+  ],
+  "Milotic ex Darkrai": [
+   100.0,
+   1
+  ],
+  "Mega Skarmory ex Mantyke": [
+   0.0,
+   1
+  ],
+  "Umbreon Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   0.0,
+   1
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   0.0,
+   1
+  ],
+  "Mega Dragonite ex Dragonite": [
+   0.0,
+   1
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   0.0,
+   1
+  ]
+ },
+ "Umbreon Hydreigon": {
+  "Mega Charizard Y ex Entei ex": [
+   66.7,
+   36
+  ],
+  "Mega Greninja ex Greninja ex": [
+   47.4,
+   19
+  ],
+  "Giratina ex Dragonair": [
+   33.3,
+   15
+  ],
+  "Umbreon Hydreigon": [
+   50.0,
+   14
+  ],
+  "Mega Manectric ex Heliolisk": [
+   63.6,
+   11
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   60.0,
+   10
+  ],
+  "Mega Greninja ex Suicune ex": [
+   40.0,
+   10
+  ],
+  "Mega Greninja ex Greninja": [
+   88.9,
+   9
+  ],
+  "Greninja ex Mega Greninja ex": [
+   55.6,
+   9
+  ],
+  "Suicune ex Baxcalibur": [
+   33.3,
+   9
+  ],
+  "Umbreon Mega Absol ex": [
+   50.0,
+   8
+  ],
+  "Pikachu ex Pawmot": [
+   57.1,
+   7
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   0.0,
+   6
+  ],
+  "Magnezone Miraidon ex": [
+   75.0,
+   4
+  ],
+  "Paldean Clodsire": [
+   75.0,
+   4
+  ],
+  "Dedenne ex Indeedee ex": [
+   75.0,
+   4
+  ],
+  "Hydreigon Mega Sableye ex": [
+   50.0,
+   4
+  ],
+  "Umbreon ex Umbreon": [
+   25.0,
+   4
+  ],
+  "Hydreigon Mega Absol ex": [
+   66.7,
+   3
+  ],
+  "Miraidon ex Magnezone": [
+   33.3,
+   3
+  ],
+  "Pikachu ex Magnezone": [
+   33.3,
+   3
+  ],
+  "Lopunny Raboot": [
+   33.3,
+   3
+  ],
+  "Guzzlord ex Ribombee": [
+   100.0,
+   2
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   100.0,
+   2
+  ],
+  "Raikou ex Pawmot": [
+   100.0,
+   2
+  ],
+  "Mega Dragonite ex": [
+   100.0,
+   2
+  ],
+  "Mega Altaria ex Espeon": [
+   50.0,
+   2
+  ],
+  "Vespiquen ex Shuckle ex": [
+   50.0,
+   2
+  ],
+  "Azumarill Lopunny": [
+   50.0,
+   2
+  ],
+  "Hoopa ex Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Greninja ex Suicune ex": [
+   50.0,
+   2
+  ],
+  "Mega Skarmory ex Mantyke": [
+   0.0,
+   2
+  ],
+  "Mega Altaria ex Greninja": [
+   0.0,
+   2
+  ],
+  "Giratina ex Mega Mewtwo X ex": [
+   0.0,
+   2
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   0.0,
+   2
+  ],
+  "Mega Dragonite ex Dragonite": [
+   100.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Tyranitar Arceus ex": [
+   100.0,
+   1
+  ],
+  "Butterfree Mega Sceptile ex": [
+   100.0,
+   1
+  ],
+  "Mega Lucario ex Hitmonlee": [
+   100.0,
+   1
+  ],
+  "Meowscarada ex Teal Mask Ogerpon ex": [
+   100.0,
+   1
+  ],
+  "Koraidon ex Paldean Clodsire": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Mega Diancie ex": [
+   100.0,
+   1
+  ],
+  "Vespiquen Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Pidgeot ex Pidgeot": [
+   100.0,
+   1
+  ],
+  "Oricorio": [
+   100.0,
+   1
+  ],
+  "Mega Sharpedo ex Chien-Pao ex": [
+   100.0,
+   1
+  ],
+  "Miraidon ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Umbreon Mega Sableye ex": [
+   100.0,
+   1
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   100.0,
+   1
+  ],
+  "Pikachu ex Raikou ex": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Carbink": [
+   100.0,
+   1
+  ],
+  "Greninja Decidueye ex": [
+   100.0,
+   1
+  ],
+  "Bellibolt ex Pawmot": [
+   100.0,
+   1
+  ],
+  "Mega Diancie ex Carbink": [
+   100.0,
+   1
+  ],
+  "Mega Steelix ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Mega Sceptile ex Ribombee": [
+   100.0,
+   1
+  ],
+  "Vaporeon ex Greninja": [
+   100.0,
+   1
+  ],
+  "Mega Dragonite ex Team Rocket's Raticate ex": [
+   0.0,
+   1
+  ],
+  "Zoroark ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Mega Lucario ex Lucario": [
+   0.0,
+   1
+  ],
+  "Hoopa ex Mega Tyranitar ex": [
+   0.0,
+   1
+  ],
+  "Azumarill Raboot": [
+   0.0,
+   1
+  ],
+  "Mega Gardevoir ex Gardevoir": [
+   0.0,
+   1
+  ],
+  "Magnezone ex Pikachu ex": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   0.0,
+   1
+  ],
+  "Mega Tyranitar ex Umbreon": [
+   0.0,
+   1
+  ],
+  "Paldean Clodsire Furfrou": [
+   0.0,
+   1
+  ],
+  "Guzzlord ex Indeedee ex": [
+   0.0,
+   1
+  ],
+  "Mega Mewtwo X ex Dusknoir": [
+   0.0,
+   1
+  ],
+  "Mega Sceptile ex Greninja": [
+   0.0,
+   1
+  ],
+  "Blacephalon ex Charizard": [
+   0.0,
+   1
+  ]
+ },
+ "Umbreon Mega Absol ex": {
+  "Mega Charizard Y ex Entei ex": [
+   58.3,
+   12
+  ],
+  "Umbreon Hydreigon": [
+   50.0,
+   8
+  ],
+  "Giratina ex Dragonair": [
+   83.3,
+   6
+  ],
+  "Mega Greninja ex Suicune ex": [
+   80.0,
+   5
+  ],
+  "Mega Greninja ex Greninja ex": [
+   100.0,
+   3
+  ],
+  "Mega Manectric ex Heliolisk": [
+   66.7,
+   3
+  ],
+  "Pikachu ex Pawmot": [
+   33.3,
+   3
+  ],
+  "Greninja ex Mega Greninja ex": [
+   0.0,
+   3
+  ],
+  "Miraidon ex Magnezone": [
+   50.0,
+   2
+  ],
+  "Alolan Exeggutor ex Ribombee": [
+   50.0,
+   2
+  ],
+  "Dragonair Mega Rayquaza ex": [
+   50.0,
+   2
+  ],
+  "Umbreon Mega Absol ex": [
+   50.0,
+   2
+  ],
+  "Milotic ex Darkrai": [
+   50.0,
+   2
+  ],
+  "Lycanroc ex Mega Lucario ex": [
+   100.0,
+   1
+  ],
+  "Lopunny Raboot": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Dusknoir": [
+   100.0,
+   1
+  ],
+  "Magnezone Miraidon ex": [
+   100.0,
+   1
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   100.0,
+   1
+  ],
+  "Paldean Clodsire Furfrou": [
+   100.0,
+   1
+  ],
+  "Azumarill Lopunny": [
+   100.0,
+   1
+  ],
+  "Mew ex Mega Mewtwo X ex": [
+   100.0,
+   1
+  ],
+  "Hydreigon Mega Sableye ex": [
+   0.0,
+   1
+  ],
+  "Suicune ex Baxcalibur": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Greninja": [
+   0.0,
+   1
+  ],
+  "Mega Sceptile ex Greninja": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Miraidon ex": [
+   0.0,
+   1
+  ],
+  "Dragonair Giratina ex": [
+   0.0,
+   1
+  ],
+  "Mega Altaria ex Jigglypuff": [
+   0.0,
+   1
+  ],
+  "Mega Blaziken ex Fuecoco ex": [
+   0.0,
+   1
+  ],
+  "Zoroark ex Mega Absol ex": [
+   0.0,
+   1
+  ],
+  "Greninja ex Suicune ex": [
+   0.0,
+   1
+  ],
+  "Mega Charizard X ex Entei ex": [
+   0.0,
+   1
+  ]
+ },
+ "Umbreon ex Umbreon": {
+  "Mega Charizard Y ex Entei ex": [
+   50.0,
+   10
+  ],
+  "Mega Mewtwo X ex Mew ex": [
+   66.7,
+   6
+  ],
+  "Mega Greninja ex Greninja ex": [
+   0.0,
+   5
+  ],
+  "Umbreon Hydreigon": [
+   75.0,
+   4
+  ],
+  "Miraidon ex Magnezone": [
+   100.0,
+   3
+  ],
+  "Mega Greninja ex Suicune ex": [
+   66.7,
+   3
+  ],
+  "Giratina ex Dragonair": [
+   66.7,
+   3
+  ],
+  "Mega Manectric ex Heliolisk": [
+   33.3,
+   3
+  ],
+  "Mega Dragonite ex Giratina ex": [
+   100.0,
+   2
+  ],
+  "Paldean Clodsire Koraidon ex": [
+   100.0,
+   2
+  ],
+  "Suicune ex Baxcalibur": [
+   50.0,
+   2
+  ],
+  "Greninja ex Suicune ex": [
+   50.0,
+   2
+  ],
+  "Pikachu ex Pawmot": [
+   0.0,
+   2
+  ],
+  "Mega Altaria ex Espeon": [
+   0.0,
+   2
+  ],
+  "Lycanroc ex Rampardos": [
+   100.0,
+   1
+  ],
+  "Indeedee ex Oricorio": [
+   100.0,
+   1
+  ],
+  "Alolan Exeggutor ex Leafeon ex": [
+   100.0,
+   1
+  ],
+  "Mega Gardevoir ex Gardevoir": [
+   100.0,
+   1
+  ],
+  "Milotic ex Darkrai": [
+   100.0,
+   1
+  ],
+  "Azumarill Lopunny": [
+   100.0,
+   1
+  ],
+  "Miraidon ex Pawmot": [
+   0.0,
+   1
+  ],
+  "Pikachu ex Raikou ex": [
+   0.0,
+   1
+  ],
+  "Giratina ex Mega Mewtwo X ex": [
+   0.0,
+   1
+  ],
+  "Mega Charizard X ex Entei ex": [
+   0.0,
+   1
+  ]
+ }
+}
