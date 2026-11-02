@@ -1,0 +1,1 @@
+[celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L22677] Assistant: Operational; ready for tasks. `/home/amr/.openclaw/task-queue/heartbeat_check.py` still missing (verified 2026-11-01).
