@@ -191,10 +191,7 @@ OPENAI_API_KEY_DIR = /home/amr/.openclaw/secrets/openai-api-key.txt
 | 每日記錄 | `09c7940b-c32b-4336-928f-6f158947147d` | 每日 20:05 Asia/Taipei | 只寫 `memory/YYYY-MM-DD.md` 與 `memory/ptcgp_meta_discord_YYYYMMDD.md`，delivery=none 不發 Discord |
 | 三日彙整 | `6ddc8b4c-6963-4c68-9f01-5773722fbd76` | 每 72 小時 | 讀最近三天筆記，輸出前五名、500 字內，announce 到 Discord `channel:1338836482420510764` |
 
-### 每日台北時間 08:00 翻譯更新 Cron
-- Job ID: `72a0c6ef-3762-4ec5-b529-0cc1d9c585eb`
-- 更新 `ptcgp_deck_dictionary.json` 的 card_names 翻譯
-
-### PTCGP Video Auto-Monitor Cron
-- Job ID: `a938be42-bca6-4ba0-8e6f-141f2b8b2fab`
-- 每 5 分鐘檢查 Discord 頻道新 YouTube URL
+### 其他 Cron 實際狀態（2026-11-03 核對）
+- 翻譯更新 `72a0c6ef-3762-4ec5-b529-0cc1d9c585eb`：**已停用**（enabled=false，最後成功 2026-08-11）。字典翻譯改由每日 Meta job 順帶處理。
+- Video Auto-Monitor `a938be42-bca6-4ba0-8e6f-141f2b8b2fab`：**已刪除**（automation not found）。
+- 本機原生 heartbeat `46242a4c-915b-4f97-9163-5fd924f1f81e`（heartbeat:celesteela，每 30 分鐘）：payload=heartbeat，靠 scratch 傳遞狀態，`openclaw cron scratch <id>` 可讀寫。舊的 `~/.openclaw/task-queue/heartbeat_check.py` 機制已不存在，不要再找。

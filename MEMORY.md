@@ -13,6 +13,16 @@
 - **追蹤主力時必須同時列出同核心的所有分支版本**，否則會低估擴張幅度（自爆磁怪 → 密勒頓分支；忍蛙 → 水君／甲賀忍蛙／反制三分支）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 - **換包後必須同時維護新舊兩個 set 的頁面並在數字旁標註出自哪一頁**；舊頁凍結要寫「凍結」不可寫成「延續」。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 - **份額第一 = 環境靶心**：牌組被三方以上對位同時圍剿時會快速崩解，判讀崩壞原因要看對位結構而非只看勝率。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **門檻需距當前值至少 1.5pt**，否則門檻落在噪音帶內、連續多日擦邊不破；雙條件情境改為「任一條件成立＝方向成立、兩者皆成立＝情境命中」，避免雙條件互相稀釋。同一族群不同方向不可併在同一情境。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **族群分類函式 grp() 不可自行增刪關鍵字**：跨日比較前須與前一日腳本逐字對齊，否則族群份額／AWR 不可比。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **對位頁為牌組分支級 URL**（如 `giratina-ex-c1-dragonair-b4`），用原型 slug 抓會得到 title 為 `undefined` 的空白殼頁；抓對位必須用分支表 slug。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **牌組名翻譯以官方台版卡名為準**：來源 tcgpocket.centropkmn.com/zh_TW/{SET}（遊戲內台版官方名，2026-11-02 已對齊全部 22 系列）。字典需嚴格區分 card_names（單卡）與 deck_names（牌組）；自動組譯時要把「可被切成 2 張以上卡名」的複合項排除，否則會把整個牌組名當一張卡。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **每日並列追蹤「新卡份額占比」與「新舊卡 AWR 差距」**：差距擴大代表擴充包進入衰退期，是比族群 AWR 波動更早的環境轉向訊號（2026-11-02 差距由 0.28pt 擴大到 2.89pt）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+## Heartbeat 機制（2026-11-03 確認）
+- 本機 heartbeat 由 OpenClaw 原生 cron 承載：`heartbeat:celesteela`（Job `46242a4c-915b-4f97-9163-5fd924f1f81e`，每 30 分鐘，payload=`{"kind":"heartbeat"}`），狀態用 scratch 傳遞（`openclaw cron scratch <id>`）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **不存在** `~/.openclaw/task-queue/heartbeat_check.py` 這套舊機制，2026-08-23 起每天回報「heartbeat 缺失」是誤判，不要再報。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- Poll 判準：scratch=`HEARTBEAT_OK` → 無待辦回 `NO_REPLY`；只有 `HEARTBEAT_FAIL` 才需處理任務。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 
 ## Auto Video Processing
 - Linder 明確要求：看到 YouTube PTCGP 影片 URL 一律直接處理，不再等詢問
