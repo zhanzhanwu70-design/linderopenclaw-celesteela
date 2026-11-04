@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
-    "version": "4.3",
-    "last_updated": "2026-11-02",
+    "version": "4.4",
+    "last_updated": "2026-11-03",
     "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
     "last_video_ingest_update": "2026-06-02T16:09Z",
     "c1_dual_fusion_added": "2026-10-29",
@@ -14,7 +14,8 @@
       "Serperior Mega Heracross ex",
       "Team Rockets Raticate ex",
       "Team Rockets Weezing ex"
-    ]
+    ],
+    "deck_names_count": 560
   },
   "corrections": [
     {
@@ -1140,7 +1141,35 @@
     "Whiscash": "鯰魚王",
     "Wigglytuff ex": "胖可丁ex",
     "Ho Oh ex": "鳳王ex",
-    "Serperior Mega Heracross ex": "君主蛇 赫拉克羅斯ex"
+    "Serperior Mega Heracross ex": "君主蛇 赫拉克羅斯ex",
+    "Mega Lucario ex Hitmonchan ex": "超級路卡利歐 ex 快拳郎ex",
+    "Blastoise Lapras": "水箭龜 拉普拉斯",
+    "Mega Sharpedo ex Blastoise": "超級巨牙鯊ex 水箭龜",
+    "Mega Blastoise ex Blastoise": "超級水箭龜ex 水箭龜",
+    "Milotic ex Igglybuff": "美納斯ex 寶寶丁",
+    "Paldean Clodsire Whiscash": "帕底亞 土王 鯰魚王",
+    "Solgaleo ex Ferrothorn": "索爾迦雷歐ex 堅果啞鈴",
+    "Mega Sharpedo ex Mega Gyarados ex": "超級巨牙鯊ex 超級暴鯉龍ex",
+    "Dedenne ex Sylveon": "咚咚鼠ex 仙子伊布",
+    "Mega Sceptile ex Leafeon ex": "超級蜥蜴王ex 葉伊布ex",
+    "Gardevoir Giratina ex": "沙奈朵 騎拉帝納ex",
+    "Pikachu ex Happiny": "皮卡丘ex 小福蛋",
+    "Alolan Exeggutor ex Tsareena": "阿羅拉 椰蛋樹ex 甜冷美后",
+    "Pawmot Ditto": "巴布土撥 百變怪",
+    "Teal Mask Ogerpon ex Pidgeot": "厄鬼椪 碧草面具ex 大比鳥",
+    "Mega Gyarados ex Dusknoir": "超級暴鯉龍ex 黑夜魔靈",
+    "Dedenne ex Pikachu ex": "咚咚鼠ex 皮卡丘ex",
+    "Mega Greninja ex Dustox": "超級甲賀忍蛙ex 毒粉蛾",
+    "Vespiquen ex Teal Mask Ogerpon ex": "蜂女王ex 厄鬼椪 碧草面具ex",
+    "Mega Dragonite ex Suicune ex": "超級快龍ex 水君ex",
+    "Ho-Oh ex Snorlax ex": "鳳王ex 卡比獸ex",
+    "Flutter Mane ex Gengar": "振翼髮ex 耿鬼",
+    "Mega Tyranitar ex Chingling": "超級班基拉斯ex 鈴鐺響",
+    "Rotom ex Mime Jr.": "洛托姆ex 魔尼尼",
+    "Mega Sharpedo ex Milotic ex": "超級巨牙鯊ex 美納斯ex",
+    "Gengar Nihilego": "耿鬼 虛吾伊德",
+    "Teal Mask Ogerpon ex": "厄鬼椪 碧草面具ex",
+    "Flutter Mane ex": "振翼髮ex"
   },
   "card_names": {
     "Bulbasaur": "妙蛙種子",
