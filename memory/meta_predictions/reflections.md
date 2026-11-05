@@ -368,3 +368,34 @@ Linder 在頻道中討論：玩家「1234567890」提到 Iron Valiant 目前有�
 - 情境C（0.30）格鬥／草／鋼系族群反攻：族群合併 AWR ≥49.5%（今日 48.13%，距離 1.37pt，AWR 帶內；方向兩日連升）。
 - 最大機率：A（與 B 並列 0.35）。信心：低。
 - 三條皆為**單條件方向型**，距離全部落在修訂後的帶狀區間內，且方向皆為連續 2 日同方向。
+
+
+## 2026-11-05 正式驗證 PRED_20261103（正式檢查日 2026-11-05） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **環境狀態**：C1 Standard 28 錦標賽／3,529 玩家／9,827 對局（11-04 為 24／2,932／8,111，**+4 錦標賽／+597 玩家／+1,716 對局**）；分支 **371 條**／合併 **138 條**（昨 331／129），全環境加權 AWR **48.66%**（昨 48.61%）。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境A（月亮伊布合併 AWR 跌破 47.5%）：❌ 未命中。49.43→**49.41%**，AWR 連兩日近乎停滯，距門檻 1.91pt。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境B（水君 ex 合併份額突破 6.0%）：❌ 未命中。5.29→**5.87%**，距門檻僅 0.13pt，但 AWR 53.86→53.12%，擴張沒有帶來強度。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境C（C1 新舊卡 AWR 差距擴大到 ≥5.0pt）：❌ 未命中。2.85→**2.91pt**，僅反向擴大 0.06pt，距門檻 2.09pt。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **結果：0/3 命中。** <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+### 核心反省 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 遠距門檻再次失效：A 的 47.5% 超出 AWR 實際波動帶；C 的 5.0pt 假設差距會快速擴張，但今日只動 0.06pt。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- B 是追逐噪音：份額只差 0.13pt 卻伴隨 AWR −0.74pt，與「主流資金遷入」敘事相反。**門檻接近但方向品質差時，仍應判未命中。** <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 後續維持三道閘門：單條件、連續兩日同方向、距離落在指標帶內；另加「動能幅度」檢查，連兩日變化低於 0.2pt 者不得宣稱方向成立。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+## 2026-11-05 正式驗證 PRED_20261104（正式檢查日） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境A（含 C1 新卡族群 AWR ≥48.2%）：❌ 未命中。47.19→**47.16%**；新舊卡差距 2.85→**2.91pt**，新包拖累只是停滯，沒有止穩。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境B（超級甲賀忍蛙 ex 合併份額 <10.2%）：✅ **命中**。10.57→**10.17%**，份額三連降；AWR 44.62→44.75% 小幅回升，再次證實「崩解只剩份額面」。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境C（格鬥／草／鋼系族群合併 AWR ≥49.5%）：❌ 未命中。48.10→**48.07%**；族群份額反而 6.68→**8.25%**，是份額擴張、強度持平。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **結果：1/3 命中。** <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+### 核心反省（新增兩條可複用規律） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+1. **「份額退」不等於「強度回」**：A 把含新卡份額下降與差距收斂當成新卡止跌的充分證據，但今日份額 53.99→53.33%、AWR 47.19→47.16%、差距 2.85→2.91pt，三者只顯示拖累停滯。往後判定擴充包轉正，至少要看到新卡 AWR 回升 ≥0.5pt 或差距連兩日收斂。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+2. **「族群份額升」不等於「族群強度升」**：C 的族群份額兩日 +2.15pt，但 AWR 只 +1.25pt（昨日）、今日又 −0.03pt。資金遷入舊卡高效率線不等於整個族群轉強；預測族群時應先指定份額或 AWR 其中一項，不混用。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+3. **本日最可靠訊號是資金遷移，不是版本轉折**：七夕青鳥、胡帕、水君、蜂女王、雷電獸、超級蜥蜴王、超級路卡利歐的份額上升，而新舊卡 AWR 差距仍停在約 2.9pt。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+4. **份額下行型單條件仍有效**：B 以 0.37pt 門檻距離命中，且方向連續兩日一致。下一輪保留「份額外流型」預測，但避免同時綁定 AWR 第二條件。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+## 2026-11-05 新預測 PRED_20261105（檢查日 2026-11-07） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境A（0.35）月亮伊布份額跌破 11.0%：今日 11.56%，距離 0.56pt，份額帶內；方向 12.97→12.31→11.56% 連兩日下降。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境B（0.35）超級甲賀忍蛙 ex 份額跌破 9.7%：今日 10.17%，距離 0.47pt，份額帶內；方向 11.01→10.57→10.17% 連兩日下降。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境C（0.30）格鬥／草／鋼系份額突破 9.0%：今日 8.25%，距離 0.75pt，份額帶內；方向 6.10→6.68→8.25% 連兩日上升。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 最大機率：A（與 B 並列 0.35）。信心：低～中。三條皆為單條件方向型，且未再綁定 AWR。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
