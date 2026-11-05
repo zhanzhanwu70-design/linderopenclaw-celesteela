@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "PTCGP 牌組名稱中英字典",
-    "version": "4.4",
-    "last_updated": "2026-11-03",
+    "version": "4.5",
+    "last_updated": "2026-11-04",
     "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
     "last_video_ingest_update": "2026-06-02T16:09Z",
     "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
       "Team Rockets Raticate ex",
       "Team Rockets Weezing ex"
     ],
-    "deck_names_count": 560
+    "deck_names_count": 573
   },
   "corrections": [
     {
@@ -1169,7 +1169,20 @@
     "Mega Sharpedo ex Milotic ex": "超級巨牙鯊ex 美納斯ex",
     "Gengar Nihilego": "耿鬼 虛吾伊德",
     "Teal Mask Ogerpon ex": "厄鬼椪 碧草面具ex",
-    "Flutter Mane ex": "振翼髮ex"
+    "Flutter Mane ex": "振翼髮ex",
+    "Alolan Exeggutor ex Cleffa": "阿羅拉 椰蛋樹ex 皮寶寶",
+    "Dedenne ex Jolteon ex": "咚咚鼠ex 雷伊布ex",
+    "Entei ex Charizard": "炎帝ex 噴火龍",
+    "Fuecoco ex Skeledirge": "呆火鱷ex 骨紋巨聲龍",
+    "Greninja Mega Mewtwo X ex": "甲賀忍蛙 超級超夢Xex",
+    "Greninja Samurott": "甲賀忍蛙 大劍鬼",
+    "Lunala Mega Mewtwo X ex": "露奈雅拉 超級超夢Xex",
+    "Mega Dragonite ex Umbreon": "超級快龍ex 月亮伊布",
+    "Mega Gallade ex Gallade": "超級艾路雷朵ex 艾路雷朵ex",
+    "Mega Mewtwo X ex Indeedee ex": "超級超夢Xex 愛管侍ex",
+    "Mega Sceptile ex Teal Mask Ogerpon ex": "超級蜥蜴王ex 厄鬼椪 碧草面具ex",
+    "Palossand Paldean Clodsire": "噬沙堡爺 帕底亞 土王",
+    "Pikachu ex Mega Manectric ex": "皮卡丘ex 超級雷電獸ex"
   },
   "card_names": {
     "Bulbasaur": "妙蛙種子",
