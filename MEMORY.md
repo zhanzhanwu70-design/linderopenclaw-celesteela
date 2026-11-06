@@ -121,3 +121,7 @@
 - 今日 Meta 分析（2026-07-15 已發布）: **關鍵變化：** [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-15.md:24-24]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-15.md:6:9 -->
 - 今日 Meta 分析（2026-07-15 已發布）: 佐羅克 ex + 阿博梭魯 ex 53.71% ↑↑ 大回升; 超級火焰雞 ex + 忍蛙 53.20% ↑↑ 新AWR王！; 密樂頓 ex + 自爆磁怪 52.97%; 超級蜥蜴王 ex + 忍蛙 52.59% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-15.md:6-9]
+
+## Meta 對外輸出：數值與族群名必須照抄筆記（2026-11-06）
+- 三日彙整貼文禁止改寫族群名：筆記寫「龍／惡系」不可寫成「三龍／惡系」。族群名是 `grp()` 定義的固定集合（龍／惡系、水系、火／超能系、超能系、電系、格鬥／草／鋼系、飛行系、一般／妖精系、火箭隊系等），成稿後逐項回查當日筆記原文。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 貼文交付後要驗證：前五 AWR／份額／三日變化與環境數字逐項比對 `memory/ptcgp_meta_<YYYYMMDD>_std_comb.json`，錯字也要出更正（2026-11-06 已發更正）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
