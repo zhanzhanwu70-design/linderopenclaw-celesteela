@@ -10,30 +10,31 @@ description: "查 PTCGP 台版卡包/卡片中文名、更新翻譯字典時用�
 - 使用者要求「查官方翻譯」「查台灣版本」「更新字典」
 - 卡包或卡片名稱翻譯錯誤被指出
 
-## 來源
-- 英文卡包名與代碼：Limitless TCG Pocket（`pocket.limitlesstcg.com/cards/{SET}`）；GitHub `flibustier/pokemon-tcg-pocket-database` 常未同步新擴充（缺 C1），不可當唯一來源
-- **逐卡台版名稱首選**：`https://tcgpocket.centropkmn.com/zh_TW/{SET}` — 每張卡的 tile 有 `aria-label="#NNN 中文名"`，等同遊戲內台版正式譯名，可一次抓完整個系列
-  - 以**卡號**對照英文卡名（slug 不等於英文名，例如 slug `wooper-paldea` 對應卡名 `Paldean Wooper`）
-  - 抓取必須自行 utf-8 解碼（requests 預設 ISO-8859-1，中文會整批變亂碼並污染字典）
-- 卡包中文名：Pokemon Hubs（pokemonhubs.com）、Bahamut（gnn.gamer.com.tw）PTCGP 哈啦板；兩來源一致才算確認
-- 搜尋範本：`PTCG Pocket [English Name] 卡包名 繁體中文`
-
 ## 步驟
 
-1. 讀 `ptcgp_deck_dictionary.json` 取得既有對照與 B 代碼，避免重複鍵或漏改。
-2. 確認新擴充的英文名與代碼後，用 `web_search` 對 Pokemon Hubs 與 Bahamut 各查一次台版中文名；兩個來源出現相同名稱才算確認。查不到時改搜 Bahamut 全文或 Reddit r/PTCGP 中文討論。
-3. 更新 `ptcgp_deck_dictionary.json`：`set_names` 用英文鍵、`set_short_names` 用 B 代碼鍵、`card_names` 用英文卡片名鍵。
+1. 讀 `ptcgp_deck_dictionary.json` 取得既有對照與 B 代碼，避免重複鍵或漏改。完成條件：已知哪些卡包與卡片已入字典。
+
+2. 確認新擴充的英文名與代碼：查 Limitless TCG Pocket（`pocket.limitlesstcg.com/cards/{SET}`）。GitHub `flibustier/pokemon-tcg-pocket-database` 常未同步新擴充（缺 C1），不可當唯一來源。完成條件：英文卡包名與 B 代碼都從 Limitless 確認。
+
+3. 抓逐卡台版名稱：請求 `https://tcgpocket.centropkmn.com/zh_TW/{SET}`，每張卡的 tile 有 `aria-label="#NNN 中文名"`，等同遊戲內台版正式譯名，可一次抓完整個系列。以卡號對照英文卡名（slug 不等於英文名，例如 slug `wooper-paldea` 對應卡名 `Paldean Wooper`）。抓取必須自行 utf-8 解碼（requests 預設 ISO-8859-1，中文會整批變亂碼並污染字典）。完成條件：整個系列每個卡號都對到台版中文名且無亂碼。
+
+4. 確認卡包中文名：對 Pokemon Hubs（pokemonhubs.com）與 Bahamut（gnn.gamer.com.tw）PTCGP 哈啦板各查一次台版中文名，搜尋範本 `PTCG Pocket [English Name] 卡包名 繁體中文`；兩個來源出現相同名稱才算確認。查不到時改搜 Bahamut 全文或 Reddit r/PTCGP 中文討論。完成條件：卡包中文名有兩個來源一致佐證。
+
+5. 更新 `ptcgp_deck_dictionary.json`：`set_names` 用英文鍵、`set_short_names` 用 B 代碼鍵、`card_names` 用英文卡片名鍵。
 
 ```json
 {
   "set_names": { "Mega Rising": "超級堀起" },
   "set_short_names": { "B1": "超級堀起" },
-  "card_names": { "<English Pack Name>": "<台版中文>" }
+  "card_names": { "<English Card Name>": "<台版中文>" }
 }
 ```
 
-4. 逐字核對易錯字：`堀`（非 `崛`）、`帕底亞`（非 `帕底`）、`紅蓮`（非 `深紅`）、`天空主宰`（非 `天空之主`）。字典與官方不一致時以官方為準修正。
-5. 驗證：`python3 scripts/ptcgp_meta.py -d <deck_key>` 顯示新名稱，且 grep 字典確認新對照已寫入。
+完成條件：字典三個區塊都寫入新對照，且沒有重複鍵。
+
+6. 逐字核對易錯字：`堀`（非 `崛`）、`帕底亞`（非 `帕底`）、`紅蓮`（非 `深紅`）、`天空主宰`（非 `天空之主`）。字典與官方不一致時以官方為準修正。完成條件：字典用字與官方譯名逐字一致。
+
+7. 驗證：`python3 scripts/ptcgp_meta.py -d <deck_key>` 顯示新名稱，且 grep 字典確認新對照已寫入。
 
 ## 回報
 簡短確認說明 + 對照表，標記修正項。
@@ -41,4 +42,4 @@ description: "查 PTCGP 台版卡包/卡片中文名、更新翻譯字典時用�
 ## 依賴
 - `ptcgp_deck_dictionary.json`
 - `scripts/ptcgp_meta.py`
-- `web_search`
+- `web_search`（查卡包中文名）
