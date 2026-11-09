@@ -455,3 +455,37 @@ Linder 在頻道中討論：玩家「1234567890」提到 Iron Valiant 目前有�
 - 情境B（月亮伊布份額 <10.8%）：✅ **已破**（10.55%），正式命中待 11-08 判定。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 - 情境C（超級雷電獸 ex AWR <51.5%）：❌ **未逼近**（52.51%，反向 +0.26pt，距門檻 1.01pt；電系族群今日 AWR +0.95pt 轉強）。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 - 內檢結果：已破 2、未逼近 1；正式命中率仍以 2026-11-08 檢查日為準。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+## 2026-11-08 正式驗證 PRED_20261106（檢查日 2026-11-08） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **環境狀態**：C1 Standard 38 錦標賽／4,626 玩家／13,655 對局（昨 34／4,428／13,130，**+525**；前日 +2,811）。分支 **441 條**／合併 **151 條**（昨 422／148），全環境加權 AWR **48.78%**（昨 48.79%）。B4a 頁面仍**凍結**於 210／15,008／38,924（自 10-28 起連續十二天）。Standard 與 set=C1 頁逐 slug 一致。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境A（超級甲賀忍蛙 ex 合併份額 <9.4%）：✅ **命中**。9.77→9.30→**8.97%**（三連降，−0.80pt），且 AWR 同步跟跌（44.79→44.35→**44.22%**）——依 11-06 三分支判準，正式確認**真退坑**而非靶心效應。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境B（月亮伊布合併份額 <10.8%）：✅ **命中**。11.23→10.55→**10.31%**，但今日 AWR 反彈 +0.11pt，屬**純份額外流**。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境C（超級雷電獸 ex 合併 AWR <51.5%）：❌ **未命中**。52.25→52.51→**52.76%**（反向 +0.51pt，距門檻 1.26pt）。電系族群整體轉強（族群 AWR 49.37→**49.64%**，自爆磁怪單日 +1.35pt）。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **結果：2/3。** <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+### 核心反省（三條新規則） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+1. **份額型與 AWR 型條件必須分流判斷**：PRED_20261106 的 AWR 條件失敗，不是個體無訊號，而是**族群整體轉強把個體拉回**（電系族群 AWR +0.27pt，個體雷電獸 +0.25pt 同向）。→ **新規則：設定 AWR 型條件前，先檢查族群 AWR 方向；族群與個體反向時，AWR 型條件一律降一級機率，份額型條件則不受影響。** 這解釋了為什麼同一輪預測裡兩條份額型全中、唯一的 AWR 型失敗。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+2. **動能衰減是條件失效的先行指標**：昨日 3/3 的規則組合在今日遇到反例——蜂女王 ex 份額動能 +1.31pt → **+0.07pt**（跌至歷史平均的 5%），條件「份額 ≥4.0%」隨即進入逼近但難達成的狀態。→ **新規則：當某條件的單日動能跌至其前 5 日平均動能的 25% 以下，即標記「動能衰退」，機率下調一級並在報告中明示。** 這是 11-07 規則組合的第一次反例，規則必須補上失效條件才算完整。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+3. **AWR 單日跳動 ≥1.0pt 必須追查來源對線**：今日自爆磁怪 AWR +1.35pt 看似強度躍升，但拆對位後只來自兩條線——對噴火龍 Y 由 37.2% 回到 42.0%（**+4.8pt**）、對蜂女王 85.7→89.3%（+3.6pt），其餘對線幾乎沒動。→ **新規則：AWR 單日跳動 ≥1.0pt 時，必須檢查是否有單一對線貢獻 ≥3pt；若有，該跳動視為對線樣本變動，強度判斷要保守（不得直接宣告「轉強」）。** 同理，對位結構在低增量期幾乎不動（今日 24 條主要對線最大變動僅 ±4.8pt 且僅一條），**份額與 AWR 層的變化才是當日主訊號**。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+### 流程教訓 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **對位方向錯誤再次出現（第二次）**：11-07 報告寫「騎拉帝納 ex 壓自爆磁怪 71.4%」，實際是**自爆磁怪壓騎拉帝納 71.4%**（兩日對位矩陣數值完全相同）。比對 `memory/mu_matrix_2026110{7,8}_c1.json` 確認後更正。這是 10-22 記錄過的同型錯誤。→ **新規則（強制）：報告中每個對位數字必須能在「該牌組自己的 matchups row」中找到原始值，禁止跨頁反推或人工重述方向；生成報告後由 `mu_report_20261108.py` 逐條覆核。**<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **本地卡庫 HP 缺值影響跨日比較**：`memory/ptcgp_cards_full.json` 中 Hoopa ex、Vespiquen ex、Miraidon ex、Mimikyu ex 的 hp 為 0 或空字串，導致 HP 分桶把胡帕 ex、蜂女王 ex 誤算進 ≤120HP 桶。已依 pocket.limitlesstcg.com 補正（150／140／140／120）並保留備份 `memory/ptcgp_cards_full.json.bak_20261108`。→ **教訓：資料庫缺值會直接扭曲分桶結論；修正後必須用同一支腳本重算前一日基準，否則跨日比較的差異全是口徑假象。** 11-07 同口徑重算值為 ≤120HP 46.84%（原報告 47.21%）。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+### 今日新發現 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+1. **「人氣王崩解」有兩種型態**：忍蛙系份額與 AWR 同步下滑（真退坑）、月亮伊布份額跌但 AWR 彈（純份額外流）。同樣是份額第一的位置，強度走向完全相反——**判斷時不能只看份額**。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+2. **自爆磁怪是新版的反制樞紐**：份額僅 2.03%（全環境 AWR 第二卻份額最低），壓蜂女王 89.3%、壓胡帕 76.7%、壓忍蛙 73.7%。11-07 訂的「先找 AWR 榜上位但份額還低的牌組」規則再得新樣本。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+3. **C1 新卡拖累連三日收斂後首次回頭**（2.92→2.74→2.68→**2.73pt**）：新包份額 52.25% 遠高於其強度，擴充包仍處於衰退期，11-05 訂的 0.3pt/日收斂門檻仍未達成。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+4. **低增量期對位網完全凍結**：今日 +525 對局（全環境 +0.2%），24 張牌組的主要對線零重排。**判斷環境變化時，低增量日應以 AWR 與份額層為主軸，對位只在 AWR 跳動 ≥1.0pt 時才啟動追查。**<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+## 2026-11-08 新預測 PRED_20261108（檢查日 2026-11-10） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境A（0.35）自爆磁怪合併 AWR **≥56.5%**：今日 55.28%，距離 1.22pt（AWR 帶內）；方向 53.81→55.28% 連兩日升，動能 +1.35pt 達標；份額僅 2.03%，符合強度先行路徑。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境B（0.30）水君 ex 合併 AWR **<50.5%**：今日 51.38%，距離 0.88pt（AWR 帶內）；方向 53.43→52.03→51.38% 連三降，動能 −0.65pt 達標，靶心效應第四日。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境C（0.25）超級七夕青鳥 ex 合併份額 **≥7.0%**：今日 6.59%，距離 0.41pt（份額帶內）；方向 5.41→6.37→6.59% 三連升，動能 +0.22pt 剛達標，**為三條中動能最薄者，優先標記「動能衰退觀察」**。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 最大機率：A。信心：中。三條皆單條件方向型且距離落在指標帶內；A、B 的方向與動能皆較強，C 的動能僅 +0.22pt。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+### PRED_20261107 內檢（檢查日 2026-11-09） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境A（超級甲賀忍蛙 ex 份額 <8.8%）：**逼近中**。8.97%（昨 9.30%），動能 −0.33pt、方向三連降，距門檻 0.17pt。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境B（超級噴火龍 Y ex AWR <47.5%）：**未逼近**。48.34%（昨 48.17%），反向 +0.17pt，四連降中斷。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 情境C（蜂女王 ex 份額 ≥4.0%）：**逼近中但動能衰退**。3.46%（昨 3.39%），動能 +1.31pt→+0.07pt。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 內檢結果：逼近中 2、未逼近 1；正式命中率仍以 2026-11-09 檢查日為準。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->

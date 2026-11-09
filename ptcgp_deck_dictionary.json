@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.8",
-  "last_updated": "2026-11-07",
+  "version": "4.9",
+  "last_updated": "2026-11-08",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 643
+  "deck_names_count": 661
  },
  "corrections": [
   {
@@ -1252,7 +1252,25 @@
   "Umbreon ex Mega Absol ex": "月亮伊布ex 超級阿勃梭魯ex",
   "Wigglytuff Igglybuff": "胖可丁 寶寶丁",
   "Wigglytuff ex Igglybuff": "胖可丁ex 寶寶丁",
-  "Wigglytuff ex Wigglytuff": "胖可丁ex 胖可丁"
+  "Wigglytuff ex Wigglytuff": "胖可丁ex 胖可丁",
+  "Flareon ex Charizard": "火伊布ex 噴火龍",
+  "Haxorus Goomy": "雙斧戰龍 黏黏寶",
+  "Serperior Teal Mask Ogerpon ex": "君主蛇 厄鬼椪 碧草面具ex",
+  "Vaporeon ex Eevee ex": "水精靈 ex 伊布ex",
+  "Team Rocket's Slowking ex Sylveon ex": "火箭隊的呆呆王 ex 仙子伊布ex",
+  "Dragonair Drampa": "哈克龍 老翁龍",
+  "Sylveon ex Mega Mewtwo X ex": "仙子伊布ex 超級超夢Xex",
+  "Crobat ex Mega Sableye ex": "叉字蝠ex 超級勾魂眼ex",
+  "Decidueye ex Heliolisk": "狙射樹梟ex 光電傘蜥",
+  "Lugia ex Ho-Oh ex": "洛奇亞ex 鳳王ex",
+  "Sylveon ex Mega Medicham ex": "仙子伊布ex 超級恰雷姆ex",
+  "Indeedee ex Gengar ex": "愛管侍ex 耿鬼ex",
+  "Mew ex Aegislash": "夢幻ex 堅盾劍怪",
+  "Lycanroc ex Mega Mewtwo X ex": "鬃岩狼人ex 超級超夢Xex",
+  "Arceus ex Tyranitar": "阿爾宙斯ex 班基拉斯",
+  "Mega Gallade ex Minior": "超級艾路雷朵ex 小隕星",
+  "Milotic ex Blastoise": "美納斯ex 水箭龜",
+  "Blastoise Palkia ex": "水箭龜 帕路奇亞ex"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2797,7 +2815,7 @@
   "Juliana": "小青",
   "Kid's Room": "兒童房"
  },
- "last_updated": "2026-11-07",
+ "last_updated": "2026-11-08",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
