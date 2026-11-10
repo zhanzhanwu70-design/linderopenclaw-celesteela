@@ -8,6 +8,7 @@
   {
    "name": "Umbreon",
    "slug": "umbreon-c1",
+   "decks": 408,
    "share": 11.5613,
    "w": 1042,
    "l": 1019,
@@ -19,6 +20,7 @@
   {
    "name": "Mega Greninja ex",
    "slug": "mega-greninja-ex-c1",
+   "decks": 359,
    "share": 10.1729,
    "w": 794,
    "l": 931,
@@ -30,6 +32,7 @@
   {
    "name": "Mega Charizard Y ex",
    "slug": "mega-charizard-y-ex-b1a",
+   "decks": 352,
    "share": 9.9745,
    "w": 918,
    "l": 891,
@@ -41,6 +44,7 @@
   {
    "name": "Suicune ex",
    "slug": "suicune-ex-a4a",
+   "decks": 207,
    "share": 5.8657,
    "w": 592,
    "l": 489,
@@ -52,6 +56,7 @@
   {
    "name": "Mega Altaria ex",
    "slug": "mega-altaria-ex-b1",
+   "decks": 183,
    "share": 5.1856,
    "w": 580,
    "l": 436,
@@ -63,6 +68,7 @@
   {
    "name": "Hoopa ex",
    "slug": "hoopa-ex-b4",
+   "decks": 172,
    "share": 4.8739,
    "w": 529,
    "l": 393,
@@ -74,6 +80,7 @@
   {
    "name": "Giratina ex",
    "slug": "giratina-ex-c1",
+   "decks": 169,
    "share": 4.7889,
    "w": 428,
    "l": 393,
@@ -85,6 +92,7 @@
   {
    "name": "Greninja ex",
    "slug": "greninja-ex-b1",
+   "decks": 156,
    "share": 4.4205,
    "w": 389,
    "l": 383,
@@ -96,6 +104,7 @@
   {
    "name": "Mega Mewtwo X ex",
    "slug": "mega-mewtwo-x-ex-c1",
+   "decks": 142,
    "share": 4.0238,
    "w": 365,
    "l": 380,
@@ -107,6 +116,7 @@
   {
    "name": "Mega Manectric ex",
    "slug": "mega-manectric-ex-b2b",
+   "decks": 129,
    "share": 3.6554,
    "w": 377,
    "l": 315,
@@ -118,6 +128,7 @@
   {
    "name": "Pikachu ex",
    "slug": "pikachu-ex-c1",
+   "decks": 113,
    "share": 3.202,
    "w": 253,
    "l": 297,
@@ -129,6 +140,7 @@
   {
    "name": "Hydreigon",
    "slug": "hydreigon-b1",
+   "decks": 94,
    "share": 2.6636,
    "w": 276,
    "l": 224,
@@ -140,6 +152,7 @@
   {
    "name": "Mega Lucario ex",
    "slug": "mega-lucario-ex-b3",
+   "decks": 81,
    "share": 2.2953,
    "w": 207,
    "l": 206,
@@ -151,6 +164,7 @@
   {
    "name": "Alolan Exeggutor ex",
    "slug": "alolan-exeggutor-ex-c1",
+   "decks": 80,
    "share": 2.2669,
    "w": 183,
    "l": 192,
@@ -162,6 +176,7 @@
   {
    "name": "Vespiquen ex",
    "slug": "vespiquen-ex-b4",
+   "decks": 72,
    "share": 2.0402,
    "w": 253,
    "l": 196,
@@ -173,6 +188,7 @@
   {
    "name": "Mega Sceptile ex",
    "slug": "mega-sceptile-ex-b3",
+   "decks": 66,
    "share": 1.8702,
    "w": 188,
    "l": 162,
@@ -184,6 +200,7 @@
   {
    "name": "Miraidon ex",
    "slug": "miraidon-ex-b3a",
+   "decks": 61,
    "share": 1.7285,
    "w": 161,
    "l": 139,
@@ -195,6 +212,7 @@
   {
    "name": "Magnezone",
    "slug": "magnezone-b1a",
+   "decks": 54,
    "share": 1.5302,
    "w": 141,
    "l": 117,
@@ -206,6 +224,7 @@
   {
    "name": "Mega Tyranitar ex",
    "slug": "mega-tyranitar-ex-c1",
+   "decks": 53,
    "share": 1.5018,
    "w": 98,
    "l": 149,
@@ -217,6 +236,7 @@
   {
    "name": "Mega Dragonite ex",
    "slug": "mega-dragonite-ex-c1",
+   "decks": 48,
    "share": 1.3602,
    "w": 79,
    "l": 125,
@@ -228,6 +248,7 @@
   {
    "name": "Paldean Clodsire",
    "slug": "paldean-clodsire-c1",
+   "decks": 41,
    "share": 1.1618,
    "w": 92,
    "l": 109,
@@ -239,6 +260,7 @@
   {
    "name": "Raikou ex",
    "slug": "raikou-ex-a4a",
+   "decks": 39,
    "share": 1.1051,
    "w": 78,
    "l": 95,
@@ -250,6 +272,7 @@
   {
    "name": "Azumarill",
    "slug": "azumarill-c1",
+   "decks": 38,
    "share": 1.0768,
    "w": 76,
    "l": 107,
@@ -261,6 +284,7 @@
   {
    "name": "Lopunny",
    "slug": "lopunny-c1",
+   "decks": 37,
    "share": 1.0485,
    "w": 92,
    "l": 96,
@@ -272,6 +296,7 @@
   {
    "name": "Umbreon ex",
    "slug": "umbreon-ex-a4",
+   "decks": 29,
    "share": 0.8218,
    "w": 81,
    "l": 75,
@@ -283,6 +308,7 @@
   {
    "name": "Mega Blaziken ex",
    "slug": "mega-blaziken-ex-b1",
+   "decks": 29,
    "share": 0.8218,
    "w": 51,
    "l": 67,
@@ -294,6 +320,7 @@
   {
    "name": "Dedenne ex",
    "slug": "dedenne-ex-b3b",
+   "decks": 28,
    "share": 0.7934,
    "w": 69,
    "l": 67,
@@ -305,6 +332,7 @@
   {
    "name": "Dragonair",
    "slug": "dragonair-b4",
+   "decks": 25,
    "share": 0.7084,
    "w": 71,
    "l": 59,
@@ -316,6 +344,7 @@
   {
    "name": "Mew ex",
    "slug": "mew-ex-c1",
+   "decks": 24,
    "share": 0.6801,
    "w": 50,
    "l": 59,
@@ -327,6 +356,7 @@
   {
    "name": "Zoroark ex",
    "slug": "zoroark-ex-b3",
+   "decks": 21,
    "share": 0.5951,
    "w": 41,
    "l": 45,
@@ -338,6 +368,7 @@
   {
    "name": "Mega Venusaur ex",
    "slug": "mega-venusaur-ex-b1a",
+   "decks": 21,
    "share": 0.5951,
    "w": 53,
    "l": 59,
@@ -349,6 +380,7 @@
   {
    "name": "Gengar",
    "slug": "gengar-c1",
+   "decks": 21,
    "share": 0.5951,
    "w": 41,
    "l": 57,
@@ -360,6 +392,7 @@
   {
    "name": "Butterfree",
    "slug": "butterfree-b3b",
+   "decks": 20,
    "share": 0.5667,
    "w": 36,
    "l": 55,
@@ -371,6 +404,7 @@
   {
    "name": "Giratina ex",
    "slug": "giratina-ex-a2b",
+   "decks": 20,
    "share": 0.5667,
    "w": 54,
    "l": 55,
@@ -382,6 +416,7 @@
   {
    "name": "Mega Gardevoir ex",
    "slug": "mega-gardevoir-ex-b2",
+   "decks": 19,
    "share": 0.5384,
    "w": 32,
    "l": 46,
@@ -393,6 +428,7 @@
   {
    "name": "Mega Absol ex",
    "slug": "mega-absol-ex-b1",
+   "decks": 17,
    "share": 0.4817,
    "w": 52,
    "l": 48,
@@ -404,6 +440,7 @@
   {
    "name": "Greninja",
    "slug": "greninja-a1",
+   "decks": 16,
    "share": 0.4534,
    "w": 26,
    "l": 42,
@@ -415,6 +452,7 @@
   {
    "name": "Mega Diancie ex",
    "slug": "mega-diancie-ex-b3b",
+   "decks": 15,
    "share": 0.425,
    "w": 36,
    "l": 34,
@@ -426,6 +464,7 @@
   {
    "name": "Pidgeot",
    "slug": "pidgeot-c1",
+   "decks": 14,
    "share": 0.3967,
    "w": 28,
    "l": 39,
@@ -437,6 +476,7 @@
   {
    "name": "Mega Skarmory ex",
    "slug": "mega-skarmory-ex-c1",
+   "decks": 14,
    "share": 0.3967,
    "w": 18,
    "l": 36,
@@ -448,6 +488,7 @@
   {
    "name": "Team Rockets Slowking ex",
    "slug": "team-rockets-slowking-ex-b4a",
+   "decks": 13,
    "share": 0.3684,
    "w": 18,
    "l": 33,
@@ -459,6 +500,7 @@
   {
    "name": "Lycanroc ex",
    "slug": "lycanroc-ex-c1",
+   "decks": 13,
    "share": 0.3684,
    "w": 26,
    "l": 31,
@@ -470,6 +512,7 @@
   {
    "name": "Mega Gengar ex",
    "slug": "mega-gengar-ex-b2b",
+   "decks": 12,
    "share": 0.34,
    "w": 21,
    "l": 34,
@@ -481,6 +524,7 @@
   {
    "name": "Milotic ex",
    "slug": "milotic-ex-b3b",
+   "decks": 12,
    "share": 0.34,
    "w": 30,
    "l": 34,
@@ -492,6 +536,7 @@
   {
    "name": "Mega Garchomp ex",
    "slug": "mega-garchomp-ex-p-b",
+   "decks": 10,
    "share": 0.2834,
    "w": 22,
    "l": 23,
@@ -503,6 +548,7 @@
   {
    "name": "Mega Sharpedo ex",
    "slug": "mega-sharpedo-ex-b4",
+   "decks": 10,
    "share": 0.2834,
    "w": 26,
    "l": 31,
@@ -514,6 +560,7 @@
   {
    "name": "Magnezone ex",
    "slug": "magnezone-ex-b3",
+   "decks": 9,
    "share": 0.255,
    "w": 15,
    "l": 19,
@@ -525,6 +572,7 @@
   {
    "name": "Mega Mawile ex",
    "slug": "mega-mawile-ex-b2",
+   "decks": 7,
    "share": 0.1984,
    "w": 22,
    "l": 19,
@@ -536,6 +584,7 @@
   {
    "name": "Tyranitar",
    "slug": "tyranitar-a2a",
+   "decks": 7,
    "share": 0.1984,
    "w": 4,
    "l": 20,
@@ -547,6 +596,7 @@
   {
    "name": "Indeedee ex",
    "slug": "indeedee-ex-b1",
+   "decks": 7,
    "share": 0.1984,
    "w": 8,
    "l": 17,
@@ -558,6 +608,7 @@
   {
    "name": "Flygon ex",
    "slug": "flygon-ex-b3",
+   "decks": 7,
    "share": 0.1984,
    "w": 5,
    "l": 16,
@@ -569,6 +620,7 @@
   {
    "name": "Fuecoco ex",
    "slug": "fuecoco-ex-c1",
+   "decks": 7,
    "share": 0.1984,
    "w": 18,
    "l": 15,
@@ -580,6 +632,7 @@
   {
    "name": "Serperior",
    "slug": "serperior-a1a",
+   "decks": 7,
    "share": 0.1984,
    "w": 13,
    "l": 17,
@@ -591,6 +644,7 @@
   {
    "name": "Mega Sableye ex",
    "slug": "mega-sableye-ex-b3b",
+   "decks": 7,
    "share": 0.1984,
    "w": 11,
    "l": 19,
@@ -602,6 +656,7 @@
   {
    "name": "Meowscarada ex",
    "slug": "meowscarada-ex-b2a",
+   "decks": 6,
    "share": 0.17,
    "w": 17,
    "l": 17,
@@ -613,6 +668,7 @@
   {
    "name": "Koraidon ex",
    "slug": "koraidon-ex-b3a",
+   "decks": 6,
    "share": 0.17,
    "w": 9,
    "l": 13,
@@ -624,6 +680,7 @@
   {
    "name": "Leafeon ex",
    "slug": "leafeon-ex-a2a",
+   "decks": 6,
    "share": 0.17,
    "w": 12,
    "l": 17,
@@ -635,6 +692,7 @@
   {
    "name": "Rotom ex",
    "slug": "rotom-ex-b4",
+   "decks": 6,
    "share": 0.17,
    "w": 10,
    "l": 22,
@@ -646,6 +704,7 @@
   {
    "name": "Mega Rayquaza ex",
    "slug": "mega-rayquaza-ex-b4",
+   "decks": 5,
    "share": 0.1417,
    "w": 10,
    "l": 12,
@@ -657,6 +716,7 @@
   {
    "name": "Vespiquen",
    "slug": "vespiquen-c1",
+   "decks": 5,
    "share": 0.1417,
    "w": 5,
    "l": 11,
@@ -668,6 +728,7 @@
   {
    "name": "Galvantula",
    "slug": "galvantula-a3b",
+   "decks": 5,
    "share": 0.1417,
    "w": 21,
    "l": 17,
@@ -679,6 +740,7 @@
   {
    "name": "Mega Gallade ex",
    "slug": "mega-gallade-ex-b4",
+   "decks": 5,
    "share": 0.1417,
    "w": 7,
    "l": 9,
@@ -690,6 +752,7 @@
   {
    "name": "Guzzlord ex",
    "slug": "guzzlord-ex-a3a",
+   "decks": 5,
    "share": 0.1417,
    "w": 13,
    "l": 17,
@@ -701,6 +764,7 @@
   {
    "name": "Gengar ex",
    "slug": "gengar-ex-a1",
+   "decks": 5,
    "share": 0.1417,
    "w": 3,
    "l": 10,
@@ -712,6 +776,7 @@
   {
    "name": "Pikachu ex",
    "slug": "pikachu-ex-a1",
+   "decks": 5,
    "share": 0.1417,
    "w": 9,
    "l": 11,
@@ -723,6 +788,7 @@
   {
    "name": "Blastoise",
    "slug": "blastoise-c1",
+   "decks": 5,
    "share": 0.1417,
    "w": 13,
    "l": 15,
@@ -734,6 +800,7 @@
   {
    "name": "Armarouge ex",
    "slug": "armarouge-ex-b2a",
+   "decks": 5,
    "share": 0.1417,
    "w": 3,
    "l": 15,
@@ -745,6 +812,7 @@
   {
    "name": "Mega Charizard X ex",
    "slug": "mega-charizard-x-ex-b2b",
+   "decks": 4,
    "share": 0.1133,
    "w": 13,
    "l": 10,
@@ -756,6 +824,7 @@
   {
    "name": "Mega Pidgeot ex",
    "slug": "mega-pidgeot-ex-p-b",
+   "decks": 4,
    "share": 0.1133,
    "w": 9,
    "l": 13,
@@ -767,6 +836,7 @@
   {
    "name": "Ho Oh ex",
    "slug": "ho-oh-ex-a4",
+   "decks": 4,
    "share": 0.1133,
    "w": 8,
    "l": 12,
@@ -778,6 +848,7 @@
   {
    "name": "Mega Blastoise ex",
    "slug": "mega-blastoise-ex-b1a",
+   "decks": 4,
    "share": 0.1133,
    "w": 0,
    "l": 11,
@@ -789,6 +860,7 @@
   {
    "name": "Team Rockets Weezing ex",
    "slug": "team-rockets-weezing-ex-b4a",
+   "decks": 4,
    "share": 0.1133,
    "w": 9,
    "l": 13,
@@ -800,6 +872,7 @@
   {
    "name": "Hisuian Zoroark ex",
    "slug": "hisuian-zoroark-ex-b3b",
+   "decks": 4,
    "share": 0.1133,
    "w": 5,
    "l": 5,
@@ -811,6 +884,7 @@
   {
    "name": "Mega Kangaskhan ex",
    "slug": "mega-kangaskhan-ex-b2",
+   "decks": 4,
    "share": 0.1133,
    "w": 9,
    "l": 9,
@@ -822,6 +896,7 @@
   {
    "name": "Melmetal",
    "slug": "melmetal-c1",
+   "decks": 3,
    "share": 0.085,
    "w": 9,
    "l": 5,
@@ -833,6 +908,7 @@
   {
    "name": "Palossand",
    "slug": "palossand-b3b",
+   "decks": 3,
    "share": 0.085,
    "w": 9,
    "l": 9,
@@ -844,6 +920,7 @@
   {
    "name": "Decidueye ex",
    "slug": "decidueye-ex-a3",
+   "decks": 3,
    "share": 0.085,
    "w": 9,
    "l": 7,
@@ -855,6 +932,7 @@
   {
    "name": "Pikachu ex",
    "slug": "pikachu-ex-a2b",
+   "decks": 3,
    "share": 0.085,
    "w": 8,
    "l": 9,
@@ -866,6 +944,7 @@
   {
    "name": "Gardevoir",
    "slug": "gardevoir-a1",
+   "decks": 3,
    "share": 0.085,
    "w": 6,
    "l": 7,
@@ -877,6 +956,7 @@
   {
    "name": "Buzzwole ex",
    "slug": "buzzwole-ex-a3a",
+   "decks": 3,
    "share": 0.085,
    "w": 4,
    "l": 6,
@@ -888,6 +968,7 @@
   {
    "name": "Garchomp",
    "slug": "garchomp-b4a",
+   "decks": 3,
    "share": 0.085,
    "w": 4,
    "l": 7,
@@ -899,6 +980,7 @@
   {
    "name": "Mega Gyarados ex",
    "slug": "mega-gyarados-ex-b1",
+   "decks": 3,
    "share": 0.085,
    "w": 6,
    "l": 10,
@@ -910,6 +992,7 @@
   {
    "name": "Jolteon ex",
    "slug": "jolteon-ex-b1",
+   "decks": 3,
    "share": 0.085,
    "w": 2,
    "l": 7,
@@ -921,6 +1004,7 @@
   {
    "name": "Rampardos",
    "slug": "rampardos-a2",
+   "decks": 3,
    "share": 0.085,
    "w": 3,
    "l": 9,
@@ -932,6 +1016,7 @@
   {
    "name": "Solgaleo ex",
    "slug": "solgaleo-ex-a3",
+   "decks": 3,
    "share": 0.085,
    "w": 7,
    "l": 6,
@@ -943,6 +1028,7 @@
   {
    "name": "Mega Steelix ex",
    "slug": "mega-steelix-ex-b1a",
+   "decks": 3,
    "share": 0.085,
    "w": 1,
    "l": 5,
@@ -954,6 +1040,7 @@
   {
    "name": "Melmetal ex",
    "slug": "melmetal-ex-b1",
+   "decks": 3,
    "share": 0.085,
    "w": 1,
    "l": 5,
@@ -965,6 +1052,7 @@
   {
    "name": "Chien Pao ex",
    "slug": "chien-pao-ex-b2a",
+   "decks": 2,
    "share": 0.0567,
    "w": 5,
    "l": 6,
@@ -976,6 +1064,7 @@
   {
    "name": "Wigglytuff ex",
    "slug": "wigglytuff-ex-a1",
+   "decks": 2,
    "share": 0.0567,
    "w": 4,
    "l": 5,
@@ -987,6 +1076,7 @@
   {
    "name": "Pawmot",
    "slug": "pawmot-c1",
+   "decks": 2,
    "share": 0.0567,
    "w": 3,
    "l": 5,
@@ -998,6 +1088,7 @@
   {
    "name": "Mega Charizard X ex B2b Mega Charizard Y ex",
    "slug": "mega-charizard-x-ex-b2b-mega-charizard-y-ex-b1a",
+   "decks": 2,
    "share": 0.0567,
    "w": 4,
    "l": 7,
@@ -1009,6 +1100,7 @@
   {
    "name": "Exeggutor ex",
    "slug": "exeggutor-ex-a1",
+   "decks": 2,
    "share": 0.0567,
    "w": 2,
    "l": 6,
@@ -1020,6 +1112,7 @@
   {
    "name": "Magcargo",
    "slug": "magcargo-a4",
+   "decks": 2,
    "share": 0.0567,
    "w": 0,
    "l": 3,
@@ -1031,6 +1124,7 @@
   {
    "name": "Lunala",
    "slug": "lunala-c1",
+   "decks": 2,
    "share": 0.0567,
    "w": 0,
    "l": 3,
@@ -1042,6 +1136,7 @@
   {
    "name": "Dragalge ex",
    "slug": "dragalge-ex-b1",
+   "decks": 2,
    "share": 0.0567,
    "w": 0,
    "l": 4,
@@ -1053,6 +1148,7 @@
   {
    "name": "Entei ex",
    "slug": "entei-ex-a4a",
+   "decks": 2,
    "share": 0.0567,
    "w": 9,
    "l": 6,
@@ -1064,6 +1160,7 @@
   {
    "name": "Bellibolt ex",
    "slug": "bellibolt-ex-b2a",
+   "decks": 2,
    "share": 0.0567,
    "w": 7,
    "l": 7,
@@ -1075,6 +1172,7 @@
   {
    "name": "Vaporeon ex",
    "slug": "vaporeon-ex-b3",
+   "decks": 2,
    "share": 0.0567,
    "w": 4,
    "l": 6,
@@ -1086,6 +1184,7 @@
   {
    "name": "Moltres ex",
    "slug": "moltres-ex-a1",
+   "decks": 2,
    "share": 0.0567,
    "w": 4,
    "l": 5,
@@ -1097,6 +1196,7 @@
   {
    "name": "Chandelure",
    "slug": "chandelure-b2",
+   "decks": 2,
    "share": 0.0567,
    "w": 4,
    "l": 6,
@@ -1108,6 +1208,7 @@
   {
    "name": "Flareon ex",
    "slug": "flareon-ex-a3b",
+   "decks": 2,
    "share": 0.0567,
    "w": 1,
    "l": 3,
@@ -1119,6 +1220,7 @@
   {
    "name": "Whiscash",
    "slug": "whiscash-a3b",
+   "decks": 2,
    "share": 0.0567,
    "w": 2,
    "l": 5,
@@ -1130,6 +1232,7 @@
   {
    "name": "Gourgeist",
    "slug": "gourgeist-b2",
+   "decks": 1,
    "share": 0.0283,
    "w": 5,
    "l": 3,
@@ -1141,6 +1244,7 @@
   {
    "name": "Sylveon ex",
    "slug": "sylveon-ex-a3b",
+   "decks": 1,
    "share": 0.0283,
    "w": 5,
    "l": 3,
@@ -1152,6 +1256,7 @@
   {
    "name": "Jigglypuff",
    "slug": "jigglypuff-c1",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 2,
@@ -1163,6 +1268,7 @@
   {
    "name": "Eevee ex",
    "slug": "eevee-ex-a3b",
+   "decks": 1,
    "share": 0.0283,
    "w": 3,
    "l": 3,
@@ -1174,6 +1280,7 @@
   {
    "name": "Mega Lopunny ex",
    "slug": "mega-lopunny-ex-b1a",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 1,
@@ -1185,6 +1292,7 @@
   {
    "name": "Charizard ex",
    "slug": "charizard-ex-a1",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 1,
@@ -1196,6 +1304,7 @@
   {
    "name": "Whiscash",
    "slug": "whiscash-c1",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 2,
@@ -1207,6 +1316,7 @@
   {
    "name": "Espeon",
    "slug": "espeon-b3a",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 2,
@@ -1218,6 +1328,7 @@
   {
    "name": "Aerodactyl ex",
    "slug": "aerodactyl-ex-a1a",
+   "decks": 1,
    "share": 0.0283,
    "w": 3,
    "l": 3,
@@ -1229,6 +1340,7 @@
   {
    "name": "Team Rockets Raticate ex",
    "slug": "team-rockets-raticate-ex-b4a",
+   "decks": 1,
    "share": 0.0283,
    "w": 3,
    "l": 3,
@@ -1240,6 +1352,7 @@
   {
    "name": "Blacephalon ex",
    "slug": "blacephalon-ex-b2",
+   "decks": 1,
    "share": 0.0283,
    "w": 4,
    "l": 4,
@@ -1251,6 +1364,7 @@
   {
    "name": "Darkrai ex",
    "slug": "darkrai-ex-a2",
+   "decks": 1,
    "share": 0.0283,
    "w": 3,
    "l": 3,
@@ -1262,6 +1376,7 @@
   {
    "name": "Tapu Koko ex",
    "slug": "tapu-koko-ex-a3a",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 2,
@@ -1273,6 +1388,7 @@
   {
    "name": "Dewgong",
    "slug": "dewgong-c1",
+   "decks": 1,
    "share": 0.0283,
    "w": 4,
    "l": 4,
@@ -1284,6 +1400,7 @@
   {
    "name": "Teal Mask Ogerpon ex",
    "slug": "teal-mask-ogerpon-ex-b2",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 3,
@@ -1295,6 +1412,7 @@
   {
    "name": "Pawmot",
    "slug": "pawmot-b3a",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 3,
@@ -1306,6 +1424,7 @@
   {
    "name": "Mew ex",
    "slug": "mew-ex-a1a",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 3,
@@ -1317,6 +1436,7 @@
   {
    "name": "Dragonite ex",
    "slug": "dragonite-ex-a3b",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 3,
@@ -1328,6 +1448,7 @@
   {
    "name": "Snorlax ex",
    "slug": "snorlax-ex-a3b",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 2,
@@ -1339,6 +1460,7 @@
   {
    "name": "Pidgeot ex",
    "slug": "pidgeot-ex-a1a",
+   "decks": 1,
    "share": 0.0283,
    "w": 2,
    "l": 4,
@@ -1350,6 +1472,7 @@
   {
    "name": "Meowscarada",
    "slug": "meowscarada-a2b",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 2,
@@ -1361,6 +1484,7 @@
   {
    "name": "Simisear",
    "slug": "simisear-b1",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 2,
@@ -1372,6 +1496,7 @@
   {
    "name": "Iron Moth",
    "slug": "iron-moth-b3a",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 2,
@@ -1383,6 +1508,7 @@
   {
    "name": "Magnezone",
    "slug": "magnezone-a2",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 2,
@@ -1394,6 +1520,7 @@
   {
    "name": "Dialga ex",
    "slug": "dialga-ex-a2",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 3,
@@ -1405,6 +1532,7 @@
   {
    "name": "Flutter Mane ex",
    "slug": "flutter-mane-ex-b3a",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 3,
@@ -1416,6 +1544,7 @@
   {
    "name": "Miltank",
    "slug": "miltank-a4a",
+   "decks": 1,
    "share": 0.0283,
    "w": 1,
    "l": 4,
@@ -1427,6 +1556,7 @@
   {
    "name": "Naganadel",
    "slug": "naganadel-a3a",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 1,
@@ -1438,6 +1568,7 @@
   {
    "name": "Ursaluna",
    "slug": "ursaluna-b3b",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 3,
@@ -1449,6 +1580,7 @@
   {
    "name": "Primeape",
    "slug": "primeape-a1",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 1,
@@ -1460,6 +1592,7 @@
   {
    "name": "Crobat ex",
    "slug": "crobat-ex-a4",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 2,
@@ -1471,6 +1604,7 @@
   {
    "name": "Dusknoir",
    "slug": "dusknoir-a2",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 3,
@@ -1482,6 +1616,7 @@
   {
    "name": "Umbreon",
    "slug": "umbreon-a3b",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 1,
@@ -1493,6 +1628,7 @@
   {
    "name": "Melmetal",
    "slug": "melmetal-a3b",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 1,
@@ -1504,6 +1640,7 @@
   {
    "name": "Oricorio",
    "slug": "oricorio-a3",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 3,
@@ -1515,6 +1652,7 @@
   {
    "name": "Wigglytuff",
    "slug": "wigglytuff-a2b",
+   "decks": 1,
    "share": 0.0283,
    "w": 0,
    "l": 0,
