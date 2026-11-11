@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.10",
-  "last_updated": "2026-11-09",
+  "version": "4.11",
+  "last_updated": "2026-11-10",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 711
+  "deck_names_count": 730
  },
  "corrections": [
   {
@@ -1320,7 +1320,26 @@
   "Team Rocket's Raticate ex Porygon-Z": "火箭隊的拉達 ex 多邊獸Ｚ",
   "Togekiss Mismagius": "波克基斯 夢妖魔",
   "Vaporeon ex Greninja ex": "水精靈 ex 甲賀忍蛙ex",
-  "Wugtrio ex Alolan Ninetales ex": "三海地鼠ex 阿羅拉 九尾ex"
+  "Wugtrio ex Alolan Ninetales ex": "三海地鼠ex 阿羅拉 九尾ex",
+  "Hisuian Goodra Mantyke": "洗翠 黏美龍 小球飛魚",
+  "Hoopa ex Decidueye ex": "胡帕ex 狙射樹梟ex",
+  "Hoopa ex Umbreon ex": "胡帕ex 月亮伊布ex",
+  "Koraidon ex Furfrou": "故勒頓ex 多麗米亞",
+  "Lucario Single Strike Urshifu": "路卡利歐 一擊流 熊拳士",
+  "Malamar Mega Absol ex": "烏賊王 超級阿勃梭魯ex",
+  "Mega Altaria ex Oricorio": "超級七夕青鳥ex 花舞鳥",
+  "Mega Charizard X ex Skeledirge": "超級噴火龍Xex 骨紋巨聲鱷",
+  "Mega Gallade ex Team Rocket's Raticate ex": "超級艾路雷朵ex 火箭隊的拉達ex",
+  "Mega Kangaskhan ex Greninja": "超級袋獸ex 甲賀忍蛙",
+  "Mega Lucario ex Mega Blaziken ex": "超級路卡利歐ex 超級火焰雞ex",
+  "Mega Mewtwo X ex Minior": "超級超夢Xex 小隕星",
+  "Mega Pidgeot ex Team Rocket's Raticate ex": "超級大比鳥ex 火箭隊的拉達ex",
+  "Mega Sceptile ex Furfrou": "超級蜥蜴王ex 多麗米亞",
+  "Mega Tyranitar ex Minior": "超級班基拉斯ex 小隕星",
+  "Mimikyu ex Gardevoir": "謎擬Ｑex 沙奈朵",
+  "Team Rocket's Electrode Heliolisk": "火箭隊的頑皮彈 光電傘蜥",
+  "Team Rocket's Weezing ex Alolan Muk": "火箭隊的雙彈瓦斯ex 阿羅拉 臭臭泥",
+  "Team Rockets Electrode": "火箭隊的頑皮彈"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2865,7 +2884,7 @@
   "Juliana": "小青",
   "Kid's Room": "兒童房"
  },
- "last_updated": "2026-11-09",
+ "last_updated": "2026-11-10",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
