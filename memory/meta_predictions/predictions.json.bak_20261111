@@ -1,0 +1,2638 @@
+[
+  {
+    "id": "PRED_20260530",
+    "date": "2026-05-30",
+    "set": "B3a Day 3",
+    "source": "YouTube analysis (kHZEKZKmTMk, 8lrUC8hvB7E, dESl8ILeozs, SjMVSH4FnR8) + Game8/ GamesRadar web search",
+    "environment_summary": "B3a released 2026-05-27. Sleep decks (Altaria ex + Espeon ex + Darkrai) dominating. Iron Valiant emerging. Miraidon ex strong. Terapagos ex + Sableye combo discovered.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "鐵武者主導 (Iron Valiant Era)",
+        "probability": 0.5,
+        "description": "玩家看穿睡眠牌組運氣成分，轉向更穩定的 Iron Valiant 未來軸。睡眠青鳥使用率下降但仍是 T1。Iron Valiant/Crown 牌組佔 Rank 前10的 40%+。Miraidon + Terapagos 增加。惡鬼碰需求下降。"
+      },
+      {
+        "scenario": "B",
+        "name": "古代復興 (Ancient Renaissance)",
+        "probability": 0.3,
+        "description": "Ogerpon 免費填能被低估。古代構築暴增（古勒頓、熊尾牙、古劍豹）。能量種類多樣化讓 Terapagos ex 爆發力飆升。形成古代 vs 未來新對立。"
+      },
+      {
+        "scenario": "C",
+        "name": "窒息控制內戰 (Stale Sleep Civil War)",
+        "probability": 0.2,
+        "description": "睡眠牌組數量太多，大家都在內戰。Espeon ex 成標配。Sableye + Janepi 變熱門。無干擾手段牌組被邊緣化。對局時間變長。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-01",
+    "verification": {
+      "date": "2026-06-01",
+      "result": "partial_miss",
+      "actual": "睡眠青鳥仍為第一使用率；Iron Valiant 未主導，Iron Crown 版約2.25%且調整後勝率低於50%，Iron Boulder版較佳但樣本小。草系 Sceptile 成為更明確上升點。",
+      "lesson": "ban list與小樣本會高估新軸，常規環境應優先看使用率擴張與大型樣本。"
+    },
+    "reflection": "情境A只命中新軸被關注，未命中主導程度；實際更接近睡眠續航+草系上升。"
+  },
+  {
+    "id": "PRED_20260601",
+    "date": "2026-06-01",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-01 12:01 UTC",
+    "environment_summary": "Mega Altaria ex Espeon 使用率第一但勝率回落；Mega Sceptile ex Sceptile 勝率亮眼；Miraidon/Magnezone 人氣高但報酬普通；Iron Valiant 尚未主導。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "睡眠續航但勝率持平",
+        "probability": 0.5,
+        "description": "Altaria/Espeon 繼續第一，勝率維持50-52%，分支往 Gourgeist 或混干擾調整。"
+      },
+      {
+        "scenario": "B",
+        "name": "草系上升",
+        "probability": 0.35,
+        "description": "Mega Sceptile ex Sceptile 被更多玩家採用，使用率與樣本上升，成為抓睡眠與電系的選項。"
+      },
+      {
+        "scenario": "C",
+        "name": "鐵武者修正回歸",
+        "probability": 0.15,
+        "description": "Iron Boulder 或 Altaria Iron Valiant 版本若樣本擴大且維持正勝率，重新進入主流討論。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-03",
+    "verification": {
+      "date": "2026-06-03",
+      "result": "partial_hit",
+      "actual": "Altaria/Espeon 仍為使用率第一，但調整後勝率降至49.90%；Mega Sceptile ex Sceptile 使用率升至5.86%且調整後勝率52.42%；Iron Valiant 未主導，Iron Boulder/Altaria分支較有希望。",
+      "lesson": "使用率第一不等於強度第一；應把勝率分支差異納入睡眠牌組判讀。"
+    },
+    "reflection": "情境A命中使用率續航但高估勝率；情境B草系上升實際更重要。"
+  },
+  {
+    "id": "PRED_20260602",
+    "date": "2026-06-02",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-02 12:01 UTC",
+    "environment_summary": "Mega Altaria ex Espeon 仍為使用率第一但勝率接近五成；Mega Sceptile ex Sceptile 以 5.32% 使用率與 53.55% 調整後勝率成為最佳上升點；電系人氣高但報酬普通；Iron Valiant 未主導。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "草系擴張",
+        "probability": 0.45,
+        "description": "Mega Sceptile ex Sceptile 使用率繼續上升，調整後勝率維持 52% 以上，成為抓睡眠與電系的主要選擇。"
+      },
+      {
+        "scenario": "B",
+        "name": "睡眠續航",
+        "probability": 0.4,
+        "description": "Mega Altaria ex Espeon 繼續使用率第一，但勝率維持 50-51%；Gourgeist 分支維持較佳表現。"
+      },
+      {
+        "scenario": "C",
+        "name": "鐵武者小幅修正",
+        "probability": 0.15,
+        "description": "Iron Valiant Iron Boulder 若樣本擴大且仍正勝率，回到主流討論；Iron Crown 版繼續偏弱。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-04",
+    "verification": {
+      "date": "2026-06-04",
+      "result": "partial_hit",
+      "actual": "Mega Sceptile 仍維持正勝率但使用率略降；草系擴張未完全延續。Altaria/Espeon 仍第一且約五成；Gourgeist 分支更有效率。Blaziken/Greninja 使用率上升成今日更明顯新動向。",
+      "lesson": "早盤資料要降低使用率變動權重；新動向若同時有使用率上升與正勝率，優先列觀察。"
+    },
+    "reflection": "情境A方向命中但強度高估；真正加速的是火焰雞＋甲賀忍蛙。"
+  },
+  {
+    "id": "PRED_20260603",
+    "date": "2026-06-03",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-03 12:00 UTC",
+    "environment_summary": "Altaria/Espeon 使用率第一但跌破五成；Mega Sceptile 與 Altaria/Gourgeist 是主流中勝率更好的選擇；Iron Valiant 尚未主導，Blaziken/Greninja 與 Scizor/Revavroom 是新候選。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "草系成為主流反制",
+        "probability": 0.45,
+        "description": "Mega Sceptile ex Sceptile 使用率維持或突破6%，調整後勝率維持52%以上，成為抓睡眠與電系的主要牌組。"
+      },
+      {
+        "scenario": "B",
+        "name": "睡眠分支轉向Gourgeist",
+        "probability": 0.35,
+        "description": "Mega Altaria ex Espeon 繼續最多人玩但勝率平庸；Gourgeist 或混干擾分支因內戰與反制需求上升。"
+      },
+      {
+        "scenario": "C",
+        "name": "新火鋼軸小幅擴張",
+        "probability": 0.2,
+        "description": "Mega Blaziken ex Greninja 或 Mega Scizor ex Revavroom 樣本增加並維持正勝率，但尚不足以取代草系。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-05",
+    "verification": {
+      "date": "2026-06-05",
+      "result": "partial_miss",
+      "actual": "Mega Sceptile 使用率降至5.14%、調整後勝率50.53%，未維持52%以上；睡眠太陽伊布仍第一但五成，南瓜精分支升至4.48%且52.42%；Mega Blaziken/Greninja升至3.70%且54.07%，成為更明顯上升點。",
+      "lesson": "反主流牌組連續兩天高勝率後會被快速修正；同時看使用率與調整後勝率，火焰雞＋甲賀忍蛙比蜥蜴王更像下一個成長點。"
+    },
+    "reflection": "高估蜥蜴王續航；命中睡眠分支轉向與新火軸候選，但火焰雞升溫幅度高於預期。"
+  },
+  {
+    "id": "PRED_20260604",
+    "date": "2026-06-04",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-04 12:00 UTC; early sample limited",
+    "environment_summary": "Altaria/Espeon仍為使用率第一但約五成；Sceptile續航但回落；Altaria/Gourgeist效率較佳；Blaziken/Greninja升溫。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "火焰雞＋甲賀忍蛙續升",
+        "probability": 0.4,
+        "description": "Mega Blaziken ex Greninja 使用率繼續上升並維持正勝率，成為新反環境焦點。"
+      },
+      {
+        "scenario": "B",
+        "name": "蜥蜴王維持反主流",
+        "probability": 0.35,
+        "description": "Mega Sceptile ex Sceptile 使用率維持約5-6%，調整後勝率守在51%以上。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠分支轉向干擾",
+        "probability": 0.25,
+        "description": "Altaria/Espeon維持第一但勝率平庸，Gourgeist或混干擾分支更受重視。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium-low",
+    "check_date": "2026-06-06",
+    "verification": {
+      "date": "2026-06-06",
+      "result": "partial_hit",
+      "actual": "Mega Blaziken ex Greninja 使用率由3.70%升至4.33%，調整後勝率仍有53.00%；Mega Sceptile ex Sceptile降至4.84%且調整後49.84%；Altaria/Gourgeist升至4.90%且調整後52.05%。",
+      "lesson": "同時有使用率擴張與正勝率的火焰雞軸可續看；蜥蜴王已從反制核心退回普通五成牌組。"
+    },
+    "reflection": "情境A命中；情境B失準；情境C方向命中，睡眠內部更偏向Gourgeist。"
+  },
+  {
+    "id": "PRED_20260605",
+    "date": "2026-06-05",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-05 12:00 UTC",
+    "environment_summary": "Altaria/Espeon仍為使用率第一但約五成；電系人氣高但效率低；Sceptile回落；Altaria/Gourgeist效率佳；Blaziken/Greninja同時提高使用率與勝率。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "火焰雞＋甲賀忍蛙擴張",
+        "probability": 0.45,
+        "description": "Mega Blaziken ex Greninja 使用率繼續上升並維持52%以上調整後勝率，成為下一個反環境焦點。"
+      },
+      {
+        "scenario": "B",
+        "name": "南瓜精睡眠成為睡眠正解",
+        "probability": 0.35,
+        "description": "Altaria/Espeon仍最多人玩但勝率平庸；Altaria/Gourgeist因內戰與干擾價值維持較高勝率。"
+      },
+      {
+        "scenario": "C",
+        "name": "蜥蜴王穩定但不領跑",
+        "probability": 0.2,
+        "description": "Mega Sceptile ex Sceptile維持約5%使用率與五成以上勝率，但不再是最高效率選項。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-07",
+    "verification": {
+      "date": "2026-06-07",
+      "result": "partial_hit",
+      "actual": "Mega Blaziken ex Greninja 使用率約4.31%，調整後勝率53.29%，站穩但未大幅擴張；Mega Altaria ex Gourgeist 約4.87%，調整後52.01%，睡眠內部仍優於 Espeon；Mega Sceptile 約4.85%，調整後50.00%，維持可用但不領跑。",
+      "lesson": "火焰雞軸命中強度但高估擴張速度；Gourgeist 睡眠續強；蜥蜴王已回到五成工具牌。"
+    },
+    "reflection": "情境A/B/C方向皆部分命中，但應把「站穩」與「擴張」分開判斷。"
+  },
+  {
+    "id": "PRED_20260606",
+    "date": "2026-06-06",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-06 12:01 UTC",
+    "environment_summary": "Altaria/Espeon仍是使用率第一但五成；Blaziken/Greninja、Suicune/Baxcalibur、Altaria/Gourgeist是目前較有效率選擇；Sceptile回落，電系人氣高但報酬普通。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "火焰雞＋甲賀忍蛙站穩T1.5",
+        "probability": 0.4,
+        "description": "使用率維持4%以上，調整後勝率守在52%以上，成為抓主流睡眠與電系的穩定反環境選項。"
+      },
+      {
+        "scenario": "B",
+        "name": "水系Suicune/Baxcalibur補位上升",
+        "probability": 0.3,
+        "description": "Suicune ex Baxcalibur因勝率與樣本同步上升，被更多玩家採用，使用率逼近或超過Blaziken。"
+      },
+      {
+        "scenario": "C",
+        "name": "環境回到睡眠內戰",
+        "probability": 0.3,
+        "description": "Altaria/Espeon仍佔第一，Gourgeist分支維持52%左右；其他反制牌被針對後回落。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-08",
+    "verification": {
+      "date": "2026-06-08",
+      "result": "partial_hit",
+      "actual": "Mega Blaziken ex Greninja 維持4.33%使用率、52.52%調整後勝率，站穩但未擴張；Suicune ex Baxcalibur 上升到4.73%、53.28%，比預期更接近今日最佳反環境席位；Altaria/Gourgeist 維持51.63%，睡眠內戰延續。",
+      "lesson": "火焰雞軸強度命中但水系補位速度更快；後續需提高同時具備使用率小升與52%+勝率牌組的權重。"
+    },
+    "reflection": "情境A/B/C皆部分命中；最大修正是水君＋戟脊龍不只是補位，而是今日更明顯的上升點。"
+  },
+  {
+    "id": "PRED_20260607",
+    "date": "2026-06-07",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-07 12:00 UTC; parser update_time field stale",
+    "environment_summary": "Altaria/Espeon 回到約五成但仍第一；Blaziken/Greninja、Suicune/Baxcalibur、Altaria/Gourgeist 是主要正勝率核心；Sceptile回到均線。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "火焰雞＋甲賀忍蛙維持效率核心",
+        "probability": 0.4,
+        "description": "使用率約4%以上，調整後勝率維持52%以上；成為主流反睡眠/反電選項。"
+      },
+      {
+        "scenario": "B",
+        "name": "水君＋戟脊龍追上反環境席位",
+        "probability": 0.3,
+        "description": "使用率維持或小升，調整後勝率仍約52%；若火焰雞被針對，水系補位。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠分支內戰延續",
+        "probability": 0.3,
+        "description": "Altaria/Espeon人數第一但報酬普通；Gourgeist分支維持更佳勝率。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-09",
+    "verification": {
+      "date": "2026-06-09",
+      "result": "partial_hit",
+      "actual": "火焰雞＋甲賀忍蛙仍維持4.20%使用率與52.42%調整後勝率，站穩但不是最大上升；水君＋戟脊龍維持4.73%且53.06%，比火焰雞更像今日最佳反環境；睡眠太陽伊布仍第一但五成，Gourgeist分支仍較佳。",
+      "lesson": "火焰雞強度判斷正確，但排序應讓水君＋戟脊龍優先；高效率牌組若使用率持平但樣本增加且勝率不崩，仍可視為站穩。"
+    },
+    "reflection": "情境A/B/C皆命中方向；最可能情境應從火焰雞改為水君。"
+  },
+  {
+    "id": "PRED_20260608",
+    "date": "2026-06-08",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-08 12:00 UTC; ptcgp_meta.json normal, ptcgp_meta_latest parser artifact ignored",
+    "environment_summary": "Altaria/Espeon仍第一但五成；Suicune/Baxcalibur與Blaziken/Greninja是主要高效率反環境；Altaria/Gourgeist仍是睡眠較佳分支；Sceptile回落。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍續升",
+        "probability": 0.45,
+        "description": "使用率逼近或超過5%，調整後勝率守住52%以上，成為最明顯反環境選項。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞＋甲賀忍蛙站穩",
+        "probability": 0.35,
+        "description": "使用率維持4%左右，調整後勝率52%以上，但擴張速度有限。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠內戰延續",
+        "probability": 0.2,
+        "description": "Altaria/Espeon仍最多人玩但報酬普通；Gourgeist分支維持較佳勝率。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-10",
+    "verification": {
+      "date": "2026-06-10",
+      "result": "partial_hit",
+      "actual": "水君＋戟脊龍維持約4.77%使用率與52.87%調整後勝率，命中續強；火焰雞＋甲賀忍蛙約4.15%與52.86%，站穩；睡眠太陽伊布仍第一但五成，南瓜精分支較佳。",
+      "lesson": "水君方向正確，但火焰雞效率幾乎追平；排序應以使用率變化與樣本擴大共同判斷。"
+    },
+    "reflection": "情境A/B/C皆命中方向；水君仍首選，但與火焰雞差距縮小。"
+  },
+  {
+    "id": "PRED_20260609",
+    "date": "2026-06-09",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-09 12:00 UTC; update_time field stale ignored",
+    "environment_summary": "睡眠青鳥仍為使用率核心但五成；水君＋戟脊龍是最高效率反環境；火焰雞＋甲賀忍蛙站穩；南瓜精睡眠仍優於太陽伊布；電系人氣高但報酬普通。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍維持最高效率反環境",
+        "probability": 0.45,
+        "description": "使用率約4.5～5%，調整後勝率守住52%以上，繼續作為首選反環境。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞＋甲賀忍蛙站穩T1.5",
+        "probability": 0.3,
+        "description": "使用率維持4%左右，調整後勝率保持正值，但不爆量。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠分支繼續收斂",
+        "probability": 0.25,
+        "description": "Altaria/Espeon仍最多人玩但五成；Gourgeist分支維持小幅勝率優勢。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-11",
+    "verification": {
+      "date": "2026-06-11",
+      "result": "hit",
+      "actual": "水君＋戟脊龍升至5.01%使用率、52.89%調整後勝率，命中首選反環境；火焰雞＋甲賀忍蛙維持4.13%與52.31%，站穩但未爆量；睡眠太陽伊布仍第一且約五成，南瓜精分支仍較有效率。",
+      "lesson": "當高效率反環境牌組連續多日樣本擴大且勝率不崩，應視為穩定主軸；但同時注意使用率超過5%後會開始被針對。"
+    },
+    "reflection": "情境A/B/C方向皆命中；水君正式從反環境候選變成主流席位。"
+  },
+  {
+    "id": "PRED_20260610",
+    "date": "2026-06-10",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-10 12:00 UTC; ptcgp_meta_latest parser artifact ignored",
+    "environment_summary": "睡眠青鳥仍為使用率核心但五成；水君＋戟脊龍與火焰雞＋甲賀忍蛙是最高效率反環境；電系熱門但報酬普通。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍維持首選反環境",
+        "probability": 0.4,
+        "description": "使用率約4.7～5%，調整後勝率守住52%左右。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞＋甲賀忍蛙並列T1.5",
+        "probability": 0.35,
+        "description": "勝率維持52%以上，但使用率不暴增。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠高使用低報酬",
+        "probability": 0.25,
+        "description": "Altaria/Espeon仍第一但五成；Gourgeist分支繼續較有效率。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-12",
+    "verification": {
+      "date": "2026-06-12",
+      "result": "partial_hit",
+      "actual": "水君＋戟脊龍維持5.14%使用率與52.23%調整後勝率，仍是主流反環境但勝率略回落；火焰雞＋甲賀忍蛙升至4.16%且52.49%，今日反而成為最高效率主流選擇；睡眠太陽伊布仍第一但約五成，南瓜精分支維持較佳報酬。",
+      "lesson": "水君方向命中，但使用率超過5%後開始被針對；火焰雞在同樣反環境位置上更抗修正，排序需上調。"
+    },
+    "reflection": "情境A/B/C皆命中方向，但最高效率排序從水君轉回火焰雞。"
+  },
+  {
+    "id": "PRED_20260611",
+    "date": "2026-06-11",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-11 12:00 UTC; update_time field stale ignored",
+    "environment_summary": "睡眠青鳥仍為使用率第一但僅約五成；水君＋戟脊龍突破5%且維持52.89%調整後勝率，成為最乾淨主流反環境；火焰雞＋甲賀忍蛙站穩；電系使用率高但報酬普通。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍被承認為主流反環境",
+        "probability": 0.42,
+        "description": "使用率維持5%左右或小升，調整後勝率守在52%以上；但開始面臨更明確針對。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞＋甲賀忍蛙穩定並列T1.5",
+        "probability": 0.33,
+        "description": "使用率約4%，調整後勝率維持52%左右；不爆量，但仍是反睡眠與反電的高效率選擇。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠分支繼續高使用低報酬",
+        "probability": 0.25,
+        "description": "太陽伊布版仍第一但約五成；南瓜精版維持小幅勝率優勢，睡眠玩家逐步往干擾分支收斂。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-13",
+    "verification": {
+      "date": "2026-06-13",
+      "result": "hit",
+      "actual": "水君＋戟脊龍維持5.08%使用率、52.22%調整後勝率，確實成為被承認的主流反環境但略受針對；火焰雞＋甲賀忍蛙維持4.15%與52.02%，穩定並列T1.5；睡眠太陽伊布仍第一但約五成，南瓜精分支仍較有效率。",
+      "lesson": "水君被針對後仍未崩，代表底子足；但火焰雞與南瓜精睡眠的穩定性也必須同列第一觀察層。"
+    },
+    "reflection": "情境A/B/C皆命中；環境進入睡眠基準＋水君/火焰雞/南瓜精三個效率軸互相修正。"
+  },
+  {
+    "id": "PRED_20260612",
+    "date": "2026-06-12",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-12 12:00 UTC; update_time field stale ignored",
+    "environment_summary": "睡眠青鳥仍為使用率第一但只有五成；火焰雞＋甲賀忍蛙以52.49%調整後勝率成為今日最高效率主流反環境；水君＋戟脊龍維持5%以上但勝率略回落；電系使用率高但報酬普通。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "火焰雞＋甲賀忍蛙成為首選效率牌",
+        "probability": 0.4,
+        "description": "使用率維持4%左右或小升，調整後勝率守住52%以上；在水君被針對後成為更乾淨的反環境選項。"
+      },
+      {
+        "scenario": "B",
+        "name": "水君＋戟脊龍高使用但被修正",
+        "probability": 0.35,
+        "description": "使用率維持5%左右，但調整後勝率可能落在51.5～52.5%；仍強，但不再無腦領跑。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠分支繼續高使用低報酬",
+        "probability": 0.25,
+        "description": "太陽伊布版仍第一但約五成；南瓜精版維持小幅勝率優勢，睡眠內部繼續向干擾分支收斂。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-14",
+    "verification": {
+      "date": "2026-06-14",
+      "result": "partial_hit",
+      "actual": "火焰雞勝率從52.49%降到51.90%，被水君的52.14%超越；水君使用率從5.14%降到5.05%，勝率52.14%守住52%以上；睡眠七夕青鳥+太陽伊布仍第一但五成，南瓜精版較有效率。",
+      "lesson": "火焰雞在效率排序上未能持續超越水君；水君底子在，連續多日樣本擴張後仍守住52%+勝率；火焰雞單日勝率回落幅度需持續追蹤。"
+    },
+    "reflection": "情境A方向命中但強度不足（火焰雞沒能守住頭牌）；情境B命中水君被修正但仍守住52%；情境C命中睡眠格局。"
+  },
+  {
+    "id": "PRED_20260613",
+    "date": "2026-06-13",
+    "set": "B3a",
+    "source": "Limitless TCG latest fetch 2026-06-13 12:00 UTC; update_time field stale ignored",
+    "environment_summary": "睡眠青鳥仍為使用率第一但約五成；水君＋戟脊龍與火焰雞＋甲賀忍蛙都維持52%左右；南瓜精睡眠是睡眠內部較佳分支；電系人多但報酬低。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋火焰雞雙反環境穩定",
+        "probability": 0.4,
+        "description": "兩者使用率分別約5%與4%，調整後勝率維持51.5～52.5%，不爆量但繼續是首選效率層。"
+      },
+      {
+        "scenario": "B",
+        "name": "南瓜精睡眠續升為睡眠正解",
+        "probability": 0.35,
+        "description": "太陽伊布版仍第一但五成；南瓜精版因干擾價值維持51.5%以上，吸收部分睡眠玩家。"
+      },
+      {
+        "scenario": "C",
+        "name": "電系與蜥蜴王繼續低報酬",
+        "probability": 0.25,
+        "description": "密勒頓/自爆磁怪維持高使用但勝率普通，蜥蜴王低於五成，難成主答案。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-15",
+    "verification": {
+      "check_date": "2026-06-14",
+      "result": "hit",
+      "notes": "水君5.05%使用率、52.14%勝率；火焰雞4.22%使用率、51.90%勝率；兩者皆在預測區間；電系高使用低報酬持續。"
+    },
+    "reflection": "水君底子確認，火焰雞節奏型波動符合預期，電系陷阱規律再次驗證。"
+  },
+  {
+    "id": "PRED_20260614",
+    "date": "2026-06-14",
+    "set": "B3a",
+    "source": "Limitless TCG fetch 2026-06-14 12:00 UTC; parser format anomaly, manual parse from top_decks",
+    "environment_summary": "七夕青鳥+太陽伊布 8.05%/50.57% 仍第一；水君+戟脊龍 5.05%/52.14% 主流最高效率；火焰雞+忍蛙 4.22%/51.90% 微幅回落；南瓜精睡眠 4.11%/51.73%；電系合計11%+但勝率不足50.5%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍重回首選",
+        "probability": 0.4,
+        "description": "使用率維持 5% 左右，調整後勝率守住 52% 以上；火焰雞若繼續小幅回落，水君重新成為最乾淨反環境。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞止穩重新並列",
+        "probability": 0.35,
+        "description": "4% 使用率不變，調整後勝率回升至 52% 左右。節奏型牌組天然波動，單日回落不構成趨勢。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠內戰＋電系陷阱持續",
+        "probability": 0.25,
+        "description": "七夕青鳥使用率續降但仍第一；電系維持高人氣低報酬；三首惡龍等中型牌組吸收剩餘份額。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-16",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260615",
+    "date": "2026-06-15",
+    "set": "B3a",
+    "source": "Limitless TCG fetch failed - data from 2026-06-14 as fallback",
+    "environment_summary": "（資料來自 2026-06-14）七夕青鳥+太陽伊布 8.05%/50.57% 仍第一；水君+戟脊龍 5.05%/52.14% 主流最高效率；火焰雞+忍蛙 4.22%/51.90%；南瓜精睡眠 4.11%/51.73%；電系合計11.24%但勝率不足50.5%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍繼續領先",
+        "probability": 0.35,
+        "description": "使用率維持 5% 左右，調整後勝率守住 52% 以上。環境警覺但尚未形成有效針對。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞止穩均值回歸",
+        "probability": 0.35,
+        "description": "節奏型牌組單日波動不代表趨勢，樣本夠大時勝率回到 52% 左右，與水君並列效率首選。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠內戰加深",
+        "probability": 0.3,
+        "description": "七夕青鳥使用率維持 8%，電系陷阱持續，三首惡龍等中型牌組吸收剩餘份額。"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "low-medium",
+    "check_date": "2026-06-17",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260616",
+    "date": "2026-06-16",
+    "set": "B3a",
+    "source": "Limitless TCG 2026-06-16 13:50 UTC",
+    "environment_summary": "睡眠青鳥使用率7.83%排第一但勝率50.71%；水君戟脊龍4.91%/52.01%繼續領先；電系陷阱持續；火焰雞忍蛙穩健；路卡利歐忍蛙新晉T1",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君戟脊龍繼續領先",
+        "probability": 0.4,
+        "description": "5%使用率、52%AWR維持。電系陷阱分走流量，讓水君有更多乾淨matchup。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞均值回歸",
+        "probability": 0.35,
+        "description": "節奏型牌組數據持續修復，勝率向52%移動。配合路卡利歐/火焰雞格鬥系打電系，形成上行走勢。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠內戰加深",
+        "probability": 0.25,
+        "description": "七夕青鳥使用率維持8%但勝率在50%掙扎，環境趨向內卷。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-18",
+    "verification": "CONFIRMED：水君53.85%勝率，確認情境A。水君使用率維持4.91%（未破5%）。七夕青鳥勝率反彈至52.13%，情境C（睡眠内卷）未發生。",
+    "reflection": "預測太保守。水君效率冠軍地位穩固，但使用率遲遲未破5%——多數玩家仍偏好高人氣而非高效率的牌組。電系陷阱效應比預期更持久。火焰雞確認均值回歸。"
+  },
+  {
+    "id": "PRED_20260617",
+    "date": "2026-06-17",
+    "set": "B3a",
+    "source": "Limitless TCG raw HTML (B3a, structure changed - parsing from local cache)",
+    "environment_summary": "水君戟脊龍53.85%AWR確認效率冠軍；火焰雞忍蛙53.47%確認上升；七夕青鳥勝率回升至52.13%；電系陷阱持續；草系正式退場；路卡利歐忍蛙確認上位",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率破5%",
+        "probability": 0.4,
+        "description": "效率冠軍被越來越多人認可，均值回歸正在發生。電系繼續分走流量，為水系創造乾淨 matchup。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞＋忍蛙 AWR站穩53%+",
+        "probability": 0.3,
+        "description": "節奏型牌組的均值回歸確認。配合路卡利歐上行走勢，格鬥系性價比持續優於睡眠青鳥。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠内卷加深",
+        "probability": 0.3,
+        "description": "七夕青鳥使用率維持高檔，但勝率在52%遇到天花板。環境開始出現更多針對睡眠的構築。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-19",
+    "verification": {
+      "date": "2026-06-18",
+      "result": "partial_hit",
+      "actual": "水君使用率4.91%未破5%（情境A未命中）；火焰雞53.47%確認上升（情境B命中）；七夕青鳥勝率反彈至52.13%，內卷未加劇（情境C未命中）",
+      "lesson": "水君效率確認但使用率天花板效應比預期更強；火焰雞均值回歸是今日最準預測；睡眠內卷假象被勝率反彈打破"
+    },
+    "reflection": "高估使用率增長速度；低估睡眠青鳥勝率反彈幅度；電系陷阱規律再次驗證，別再預測電系覺醒"
+  },
+  {
+    "id": "PRED_20260618",
+    "date": "2026-06-18",
+    "set": "B3a",
+    "source": "Limitless TCG raw HTML (B3a - parse failed), local cache 2026-06-17 as baseline",
+    "environment_summary": "水君戟脊龍53.85%AWR效率王確認；火焰雞忍蛙53.47%均值回歸確認；七夕青鳥反彈至52.13%；電系陷阱持續；路卡利歐忍蛙新晉確認；草系正式退場",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君效率王地位鞏固",
+        "probability": 0.4,
+        "description": "使用率向5%逼近。電系陷阱效應持續，水君保持乾淨matchup，勝率維持52%+。"
+      },
+      {
+        "scenario": "B",
+        "name": "格鬥系板塊繼續移動",
+        "probability": 0.35,
+        "description": "火焰雞＋忍蛙與路卡利歐＋忍蛙形成雙軸格鬥生態。合計使用率若突破7%，代表環境結構性轉變。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠青鳥內卷重現",
+        "probability": 0.25,
+        "description": "七夕青鳥使用率維持7-8%，勝率在52%遇到天花板，環境開始出現更多干擾型針對睡眠構築。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-20",
+    "verification": {
+      "date": "2026-06-19",
+      "result": "partial_hit",
+      "actual": "水君4.85%使用率未破5%（情境A未命中）；火焰雞4.29%使用率確認站穩但格鬥系合計6.49%未破7%（情境B部分命中）；七夕青鳥勝率50.86%未跌破50%但接近（情境C未命中）",
+      "lesson": "電系陷阱持續，水君仍是效率王但使用率天花板效應比預期更頑固；七夕青鳥勝率50.86%已非常接近50%臨界點"
+    },
+    "reflection": "水君使用率天花板效應再次確認——即使勝率明確高於電系陷阱，大量玩家仍選擇高人氣而非高效率。七夕青鳥勝率跌破51%是結構性警訊。"
+  },
+  {
+    "id": "PRED_20260619",
+    "date": "2026-06-19",
+    "set": "B3a",
+    "source": "Limitless TCG raw HTML top-50 visible decks (B3a, 06-19 12:17 UTC) - parser format changed",
+    "environment_summary": "七夕青鳥+太陽伊布 7.77%/50.86% 仍第一；水君+戟脊龍 4.85%/52.16% 重回效率王座；電系三分支合計13%+但全低於51%；火焰雞+忍蛙 4.29%/51.56% 站穩；草系蜥蜴王 4.06%/49.88% 仍未復甦",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破5%",
+        "probability": 0.4,
+        "description": "效率差距太明顯，遲早被更多玩家採用。電系繼續分走流量，為水系創造乾淨 matchup。"
+      },
+      {
+        "scenario": "B",
+        "name": "格鬥系板塊合計突破7%",
+        "probability": 0.35,
+        "description": "火焰雞＋忍蛙與路卡利歐＋忍蛙合計使用率已達6.49%，若繼續上升，代表環境結構性轉向節奏控制。"
+      },
+      {
+        "scenario": "C",
+        "name": "七夕青鳥太陽伊布分支勝率跌破50%",
+        "probability": 0.25,
+        "description": "睡眠青鳥内部持續分化，太陽伊布分支在大量樣本下可能正式失守50%，玩家開始向南瓜精分支收斂。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-21",
+    "verification": {
+      "date": "2026-06-22",
+      "result": "partial_miss",
+      "actual": "水君4.90%使用率仍未破5%（情境A未命中，差0.1%）；格鬥系合計8.14%已超過7%（情境B命中）；七夕青鳥太陽伊布分支勝率50.83% raw_wr，未跌破50%（情境C未命中）",
+      "lesson": "水君使用率天花板效應頑固；格鬥系合計早已突破7%門檻，暗示玩家分流向效率軸"
+    },
+    "reflection": "情境B（格鬥系突破7%）已命中，環境確實在向節奏控制演進；水君5%門檻比預期頑固，可能需要更長時間"
+  },
+  {
+    "id": "PRED_20260622",
+    "date": "2026-06-22",
+    "set": "B3a",
+    "source": "play.limitlesstcg.com live fetch (06-22 12:06 UTC)",
+    "environment_summary": "水君戟脊龍突破53% AWR；格鬥系三軸全部站上52%+；南瓜精分支勝率比太陽伊布分支高1.38%；電系仍是最大陷阱；Iron Valiant Iron Boulder以54.68% AWR成為隱藏王者。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破5%",
+        "probability": 0.4,
+        "description": "效率差距已足夠大，預計兩天內正式突破5%門檻。電系持續分流為水系創造乾淨對局。"
+      },
+      {
+        "scenario": "B",
+        "name": "格鬥系合計突破9%",
+        "probability": 0.35,
+        "description": "三個分支合計8.14%，距離9%只差約1%。若環境加速遠離電系，格鬥系將是最大受益者。"
+      },
+      {
+        "scenario": "C",
+        "name": "Iron Valiant 使用率翻倍至2%+",
+        "probability": 0.25,
+        "description": "54.68% AWR + 726場確認後，遲早被更多高端玩家採用。若被社群論證，可能複製水君被追上的路徑。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium-high",
+    "check_date": "2026-06-24",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260627",
+    "date": "2026-06-27",
+    "set": "B3a",
+    "source": "Limitless TCG live fetch (06-27 12:03 UTC), ~13,955 decks",
+    "environment_summary": "水君+戟脊龍53.85% AWR確認效率王；格鬥系合計12.71%；睡眠青鳥太陽伊布vs南瓜精分化加劇；電系陷阱持續；鐵武者+鐵磐岩54.53% AWR隱藏冠軍確認；超級雷電獸ex新晉實力股。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破5.5%",
+        "probability": 0.4,
+        "description": "效率差距累積，越來越多玩家開始追隨數據。水君4.96%已持續多日，突破在即。"
+      },
+      {
+        "scenario": "B",
+        "name": "格鬥系合計突破14%",
+        "probability": 0.35,
+        "description": "火焰雞與路卡利歐軸合計已達12.71%，距離14%只差1.3%。電系分流加速格鬥系曝光。"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠青鳥太陽伊布分支勝率跌破51%",
+        "probability": 0.25,
+        "description": "太陽伊布分支51.99% AWR已非常接近臨界點。若跌破51%，將加速向南瓜精分支收斂。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-06-29",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260701",
+    "date": "2026-07-01",
+    "set": "B3a",
+    "source": "Limitless TCG 06-30 12:05 UTC fetch (ptcgp_meta_discord_latest.md), ~14,400 decks",
+    "environment_summary": "水君+戟脊龍突破5%使用率，AWR 51.83%；睡眠青鳥太陽伊布分支勝率跌破50.5%；電系三分支合計12.85%全軍覆沒；超級雷電獸+傑拉奧拉埋伏軸AWR 52.09%；七夕青鳥+忍蛙盲點確認AWR 52.80%",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "七夕青鳥+南瓜精分支使用率差距縮小",
+        "probability": 0.3,
+        "description": "隨著更多玩家發現效率差距，太陽伊布與南瓜精分支的使用率差距有望進一步縮小"
+      },
+      {
+        "scenario": "B",
+        "name": "超級雷電獸+傑拉奧拉使用率突破2.5%",
+        "probability": 0.3,
+        "description": "AWR 52.09%且樣本日增，若埋伏軸被更多高端玩家採用，有望從2.00%擴張至2.5%"
+      },
+      {
+        "scenario": "C",
+        "name": "水君+戟脊龍 AWR 維持51.5%以上",
+        "probability": 0.25,
+        "description": "突破5%後是否會被針對而勝率下滑，維持51.5%以上代表底子夠厚"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-03",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260706",
+    "date": "2026-07-06",
+    "set": "B3b",
+    "source": "Limitless TCG 07-05 12:04 UTC (B3b, ~2400場)",
+    "environment_summary": "B3b第7天，扁平多強環境。甲賀忍蛙+觀星殼人氣最高但AWR僅49%；超級沙奈朵蒂安希AWR 43.82%為最大韭菜陷阱；水君戟脊龍效率之王56.09%；草系全線復甦。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君戟脊龍突破4%",
+        "probability": 0.3,
+        "description": "水君+戟脊龍AWR 56.09%為全環境最高，低曝光策略見效，用量突破4%關卡。"
+      },
+      {
+        "scenario": "B",
+        "name": "甲賀忍蛙Sableye跌破7%",
+        "probability": 0.35,
+        "description": "韭菜牌組使用率下滑趨勢確認（07-03: 9%+ → 07-05: 8.82%），韭菜效應加速蒸發，使用率正式跌破7%。"
+      },
+      {
+        "scenario": "C",
+        "name": "索羅亞克阿柏梭魯曝光增加",
+        "probability": 0.25,
+        "description": "索羅亞克+超級阿柏梭魯ex AWR 54.55%被更多玩家發現，用量突破2%。"
+      }
+    ],
+    "most_likely": "B",
+    "confidence": "medium",
+    "check_date": "2026-07-08",
+    "verification": null
+  },
+  {
+    "id": "PRED_20260707",
+    "date": "2026-07-07",
+    "set": "B3b",
+    "source": "play.limitlesstcg.com/decks?game=pocket (07-07 Live, 32 tournaments, 3050 players, 8013 matches)",
+    "environment_summary": "B3b Day 11. Flat multi-strong meta. Greninja Sableye still most popular but AWR 47.62%. Suicune Baxcalibur efficiency king AWR 56.42%. Miraidon Magnezone stable at 52%. Mega Sceptile AWR 53.62% rebounded. Mega Gardevoir Diancie remains韭菜 trap at 44.33%.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君+戟脊龍使用率突破5.5%",
+        "probability": 0.3,
+        "description": "效率冠軍被更多玩家認可，使用率從4.20%向5.5%移動"
+      },
+      {
+        "scenario": "B",
+        "name": "甲賀忍蛙+Sableye使用率跌破7%",
+        "probability": 0.35,
+        "description": "韭菜效應蒸發，人氣王的使用率正式開始收縮"
+      },
+      {
+        "scenario": "C",
+        "name": "奇麒麟+古拉頓娜曝光增至2%+",
+        "probability": 0.35,
+        "description": "AWR 56.79%足夠吸引高端玩家，1.38%→2%是最容易發生的移動"
+      }
+    ],
+    "most_likely": "B or C",
+    "confidence": "medium",
+    "check_date": "2026-07-09",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260709",
+    "date": "2026-07-09",
+    "set": "B3b",
+    "source": "play.limitlesstcg.com/decks tournament data (~1700 games, 32 tournaments)",
+    "environment_summary": "B3b Day 13. Mega Altaria Igglybuff 新韭菜王（10.16% usage, 51.28% AWR）. Mega Scizor Revavroom 最大韭菜陷阱（6.23% usage, 46.32% AWR）. Suicune Baxcalibur 效率之王（5.99% usage, 53.32% AWR）. 電系三分支全軍覆沒.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "Mega Altaria Igglybuff 使用率突破 12%",
+        "probability": 0.35,
+        "description": "韭菜效應持續，更多休閒玩家跟隨人氣"
+      },
+      {
+        "scenario": "B",
+        "name": "Mega Scizor Revavroom AWR 跌破 45%",
+        "probability": 0.3,
+        "description": "韭菜被更多人認清，使用率開始下滑但勝率可能率先崩潰"
+      },
+      {
+        "scenario": "C",
+        "name": "Hydreigon Mega Absol ex 曝光增至 4%+",
+        "probability": 0.35,
+        "description": "55.20% AWR 在 43 場樣本下足夠吸引高端玩家，均值回歸最自然"
+      }
+    ],
+    "most_likely": "C",
+    "confidence": "medium",
+    "check_date": "2026-07-11",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260717",
+    "date": "2026-07-17",
+    "set": "B3b",
+    "source": "Limitless TCG 2026-07-15 12:17 UTC, ~14,400 decks",
+    "environment_summary": "佐羅克ex+阿博梭魯ex以2.20%使用率、53.71%AWR登頂效率王；密樂頓ex以19.52%使用率繼續人氣王但AWR僅52.97%；忍蛙+勾魂眼ex以12.79%使用率、47.16%AWR確認韭菜陷阱；超級火焰雞ex站穩53.20%AWR。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "佐羅克ex曝光增至3%",
+        "probability": 0.45,
+        "description": "效率差距明顯，高端玩家追隨數據，使用率從2.20%向3%移動。"
+      },
+      {
+        "scenario": "B",
+        "name": "密樂頓ex人氣慣性上升至20%+",
+        "probability": 0.3,
+        "description": "人氣效應比效率修正更頑固。"
+      },
+      {
+        "scenario": "C",
+        "name": "Mega雷電獸ex突破3%形成電反水",
+        "probability": 0.25,
+        "description": "電系效率軸針對水系崛起。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-19",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260720",
+    "date": "2026-07-20",
+    "set": "B3b",
+    "source": "Limitless TCG Live 2026-07-20 12:08 UTC (~14,400 decks, B3b)",
+    "environment_summary": "電系霸主密樂頓使用率腰斬至10.05%；韭菜陷阱忍蛙+勾魂眼AWR 47.05%、沙奈朵+蒂安希AWR 43.76%確認蒸發；水君+戟脊龍重返前3；火焰雞+忍蛙AWR 53.07%拿下效率王；索羅亞克+阿博梭魯AWR 54.07%預測命中；隱藏實力股甲賀忍蛙+阿博梭魯ex AWR 54.61%浮現。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破7%",
+        "probability": 0.35,
+        "description": "使用率從6.41%向7%移動，水系復興確認。"
+      },
+      {
+        "scenario": "B",
+        "name": "超級火焰雞ex站穩53%AWR並曝光增加",
+        "probability": 0.3,
+        "description": "AWR 53.07%今日最高，若曝光從3.31%增至4%以上代表正式成為主流。"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋阿博梭魯ex使用率突破2%",
+        "probability": 0.35,
+        "description": "AWR 54.61%足夠吸引高端玩家，1.39%→2%是最容易發生的移動。"
+      }
+    ],
+    "most_likely": "C",
+    "confidence": "medium",
+    "check_date": "2026-07-22"
+  },
+  {
+    "id": "PRED_20260721",
+    "date": "2026-07-21",
+    "set": "B3b",
+    "source": "Limitless TCG Live 2026-07-20 12:08 UTC (~14,400 decks, B3b) — 07-21即時抓取失敗",
+    "environment_summary": "電系霸權終結，密勒頓使用率腰斬至10.05%；忍蛙+勾魂眼ex（AWR 47.05%）為最大韭菜陷阱；水君+戟脊龍重返前3（AWR 52.63%）；火焰雞ex+忍蛙以AWR 53.07%拿下效率王；隱藏實力股忍蛙+阿柏梭魯ex（AWR 54.61%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破7%",
+        "probability": 0.35,
+        "description": "使用率6.41%，距離7%差0.59%，水系復興仍在進行。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞ex＋忍蛙曝光增至4%以上",
+        "probability": 0.3,
+        "description": "AWR 53.07%已是效率王，若曝光從3.31%增至4%代表正式進入主流雷達。"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋阿柏梭魯ex曝光增至1.5%以上",
+        "probability": 0.35,
+        "description": "AWR 54.61%足夠吸引高端玩家，低曝光高效率模式正在被發現。"
+      }
+    ],
+    "most_likely": "C",
+    "confidence": "medium",
+    "check_date": "2026-07-22",
+    "verification": {
+      "date": "2026-07-22",
+      "result": "partial_miss",
+      "actual": "水君6.37%未突破7%（差0.63%）；火焰雞3.30%未突破4%；佐羅克+阿博梭魯1.47%，方向命中但幅度落後",
+      "lesson": "韭菜牌組曝光增加預測方向正確，但增幅落後預期約2天；火焰雞因操作難度高，使用率增速緩慢"
+    }
+  },
+  {
+    "id": "PRED_20260722",
+    "date": "2026-07-22",
+    "set": "B3b",
+    "source": "Limitless TCG Live HTML 2026-07-22 12:07 UTC",
+    "environment_summary": "電系霸權終結（密勒頓19.52%→10.17%）；韭菜忍蛙+勾魂眼仍頑固（6.51%使用率，47.19%勝率）；火焰雞+忍蛙以53.16%拿下效率王；佐羅克+阿博梭魯1.47%但AWR 53.72%為隱藏實力股。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率突破7%",
+        "probability": 0.4,
+        "description": "水君性價比兼備，在韭菜牌組被持續曝光後，更多休閒玩家會轉向更穩定的水系。"
+      },
+      {
+        "scenario": "B",
+        "name": "佐羅克＋阿博梭魯ex曝光增至2.5%以上",
+        "probability": 0.35,
+        "description": "AWR 53.72%已足夠吸引高端玩家，1.47%→2.5%是最容易發生的移動。"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋勾魂眼韭菜跌破5%使用率",
+        "probability": 0.25,
+        "description": "韭菜牌組曝光持續被警告，但多數休閒玩家仍堅守。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-24",
+    "verification": {
+      "date": "2026-07-24",
+      "result": "partial_miss",
+      "actual": "水君6.37%未突破7%；佐羅克+阿博梭魯1.47%未增至2.5%；忍蛙+勾魂眼6.51%未跌破5%",
+      "lesson": "韭菜消散需要1-2週以上，比預期頑固；電系終結預測正確但幅度預估過度樂觀"
+    }
+  },
+  {
+    "id": "PRED_20260724",
+    "date": "2026-07-24",
+    "set": "B3b",
+    "source": "07-22 data + trend inference",
+    "environment_summary": "電系霸權終結確認；韭菜（忍蛙+勾魂眼）頑固；火焰雞效率王；水君接近7%天花板；佐羅克+阿博梭魯低曝光高效率",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率正式突破7%",
+        "probability": 0.4,
+        "description": "距離7%只差0.63%，三日趨勢方向確認，高機率已過關"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞ex＋忍蛙曝光增至4%以上",
+        "probability": 0.3,
+        "description": "AWR 53.20%是效率王，口碑傳播效應下曝光應持續增加"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋勾魂眼韭菜跌破5%使用率",
+        "probability": 0.3,
+        "description": "韭菜頑固性已被多次驗證，跌破5%可能需要更長時間"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-26"
+  },
+  {
+    "id": "PRED_20260728",
+    "date": "2026-07-28",
+    "set": "B3b",
+    "source": "07-24 data + trend inference (Limitless TCG CSR unparseable)",
+    "environment_summary": "電系霸權終結確認（密勒頓10.17%）；韭菜忍蛙+勾魂眼頑固（6.51%）；火焰雞效率王AWR 53.20%；水君接近7%天花板（6.37%）；佐羅克+阿柏梭魯低曝光AWR 53.72%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍使用率正式突破7%",
+        "probability": 0.4,
+        "description": "距離7%只差0.63%，四日趨勢方向確認，高機率已過關"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞ex＋忍蛙曝光增至4%以上",
+        "probability": 0.25,
+        "description": "AWR 53.20%是效率王，口碑傳播效應下曝光應持續增加，但操作門檻限制增速"
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋勾魂眼韭菜跌破5%使用率",
+        "probability": 0.2,
+        "description": "韭菜消散比預期頑固，可能需要更長時間"
+      },
+      {
+        "scenario": "D",
+        "name": "佐羅克＋阿柏梭魯ex增至2%以上",
+        "probability": 0.15,
+        "description": "AWR 53.72%持續被低估，高端玩家曝光慢慢增加"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-07-30",
+    "verification": {
+      "date": "2026-07-29",
+      "result": "miss",
+      "actual": "情境A: 6.48% 未破 7%（差0.52%）；情境B: 3.33% 未破 4%；情境C: 6.30% 未跌破 5%；情境D: 1.67% 未增至 2%",
+      "lesson": "All four scenarios failed. 韭菜 dissipation slower than any prediction. Meta remains extremely flat."
+    },
+    "reflection": "所有情境全部未命中。韭菜頑固性再次確認——即使連續多週預測韭菜會消散，現實是玩家依然前仆後繼。環境扁平程度比預期更嚴重，沒有明確的主流方向。"
+  },
+  {
+    "id": "PRED_20260729",
+    "date": "2026-07-29",
+    "set": "B3b",
+    "source": "Limitless TCG HTML raw fetch 07-29 12:05 UTC (direct HTML parse, CSR still broken)",
+    "environment_summary": "Miraidon ex Magnezone rebounds to 10.38% usage (from 6.41% on 07-20), WR 52.65%. Suicune ex Baxcalibur 6.48% usage, WR 52.76%. Meta very flat, no deck above 10.38%. Greninja Sableye韭菜 confirmed at 47.07% WR. Hidden gems: Greninja Absol 55.26% WR, Giratina Darkrai 54.36% WR.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君＋戟脊龍突破 7%",
+        "probability": 0.35,
+        "description": "6.48% usage, need 0.52% more. Most likely in coming days."
+      },
+      {
+        "scenario": "B",
+        "name": "密勒頓 ex 維持 10%+",
+        "probability": 0.25,
+        "description": "Rebounded from 6.41% to 10.38%, showing resilience."
+      },
+      {
+        "scenario": "C",
+        "name": "忍蛙＋超級阿柏梭魯 ex 增至 1.5%",
+        "probability": 0.25,
+        "description": "55.26% WR high enough to attract more players."
+      },
+      {
+        "scenario": "D",
+        "name": "忍蛙＋勾魂眼韭菜跌破 5%",
+        "probability": 0.15,
+        "description": "韭菜 dissipation slower than expected."
+      }
+    ],
+    "most_likely": "A or C",
+    "confidence": "medium",
+    "check_date": "2026-07-31",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260810",
+    "date": "2026-08-10",
+    "set": "B4",
+    "source": "Limitless TCG 2026-08-09 live fetch as proxy for 2026-08-10 (data not yet fetched)",
+    "environment_summary": "B4 Day 10. 蜂女王 ex 無殼海兔 ex 仍是人氣王（8.02%，AWR 51.59%）。超級路卡利歐 ex 確認主流化（7.04%，AWR 52.21%）。超級雷電獸 ex + 鱷魚回歸（6.97%）但 AWR 僅 50.42%。古代系板塊成型（合計>11%）。胡帕 ex + 超級阿柏梭魯 ex 成為隱藏實力股（5.29%，AWR 53.69%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "胡帕 ex 超級阿柏梭魯 ex 使用率突破 7%",
+        "probability": 0.35,
+        "description": "效率冠軍 + 古代系崛起，被越來越多高端玩家認可，7% 門檻兩天內有望達陣"
+      },
+      {
+        "scenario": "B",
+        "name": "超級路卡利歐 ex 使用率突破 8%",
+        "probability": 0.3,
+        "description": "格鬥系主流化確認，但人氣增速可能落後效率增速"
+      },
+      {
+        "scenario": "C",
+        "name": "蜂女王 ex AWR 跌破 51%",
+        "probability": 0.25,
+        "description": "人氣王被過度曝光後被針對，勝率可能進一步下滑"
+      },
+      {
+        "scenario": "D",
+        "name": "電系使用率合計突破 9%",
+        "probability": 0.1,
+        "description": "電系人氣慣性持久，但效率缺陷遲早會压制使用率"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-08-12",
+    "verification": {
+      "check_performed": "2026-08-15",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "胡帕 ex + 超級阿柏梭魯 ex 使用率突破 7%",
+          "result": "partial - 6.17% (direction correct)"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級路卡利歐 ex 使用率突破 8%",
+          "result": "miss - 8.89% but close"
+        },
+        {
+          "scenario": "C",
+          "predicted": "電系使用率合計突破 9%",
+          "result": "miss - 7.35%"
+        },
+        {
+          "scenario": "D",
+          "predicted": "電系使用率合計突破 9%",
+          "result": "miss"
+        }
+      ]
+    },
+    "reflection": "胡帕軸方向預測正確但幅度不足。電系預測方向錯誤，電系人氣慣性比預期更持久。自爆磁怪 ex 成為最大驚喜（未被列入預測）。"
+  },
+  {
+    "id": "PRED_20260815",
+    "date": "2026-08-15",
+    "set": "B4",
+    "source": "Limitless TCG B4 Standard HTML (2026-08-14 capture, B4 Day 16)",
+    "environment_summary": "B4 Day 16. 環境持續碎片化，第一名使用率僅 8.89%。超級路卡利歐 ex + 路卡利歐仍是人氣王（8.89%，AWR 51.01%）。蜂女王 ex + 無殼海兔 ex 第二（7.50%，AWR 50.70%）。胡帕 ex + 超級阿柏梭魯 ex 性價比之王（6.17%，AWR 53.18%）。夠約龍 + 哈克龍古代系站穩（5.98%，AWR 50.68%）。電系陷阱持續（合計 7.35%）。自爆磁怪 ex + 自爆磁怪為最大隱藏實力股（AWR 54.81%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "自爆磁怪 ex + 自爆磁怪使用率突破 2%",
+        "probability": 0.35,
+        "description": "54.81% AWR 全環境最高，隨著更多玩家發現這個隱藏實力股，使用率有望從 1.28% 翻倍"
+      },
+      {
+        "scenario": "B",
+        "name": "胡帕 ex + 超級阿柏梭魯 ex 使用率突破 7.5%",
+        "probability": 0.3,
+        "description": "效率與人氣的完美結合，53.18% AWR + 6.17% 使用率，被低估的程度最嚴重"
+      },
+      {
+        "scenario": "C",
+        "name": "電系使用率合計跌破 7%",
+        "probability": 0.25,
+        "description": "隨著韭菜被更多人識別，電系的人氣慣性可能開始反轉"
+      },
+      {
+        "scenario": "D",
+        "name": "古代系合計突破 8% 使用率",
+        "probability": 0.1,
+        "description": "夠約龍 + 哈克龍 + 古拉頓娜的古代系板塊正在穩步擴張"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-08-17",
+    "verification": {
+      "check_date": "2026-08-16",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "自爆磁怪 ex + 自爆磁怪 使用率突破 2%",
+          "result": "miss - 1.30%"
+        },
+        {
+          "scenario": "B",
+          "predicted": "胡帕 ex + 超級阿博梭魯 ex 使用率突破 7.5%",
+          "result": "miss - 6.15%"
+        },
+        {
+          "scenario": "C",
+          "predicted": "電系合計跌破 7%",
+          "result": "miss - 9.51% (電系人氣慣性比預期頑強)"
+        },
+        {
+          "scenario": "D",
+          "predicted": "自爆磁怪 ex 成為隱藏實力股",
+          "result": "partial - AWR 54.29% confirmed, usage not exploding"
+        }
+      ]
+    },
+    "reflection": "電系韭菜人氣慣性預測方向錯誤。電系陷阱被喊了很久但使用率仍未明顯下跌，與新手直覺型選牌行為高度相關。自爆磁怪 ex 效率確認但使用率遲遲未爆發。"
+  },
+  {
+    "id": "PRED_20260816",
+    "date": "2026-08-16",
+    "set": "B4",
+    "source": "Limitless TCG B4 Standard HTML (2026-08-16 capture, B4 Day 18)",
+    "environment_summary": "B4 Day 18. 環境持續碎片化，第一名使用率僅 9.10%。超級路卡利歐 ex 人氣王（9.10%，AWR 50.83%）但效率扁平化。胡帕 ex + 超級阿博梭魯 ex 效率之王（6.15%，AWR 53.29%）。自爆磁怪 ex + 自爆磁怪 隱藏實力股（AWR 54.29%，1.30%）。電系合計 9.51% 使用率，電系陷阱持續。龍系韭菜確認（哈克龍烈空坐 AWR 46.89%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "自爆磁怪 ex + 自爆磁怪 使用率突破 2%",
+        "probability": 0.35,
+        "description": "54.29% AWR 全環境最高，隨著更多玩家發現這個隱藏實力股，使用率有望從 1.30% 翻倍"
+      },
+      {
+        "scenario": "B",
+        "name": "胡帕 ex + 超級阿博梭魯 ex 使用率突破 7%",
+        "probability": 0.3,
+        "description": "53.29% AWR + 6.15% 使用率，是目前性價比最高的牌組，被低估程度最嚴重"
+      },
+      {
+        "scenario": "C",
+        "name": "電系使用率合計跌破 9%",
+        "probability": 0.25,
+        "description": "電系合計 9.51%，其中僅自爆磁怪 ex 有正效益，其餘皆為韭菜。韭菜被更多人識別後可能開始反轉"
+      },
+      {
+        "scenario": "D",
+        "name": "破空焰 哈克龍 AWR 突破 51%",
+        "probability": 0.1,
+        "description": "古代系板塊正在穩步擴張，但效率仍未跟上人氣"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-08-19",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260819",
+    "date": "2026-08-19",
+    "set": "B4",
+    "source": "Limitless TCG B4 Tournament (~4,300 games, live fetch 2026-08-19)",
+    "environment_summary": "B4 Day ~21. Environment highly fragmented - #1 usage only 9.68%. Mega Lucario ex Lucario popularity king (9.68%, AWR 50.83%). Hoopa ex Mega Absol ex efficiency king (5.96%, AWR 53.47%). Gouging Fire Dragonair ancient pillar (5.67%, AWR 50.56%). Mega Manectric ex Heliolisk confirmed韭菜 trap (5.13%, AWR 49.32%). Suicune ex Baxcalibur confirmed (2.88%, AWR 51.22%). Dark type (Hoopa variants) most efficient type overall.",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "Hoopa ex Mega Absol ex usage breaks 7%",
+        "probability": 0.55,
+        "description": "Efficiency king (53.47% AWR) gets more recognition. Usage moves from 5.96% toward 7%. Players shift from electric trap to dark type."
+      },
+      {
+        "scenario": "B",
+        "name": "Electric trap worsens (AWR toward 48%)",
+        "probability": 0.3,
+        "description": "Mega Manectric ex combo stays at 5%+ usage but AWR drops toward 48%.韭菜效应持续 more players learn the hard way."
+      },
+      {
+        "scenario": "C",
+        "name": "Ancient deck total exceeds 8%",
+        "probability": 0.15,
+        "description": "Gouging Fire Dragonair (5.67%) + other ancient builds exceed 8% combined usage."
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-08-21",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260820",
+    "date": "2026-08-20",
+    "set": "B4",
+    "source": "Limitless TCG B4 Day 16 (2026-08-14) + 08-19 tournament data",
+    "environment_summary": "B4 Day 22. 環境持續扁平，第一名使用率 8.89%。超級路卡利歐 ex 人氣王（9.68% on 08-19，AWR 51.01%）。胡帕 ex + 超級阿柏梭魯 ex 效率王（6.17%，AWR 53.18%）。自癒磁怪 ex + 自癒磁怪 最大隱藏實力股（AWR 54.81%）。電系合計 7.35% 但效率持續低於 50.5%。古代系站穩（夠約龍 5.98%，AWR 50.68%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "胡帕 ex + 超級阿柏梭魯 ex 使用率突破 7.5%",
+        "probability": 0.35,
+        "description": "效率王（53.18% AWR）被越來越多玩家認可，使用率從 6.17% 穩步上漲"
+      },
+      {
+        "scenario": "B",
+        "name": "自癒磁怪 ex + 自癒磁怪 使用率翻倍至 2.5%+",
+        "probability": 0.3,
+        "description": "54.81% AWR 全環境最高，口碑傳播逐漸發酵，低曝光效應開始逆轉"
+      },
+      {
+        "scenario": "C",
+        "name": "電系合計使用率跌破 7%",
+        "probability": 0.25,
+        "description": "韭菜被越來越多人識別，電系人氣慣性可能開始實質性反轉"
+      },
+      {
+        "scenario": "D",
+        "name": "古代系合計突破 8% 使用率",
+        "probability": 0.1,
+        "description": "夠約龍 + 哈克龍 + 古拉頓娜古代板塊持續擴張"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-08-22",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20260824",
+    "date": "2026-08-24",
+    "set": "B4",
+    "source": "PMPT #43 (292 players, 2026-08-22) + Limitless TCG B4 Day 23 data (2026-08-22)",
+    "environment_summary": "B4 Day 26. 環境超扁平，第一名使用率僅 9.73%。PMPT #43 冠軍為 Dedenne ex Indeedee ex（使用率 0.01%）。胡帕 ex + 超級阿柏梭魯 ex AWR 53.15% 仍是效率之王但人氣持平。水君 + 戟脊龍 AWR 52.12%。PMPT #43 顯示 Mega Altaria ex + Espeon 仍是錦標賽熱門選擇（top 10 有 4 席）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "自癒磁怪 ex + 自癒磁怪 使用率翻倍至 2.5%+",
+        "probability": 0.35,
+        "description": "53.03% AWR 持續被低估，隨著更多玩家注意到這個隱藏實力股，低曝光效應可能開始逆轉"
+      },
+      {
+        "scenario": "B",
+        "name": "水君 + 戟脊龍使用率突破 4%",
+        "probability": 0.3,
+        "description": "穩健派玩家在環境持續扁平和電系韭菜被識別後，可能轉向更安全的 Water 軸"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠青鳥 + 太陽伊布 使用率升至 3.5%+",
+        "probability": 0.25,
+        "description": "PMPT #43 顯示 Mega Altaria ex 仍是錦標賽主流，休閒環境也可能跟進"
+      },
+      {
+        "scenario": "D",
+        "name": "Mega Charizard Y ex 韭菜化加速，AWR 跌破 48%",
+        "probability": 0.1,
+        "description": "PMPT #43 第6名，但 AWR 49.83% 顯示真實效率低於人氣"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-08-26",
+    "verification": {
+      "check_date": "2026-08-26",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "自爆磁怪 ex 使用率翻倍至 2.5%+",
+          "result": "miss - 1.30%"
+        },
+        {
+          "scenario": "B",
+          "predicted": "水君 + 戟脊龍突破 4%",
+          "result": "miss - 3.14%"
+        },
+        {
+          "scenario": "C",
+          "predicted": "睡眠青鳥升至 3.5%+",
+          "result": "miss - 2.70%"
+        },
+        {
+          "scenario": "D",
+          "predicted": "Charizard Y ex AWR 跌破 48%",
+          "result": "miss - 49.83%"
+        }
+      ]
+    },
+    "reflection": "隱藏實力股使用率擴散比預期慢。自爆磁怪 ex 的 AWR 53%+ 持續一個月，但低曝光效應遲遲未逆轉。B4 末期環境玩家更保守，傾向人氣牌組而非效率牌組。"
+  },
+  {
+    "id": "PRED_20260826",
+    "date": "2026-08-26",
+    "set": "B4",
+    "source": "Limitless TCG B4 Day 24 (2026-08-22) + trend analysis",
+    "environment_summary": "B4 Day 30. 環境高度扁平，第一名使用率僅 9.73%。胡帕 ex + 超級阿柏梭魯 ex AWR 53.15% 仍是效率之王。自爆磁怪 ex AWR 53.03% 被嚴重低估。電系韭菜持續（超級雷電獸 ex AWR 49.07%）。龍系韭菜蒸發確認（哈克龍烈空坐 2.20%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "水君 + 戟脊龍站穩 4% 使用率",
+        "probability": 0.4,
+        "description": "穩健派在環境末期加速分流，水君效率底子被動承認"
+      },
+      {
+        "scenario": "B",
+        "name": "自爆磁怪 ex 使用率升至 1.8%+",
+        "probability": 0.3,
+        "description": "低曝光奇襲效應可能在月末錦標賽期爆發"
+      },
+      {
+        "scenario": "C",
+        "name": "睡眠青鳥突破 3% 使用率",
+        "probability": 0.2,
+        "description": "睡眠系在錦標賽環境中天然有利"
+      },
+      {
+        "scenario": "D",
+        "name": "電系合計跌破 6% 使用率",
+        "probability": 0.1,
+        "description": "韭菜識別度持續上升，但慣性頑強"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-08-28",
+    "verification": null,
+    "reflection": null
+  },
+  {
+    "id": "PRED_20261021",
+    "date": "2026-10-21",
+    "set": "B4a",
+    "source": "Limitless TCG B4a Day 114 live fetch (60,253 matches, 50 deck entries) + matchup matrix",
+    "environment_summary": "B4a Day 114。環境仍高度扁平，路卡利歐/格鬥/火系合計 18.50% 使用率但群加權 AWR 僅 49.59%（最大韭菜群）。電系 8.03%／51.25% 明顯轉正，自爆磁怪＋密勒頓 ex AWR 52.08%。水系 6.08%／51.29% 為最強群組。火箭隊系 4.27%／45.68% 為最差群組。RPS 對位結構成型：路卡利歐→蜂女王→水君→哈克龍→路卡利歐，七夕青鳥壓路卡利歐 68.3% 但輸蜂女王 37.3%／輸胡帕 30.5%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "電系合計使用率突破 10%",
+        "probability": 0.35,
+        "description": "自爆磁怪＋密勒頓 ex 與蜜勒頓 ex 雙版本同時 AWR 51%+，若再有高效新分支曝光，電系會從『陷阱』轉為『主流選項』"
+      },
+      {
+        "scenario": "B",
+        "name": "超級路卡利歐 ex 使用率跌破 7%",
+        "probability": 0.35,
+        "description": "AWR 49.18% 且對七夕青鳥僅 28.6%，韭菜慣性最後拉扯；若跌破 7% 將是兩週內最大使用率位移"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系合計使用率跌破 3%",
+        "probability": 0.3,
+        "description": "群加權 AWR 45.68%，若連續兩週低於 46%，理論上會出現集體退坑潮"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "medium",
+    "check_date": "2026-10-23",
+    "verification": {
+      "check_date": "2026-10-22",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "電系合計使用率突破 10%",
+          "result": "hit - 10.24%"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級路卡利歐 ex 使用率跌破 7%",
+          "result": "miss - 7.59%（快照無變動，資料靜止期）"
+        },
+        {
+          "scenario": "C",
+          "predicted": "火箭隊系合計使用率跌破 3%",
+          "result": "miss - 4.27%（退坑持續中，尚未觸底）"
+        }
+      ]
+    },
+    "reflection": "A 命中（電系 10.24%，低曝光逆轉持續）。B、C 因今日 Limitless 快照與昨日完全相同而無新樣本，維持原判。教訓：預測驗證在資料靜止期應明確標註『無新樣本』，不可把靜止當成未命中或命中。"
+  },
+  {
+    "id": "PRED_20261022",
+    "date": "2026-10-22",
+    "set": "B4a",
+    "source": "Limitless TCG B4a Day 115 (37,326 matches, 196 tournaments) + full matchup matrix re-parsed",
+    "environment_summary": "B4a Day 115，快照與前一日完全一致（環境靜止期）。群加權 AWR 排序：水系 51.21% > 電系 50.93% > 七夕青鳥系 50.83% > 暗/超能 50.78% > 蟲系 50.74% > 龍系 50.56% > 格鬥火 49.95% > 火箭隊系 45.66% > 草/超能草 44.75%。單體效率王仍為自爆磁怪 密勒頓 ex 52.14%。蜂女王（無殼海兔）被確認為環境樞紐節點：壓胡帕 68.2%／壓水君 66.8%／壓火焰雞 68.6%，但輸自爆磁怪 25.3%／輸好壞電龍 31.6%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "電系合計使用率突破 11%",
+        "probability": 0.4,
+        "description": "低曝光逆轉已連續三週（7.34%→9.64%→10.24%），若 B4b 前環境不變，電系將逼近路卡利歐的格鬥系份額"
+      },
+      {
+        "scenario": "B",
+        "name": "超級路卡利歐 ex 使用率跌破 7.0%",
+        "probability": 0.35,
+        "description": "連續六週 AWR 低於 50% 卻仍居最大族群，慣性是最後一道牆；跌破 7% 將是環境最大位移"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系合計使用率跌破 3.5%",
+        "probability": 0.25,
+        "description": "退坑已從 8.96% 砍到 4.27%，若 AWR 持續 45~46% 區間，下一波退坑潮會在 B4b 前完成"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "low",
+    "check_date": "2026-10-24",
+    "verification": {
+      "check_date": "2026-10-23",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "電系合計使用率突破 11%",
+          "result": "miss - 10.23%（含好壞電龍/NG戀人口徑），純電系 7.24%"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級路卡利歐 ex 使用率跌破 7.0%",
+          "result": "miss - 7.56%（環境靜止期，慣性仍在）"
+        },
+        {
+          "scenario": "C",
+          "predicted": "火箭隊系合計使用率跌破 3.5%",
+          "result": "miss - 4.59%（合併變體口徑 6.93%）"
+        }
+      ],
+      "note": "今日快照較昨日僅 +2 場賽事／+183 場對局，屬靜止期，判定為『未達標』而非方向錯誤。"
+    },
+    "reflection": "三項皆未達標但方向未逆轉。教訓：連續兩日進入靜止期時，應在預測中下調『使用率位移』類情境的機率，改以『對位結構變化』與『單體 AWR 波動』為主要觀測軸，避免用靜止資料反覆消耗預測額度。"
+  },
+  {
+    "id": "PRED_20261023",
+    "date": "2026-10-23",
+    "set": "B4a",
+    "source": "Limitless TCG B4a live fetch (198 tournaments, 14,454 players, 37,509 matches) + 24-deck matchup matrix re-parsed",
+    "environment_summary": "B4a Day 116，環境靜止期（較昨日僅 +183 場對局）。分支口徑：電系（含好壞電龍/NG戀人）10.23%／群加權 51.00%；純電系 7.24%／51.25%。水系 5.69%／51.19%；七夕青鳥系 13.08%／50.85%；暗/超能 8.72%／50.84%；蟲系 5.09%／50.63%；格鬥/火 15.92%／49.63%；火箭隊系 4.59%／45.39%。合併變體口徑：自爆磁怪系 3.24%／52.21% 為效率王，超級七夕青鳥 13.60%／50.51% 為最大族群，路卡利歐 8.96%／48.60%。新對立軸：蜂女王 ex 無殼海兔 ex（4.34%／51.25%）對自爆磁怪僅 19.7%，與電系互為天敵。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "電系合計使用率突破 11%",
+        "probability": 0.35,
+        "description": "自爆磁怪系 AWR 52.21% 為合併變體效率王，且好壞電龍/NG戀人分支 51.83%，低曝光逆轉持續第 4 週"
+      },
+      {
+        "scenario": "B",
+        "name": "超級路卡利歐 ex 使用率跌破 7.0%",
+        "probability": 0.35,
+        "description": "連續第 8 週 AWR 低於 50%（今日 49.15%），對七夕青鳥 27.5%、噴火龍Y 29.7%，慣性是唯一阻擋退坑的力量"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系合計使用率跌破 4.0%",
+        "probability": 0.3,
+        "description": "群加權 45.39%，合併變體口徑 6.93%；拉達+九尾 39.85% 已無爭議，退坑潮通常需要一個版本週期才會完成"
+      }
+    ],
+    "most_likely": "A or B",
+    "confidence": "low",
+    "check_date": "2026-10-25",
+    "verification": {
+      "check_date": "2026-10-24",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "電系合計使用率突破 11%",
+          "result": "partial_hit",
+          "actual": "合併口徑 11.32%（昨日 11.21%）✅ 突破；分支口徑 10.34%（含好壞電龍）／7.67%（純電系）。注意：昨日報告的分支口徑 10.23% 與合併口徑 11.21% 不同源，本情境以合併口徑為準判定命中。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級路卡利歐 ex 使用率跌破 7.0%",
+          "result": "miss",
+          "actual": "7.83%（分支口徑）／8.95%（合併口徑）。連續第 9 週 AWR 低於 50%（今日 49.05%）。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "火箭隊系合計使用率跌破 4.0%",
+          "result": "miss",
+          "actual": "分支口徑 4.53%（昨日 4.59%，−0.06pt）；合併口徑 7.05%（昨日 7.13%）。方向單向下行但未達門檻。"
+        }
+      ],
+      "note": "今日快照較昨日 +4 場錦標賽／+190 玩家／+460 對局（37,509 → 37,969），前 50 名名單零變動，連續第三日靜止期。A 項在合併口徑下命中。"
+    },
+    "reflection": null
+  },
+  {
+    "id": "PRED_20261024",
+    "date": "2026-10-24",
+    "set": "B4a",
+    "source": "Limitless TCG B4a live fetch (202 tournaments, 14,644 players, 37,969 matches) + 16-deck matchup matrix re-parsed + combine=1",
+    "environment_summary": "B4a Day 117，連續第三日環境靜止期（+460 對局）。前 50 名零變動。分支口徑：電系（含好壞電龍）10.34%／群加權 51.04%；水系 7.02%／51.25%；七夕青鳥系 13.02%／50.78%；暗/超能 17.75%／50.37%；格鬥/火 16.64%／49.42%；路卡利歐 7.83%／49.05%；火箭隊系 4.53%／45.43%。合併口徑：電系合計 11.32%／50.70%（正式突破 11%）、自爆磁怪系 3.34%／52.13% 為效率王、七夕青鳥 13.55%／50.45%、路卡利歐 8.95%／48.68%、火箭隊系 7.05%／42.26%。唯一上升點：巨牙鯊系 1.35%／51.86%（AWR +0.37）。RPS 三角完整：七夕青鳥 → 路卡利歐 69.7% → 蜂女王 67.5% → 七夕青鳥 58.4%。蜂女王三方剋星：自爆磁怪 72.7%、好壞電龍 68.9%、火焰雞 74.2%。新結構：電系對火系壓制擴大（好壞電龍 → 噴火龍Y 71.4%，+9.9pt）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "電系雙雄合計份額突破 6.0%",
+        "probability": 0.4,
+        "description": "自爆磁怪 3.11% + 好壞電龍 2.37% = 5.48%，兩者皆站上 52%。低曝光逆轉若正式轉為主流，合計將破 6%。但需觀察是否在破 11% 後回檔修正。"
+      },
+      {
+        "scenario": "B",
+        "name": "火焰雞系 AWR 跌破 50.5%",
+        "probability": 0.35,
+        "description": "今日 51.10%，被七夕青鳥 70.6%、好壞電龍 68.9%、自爆磁怪 63.3% 三方圍毆，修正壓力大；火焰雞同時輸胡帕 40.7%。"
+      },
+      {
+        "scenario": "C",
+        "name": "蜂女王系使用率跌破 4.0%",
+        "probability": 0.25,
+        "description": "4.33%，三方剋星同時存在（自爆磁怪 72.7%、好壞電龍 68.9%、火焰雞 74.2%），份額可能外流至電系與火系。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "low",
+    "check_date": "2026-10-26",
+    "verification": {
+      "date": "2026-10-25",
+      "result": "all_miss",
+      "actual": "情境A：電系雙雄合計 5.49%（自爆磁怪 3.12% + 好壞電龍 2.37%），未突破 6.0%（昨日 5.48%，幾乎零變動）。情境B：火焰雞系分支 AWR 51.06%（昨 51.10%），未跌破 50.5%。情境C：蜂女王系份額 4.32%（昨 4.33%），未跌破 4.0%。",
+      "lesson": "連續第四日環境靜止期（+1 錦標賽／+66 玩家／+188 對局），前 50 名名單零變動，任何「位移型」預測（份額突破/跌破、排名變動）在此類日子必然落空。已改用結構軸：①單體 AWR 相對排序；②對位樞紐；③低曝光牌組的 AWR 方向。"
+    },
+    "reflection": "靜止期內三個情境全數落空，證明『份額位移』型預測在資料凍結時無資訊量。已於本日改用結構軸預測。"
+  },
+  {
+    "id": "PRED_20261025",
+    "date": "2026-10-25",
+    "set": "B4a",
+    "source": "Limitless TCG B4a live fetch (203 tournaments, 14,710 players, 38,157 matches) + 16-deck matchup matrix re-parsed + combine=1",
+    "environment_summary": "B4a Day 118，連續第四日環境靜止期（+188 對局，四天來最小增量）。前 50 名零變動，全表 914 條分支無新增無消失。分支口徑：電系（含好壞電龍）10.35%／51.04%；水系 7.01%／51.22%；七夕青鳥系 13.03%／50.75%；暗/超能 17.79%／50.33%；路卡利歐 7.82%／49.07%；火箭隊系 4.51%／45.43%。合併口徑：電系合計 11.33%／50.70%、自爆磁怪系 3.34%／52.02% 為效率王、好壞電龍 2.71%／51.43%、七夕青鳥 13.54%／50.42%、胡帕 4.47%／51.14%、路卡利歐 8.95%／48.69%、火箭隊系 7.04%／42.26%、烈咬陸鯊 2.09%／41.57%。RPS 三角凍結（誤差 ≤0.3pt）：七夕青鳥 → 路卡利歐 69.7% → 蜂女王 67.5% → 七夕青鳥 58.4%。新結構亮點：胡帕 ex 超級阿勃梭魯 ex 以 6.31% 份額同時壓七夕青鳥 67.1%／哈克龍 65.7%／蜂女王 73.9%／好壞電龍 68.8%，是唯一「低份額四線全開」的反制核心。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "靜止期結束，新批次帶動份額位移",
+        "probability": 0.35,
+        "description": "10/26 起 Limitless 若恢復每日 400+ 對局增量，火箭隊系（合併 7.04%／42.26%）與烈咬陸鯊系（2.09%／41.57%）合計 9.10% 的低效率池應出現首次明顯退坑，份額外流至電系與水系。"
+      },
+      {
+        "scenario": "B",
+        "name": "胡帕系份額因對位價值而擴張",
+        "probability": 0.35,
+        "description": "胡帕 ex 超級阿勃梭魯 ex 目前以 6.31% 份額握有四個剋星位置（七夕青鳥 67.1%／哈克龍 65.7%／蜂女王 73.9%／好壞電龍 68.8%），若使用率擴張至 7.5% 以上且 AWR 守住 51%，將成為 B4a 末期的最大黑馬。"
+      },
+      {
+        "scenario": "C",
+        "name": "電系雙雄份額正式突破 6.0%",
+        "probability": 0.3,
+        "description": "自爆磁怪 3.12% + 好壞電龍 2.37% = 5.49%，合併 AWR 52.13%（全環境最高）。若擴張至 6.0% 以上，電系將正式取代七夕青鳥成為環境第一族群。"
+      }
+    ],
+    "most_likely": "B",
+    "confidence": "low",
+    "check_date": "2026-10-26",
+    "verification": {
+      "date": "2026-10-26",
+      "result": "partial_miss",
+      "actual": "靜止期第五日。火箭隊系合併 7.02%→6.96%（未退坑）、胡帕系合併 4.47%→4.50%（未擴張）、電系雙雄分支 5.52%→5.56%（未破 6.0%）。今日唯一實質變化：自爆磁怪對蜂女王 72.7%→73.7%；三頭龍系份額上升但 AWR 僅 50.14%；胡帕兩個子分支 AWR 同步下滑。",
+      "lesson": "靜止期份額門檻型預測連續第三次全滅。靜止期可用的資訊只有三軸：①單體 AWR 相對排序波動 ②對位樞紐轉移 ③低曝光牌組 AWR 方向。未來靜止期一律改用「份額+AWR 雙條件」判定線。"
+    },
+    "reflection": "三情境全滅，確認靜止期份額門檻型預測不可用。改採雙條件判定線 + 對位結構交叉驗證。"
+  },
+  {
+    "id": "PRED_20261026",
+    "date": "2026-10-26",
+    "set": "B4a",
+    "source": "Limitless TCG B4a live fetch (206 tournaments, 14,846 players, 38,496 matches) + 16-deck matchup matrix re-parsed + combine=1",
+    "environment_summary": "B4a Day 119，連續第五日環境靜止期（+339 對局，增量自 +188 回升但仍低於常態）。916 條分支、226 條合併紀錄，前 50 名零實質變動。分支口徑：電系（含好壞電龍）10.43%／51.09%、水系 6.99%／51.16%、七夕青鳥系 13.01%／50.78%、暗/超能 18.14%／50.33%、路卡利歐 7.85%／49.13%、火箭隊系 4.49%／45.40%。合併口徑：電系合計 11.40%／50.74%、電系雙雄（磁怪＋好壞電龍）7.40%／51.21%、七夕青鳥 13.55%／50.44%、胡帕 4.50%／51.03%、蜂女王 4.42%／50.91%、三頭龍 3.48%／50.00%、火箭隊系 6.96%／42.24%、拉達 2.27%／37.23%、烈咬陸鯊 1.42%／40.54%。RPS 三角第五日凍結（誤差 ≤0.5pt）：七夕青鳥 → 路卡利歐 69.2% → 蜂女王 67.7% → 七夕青鳥 58.2%。結構亮點：自爆磁怪與好壞電龍今日 AWR 完全同分 52.19%，是唯一份額與 AWR 雙升族群；三頭龍系份額上升但 AWR 跌至 50.14%（純跟風）；胡帕四線剋星位全數不動但其子分支 AWR 同步下滑。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "電系雙雄守穩 + 三頭龍純跟風",
+        "probability": 0.35,
+        "description": "合併口徑電系雙雄（磁怪＋好壞電龍）維持 7.4% 以上且 AWR 守住 51.0%；三頭龍系份額續航至分支 3.2%／合併 3.6% 以上，但 AWR 跌破 50.0%／49.8%，形成「份額漲、強度跌」的純跟風樣本。"
+      },
+      {
+        "scenario": "B",
+        "name": "胡帕系份額擴張確認黑馬",
+        "probability": 0.35,
+        "description": "胡帕 ex 超級阿勃梭魯 ex 以合併 4.50%、AWR 守住 51.0%、四線剋星位（七夕青鳥 67.3%／哈克龍 65.7%／蜂女王 73.3%／好壞電龍 68.8）不動的前提下，合併份額擴張至 5.0% 以上，確認為 B4a 末期最大黑馬。"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系首次退坑",
+        "probability": 0.3,
+        "description": "對局增量若續增至 400+／日，合併 6.96%／42.24% 的火箭隊系池（含拉達 2.27%／37.23%）出現首次明顯份額外流，合併份額跌破 6.5%，資金流向電系與水系。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "low",
+    "check_date": "2026-10-28",
+    "verification": {
+      "date": "2026-10-27",
+      "result": "partial_hit",
+      "actual": "情境A部分命中：合併電系雙雄 7.40%→7.52%、AWR 51.21%→51.16%，守住 7.4% 與 51.0% 雙條件 ✅；但三頭龍系合併 AWR 未跌破 50%（反而回升至 50.17%），「純跟風」預期失敗 ❌。情境B未命中：胡帕合併 4.50%→4.55%，未達 5.0%。情境C未命中：火箭隊系合併 6.96%→6.91%，未跌破 6.5%。",
+      "lesson": "靜止期第六日，份額門檻型預測仍高估擴張速度（胡帕、火箭隊兩項皆失敗）。但『份額+AWR 雙條件』的守住型判定線有效（電系雙雄命中）。三頭龍的純跟風判斷被今日 +1.76pt 的分支 AWR 反轉推翻，顯示靜止期內低曝光分支的 AWR 仍可能出現真實反轉，需以子分支層級監測而非只看族群合併值。"
+    },
+    "reflection": "A 部分命中（守住型條件有效、跟風判斷失敗）；B/C 落空。靜止期已進入第 6 日，份額門檻型預測連續第 4 次失敗，僅雙條件守住型可用。"
+  },
+  {
+    "id": "PRED_20261027",
+    "date": "2026-10-27",
+    "set": "B4a",
+    "source": "Limitless TCG B4a live fetch (209 tournaments, 14,964 players, 38,800 matches) + 16-deck matchup matrix re-parsed + combine=1",
+    "environment_summary": "B4a Day 120，連續第六日環境靜止期（+304 對局，低於昨日 +339）。918 條分支、226 條合併紀錄，前 50 名零進零出、零新牌進榜，群組份額位移全部 ≤0.12pt。分支口徑：電系（含好壞電龍）10.55%／51.07%、水系 6.96%／51.19%、七夕青鳥系 13.02%／50.75%、暗/超能 18.20%／50.32%、路卡利歐 7.85%／49.04%、火箭隊系 4.45%／45.40%。合併口徑：電系雙雄 7.52%／51.16%、七夕青鳥 13.55%／50.41%、路卡利歐 8.98%／48.64%、胡帕 4.55%／50.97%、蜂女王 4.40%／50.88%、三頭龍 3.52%／50.17%、水君 4.87%／50.65%、火箭隊系 6.91%／42.24%、拉達 2.25%／37.23%、烈咬陸鯊 1.41%／40.54%。RPS 三角第六日凍結（誤差 ≤0.2pt）：七夕青鳥 → 路卡利歐 69.3% → 蜂女王 67.9% → 七夕青鳥 58.3%。結構亮點：三頭龍『超級黑魔導 ex』分支 AWR +1.76pt（49.64→51.40）、份額 +0.04pt、排名 47→41，是今日唯一顯著變化；胡帕四線剋星位仍全開但邊緣微幅鬆動；好壞電龍對自爆磁怪 27.6%／68.4% 互剋未變；火箭隊系連續第六日不退坑。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "靜止期延續下的雙雄守穩",
+        "probability": 0.4,
+        "description": "合併口徑電系雙雄（磁怪＋好壞電龍）維持 7.5% 以上且 AWR 守住 51.0%；胡帕系維持合併 4.5～4.8%、AWR 守住 50.5% 以上，四線剋星位（七夕青鳥 66.8%／哈克龍 66.4%／蜂女王 72.0%／好壞電龍 67.0）不動。"
+      },
+      {
+        "scenario": "B",
+        "name": "三頭龍系強度確認",
+        "probability": 0.3,
+        "description": "三頭龍系合併份額升至 3.6% 以上且 AWR 站上 50.5%，由純跟風轉為實質上升族群；『超級黑魔導 ex』分支維持 51% 以上 AWR 且份額續航。"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系終於退坑",
+        "probability": 0.3,
+        "description": "對局增量回到 400+／日後，合併 6.91%／42.24% 的火箭隊系池出現首次明顯份額外流，合併份額跌破 6.5%，資金流向電系與三頭龍。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "low",
+    "check_date": "2026-10-29",
+    "verification": {
+      "date": "2026-10-28",
+      "result": "partial_hit",
+      "actual": "情境A命中：合併電系雙雄 7.52%→7.54%、AWR 51.16%→51.15%，守住 7.5% 與 51.0% 雙條件；胡帕合併 4.55%→4.58%、AWR 50.97%→50.92%，四線剋星位（七夕青鳥 66.9／哈克龍 66.4／蜂女王 71.6／好壞電龍 67.4）全數不破。情境B失敗且方向相反：三頭龍系合併 AWR 50.17%→50.14%，且「超級黑魔導 ex」昨日 +1.76pt 今日 −0.50pt 全數回吐（51.40→50.90，N=309）。情境C未命中：火箭隊系合併 6.91%→6.90%，連續第七日不退坑。",
+      "lesson": "靜止期內單日大幅 AWR 波動（N≈296）為小樣本噪音，非真實反轉。今日證實昨日「低曝光分支真實反轉」的推論方向錯誤。修正判準：靜止期內分支 AWR 波動需 N≥1500、連續 2 日同方向、且族群合併值同方向確認，三者全符才可視為真實反轉；否則一律視為噪音。份額門檻型預測已連續第 5 次失敗，守住型雙條件仍為唯一有效形式。"
+    },
+    "reflection": "A 命中（守住型雙條件有效）、B 方向相反失敗、C 未命中。關鍵新教訓：靜止期小樣本分支的單日跳升會隔日完全回吐，不能解讀為強度反轉。"
+  },
+  {
+    "id": "PRED_20261028",
+    "date": "2026-10-28",
+    "set": "B4a",
+    "source": "Limitless TCG B4a live fetch (210 tournaments, 15,008 players, 38,924 matches) + 16-deck matchup matrix re-parsed + combine=1",
+    "environment_summary": "B4a Day 121，連續第七日環境靜止期，且為本輪最小增量（+124 對局，前日 +304、再前 +339）。920 條分支、227 條合併紀錄，前 50 名零進零出，僅 1 筆 N=5 雜訊進榜（Malamar），所有牌組份額變動 ≤0.02pt、AWR 變動 ≥0.1pt 者不足 10 筆。分支口徑：電系（含好壞電龍）10.57%／51.04%、水系 6.96%／51.15%、七夕青鳥系 13.00%／50.79%、暗/超能 18.24%／50.30%、路卡利歐 7.86%／49.05%、火箭隊系 4.44%／45.37%、草/蟲系 7.92%／50.08%、龍/地面 9.02%／50.07%。合併口徑：電系雙雄（磁怪＋好壞電龍）7.54%／51.15%、七夕青鳥 13.53%／50.45%、路卡利歐 8.98%／48.65%、胡帕 4.58%／50.92%、蜂女王 4.39%／50.89%、水君 4.86%／50.64%、三頭龍 3.54%／50.14%、自爆磁怪 3.44%／51.95%、好壞電龍 2.81%／51.51%、火箭隊系 6.90%／42.20%、拉達 2.25%／37.20%、烈咬陸鯊 2.08%／41.50%。RPS 三角第七日凍結（誤差 ≤0.2pt）：七夕青鳥 → 路卡利歐 69.5% → 蜂女王 67.9% → 七夕青鳥 58.1%。結構亮點：昨日「三頭龍 超級黑魔導 ex +1.76pt」今日 −0.50pt 全數回吐，證實為小樣本噪音；胡帕四線剋星位全數不破（66.9／66.4／71.6／67.4），但蜂女王線連三日遞減；火箭隊系＋烈咬陸鯊合併 8.98%／42.02% 連續第七日不退坑。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "雙雄守穩＋胡帕四線不破",
+        "probability": 0.45,
+        "description": "合併口徑電系雙雄（磁怪＋好壞電龍）維持 7.5% 以上且 AWR 守住 51.0%；胡帕系維持合併 4.5～4.8%、AWR 守住 50.5% 以上，四線剋星位（七夕青鳥 ≥65%、哈克龍 ≥65%、蜂女王 ≥70%、好壞電龍 ≥65%）不破。"
+      },
+      {
+        "scenario": "B",
+        "name": "三頭龍系真實回落",
+        "probability": 0.3,
+        "description": "三頭龍系合併份額維持 3.5% 附近但 AWR 跌回 50.0% 以下（受「超級黑魔導 ex」回吐拖累），確認昨日 +1.76pt 為噪音，族群定位回到「份額跟風、強度平庸」。"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系終於退坑",
+        "probability": 0.25,
+        "description": "對局增量若回到 400+／日，合併 6.90%／42.20% 的火箭隊系池出現首次明顯份額外流，合併份額跌破 6.5%，資金流向電系與水系。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "low",
+    "check_date": "2026-10-30",
+    "verification": {
+      "date": "2026-10-29",
+      "result": "partial_hit",
+      "actual": "情境A命中：合併電系雙雄 7.54%→7.57%、AWR 51.15%→51.14%，守住 7.5% 與 51.0% 雙條件；胡帕合併 4.58%→4.54%、AWR 50.92%→50.92%，四線剋星位（七夕青鳥 66.9／哈克龍 66.4／蜂女王 71.6／好壞電龍 67.4）全數不破。情境B未命中：三頭龍系合併 AWR 50.14%→50.16%，未跌回 50.0% 以下。情境C未命中：火箭隊系合併 6.90%→6.86%，連續第八日不退坑。",
+      "lesson": "守住型雙條件連續第 2 日有效；份額門檻型（B/C）連續第 6 次失敗。**但今日出現環境級事件：C1『Dual Fusion』擴充包於 2026-10-29 正式發售（217 張卡），Limitless 已開始出現 c1 分支紀錄（13 條分支、185 場對局、佔全環境 0.47%）**——這是 B4a 靜止期終結的真正起點，靜止期內的預測框架（守住型雙條件）需在換包後重新評估。"
+    },
+    "reflection": "A 命中、B/C 未命中。但今日最重要的不是預測結果，而是 C1 擴充包發售帶來的新變數：環境即將進入「C1 首週」階段，賽事資料會從 B4a 靜止轉為爆發式增量，舊的份額門檻型預測方法在增量恢復後反而重新可用（因為門檻需要的是份額位移）。新判準：C1 首週應觀察『新卡份額爬坡速度』而非『族群 AWR 波動』。"
+  },
+  {
+    "id": "PRED_20261029",
+    "date": "2026-10-29",
+    "set": "C1",
+    "source": "Limitless TCG B4a Standard live fetch (212 tournaments, 15,148 players, 39,258 matches) + 16-deck matchup matrix re-parsed + combine=1 + C1「Dual Fusion」card list (217 cards)",
+    "environment_summary": "C1「Dual Fusion」擴充包於 2026-10-29 正式發售（217 張卡，兩補充包：Mega Mewtwo X pack / Pikachu pack）。規則變更：C1 所有 Mega ex 採新版 Mega Evolution ex 規則，被 KO 時對手得 3 點。核心新卡：超級甲賀忍蛙 ex（200HP 水/黑暗 Stage 2，100 傷 + 封鎖對手下回合撤退）、超級超夢 X ex（180HP 超能/格鬥 Basic，場地 +40）、夢幻 ex（130HP 能量加速）、皮卡丘 ex（120HP 電）、超級快龍 ex（240HP 隨機 250 傷）、騎拉帝納 ex（150HP 無弱點）、超級暴龍王 ex（240HP 黑暗 180 傷 + 棄牌庫頂 2）、岩石犬 ex（150HP 反打 30）、阿羅拉椰蛋樹 ex（180HP）、火爆獸 ex（180HP 能量破壞）。Limitless 已收錄 13 條 c1 分支 / 185 場對局 / 佔全環境 0.47%。B4a 環境在資料上仍為第八日靜止期（+334 對局，前 50 名零變動，份額變動 ≤0.09pt）。既有 meta（合併口徑）：電系雙雄 7.57%／51.14%、七夕青鳥 13.46%／50.44%、路卡利歐 8.92%／48.61%、胡帕 4.54%／50.92%、蜂女王 4.36%／50.88%、三頭龍 3.52%／50.16%、火箭隊系 6.86%／42.16%、拉達 2.23%／37.20%、烈咬陸鯊 2.08%／41.55%。RPS 三角第八日凍結：七夕青鳥 → 路卡利歐 69.5% → 蜂女王 67.9% → 七夕青鳥 58.1%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "C1 首週爆發式增量，meta 榜換血",
+        "probability": 0.45,
+        "description": "對局增量回到 800+／日，C1 條目進入分支前 50（估計 3～6 個新分支），C1 合計份額 ≥1.5%；B4a 時代三強（七夕青鳥 13.46%／路卡利歐 8.92%／電系 12.62%）合計份額下滑 3～8%，但各自 AWR 變動 ≤0.5pt。"
+      },
+      {
+        "scenario": "B",
+        "name": "C1 增量不如預期，B4a 靜止延續",
+        "probability": 0.3,
+        "description": "對局增量維持 300～500／日，C1 分支停留在 10～20 條、合計份額 <1.5%，環境實際換血延後至 C1 發售後第二週；B4a 前 50 名維持零變動。"
+      },
+      {
+        "scenario": "C",
+        "name": "火箭隊系強制退坑確認",
+        "probability": 0.25,
+        "description": "C1 不含 Team Rocket 主題卡，新賽事中火箭隊系合併份額從 6.86% 明確跌破 6.0%、拉達系跌破 2.0%、烈咬陸鯊跌破 1.8%，資金流向 C1 新卡與電系。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "low",
+    "check_date": "2026-10-31",
+    "verification": {
+      "check_date": "2026-10-31",
+      "result": "partial_hit",
+      "actual": "情境A部分命中：C1 確實爆發式換血——Standard 頁面已切至 C1，C1 環境 7 錦標賽/497 玩家/1,281 對局；C1 新卡分支佔 Standard 榜單 59.96% 份額；但「B4a 時代三強合計份額下滑 3~8%」無法用單一頁面驗證（C1 榜單是新頁面，B4a 頁面凍結）。各分支 AWR 波動 ≤0.5pt 的部分大致成立（今日各主流分支變動皆 <1pt）。情境B未命中：對局增量僅 +87（C1 由 1,194 → 1,281），並非「爆發式 800+」，B4a 前 50 名在 B4a 頁面仍零變動但那是凍結而非延續。情境C命中：C1 環境僅殘留 Team Rockets Slowking ex 0.80%/39.47%，Weezing 與 Raticate 分支已完全蒸發，火箭隊系強制退坑確認。",
+      "lesson": "版本事件軸驗證有效：換包首週的可用訊號是「新包分支份額爬坡速度」與「舊版本專屬卡是否蒸發」，而非舊環境的族群 AWR 波動。靜止期 vs 換包期必須用不同的資料頁（B4a 頁面凍結、C1 頁面新生），不可混用。"
+    },
+    "reflection": "A 部分命中、B 未命中（增量不如預期，僅 +87 場）、C 命中（火箭隊系退坑）。新教訓：①換包首週的對局增量取決於「有多少場比賽在換包後舉行」，而非賽事總量激增，因此首週資料必然稀薄，預測門檻必須下修；②換包後必須同時維護兩個 set 的頁面（B4a 凍結頁 + C1 新頁），並明確標註口徑是「哪一頁」；③C1 的 Mega ex 3 點 KO 規則已在資料中可見效果（200HP 的超級甲賀忍蛙份額第一但 AWR 落後大盤）。"
+  },
+  {
+    "id": "PRED_20261031",
+    "date": "2026-10-31",
+    "set": "C1",
+    "source": "Limitless TCG C1 Standard live fetch (7 tournaments, 497 players, 1,281 matches) + 22-deck matchup matrix re-parsed + combine=1",
+    "environment_summary": "C1「Dual Fusion」首週。Limitless Standard 頁面已切換至 C1 環境（B4a 頁面凍結於 210 錦標賽/38,924 對局）。C1 分支 118 條 / 合併 69 條。合併份額：超級甲賀忍蛙 ex 17.91%／48.41%（環境第一，人氣王非效率王）、超級噴火龍 Y 10.87%／49.84%、皮卡丘 ex 7.24%／43.33%（最大陷阱）、忍蛙 ex 4.63%／53.29%、密樂頓 ex 3.62%／55.81%、月亮伊布 3.42%／50.79%、超級超夢 X ex 3.22%／45.45%、超級七夕青鳥 3.22%／45.00%、騎拉帝納 ex 3.02%／53.10%、超級快龍 ex 3.02%／42.00%、阿羅拉椰蛋樹 ex 2.82%／53.64%、超級雷電獸 ex 2.41%／56.86%。族群：水/忍蛙 22.94%／49.29%、電系 20.72%／47.33%、龍/惡 14.49%／51.33%、火系 12.07%／49.28%。忍蛙核心三分支分化（純忍蛙 45.31% / 水君版 51.65% / 反制版 52.80%）。新對位樞紐：密樂頓 ex 對甲賀忍蛙水君版 83.3%、對忍蛙版 66.7%。火箭隊系退坑確認（C1 僅殘留慢朝 ex 0.80%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "超級甲賀忍蛙 ex 的水君分支擴張且守住 51%",
+        "probability": 0.35,
+        "description": "水君版 8.01%／51.65% 已是同核心唯一正期望值分支。若 C1 第二週其合併份額升至 12%+ 且 AWR 守住 51.0%，則「忍蛙系」正式以水君版為代表，純忍蛙版（45.31%）份額會被擠壓至 3% 以下。判定線：合併水君版份額 ≥12% 且 AWR ≥51.0% 雙條件。"
+      },
+      {
+        "scenario": "B",
+        "name": "超級雷電獸 ex / 密樂頓 ex 擴張為效率主力",
+        "probability": 0.35,
+        "description": "超級雷電獸 2.41%／56.86% 與密樂頓 3.62%／55.81% 為 C1 目前 AWR 最高兩支。若任一份額擴張至 6%+ 且 AWR 守住 54%，將取代忍蛙成為新環境的效率核心；此路徑的歷史係數為 2-3 倍時間（見 08-26 教訓），故以「第二週」為檢查點。"
+      },
+      {
+        "scenario": "C",
+        "name": "超級甲賀忍蛙 ex 整體 AWR 跌破 47%，人氣王崩解",
+        "probability": 0.3,
+        "description": "若 3 點 KO 規則持續抵銷高 HP 容錯優勢，加上皮卡丘／超級快龍／超級超夢 X 對忍蛙系對位仍待驗證，超級甲賀忍蛙 ex 合併 AWR 可能從 48.41% 下滑，份額開始外流。判定線：合併 AWR <47.0% 或份額自 17.91% 跌至 14% 以下。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "low",
+    "check_date": "2026-11-02",
+    "verification": {
+      "check_date": "2026-10-31 晚間（內檢）",
+      "result": "partial_hit",
+      "actual": "情境A未命中：忍蛙系水君分支 8.01%→6.39%、AWR 51.65%→48.55%，雙條件皆失敗。情境B未命中：超級雷電獸 ex 2.41%→2.49%（AWR 55.77%）、密樂頓 ex 3.62%→3.55%（AWR 53.48%），均未達 6%+。情境C命中：超級甲賀忍蛙 ex 合併 AWR 48.41%→45.81%（<47.0%），份額 17.91%→15.98%。",
+      "lesson": "「崩解型／守住型」判定線在換包期有效，「份額擴張門檻型」連續失敗。"
+    },
+    "reflection": null,
+    "interim_check": {
+      "date": "2026-10-31",
+      "note": "同日 20:05 二次抓取（+1,025 對局）內檢，非正式驗收（正式檢查日 2026-11-02）",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "忍蛙系水君分支擴張且守住 51%",
+          "result": "miss",
+          "actual": "水君分支 8.01%→6.39%、AWR 51.65%→48.55%，份額與 AWR 雙失敗"
+        },
+        {
+          "scenario": "B",
+          "predicted": "雷電獸／密樂頓擴張至 6%+ 且 AWR 守住 54%",
+          "result": "miss",
+          "actual": "雷電獸 2.41%→2.49%（AWR 55.77%）、密樂頓 3.62%→3.55%（AWR 53.48%），份額遠未達門檻"
+        },
+        {
+          "scenario": "C",
+          "predicted": "超級甲賀忍蛙 ex 合併 AWR 跌破 47% 且份額外流",
+          "result": "hit",
+          "actual": "合併 AWR 48.41%→45.81%（<47.0%），份額 17.91%→15.98%（−1.93pt）"
+        }
+      ],
+      "score": "1/3 命中，但命中的是最關鍵的情境C（人氣王崩解速度遠超預期）"
+    }
+  },
+  {
+    "id": "PRED_20261031E",
+    "date": "2026-10-31",
+    "session": "晚間 20:05（C1 第二日）",
+    "set": "C1 Day 3",
+    "source": "Limitless TCG Standard/C1 page + 26 張牌組對位矩陣，抓取 2026-10-31 20:05 (UTC+8)，C1 10 錦標賽／845 玩家／2,306 對局",
+    "environment_summary": "C1 換包第二日，靜止期結束。超級甲賀忍蛙 ex 合併 15.98%／45.81%（人氣王開始崩解）；超級噴火龍 Y ex 12.54%／50.08%；月亮伊布 6.51%／53.40%（14 小時 +3.09pt，今日最大黑馬）；騎拉帝納 ex 3.55%／56.25%（AWR 冠軍，對忍蛙系全線剋星）；皮卡丘 ex 6.04%／45.70%（最大陷阱）。忍蛙系三分支同步失血（水君版 AWR −3.10pt、甲賀忍蛙版 −3.96pt、純忍蛙版 −4.74pt）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "月亮伊布系續航擴張成新王",
+        "probability": 0.4,
+        "description": "月亮伊布合併份額由 6.51% 升至 8.5%+ 且 AWR 守住 52.0%（三頭龍版 4.85%／53.52%、超級阿勃梭魯 ex 版 1.18%／52.58%）。它靠壓噴火龍 Y 66.7%、壓雷電獸 63.6% 吃到反制紅利，屬於「環境權力轉移最快的牌」。判定線：合併份額 ≥8.5% 且 AWR ≥52.0%。"
+      },
+      {
+        "scenario": "B",
+        "name": "忍蛙系崩壞加速",
+        "probability": 0.35,
+        "description": "超級甲賀忍蛙 ex 合併份額跌破 13.0% 且 AWR 跌破 44.0%（今日 15.98%／45.81%）。根因是三方圍剿（電系 76.5～80%、騎拉帝納 78.9～100%、月亮伊布 40～47.4%）與 3 點 KO 規則抵銷高 HP 容錯。判定線：合併份額 <13.0% 且 AWR <44.0%（雙條件）。"
+      },
+      {
+        "scenario": "C",
+        "name": "騎拉帝納系擴張＋電系吃退坑資金",
+        "probability": 0.25,
+        "description": "騎拉帝納 ex 合併份額由 3.55% 升至 5.0%+ 且 AWR 守住 55.0%（今日 56.25%）；同時電系（密勒頓 3.55%＋自爆磁怪 1.78%＋超級雷電獸 2.49%＝7.82%）因忍蛙系退坑而擴張突破 12%。兩者擇一達標即算命中。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "low-medium",
+    "check_date": "2026-11-02",
+    "verification": {
+      "check_date": "2026-11-01",
+      "result": "partial_hit",
+      "actual": "情境A命中：月亮伊布系合併份額 6.51%→10.90%、AWR 53.17%（≥8.5% 且 ≥52.0% 雙條件達成），已超越門檻。情境B未命中：忍蛙系 13.32%／45.54%，差 0.32pt／1.54pt，雙條件皆未達成（AWR 僅跌 0.27pt，昨跌 2.60pt）。情境C未命中：騎拉帝納 4.84%／52.51%（差 0.16pt／2.49pt）；電系方向完全相反，從 17.99% 縮到 14.62%。",
+      "lesson": "三情境一命中且命中最大機率情境。份額門檻型在 C1 換包期仍脆弱（B 只差 0.32pt），守住型／方向型判定線較可靠。退坑資金並非流向電系，而是龍／惡系（+4.29pt）與超能系（+3.18pt）——預測資金流向時必須先看族群 AWR 差異，不能假設「被壓制的族群會反彈」。"
+    },
+    "reflection": null
+  },
+  {
+    "id": "PRED_20261101",
+    "date": "2026-11-01",
+    "set": "C1 Day 3",
+    "source": "Limitless TCG Live 2026-11-01 20:05 (UTC+8), C1 Standard 15 錦標賽／1,156 玩家／3,031 對局, 205 分支／96 合併",
+    "environment_summary": "C1 第三日。超級甲賀忍蛙 ex 13.32%／45.54%（份額四連降但 AWR 只跌 0.27pt，崩解集中在份額非強度）。月亮伊布 9.69%／53.20%（份額 +3.18pt，全環境唯一份額與 AWR 雙高，三分支全在大盤之上）。騎拉帝納 ex 4.84%／52.51%（份額 +1.29pt、AWR −3.74pt，被月亮伊布超級勾魂眼壓 42.9%）。胡帕 ex 2.25%／54.32%（份額 +1.18pt、AWR +7.44pt，低位黑馬）。族群大洗牌：龍/惡系 14.91%→19.20%、超能系 7.81%→10.99%，水系 −3.19pt、電系 −3.37pt。新卡 AWR 落後舊卡 0.28pt（昨 0.70pt，快速收斂）。3 點 KO 規則效應持續（200HP 忍蛙份額第一 AWR 45.54%，240HP 快龍 43.65%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "月亮伊布系續航成環境核心",
+        "probability": 0.4,
+        "description": "月亮伊布系合併份額守住 10.0% 且 AWR 守住 52.0%（今日 10.90%／53.17%）。判定線設在今日值略下方，屬守住型而非擴張型——依 10-25 以來反覆驗證的結論，換包期擴張門檻幾乎必錯，守住型雙條件才有效。若成立，代表 C1 環境的權力結構已由『忍蛙系人氣王』正式轉為『月亮伊布系效率王』，且其壓制位階可持續對騎拉帝納形成反剋（今日 42.9%，N=28）。"
+      },
+      {
+        "scenario": "B",
+        "name": "忍蛙系加速崩解",
+        "probability": 0.35,
+        "description": "超級甲賀忍蛙 ex 合併份額跌破 12.0% 且 AWR 跌破 44.0%（今日 13.32%／45.54%）。注意今日份額已跌 2.65pt 但 AWR 只跌 0.27pt，崩解集中在份額而非強度——若只是份額外流而強度守住，此情境的雙條件仍不會成立。反向風險：若環境資金繼續流向超能／龍惡，三方圍剿的壓力會讓 AWR 開始跟跌，雙條件才會同時觸發。"
+      },
+      {
+        "scenario": "C",
+        "name": "龍／惡系擴張成新資金池，或電系續跌",
+        "probability": 0.25,
+        "description": "兩者擇一達標即算命中：(a) 龍／惡系族群合併份額 ≥21.0% 且族群 AWR ≥49.5%（今日 19.20%／49.44%，騎拉帝納＋七夕青鳥＋胡帕＋耿鬼四線同推）；或 (b) 電系族群合併份額跌破 13.0% 且族群 AWR 守住 48.0%（今日 14.62%／48.19%）。方向依據：今日退坑資金並未流向電系，而是龍／惡系與超能系。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium-low",
+    "check_date": "2026-11-03",
+    "verification": {
+      "check_date": "2026-11-02",
+      "result": "partial_hit",
+      "actual": "情境A未命中：月亮伊布系合併份額 9.69%→12.33%（守住 10.0% ✅）但 AWR 53.20%→50.78%，未守住 52.0%（差 1.22pt）——份額與強度正式分歧。情境B未命中：忍蛙系 13.32%/45.54% → 11.15%/44.94%，份額已跌破 12.0%（✅）但 AWR 差 0.94pt 未破 44.0%（❌）。情境C命中（分支 a）：龍／惡系族群合併份額 19.55%→21.93%（≥21.0% ✅）、族群 AWR 49.41%→50.86%（≥49.5% ✅），雙條件達成；分支 b（電系續跌）未成立：電系 15.05%→13.33%、AWR 47.72%→47.86%，份額尚未跌破 13.0%、AWR 也未守住 48.0%。",
+      "lesson": "1/3 命中，命中的是最大機率以外的情境C。兩條未命中情境的共同點是『雙條件中有一個差 0.9～1.2pt』——顯示門檻設定仍偏緊。核心反省：把『守住型』用在 AWR 上時，門檻必須設在當前值下方 1.5pt 以上才有意義（0.5pt 以內的差距在換包期屬噪音帶）；而 B 的『份額 <12%』條件已連續第二日接近成立（13.32→11.15），但 AWR 門檻（44.0%）連兩日擦邊未破——**連續兩日擦邊未破的門檻應下修或改為雙軌判定**，否則只是在重複記錄同一件事。\n另：情境C 的 a、b 兩分支是同一族群的兩種方向，應拆成兩條獨立情境，否則『擇一命中』會稀釋訊號。"
+    },
+    "reflection": "靜止期/換包期的門檻型預測必須遵守三條：①門檻距當前值至少 1.5pt；②同一族群不同方向不可併在同一情境；③連續兩日擦邊未破即視為門檻設定過緊，須主動下修並在反省中記錄。"
+  },
+  {
+    "id": "PRED_20261102",
+    "date": "2026-11-02",
+    "session": "晚間 20:05（C1 第五日）",
+    "set": "C1 Day 5",
+    "source": "Limitless TCG Live 2026-11-02 20:05 (UTC+8), C1 Standard 19 錦標賽／2,116 玩家／5,515 對局, 281 分支／121 合併；同一支 parser 重解析當日 raw，並重解析 11-01 raw 對齊基準；對位取自 18 張牌組 matchups 頁",
+    "environment_summary": "C1 第五日，增量爆發（+4 錦標賽／+960 玩家／+2,484 對局），資料量翻倍、環境開始定型。份額前三：月亮伊布 12.33%／50.78%（份額 +2.65pt、AWR −2.42pt）、超級甲賀忍蛙 ex 11.15%／44.94%（份額 −2.17pt）、超級噴火龍 Y ex 10.26%／50.91%（AWR +1.87pt）。AWR 前五（N≥100）：超級七夕青鳥 56.06%、胡帕 55.91%、三首惡龍 55.72%、水君 ex 54.75%、超級雷電獸 54.60%。族群：龍／惡系 21.93%／50.86%（份額 +2.38pt）、超能系 13.89%／50.60%（+2.64pt）、水系 22.12%／47.10%、電系 13.33%／47.86%。重大訊號：C1 新卡 AWR 47.15% vs 舊卡 50.04%，差距由昨 0.28pt 擴大到 2.89pt——新包整體開始拖後腿。3 點 KO 規則效應延續：240HP 超級快龍 ex AWR 40.70%、200HP 超級甲賀忍蛙 ex 44.94%，高 HP 不再是安全牌。對位樞紐轉移：胡帕系四線全開（壓水君 71.4%、騎拉帝納 72.7%、月亮伊布 72.7%、三首惡龍 62.5%）但被超級勾魂眼 10.0% 反壓；水君 ex 戟脊龍 壓噴火龍 Y 75.5%、壓忍蛙系 66.7～76.5%，但輸胡帕 21.4%。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "月亮伊布系「份額續航但強度續跌」定型",
+        "probability": 0.4,
+        "description": "合併口徑：份額守住 12.0%（今日 12.33%）且 AWR 跌破 50.0%（今日 50.78%）。邏輯：份額已連三升（6.51→9.69→12.33），AWR 連兩跌（53.40→53.20→50.78），「人氣王 = 環境靶心」的結構性代價正在兌現。若成立，代表 C1 環境的頂級份額與頂級強度已正式分離，後續推薦應以 AWR 前五為主軸而非份額前五。"
+      },
+      {
+        "scenario": "B",
+        "name": "忍蛙系加速崩壞",
+        "probability": 0.35,
+        "description": "合併口徑：份額跌破 10.0%（今日 11.15%）且 AWR 跌破 44.0%（今日 44.94%）。注意份額門檻已從 12.0% 下修到 10.0%（依 11-02 反省：連續兩日擦邊未破即下修門檻），AWR 門檻同步下修 1.0pt。反向風險：今日 AWR 僅跌 0.60pt，若對位方（超夢 X／水君）壓力減弱，忍蛙系可能停在 45% 附近成為『份額低但強度中上』的落魄貴族。"
+      },
+      {
+        "scenario": "C",
+        "name": "龍／惡系擴張成資金池，或新舊卡差距擴大",
+        "probability": 0.25,
+        "description": "兩條獨立分支擇一達標即命中：(a) 龍／惡系族群合併份額 ≥23.0% 且族群 AWR ≥51.0%（今日 21.93%／50.86%）；或 (b) C1 新舊卡 AWR 差距（不含新卡 − 含新卡）擴大到 ≥3.5pt（今日 2.89pt，昨 0.28pt）。依 11-01 反省，a、b 應拆成兩條獨立情境——本次因需湊足三情境而合併，但判定時兩分支分別記錄。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-11-04",
+    "verification": {
+      "date": "2026-11-04",
+      "check_date": "2026-11-04",
+      "source": "Limitless TCG Live 2026-11-04 20:05 (UTC+8), C1 Standard 24 錦標賽／2,932 玩家／8,111 對局, 331 分支／129 合併",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "月亮伊布系份額守住 12.0% 且 AWR 跌破 50.0%",
+          "result": "hit",
+          "actual": "份額 12.33%→12.31%（守住 ✅）、AWR 50.78%→49.43%（跌破 50.0% ✅），雙條件達成；AWR 四連跌已達 −1.35pt"
+        },
+        {
+          "scenario": "B",
+          "predicted": "忍蛙系份額跌破 10.0% 且 AWR 跌破 44.0%",
+          "result": "miss",
+          "actual": "份額 11.15%→10.57%（差 0.57pt）、AWR 44.94%→44.62%（差 0.62pt），雙條件皆未達；AWR 連三日停在 44.6%，門檻 44.0% 已成不可能觸及的目標"
+        },
+        {
+          "scenario": "C-a",
+          "predicted": "龍／惡系族群份額 ≥23.0% 且族群 AWR ≥51.0%",
+          "result": "miss",
+          "actual": "份額 23.29%（≥23.0% ✅）但族群 AWR 50.92%（<51.0%，差 0.08pt 擦邊未破；昨 51.08%）"
+        },
+        {
+          "scenario": "C-b",
+          "predicted": "C1 新舊卡 AWR 差距擴大到 ≥3.5pt",
+          "result": "miss",
+          "actual": "3.44pt→2.85pt，反向收斂 0.59pt"
+        }
+      ],
+      "score": "1/4 命中（僅 A）",
+      "conclusion": "守住型雙條件（A）第三次命中；擴張型／收斂型門檻再次全滅。門檻距離規則第三次被違反：情境 B 的份額門檻距離 1.15pt、AWR 門檻距離 0.94pt，皆超過當日實際波動幅度。"
+    },
+    "reflection": "PRED_20261102 正式驗收 1/4。唯一命中的 A 是「守住型」雙條件（份額守住 + AWR 跌破），再次證實守住型有效、擴張型無效。C-a 差 0.08pt 是本次最慘的擦邊——族群 AWR 從 51.08% 退到 50.92%，說明「族群 AWR ≥51.0%」這種只比當前值高 0.14pt 的門檻本身沒有鑑別力。C-b 反向收斂 0.59pt，是本日最重要的結構訊號（詳見 reflections.md）。",
+    "interim_check": {
+      "date": "2026-11-03",
+      "note": "同日 20:05 抓取（+1,619 對局）內檢，非正式驗收（正式檢查日 2026-11-04）",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "月亮伊布系份額守住 12.0% 且 AWR 跌破 50.0%",
+          "result": "hit",
+          "actual": "份額 12.33%→13.00%（守住 ✅）、AWR 50.78%→49.70%（跌破 50.0% ✅），雙條件達成"
+        },
+        {
+          "scenario": "B",
+          "predicted": "忍蛙系份額跌破 10.0% 且 AWR 跌破 44.0%",
+          "result": "miss",
+          "actual": "份額 11.15%→11.01%（差 1.01pt）、AWR 44.94%→44.58%（差 0.58pt），雙條件皆未達"
+        },
+        {
+          "scenario": "C-a",
+          "predicted": "龍／惡系族群份額 ≥23.0% 且族群 AWR ≥51.0%",
+          "result": "hit",
+          "actual": "21.93%→23.28%（≥23.0% ✅）、族群 AWR 50.86%→51.08%（≥51.0% ✅）"
+        },
+        {
+          "scenario": "C-b",
+          "predicted": "C1 新舊卡 AWR 差距擴大到 ≥3.5pt",
+          "result": "miss",
+          "actual": "2.89pt→3.44pt，差 0.06pt 擦邊未破（方向正確、幅度不足）"
+        }
+      ],
+      "score": "2/3 命中（A、C-a）；C-b 為方向對、幅度差 0.06pt 的擦邊未破"
+    }
+  },
+  {
+    "id": "PRED_20261103",
+    "date": "2026-11-03",
+    "session": "晚間 20:05（C1 第六日）",
+    "set": "C1 Day 6",
+    "source": "Limitless TCG Live 2026-11-03 20:05 (UTC+8), C1 Standard 22 錦標賽／2,607 玩家／7,134 對局, 312 分支／125 合併；同一支 parser 重解析 11-02 raw 對齊基準；對位取自 24 張牌組 matchups 頁",
+    "environment_summary": "C1 第六日，環境進入「份額固化、強度換人」階段。合併份額前三不動：月亮伊布 12.97%／49.72%（份額四連升 9.69→12.33→12.97，AWR 三連跌 53.20→50.78→49.72）、超級甲賀忍蛙 ex 11.01%／44.58%（份額停滯、強度續跌，前五唯一雙跌）、超級噴火龍 Y ex 10.97%／49.32%（份額 +0.72pt、AWR −1.59pt）。AWR 前五換人：胡帕 ex 56.50%（AWR 冠軍、三日 +2.18pt）、超級七夕青鳥 ex 55.72%、水君 ex 54.85%（份額三連升 2.68→3.88→4.99 且 AWR 守住 54%+，全環境唯一雙升主流族群）、三首惡龍 54.25%、超級雷電獸 ex 53.80%（份額三連升）。族群：龍／惡系 23.28%／51.08%（三日 19.55→21.93→23.28，唯一份額與強度雙升的族群）、水系 23.32%／47.55%、超能系 14.38%／49.78%、電系 13.16%／48.26%。C1 新卡 vs 舊卡 AWR 差距 0.28→2.89→3.44pt（三日連升）。3 點 KO 規則與 HP 負相關最乾淨（240HP 超級快龍 ex 39.27%、200HP 超級甲賀忍蛙 44.58% vs 140HP 水君 ex 54.85%、190HP 超級七夕青鳥 ex 55.72%）。對位樞紐：胡帕系四線全開（壓七夕青鳥 78.6%、騎拉帝納 75.0%、雷電獸 73.7%、水君 65.2%）但份額僅 3.53%；超級七夕青鳥壓月亮伊布 78.4%（反剋）；水君 ex 輸超級雷電獸僅 17.4%；超級甲賀忍蛙 ex 三面被圍（水君 18.9%、雷電獸 20.0%、騎拉帝納 26.5%）。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "月亮伊布的「人氣王＝靶心」效應加速兌現",
+        "probability": 0.35,
+        "description": "月亮伊布合併 AWR 跌破 47.5%（今日 49.70%，門檻距 2.20pt；守住型下行判定）。理由：份額四連升卻 AWR 三連跌，是全環境最典型的「被曝光即被針對」結構；它同時被超級七夕青鳥壓 78.4%、胡帕壓 71.4%、水君壓 67.2%，且 C1 版月亮伊布只有 90HP，在 3 點 KO 規則下沒有厚度優勢。若成立，代表 C1 的份額王座與強度王座正式分離，後續推薦應以 AWR 前五為主軸、份額前五只當「人氣指標」。"
+      },
+      {
+        "scenario": "B",
+        "name": "水君 ex 擴張成新的份額主力",
+        "probability": 0.35,
+        "description": "水君 ex 合併份額突破 6.0%（今日 4.99%，門檻距 1.01pt）。理由：份額已三連升且每日約 +1.1pt（2.68→3.88→4.99），AWR 同時守住 54.85%，是全環境唯一「份額升＋強度不跌」的主流族群；對位乾淨——壓噴火龍 Y 78.1%、壓忍蛙系 73.0%、壓月亮伊布 67.2%。反向風險：輸超級雷電獸 ex 僅 17.4%，只要電系持續擴張（族群份額 13.16%），水君的份額就會被壓住。"
+      },
+      {
+        "scenario": "C",
+        "name": "C1 新包整體失血擴大到 5pt 以上",
+        "probability": 0.3,
+        "description": "C1 新舊卡 AWR 差距（不含新卡 − 含新卡）擴大到 ≥5.0pt（今日 3.44pt，門檻距 1.56pt）。理由：差距三日連升 0.28→2.89→3.44pt，且含新卡份額已達 55.58%（過半）——新包吃份額卻不吃勝場；份額前五裡的超級甲賀忍蛙 ex、超級噴火龍 Y ex、超級超夢 X ex 全是低效新卡族群。若成立，代表 C1 擴充包本身就是環境拖累，舊卡（七夕青鳥、水君、騎拉帝納）會持續吸走資金。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium-low",
+    "check_date": "2026-11-05",
+    "verification": {
+      "date": "2026-11-05",
+      "check_date": "2026-11-05",
+      "source": "Limitless TCG Live 2026-11-05 20:05 (UTC+8), C1 Standard 28 錦標賽／3,529 玩家／9,827 對局, 371 分支／138 合併",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "月亮伊布合併 AWR 跌破 47.5%",
+          "result": "miss",
+          "actual": "49.41%（11-04 為 49.43%，僅 −0.02pt）；AWR 已連兩日近乎停滯，距門檻 1.91pt。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "水君 ex 合併份額突破 6.0%",
+          "result": "miss",
+          "actual": "5.87%（11-04 為 5.29%，距門檻 0.13pt）；份額續升但 AWR −0.74pt，擴張未帶來強度。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "C1 新舊卡 AWR 差距擴大到 ≥5.0pt",
+          "result": "miss",
+          "actual": "2.91pt（11-04 為 2.85pt，僅擴大 0.06pt）；距門檻 2.09pt。"
+        }
+      ],
+      "score": "0/3 命中",
+      "conclusion": "三條全滅。A 的下行動能已停、B 的份額動能不足且強度反向、C 的差距僅微幅擴大；舊式遠距門檻再次缺乏鑑別力。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+    },
+    "reflection": "正式驗證仍為 0/3。A 的門檻距離超出 AWR 實際波動帶；B 距門檻僅 0.13pt，屬追逐噪音；C 的差距雖反轉向上，但單日只擴大 0.06pt，遠不足以支撐 5pt 目標。後續只採用單條件、連續兩日同方向且距離落在指標帶內的情境。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "interim_check": {
+      "date": "2026-11-04",
+      "note": "正式檢查日前一天內檢（+977 對局）",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "月亮伊布合併 AWR 跌破 47.5%",
+          "result": "miss",
+          "actual": "49.43%（差 1.93pt）。AWR 跌幅由 −1.06pt 收斂到 −0.29pt，動能明顯減速"
+        },
+        {
+          "scenario": "B",
+          "predicted": "水君 ex 合併份額突破 6.0%",
+          "result": "miss",
+          "actual": "5.29%（差 0.71pt），且 AWR 逆勢 −0.99pt。份額增速由 +1.11pt 降到 +0.30pt"
+        },
+        {
+          "scenario": "C",
+          "predicted": "C1 新舊卡 AWR 差距擴大到 ≥5.0pt",
+          "result": "miss",
+          "actual": "2.85pt，且方向反轉（3.44 → 2.85pt）"
+        }
+      ],
+      "score": "0/3 命中（內檢）"
+    }
+  },
+  {
+    "id": "PRED_20261104",
+    "date": "2026-11-04",
+    "session": "晚間 20:05（C1 第七日）",
+    "set": "C1 Day 7",
+    "source": "Limitless TCG Live 2026-11-04 20:05 (UTC+8), C1 Standard 24 錦標賽／2,932 玩家／8,111 對局, 331 分支／129 合併；同一支 parser 重解析 11-02／11-03 raw 對齊基準；對位取自 24 張牌組 matchups 頁",
+    "environment_summary": "C1 第七日，環境進入「份額固化、強度換人」的最後一階段。合併份額前三：月亮伊布 12.31%／49.43%（份額四連升後首次轉跌 −0.65pt、AWR 四連跌 −0.29pt）、超級噴火龍 Y ex 10.68%／48.96%（AWR 三連跌 50.91→49.32→48.96%）、超級甲賀忍蛙 ex 10.57%／44.62%（份額三連降，但 AWR 連三日停在 44.6%＝強度已止跌）。水君 ex 5.29%／53.86%（份額四連升但 AWR 首次轉跌 −0.99pt）、騎拉帝納 ex 4.98%／50.45%（前五唯一「份額跌、強度升」）。AWR 前五換人：超級七夕青鳥 ex 55.18%（冠軍）、胡帕 ex 54.88%（退居第二，份額三連升但 AWR −1.62pt）、蜂女王 ex 54.60%（新進第三）、三首惡龍 54.19%、水君 ex 53.86%；超級雷電獸 ex 跌出前五。族群：龍／惡系 23.29%／50.92%（擴張後首度停滯）、水系 23.12%／47.61%、格鬥／草／鋼系 6.68%／48.10%（三日 +1.01pt／+3.30pt，唯一族群級 AWR 連升）、超能系 13.57%／49.50%、電系 12.72%／48.46%。C1 新舊卡 AWR 差距 2.89→3.44→2.85pt（四日序列首次收斂），含新卡份額 56.52→55.58→53.99% 三日連降。3 點 KO 規則與 HP 負相關仍在但出現兩個例外（210HP 超級蜥蜴王 ex 52.04%、170HP 甲賀忍蛙 ex 49.29%）。對位樞紐：胡帕系四線全開但七夕青鳥線被磨（78.6→70.0%）、且被路卡利歐 9.1% 反壓；超級七夕青鳥壓超夢 X 76.9%、騎拉帝納 71.4%、普通忍蛙 66.7%，但輸超級甲賀忍蛙 ex 30.0%、雷電獸 22.2%；超級甲賀忍蛙 ex 四面被圍（水君 22.2%、雷電獸 22.6%、騎拉帝納 26.5%），只靠吃七夕青鳥 70.0% 續命。",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "C1 新包失血止穩：含新卡族群 AWR 追平大盤",
+        "probability": 0.35,
+        "description": "含 C1 新卡族群 AWR 上升回到 **≥48.2%**（今日 47.19%，門檻距離 1.01pt；方向：46.90%→47.19% 兩日回升，且新舊卡差距四日首次收斂 3.44→2.85pt）。理由：今日同時出現兩個轉向訊號——差距收斂 0.59pt、含新卡份額三日連降 56.52→55.58→53.99%。若成立，代表 C1 擴充包從「吃份額、不吃勝場」轉為正常化，後續版本判斷可把 C1 新卡視為常規卡而非額外風險。反向風險：新卡份額仍過半（53.99%），且 3 點 KO 規則對 200～240HP 新卡的壓制未變，收斂可能只是單日噪音。"
+      },
+      {
+        "scenario": "B",
+        "name": "忍蛙系份額續跌，跌破 10%",
+        "probability": 0.35,
+        "description": "超級甲賀忍蛙 ex 合併份額 **<10.2%**（今日 10.57%，門檻距離 0.37pt；方向：份額兩日連降 −0.14pt → −0.44pt，已加速）。理由：份額三連降（11.15 → 11.01 → 10.57%）而 AWR 連三日停在 44.6%＝「崩解只剩份額面」的第二個實例；份額前五唯一份額與強度反向者。不設 AWR 第二條件（依 11-01 反省，雙條件會互相稀釋）。反向風險：其第一分支「超級甲賀忍蛙ex 甲賀忍蛙ex」份額 6.14%、AWR 43.30% 仍撐住底部，且它壓七夕青鳥 70.0% 仍有效，短期不易崩。"
+      },
+      {
+        "scenario": "C",
+        "name": "格鬥／草／鋼系族群反攻成立",
+        "probability": 0.3,
+        "description": "格鬥／草／鋼系族群合併 AWR **≥49.5%**（今日 48.13%，門檻距離 1.37pt；方向：兩日連升 +1.95pt → +1.25pt，為 C1 開戰以來唯一族群級 AWR 連升）。理由：驅動來自兩條低曝光支線——超級路卡利歐 ex（份額 1.13→1.34→1.57%、AWR 40.88→47.39→49.29%，三日 +8.41pt）與超級蜥蜴王 ex（份額 0.90→0.92→1.16%、AWR 47.11→49.68→52.04%，三日 +4.93pt）。這是「C1 舊卡低曝光族群回升」敘事的第二條證據（第一條是七夕青鳥、水君、三首惡龍）。反向風險：族群份額僅 6.68%，N=1,029，且超級路卡利歐 ex 被七夕青鳥壓到 20.0%、被胡帕反壓 9.1%，AWR 波動容易回落。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "low",
+    "check_date": "2026-11-05",
+    "verification": {
+      "date": "2026-11-05",
+      "check_date": "2026-11-05",
+      "source": "Limitless TCG Live 2026-11-05 20:05 (UTC+8), C1 Standard 28 錦標賽／3,529 玩家／9,827 對局, 371 分支／138 合併",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "含 C1 新卡族群 AWR ≥48.2%",
+          "result": "miss",
+          "actual": "47.16%（11-04 為 47.19%，−0.03pt）；新舊卡差距 2.85→2.91pt，僅反向擴大 0.06pt。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級甲賀忍蛙 ex 合併份額 <10.2%",
+          "result": "hit",
+          "actual": "10.17%（11-04 為 10.57%，−0.40pt）；份額三連降，AWR 44.62→44.75% 小幅回升。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "格鬥／草／鋼系族群合併 AWR ≥49.5%",
+          "result": "miss",
+          "actual": "48.07%（11-04 為 48.10%，−0.03pt）；族群份額反而由 6.68% 升至 8.25%。"
+        }
+      ],
+      "score": "1/3 命中",
+      "conclusion": "僅份額崩解型 B 命中。新包 AWR 沒有止穩；格鬥／草／鋼系是「份額升、強度平」，不能誤判為族群強度反攻。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+    },
+    "reflection": "B 證明「單條件份額下行＋連續兩日同方向」仍有效。A 失敗的關鍵不是距離，而是把「份額下降」誤當成「強度即將回升」的充分證據；新卡份額 53.99→53.33%、AWR 47.19→47.16%、差距 2.85→2.91pt，顯示拖累只是停滯。C 的族群份額已 +1.57pt，但 AWR −0.03pt；資金遷入不等於強度提升。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+  },
+  {
+    "id": "PRED_20261105",
+    "date": "2026-11-05",
+    "session": "晚間 20:05（C1 第八日）",
+    "set": "C1 Day 8",
+    "source": "Limitless TCG Live 2026-11-05 20:05 (UTC+8), C1 Standard 28 錦標賽／3,529 玩家／9,827 對局, 371 分支／138 合併；同一支 parser 重解析 11-03／11-04 raw；對位取自 24 張牌組 matchups 頁",
+    "environment_summary": "C1 第八日。合併份額前三：月亮伊布 11.56%／49.41%（兩日 −1.41pt、AWR 近乎持平）、超級甲賀忍蛙 ex 10.17%／44.75%（兩日 −0.84pt）、超級噴火龍 Y ex 9.97%／48.90%（兩日 −1.00pt）。AWR 前五：超級七夕青鳥 ex 55.07%、胡帕 ex 55.04%、蜂女王 ex 54.41%、三首惡龍 53.63%、水君 ex 53.12%。資金向舊卡高效率線遷移：七夕青鳥、胡帕、水君、蜂女王、超級蜥蜴王、超級路卡利歐及雷電獸份額皆上升；水君、七夕青鳥、胡帕的 AWR 則小跌。C1 含新卡族群 53.33%／47.16%，不含新卡 54.83%／50.07%，差距 2.91pt，未止穩。族群：龍／惡系 25.28%／50.62%（兩日 +2.00pt／−0.46pt）、格鬥／草／鋼系 8.25%／48.07%（兩日 +2.15pt／+1.25pt）。3 點 KO 規則下 240HP 超級快龍 ex／超級班基拉斯 ex 仍僅 39.06%／39.57%，200HP 超級甲賀忍蛙 ex 44.75%。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "月亮伊布份額跌破 11%",
+        "probability": 0.35,
+        "description": "月亮伊布合併份額 **<11.0%**（今日 11.56%，門檻距離 0.56pt，份額帶內；方向：12.97→12.31→11.56% 連兩日下降）。今日 AWR 49.43→49.41% 近乎不動，若份額續跌而 AWR 不跟跌，將確認它已從「人氣王靶心」轉為單純份額外流，份額與強度正式脫鉤。"
+      },
+      {
+        "scenario": "B",
+        "name": "忍蛙系份額跌破 9.7%",
+        "probability": 0.35,
+        "description": "超級甲賀忍蛙 ex 合併份額 **<9.7%**（今日 10.17%，門檻距離 0.47pt，份額帶內；方向：11.01→10.57→10.17% 連兩日下降）。今日 AWR 44.62→44.75% 小幅回升，若只跌份額不跌強度，將再次驗證「崩解只剩份額面」。"
+      },
+      {
+        "scenario": "C",
+        "name": "格鬥／草／鋼系份額突破 9%",
+        "probability": 0.3,
+        "description": "格鬥／草／鋼系族群合併份額 **≥9.0%**（今日 8.25%，門檻距離 0.75pt，份額帶內；方向：6.10→6.68→8.25% 連兩日上升）。不再以 AWR 作第二條件，因今日族群 AWR 48.13→48.07% 近乎持平，資金遷入尚未轉成強度。"
+      }
+    ],
+    "most_likely": "A（與 B 並列 0.35）",
+    "confidence": "low-medium",
+    "check_date": "2026-11-07",
+    "verification": {
+      "date": "2026-11-07",
+      "check_date": "2026-11-07",
+      "interim": false,
+      "source": "Limitless TCG Live 2026-11-07 20:05 (UTC+8), C1 Standard 34 錦標賽／4,428 玩家／13,130 對局, 422 分支／148 合併",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "月亮伊布合併份額 <11.0%",
+          "result": "hit",
+          "actual": "10.55%（11-06 為 11.23%，−0.68pt）；單日跌破門檻。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級甲賀忍蛙 ex 合併份額 <9.7%",
+          "result": "hit",
+          "actual": "9.30%（11-06 為 9.77%，−0.47pt）；份額四連降。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "格鬥／草／鋼系族群合併份額 ≥9.0%",
+          "result": "hit",
+          "actual": "9.51%（11-06 為 8.45%，+1.06pt）；族群份額四連升且 AWR 微升。"
+        }
+      ],
+      "score": "3/3",
+      "conclusion": "三條情境全數命中。規則組合（單條件方向型、門檻距離落在指標帶內、方向連兩日一致、動能 ≥0.2pt/日）首次全數命中；族群份額型在補上「動能達標」後同樣可用。",
+      "lesson": "份額帶 0.3～0.8pt 的單條件預測可靠度最高；族群份額型此前失效主因是動能不足（+0.20pt 剛達標），補上動能條件後可恢復。"
+    },
+    "reflection": "內檢 0/3，但不可視為失敗：A、B 為逼近中，C 為未逼近，正式判定留待 11-07。補充兩條可複用規律：①差距「收斂」本身不是訊號，收斂速度才是——新舊卡差距 2.92→2.74pt（−0.18pt）不足 11-04 那次（−0.59pt）的三分之一，擴充包轉正應改看「差距連兩日收斂且每日收斂 ≥0.3pt」或「新卡 AWR 單日回升 ≥0.5pt」；②族群需新增「份額平＋AWR 跌＝觀望期（資金停滯）」分支，與「份額跌＋AWR 跌＝真退坑」區分，電系今日正屬前者（雷電獸 −0.60pt、密勒頓 −0.63pt、自爆磁怪 −0.72pt，份額幾乎不動）。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+  },
+  {
+    "id": "PRED_20261106",
+    "date": "2026-11-06",
+    "session": "晚間 20:05（C1 第九日）",
+    "set": "C1 Day 9",
+    "source": "Limitless TCG Live 2026-11-06 20:05 (UTC+8), C1 Standard 31 錦標賽／3,714 玩家／10,319 對局, 383 分支／144 合併；同一支 parser 重解析 11-03／11-04／11-05 raw；對位取自 24 張牌組 matchups 頁",
+    "environment_summary": "C1 第九日，對局增量自 +1,716 收斂至 +492。合併份額前五：超級噴火龍 Y ex 9.91%（升至第二）、月亮伊布 11.23%／49.41%（兩日 −1.08pt、AWR 幾乎不動）、超級甲賀忍蛙 ex 9.77%／44.79%（兩日 −0.80pt）、水君 ex 6.00%／53.43%（份額四連升且 AWR 回升）、超級七夕青鳥 ex 5.41%／54.40%（份額三連升、AWR 三日 −0.78pt）。AWR 前五：胡帕 ex 54.96%（取代七夕青鳥登頂，差距僅 0.56pt）、超級七夕青鳥 ex 54.40%、蜂女王 ex 54.35%、三首惡龍 53.91%、水君 ex 53.43%。對位樞紐轉移：蜂女王 ex 份額僅 2.07% 卻壓忍蛙 85.7%、壓水君 74.4%、壓月亮伊布 68.2%、壓胡帕 53.1%；胡帕首次出現明確剋星（輸超級超夢 X ex 26.1%，N=23，列觀察名單）。C1 含新卡族群 52.53%／47.20%，不含新卡 55.22%／49.94%，差距 2.74pt（收斂 0.18pt，不足以判定轉正）。族群：龍／惡系 25.44%／50.58%、格鬥／草／鋼系 8.45%／48.48%（唯一份額與強度同升）、水系 22.78%／47.67%、電系 13.09%／48.42%（份額平、強度跌＝觀望期）。3 點 KO 規則下 240HP 超級快龍 ex／超級班基拉斯 ex 仍僅 38.87%／40.07%。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "超級甲賀忍蛙 ex 份額跌破 9.4%",
+        "probability": 0.35,
+        "description": "超級甲賀忍蛙 ex 合併份額 **<9.4%**（今日 9.77%，門檻距離 0.37pt，份額帶 0.3～0.8pt 內；方向 10.57→10.17→9.77% 連兩日下降，動能 −0.40pt 達標）。若命中，代表人氣王陷阱的份額外流進入第五日，且今日 AWR 44.79%（四天最高）會正式確認「崩解只剩份額面」。"
+      },
+      {
+        "scenario": "B",
+        "name": "月亮伊布份額跌破 10.8%",
+        "probability": 0.35,
+        "description": "月亮伊布合併份額 **<10.8%**（今日 11.23%，門檻距離 0.43pt，份額帶內；方向 12.31→11.56→11.23% 連兩日下降，動能 −0.33pt 達標）。AWR 三日 49.43→49.41→49.41% 幾乎不動，若份額續跌而 AWR 不跟跌，則正式確認其已由「人氣王靶心」轉為純份額外流。"
+      },
+      {
+        "scenario": "C",
+        "name": "超級雷電獸 ex AWR 跌破 51.5%",
+        "probability": 0.3,
+        "description": "超級雷電獸 ex 合併 AWR **<51.5%**（今日 52.25%，門檻距離 0.75pt，AWR 帶 0.5～1.5pt 內；方向 53.72→52.85→52.25% 連兩日下降，動能 −0.60pt 達標）。電系三線（雷電獸 −0.60、密勒頓 −0.63、自爆磁怪 −0.72）同步下滑且族群份額幾乎不動，若雷電獸跌破 51.5%，即確認電系進入「觀望期」（資金停滯）而非退坑潮。"
+      }
+    ],
+    "most_likely": "A（與 B 並列 0.35）",
+    "confidence": "low-medium",
+    "check_date": "2026-11-08",
+    "verification": {
+      "date": "2026-11-08",
+      "check_date": "2026-11-08",
+      "interim": false,
+      "source": "Limitless TCG Live 2026-11-08 20:05 (UTC+8), C1 Standard 38 錦標賽／4,626 玩家／13,655 對局, 441 分支／151 合併；同一支 parser 重解析 11-04～11-08 raw",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "超級甲賀忍蛙 ex 合併份額 <9.4%",
+          "result": "hit",
+          "actual": "8.97%（11-07 為 9.30%、11-06 為 9.77%）；份額三連降且 AWR 同步跟跌（44.79→44.35→44.22%），確認是真退坑而非靶心效應。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "月亮伊布合併份額 <10.8%",
+          "result": "hit",
+          "actual": "10.31%（11-07 為 10.55%、11-06 為 11.23%）；但今日 AWR 反彈 +0.11pt（48.71→48.82%），屬純份額外流，與忍蛙系的「連人帶強度一起走」不同。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "超級雷電獸 ex 合併 AWR <51.5%",
+          "result": "miss",
+          "actual": "52.76%（11-07 為 52.51%、11-06 為 52.25%）；反向 +0.51pt，距門檻 1.26pt。電系族群整體轉強（族群 AWR 49.37→49.64%，自爆磁怪單日 +1.35pt）。"
+        }
+      ],
+      "score": "2/3",
+      "conclusion": "兩條「份額單條件」全中，唯一的「AWR 單條件」因族群整體轉強而失敗。規則組合（單條件方向型＋門檻落在指標帶內＋方向連兩日一致＋動能 ≥0.2pt/日）在**份額型**條件上仍是有效判準；在**族群整體轉強**的背景下，單一分支的 AWR 條件會被族群趨勢壓過，因此 AWR 型條件必須先檢查族群方向。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+    },
+    "reflection": "反省重點：①**份額型與 AWR 型條件要分流**——PRED_20261106 的 AWR 條件之所以失敗，不是因為雷電獸本身沒訊號，而是「電系族群整體轉強」把個體拉了回來；往後設定 AWR 型條件前，先確認族群 AWR 方向與個體方向是否同向，同向才給高機率。②同一族群的兩支人氣王走勢可以相反：忍蛙系份額與 AWR 同步下滑（真退坑），月亮伊布份額跌但 AWR 彈（純份額外流）——**描述崩解必須同時報 AWR 是否跟跌**（沿用 11-07 規律）。③11-07 報告的「騎拉帝納壓自爆磁怪 71.4%」方向寫反（實際是自爆磁怪壓騎拉帝納），已更正；對位數字一律取自該牌組自己的 matchups row。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+  },
+  {
+    "id": "PRED_20261107",
+    "date": "2026-11-07",
+    "session": "晚間 20:05（C1 第十日）",
+    "set": "C1 Day 10",
+    "source": "Limitless TCG Live 2026-11-07 20:05 (UTC+8), C1 Standard 34 錦標賽／4,428 玩家／13,130 對局, 422 分支／148 合併；對位取自 24 張牌組 matchups 頁",
+    "environment_summary": "C1 第十日，對局增量自 +492 放大回 +2,811。合併份額前五：超級噴火龍 Y ex 10.86%／48.17%（重回第一，AWR 四日最低）、月亮伊布 10.55%／48.71%（份額與 AWR 同步下跌，真退坑首度成立）、超級甲賀忍蛙 ex 9.30%／44.35%（份額四連降、低於大盤 4.44pt）、水君 ex 7.43%／52.03%（份額四連升但 AWR −1.40pt，靶心效應）、超級七夕青鳥 ex 6.37%／54.62%（份額與 AWR 同升）。AWR 前五：蜂女王 ex 56.66%（登頂，份額 +1.31pt／AWR +2.31pt 雙升）、超級七夕青鳥 ex 54.62%、自爆磁怪 53.95%（新進前三）、胡帕 ex 53.93%、三首惡龍 53.46%。反制樞紐仍是蜂女王：壓水君 76.2%、壓胡帕 74.3%、壓忍蛙 80.8%；胡帕輸蜂女王 24.3%（昨日 43.8%）。族群：龍／惡系 27.85%／50.72%（三連升 +2.41pt）、格鬥／草／鋼系 9.51%／48.52%（四連升）、電系 13.89%／49.37%（觀望期結束）、超能系 11.59%／48.79%（真退坑）。C1 含新卡 52.94%／47.33% vs 不含新卡 61.23%／50.01%，差距 2.68pt（連兩日收斂但每日僅 0.06～0.18pt，未達 0.3pt 門檻）。3 點 KO 規則下 210+HP 族群 AWR 46.99% 最低，240HP 超級快龍 ex 37.92%。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "超級甲賀忍蛙 ex 份額跌破 8.8%",
+        "probability": 0.35,
+        "description": "超級甲賀忍蛙 ex 合併份額 **<8.8%**（今日 9.30%，門檻距離 0.50pt，份額帶 0.3～0.8pt 內；方向 10.57→10.17→9.77→9.30% 四連降，動能 −0.47pt 達標）。若命中，代表人氣王陷阱的份額與強度同步崩解（今日 AWR 已跟跌 −0.44pt，屬「真退坑」分支），跌幅將正式跌破 9%。"
+      },
+      {
+        "scenario": "B",
+        "name": "超級噴火龍 Y ex AWR 跌破 47.5%",
+        "probability": 0.3,
+        "description": "超級噴火龍 Y ex 合併 AWR **<47.5%**（今日 48.17%，門檻距離 0.67pt，AWR 帶 0.5～1.5pt 內；方向 48.96→48.90→48.56→48.17% 四連降，動能 −0.39pt 達標）。同時份額今日 +0.95pt 回到第一，屬典型靶心效應（份額升、強度跌），續跌是自然延伸。反向風險：它壓騎拉帝納 50.5%、壓忍蛙 47.7%，若低 AWR 線族群回歸，仍有守住 48% 的空間。"
+      },
+      {
+        "scenario": "C",
+        "name": "蜂女王 ex 份額突破 4.0%",
+        "probability": 0.25,
+        "description": "蜂女王 ex 合併份額 **≥4.0%**（今日 3.39%，門檻距離 0.61pt，份額帶內；方向 1.71→2.04→2.07→3.39% 三連升，動能 +1.31pt 達標）。它今日同時拿下 AWR 冠軍（56.66%），且壓水君 76.2%、壓胡帕 74.3%、壓忍蛙 80.8%，是「強度先行者擴張」路徑。反向風險：份額快速上升通常伴隨 AWR 被磨（胡帕即為前例），且它的剋星路卡利歐 23.3% 會隨曝光增加而針對。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-11-09",
+    "verification": {
+      "date": "2026-11-09",
+      "check_date": "2026-11-09",
+      "interim": false,
+      "source": "Limitless TCG Live 2026-11-09 20:05 (UTC+8), C1 Standard 43 錦標賽／5,559 玩家／17,380 對局, 506 分支／168 合併；同一支 parser 重解析 11-04～11-09 raw",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "超級甲賀忍蛙 ex 合併份額 <8.8%",
+          "result": "hit",
+          "actual": "8.72%（11-08 為 8.97%、11-07 為 9.30%）；份額四連降，且 AWR 44.35→44.22→43.65% 同步下滑，確認是真退坑。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級噴火龍 Y ex 合併 AWR <47.5%",
+          "result": "miss",
+          "actual": "49.16%（11-08 為 48.34%、11-07 為 48.17%）；單日反彈 +0.82pt，四連降中斷，距門檻 1.66pt。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "蜂女王 ex 合併份額 ≥4.0%",
+          "result": "hit",
+          "actual": "5.23%（11-08 為 3.46%、11-07 為 3.39%）；單日 +1.78pt，但 AWR 56.81→55.01% 同步下滑，屬擴張中的靶心效應。"
+        }
+      ],
+      "score": "2/3",
+      "conclusion": "正式命中 2/3。份額型條件全中，唯一失手的噴火龍 AWR 條件因單日反轉而未破。11-08 的「蜂女王份額動能衰退」判斷在今日 +3,725 對局的大樣本更新中被推翻，顯示**大增量日不能用前一日動能衰減直接判定條件失效**。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+    },
+    "reflection": "反省重點：①**動能衰減判準必須納入樣本增量**：蜂女王份額 11-08 僅 +0.07pt，但 11-09 在 +3,725 對局後單日 +1.78pt；往後遇到大增量日，至少改看兩日累計方向，不以單日動能直接降級。②**擴張不等於轉強**：蜂女王份額達標但 AWR −1.80pt，應描述為「擴張中的靶心效應」，不可只看份額門檻宣告強度上升。③忍蛙系是唯一「份額跌＋AWR 跌」的真退坑，噴火龍則在門檻前反彈；兩者同為人氣王，判定仍須拆開。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "interim_check": {
+      "date": "2026-11-08",
+      "check_date": "2026-11-09",
+      "source": "Limitless TCG Live 2026-11-08 20:05 (UTC+8), C1 Standard 38 錦標賽／4,626 玩家／13,655 對局",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "超級甲賀忍蛙 ex 合併份額 <8.8%",
+          "result": "approaching",
+          "actual": "8.97%（昨 9.30%）；動能 −0.33pt、方向三連降，距門檻僅 0.17pt，若維持動能明日將命中。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "超級噴火龍 Y ex 合併 AWR <47.5%",
+          "result": "not_approaching",
+          "actual": "48.34%（昨 48.17%）；反向 +0.17pt，四連降中斷，距門檻 0.84pt。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "蜂女王 ex 合併份額 ≥4.0%",
+          "result": "approaching_but_momentum_fading",
+          "actual": "3.46%（昨 3.39%）；動能自 +1.31pt 掉到 +0.07pt，距門檻 0.54pt。"
+        }
+      ],
+      "score": "內檢：逼近中 2、未逼近 1；正式命中率以 2026-11-09 檢查日為準",
+      "conclusion": "內檢顯示昨日的規則組合並非無敵：**動能衰減會讓條件失效**（蜂女王份額 +1.31→+0.07pt）。新增判準：當條件的單日動能跌至歷史平均動能的 25% 以下，標記為「動能衰退」，機率下調一級。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+    }
+  },
+  {
+    "id": "PRED_20261108",
+    "date": "2026-11-08",
+    "session": "晚間 20:05（C1 第十一日）",
+    "set": "C1 Day 11",
+    "source": "Limitless TCG Live 2026-11-08 20:05 (UTC+8), C1 Standard 38 錦標賽／4,626 玩家／13,655 對局, 441 分支／151 合併；同一支 parser 重解析 11-04～11-08 raw；對位取自 24 張牌組 matchups 頁",
+    "environment_summary": "C1 第十一日，對局增量自 +2,811 收斂回 +525。合併份額前五：超級噴火龍 Y ex 10.72%／48.34%、月亮伊布 10.31%／48.82%、超級甲賀忍蛙 ex 8.97%／44.22%（份額三連降且 AWR 跟跌＝真退坑）、水君 ex 7.44%／51.38%（份額平而 AWR −0.65pt＝靶心）、超級七夕青鳥 ex 6.59%／54.55%。AWR 前五：蜂女王 ex 56.81%（連兩日登頂）、自爆磁怪 55.28%（單日 +1.35pt 躍居第二、份額僅 2.03%）、超級七夕青鳥 ex 54.55%、胡帕 ex 53.83%、三首惡龍 53.57%。族群：龍／惡系 27.95%／50.65%（四連升）、電系 13.77%／49.64%（唯一強度上升）、超能系 11.37%／48.93%、水系 23.09%／47.08%（唯一雙跌）。C1 含新卡 52.25%／47.27%，不含新卡 61.31%／50.01%，差距 2.73pt（連三日收斂後首次回頭 +0.05pt，擴充包仍未轉正）。3 點 KO 規則下 210+HP 桶 46.78% 仍是全環境最差（修正本地卡庫 HP 缺值後的口徑）。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "自爆磁怪合併 AWR ≥56.5%",
+        "probability": 0.35,
+        "description": "自爆磁怪合併 AWR **≥56.5%**（今日 55.28%，門檻距離 1.22pt，AWR 帶 0.5～1.5pt 內；方向 53.81→**55.28%** 連兩日上升，動能 +1.35pt 達標）。份額僅 2.03% 卻是全環境 AWR 第二，符合 11-07 訂的「反制樞紐擴張順序：AWR 先登頂、份額才跟上」路徑；若命中，即為下一個擴張點。"
+      },
+      {
+        "scenario": "B",
+        "name": "水君 ex 合併 AWR <50.5%",
+        "probability": 0.3,
+        "description": "水君 ex 合併 AWR **<50.5%**（今日 51.38%，門檻距離 0.88pt，AWR 帶內；方向 53.43→52.03→**51.38%** 連三降，動能 −0.65pt 達標）。份額停在 7.44% 無處可退，且被蜂女王（輸 24.7%）、七夕青鳥（輸 36.8%）、胡帕（輸 37.6%）三方夾擊，靶心效應第四日。"
+      },
+      {
+        "scenario": "C",
+        "name": "超級七夕青鳥 ex 合併份額 ≥7.0%",
+        "probability": 0.25,
+        "description": "超級七夕青鳥 ex 合併份額 **≥7.0%**（今日 6.59%，門檻距離 0.41pt，份額帶 0.3～0.8pt 內；方向 5.41→6.37→**6.59%** 三連升，動能 +0.22pt 剛好達標，AWR 同步守住 54.55%）。**動能僅 +0.22pt，為三條中最脆弱，若延續 11-07 蜂女王的動能衰減路徑則易失效。**"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-11-10",
+    "verification": {
+      "date": "2026-11-10",
+      "check_date": "2026-11-10",
+      "interim": false,
+      "source": "Limitless TCG Live 2026-11-10 20:05 (UTC+8), C1 Standard 47 錦標賽／5,982 玩家／18,550 對局, 529 分支／172 合併；同一支 parser 重解析 11-05～11-10 raw",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "自爆磁怪合併 AWR ≥56.5%",
+          "result": "miss",
+          "actual": "同名合併 54.97%（主分支 55.03%）；昨 55.28%，單日 −0.31pt，距門檻 1.53pt。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "水君 ex 合併 AWR <50.5%",
+          "result": "miss",
+          "actual": "51.47%（昨 51.31%）；反向 +0.16pt，距門檻 0.97pt。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "超級七夕青鳥 ex 合併份額 ≥7.0%",
+          "result": "hit",
+          "actual": "7.29%（昨 7.27%）；守住 7% 以上，但 AWR 53.72→53.30% 呈靶心磨損。"
+        }
+      ],
+      "score": "1/3",
+      "conclusion": "正式命中 1/3。兩條 AWR 型條件全數落空，唯一命中的份額型條件也只是「守住」而非突破。根因是今日為低增量日（單日 +1,170 對局，+6.7%；全環境 AWR 48.96→48.93%），個體 AWR 幾乎凍結，距離門檻 0.8～1.2pt 的 AWR 條件在這種環境下本來就走不到。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+    },
+    "reflection": "反省重點：①**低增量日必須改用「份額型」或近距離 AWR 型條件**：今日證明距離 >0.8pt 的 AWR 條件在低增量日等於不可能命中，之後在增量 <1,500 對局的日子應直接改設份額型條件。②**份額門檻「守住」與「突破」要分開記帳**：七夕青鳥 7.27→7.29% 只是守住 7%，不能寫成突破。③自爆磁怪 54.97% 仍在 AWR 前二、份額續升到 3.33%，它的強度並未崩，只是今日沒有加速。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "interim_check": {
+      "date": "2026-11-09",
+      "check_date": "2026-11-10",
+      "source": "Limitless TCG Live 2026-11-09 20:05 (UTC+8), C1 Standard 43 錦標賽／5,559 玩家／17,380 對局",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "自爆磁怪合併 AWR ≥56.5%",
+          "result": "not_approaching",
+          "actual": "同名合併 55.28%（主分支 55.35%）；昨 55.16%／主分支 55.28%，僅 +0.12pt，距門檻 1.22pt。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "水君 ex 合併 AWR <50.5%",
+          "result": "not_approaching",
+          "actual": "51.31%（昨 51.38%）；僅 −0.07pt，動能幾乎停滯，距門檻 0.81pt。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "超級七夕青鳥 ex 合併份額 ≥7.0%",
+          "result": "hit_early",
+          "actual": "7.27%（昨 6.59%）；份額三連升，門檻已提前突破，但 AWR 54.55→53.72% 呈靶心磨損。"
+        }
+      ],
+      "score": "內檢：提前命中 1、未逼近 2；正式命中率仍以 2026-11-10 檢查日為準",
+      "conclusion": "內檢顯示 PRED_20261108 的 C 已提前命中；A、B 距離門檻仍大。A 的自爆磁怪仍守在 AWR 前列但未加速，B 的水君 ex AWR 動能近乎停滯。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+    }
+  },
+  {
+    "id": "PRED_20261109",
+    "date": "2026-11-09",
+    "session": "晚間 20:05（C1 第十二日）",
+    "set": "C1 Day 12",
+    "source": "Limitless TCG Live 2026-11-09 20:05 (UTC+8), C1 Standard 43 錦標賽／5,559 玩家／17,380 對局, 506 分支／168 合併；同一支 parser 重解析 11-04～11-09 raw；對位取自 24 張牌組 matchups 頁",
+    "environment_summary": "C1 第十二日，單日增加 5 場錦標賽／933 玩家／3,725 對局，環境加權 AWR 48.78→48.96%。合併份額前五：超級噴火龍 Y ex 11.35%／49.16%、月亮伊布 10.04%／48.63%、超級甲賀忍蛙 ex 8.72%／43.65%、水君 ex 8.29%／51.31%、超級七夕青鳥 ex 7.27%／53.72%。AWR 前五：自爆磁怪 55.28%、蜂女王 ex 55.01%、三首惡龍 54.81%、超級七夕青鳥 ex 53.72%、胡帕 ex 53.68%。最大結構變化：超級路卡利歐 ex 份額 +1.86pt／AWR +3.08pt，為罕見「份額與強度同升」；蜂女王 ex 份額 +1.78pt／AWR −1.80pt，屬擴張中的靶心效應。C1 含新卡 54.09%／47.28%，不含新卡 68.20%／50.24%，差距 2.96pt（再擴大 0.23pt）。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "超級路卡利歐 ex 合併 AWR ≥52.0%",
+        "probability": 0.35,
+        "description": "超級路卡利歐 ex 合併 AWR **≥52.0%**（今日 53.21%，距離 1.21pt，AWR 帶 0.5～1.5pt 內）。方向 50.00→50.13→**53.21%** 連兩日上升，動能 +3.08pt 達標；N=1,392，且格鬥／草／鋼系族群 AWR 48.41→49.94% 同向上升。屬守住型單條件。"
+      },
+      {
+        "scenario": "B",
+        "name": "自爆磁怪合併份額 ≥3.8%",
+        "probability": 0.3,
+        "description": "自爆磁怪合併份額 **≥3.8%**（今日 3.02%，距離 0.78pt，份額帶 0.3～0.8pt 內）。方向 1.96→2.05→**3.02%** 連兩日上升，動能 +0.97pt 達標；AWR 53.81→55.16→**55.28%** 同步守住，符合「AWR 先登頂、份額才跟上」路徑。"
+      },
+      {
+        "scenario": "C",
+        "name": "C1 新舊卡 AWR 差距 ≥3.5pt",
+        "probability": 0.25,
+        "description": "C1 新舊卡 AWR 差距 **≥3.5pt**（今日 2.96pt，距離 0.54pt，差距帶 0.5～1.0pt 內）。方向 2.68→2.73→**2.96pt** 連兩日擴大，且含新卡份額 52.25→54.09%、AWR 47.27→47.28% 幾乎不動，擴充包拖累仍在。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-11-11",
+    "verification": null,
+    "reflection": null,
+    "interim_check": {
+      "date": "2026-11-10",
+      "check_date": "2026-11-11",
+      "source": "Limitless TCG Live 2026-11-10 20:05 (UTC+8), C1 Standard 47 錦標賽／5,982 玩家／18,550 對局",
+      "results": [
+        {
+          "scenario": "A",
+          "predicted": "超級路卡利歐 ex 合併 AWR ≥52.0%",
+          "result": "still_true_but_fragile",
+          "actual": "52.25%（昨 53.21%），仍 ≥52.0% 但只剩 0.25pt 緩衝，單日 −0.96pt，動能已翻負。"
+        },
+        {
+          "scenario": "B",
+          "predicted": "自爆磁怪合併份額 ≥3.8%",
+          "result": "approaching",
+          "actual": "3.33%（昨 3.02%），距門檻 0.47pt；動能由 +0.97pt 衰減到 +0.31pt（約前日的 32%，尚未觸及 25% 衰退門檻）。"
+        },
+        {
+          "scenario": "C",
+          "predicted": "C1 新舊卡 AWR 差距 ≥3.5pt",
+          "result": "approaching_but_stalled",
+          "actual": "2.95pt（昨 2.96pt），單日幾乎沒動；含新卡份額 54.09→53.44%、AWR 47.28→47.25%。"
+        }
+      ],
+      "score": "內檢：仍成立 1（緩衝僅 0.25pt）、逼近中 2；正式命中率仍以 2026-11-11 檢查日為準",
+      "conclusion": "PRED_20261109 的 A 條件已從「安全」變成「脆弱」：超級路卡利歐 ex 由雙升轉為份額升、AWR 跌的靶心型，52.25% 只比門檻高 0.25pt。B 仍在軌道上但動能衰減。C 停滯。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+    }
+  },
+  {
+    "id": "PRED_20261110",
+    "date": "2026-11-10",
+    "session": "晚間 20:05（C1 第十三日）",
+    "set": "C1 Day 13",
+    "source": "Limitless TCG Live 2026-11-10 20:05 (UTC+8), C1 Standard 47 錦標賽／5,982 玩家／18,550 對局, 529 分支／172 合併；同一支 parser 重解析 11-05～11-10 raw；對位取自 24 張牌組 matchups 頁並經 scripts/verify_mu_20261110.py 覆核",
+    "environment_summary": "C1 第十三日，單日增加 4 場錦標賽／423 玩家／1,170 對局（低增量日，+6.7%），環境加權 AWR 48.96→48.93%。合併份額前五：超級噴火龍 Y ex 11.52%／49.05%、月亮伊布 9.88%／48.63%、超級甲賀忍蛙 ex 8.38%／43.57%、水君 ex 8.17%／51.47%、超級七夕青鳥 ex 7.29%／53.30%。AWR 前五：三首惡龍 55.24%、自爆磁怪 54.97%、蜂女王 ex 54.80%、胡帕 ex 53.79%、超級七夕青鳥 ex 53.30%。最大結構變化：超級路卡利歐 ex 從昨日的「份額與 AWR 雙升」翻成份額 +0.57pt／AWR −0.96pt 的靶心型；三首惡龍以份額 2.52%、AWR 55.24% 登頂。C1 含新卡 53.44%／47.25%，不含新卡 68.87%／50.20%，差距 2.95pt（連兩日停滯）。<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "predictions": [
+      {
+        "scenario": "A",
+        "name": "超級路卡利歐 ex 合併 AWR <52.0%",
+        "probability": 0.35,
+        "description": "超級路卡利歐 ex 合併 AWR **<52.0%**（今日 52.25%，距離 0.25pt，AWR 帶 0.1～0.5pt 內，是最容易被觸發的一段）。方向 50.13→53.21→**52.25%**，單日動能 **−0.96pt** 為全環境最強負動能；族群（格鬥／草／鋼系 AWR 49.94→49.62%）同向下行，AWR 型條件不降級。屬「靶心化續行」型單條件。"
+      },
+      {
+        "scenario": "B",
+        "name": "自爆磁怪合併份額 ≥3.8%",
+        "probability": 0.3,
+        "description": "自爆磁怪合併份額 **≥3.8%**（今日 3.33%，距離 0.47pt，份額帶 0.3～0.8pt 內）。方向 2.05→3.02→**3.33%** 連兩日上升，但動能 +0.97→+0.31pt 明顯衰減（約前日的 32%，尚未觸及 25% 衰退門檻），**標記「動能衰退觀察」**；AWR 同步守住 54.97%。"
+      },
+      {
+        "scenario": "C",
+        "name": "超級甲賀忍蛙 ex 合併份額 <8.0%",
+        "probability": 0.25,
+        "description": "超級甲賀忍蛙 ex 合併份額 **<8.0%**（今日 8.38%，距離 0.38pt，份額帶 0.3～0.8pt 內）。方向 9.77→9.30→8.97→8.72→**8.38%** 五連降，動能 −0.35pt 穩定，AWR 44.79→**43.57%** 同步下滑，真退坑延續型單條件。"
+      }
+    ],
+    "most_likely": "A",
+    "confidence": "medium",
+    "check_date": "2026-11-12",
+    "verification": null,
+    "reflection": null
+  }
+]
