@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.11",
-  "last_updated": "2026-11-10",
+  "version": "4.12",
+  "last_updated": "2026-11-12",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 730
+  "deck_names_count": 757
  },
  "corrections": [
   {
@@ -1339,7 +1339,34 @@
   "Mimikyu ex Gardevoir": "謎擬Ｑex 沙奈朵",
   "Team Rocket's Electrode Heliolisk": "火箭隊的頑皮彈 光電傘蜥",
   "Team Rocket's Weezing ex Alolan Muk": "火箭隊的雙彈瓦斯ex 阿羅拉 臭臭泥",
-  "Team Rockets Electrode": "火箭隊的頑皮彈"
+  "Team Rockets Electrode": "火箭隊的頑皮彈",
+  "Aegislash Mega Skarmory ex": "堅盾劍怪 超級盔甲鳥ex",
+  "Blastoise Suicune ex": "水箭龜 水君ex",
+  "Flareon ex Eevee ex": "火伊布ex 伊布ex",
+  "Garchomp Goomy": "烈咬陸鯊 黏黏寶",
+  "Gholdengo ex Miltank": "賽富豪ex 大奶罐",
+  "Hisuian Zoroark ex Garchomp": "洗翠 索羅亞克ex 烈咬陸鯊",
+  "Malamar Mega Sableye ex": "烏賊王 超級勾魂眼ex",
+  "Mega Audino ex Ribombee": "超級差不多娃娃ex 蝶結萌虻",
+  "Mega Lucario ex Palossand": "超級路卡利歐 ex 噬沙堡爺",
+  "Mega Manectric ex Jolteon": "超級雷電獸ex 雷伊布",
+  "Mega Mewtwo X ex Lunala ex": "超級超夢Xex 露奈雅拉ex",
+  "Mega Mewtwo X ex Mantyke": "超級超夢Xex 小球飛魚",
+  "Mega Sceptile ex Alolan Exeggutor ex": "超級蜥蜴王ex 阿羅拉 椰蛋樹ex",
+  "Mega Tyranitar ex Absol": "超級班基拉斯ex 阿勃梭魯",
+  "Mega Tyranitar ex Bonsly": "超級班基拉斯ex 愛哭鬼",
+  "Mega Tyranitar ex Cleffa": "超級班基拉斯ex 皮寶寶",
+  "Milotic ex Mega Greninja ex": "美納斯ex 超級甲賀忍蛙ex",
+  "Milotic ex Mega Gyarados ex": "美納斯ex 超級暴鯉龍ex",
+  "Pidgeot Oricorio": "大比鳥 花舞鳥",
+  "Ribombee Mega Skarmory ex": "蝶結萌虻 超級盔甲鳥ex",
+  "Suicune ex Mega Blastoise ex": "水君ex 超級水箭龜ex",
+  "Team Rocket's Electrode Dedenne ex": "火箭隊的頑皮彈 咚咚鼠ex",
+  "Team Rocket's Slowking ex Persian": "火箭隊的呆呆王 ex 貓老大",
+  "Terapagos ex Teal Mask Ogerpon ex": "太樂巴戈斯ex 厄鬼椪 碧草面具ex",
+  "Umbreon ex Gengar": "月亮伊布ex 耿鬼",
+  "Vespiquen ex Ribombee": "蜂女王ex 蝶結萌虻",
+  "Zoroark Gengar": "索羅亞克 耿鬼"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2884,7 +2911,7 @@
   "Juliana": "小青",
   "Kid's Room": "兒童房"
  },
- "last_updated": "2026-11-10",
+ "last_updated": "2026-11-12",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
