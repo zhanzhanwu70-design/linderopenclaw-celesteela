@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.12",
-  "last_updated": "2026-11-12",
+  "version": "4.13",
+  "last_updated": "2026-11-13",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 757
+  "deck_names_count": 766
  },
  "corrections": [
   {
@@ -1366,7 +1366,16 @@
   "Terapagos ex Teal Mask Ogerpon ex": "太樂巴戈斯ex 厄鬼椪 碧草面具ex",
   "Umbreon ex Gengar": "月亮伊布ex 耿鬼",
   "Vespiquen ex Ribombee": "蜂女王ex 蝶結萌虻",
-  "Zoroark Gengar": "索羅亞克 耿鬼"
+  "Zoroark Gengar": "索羅亞克 耿鬼",
+  "Blastoise Oricorio": "水箭龜 花舞鳥",
+  "Greninja Igglybuff": "甲賀忍蛙 寶寶丁",
+  "Growlithe Lillipup": "卡蒂狗 小約克",
+  "Mega Altaria ex Eevee ex": "超級七夕青鳥ex 伊布ex",
+  "Mega Gardevoir ex Greninja": "超級沙奈朵ex 甲賀忍蛙",
+  "Mega Greninja ex Milotic ex": "超級甲賀忍蛙ex 美納斯ex",
+  "Mega Sharpedo ex Dewgong": "超級巨牙鯊ex 白海獅",
+  "Team Rocket's Weezing ex Umbreon": "火箭隊的雙彈瓦斯 ex 月亮伊布",
+  "Umbreon Aerodactyl": "月亮伊布 化石翼龍"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2911,7 +2920,7 @@
   "Juliana": "小青",
   "Kid's Room": "兒童房"
  },
- "last_updated": "2026-11-12",
+ "last_updated": "2026-11-13",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",

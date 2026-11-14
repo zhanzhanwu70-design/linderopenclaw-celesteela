@@ -29,42 +29,6 @@
 - 處理流程：下載 → 截圖分析 → 寫 wiki → 回報 Discord
 - Whisper API 配額不足時用 frame analysis 截圖代替
 
-## Promoted From Short-Term Memory (2026-07-16)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:10:10 -->
-- B3b 新系列動態（持續更新）: **B3b 牌組記錄**： [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:10-10]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:11:14 -->
-- B3b 新系列動態（持續更新）: `0P4b_X1PSlY`：超級蒂安希 ex + 超級沙奈朵 ex + 美洛耶塔（新超屬最強打手）; `9Mib7l9drKU`：美納斯 ex + 達克萊伊 + 寶寶丁（睡眠惡系混合）; `RwfcoHgrirM`：阿塞蘿拉 + 咚咚鼠 ex（新Combo，「訊息差」打法）; `BzilAomFpZs`：超級蜥蜴王 ex + 甲賀忍蛙 — 四座冠軍 59%勝率（Cool Kid Aura） [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:11-14]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:15:15 -->
-- B3b 新系列動態（持續更新）: `oSmWPVnfuSU`：超級暴鯉龍 ex — 全進化 ALL-IN 牌組（Cool Kid Aura） [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:15-15]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:19:22 -->
-- 翻譯字典更新（2026-07-03）: | 原文 | 翻譯 | 備註 | |------|------|------| | Mega Sableye ex | 超級勾魂眼 ex | 新增 | | Mega Sableye | 超級勾魂眼 | 新增 | [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:19-22]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:23:25 -->
-- 翻譯字典更新（2026-07-03）: | Dedenne | 咚咚鼠 | 修正（之前誤翻為「dd」）| | Dedenne ex | 咚咚鼠 ex | 修正（之前誤翻為「電擊蟲 ex」）| | Milotic | 美納斯 | 新增 | [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:23-25]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:27:27 -->
-- 翻譯字典更新（2026-07-03）: Mega Gardevoir ex（超級沙奈朵ex）和 Mega Diancie ex（超級蒂安希ex）早已記錄。 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:27-27]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:5:5 -->
-- B3b 新系列動態（持續更新）: **惡系上升趨勢確認（已驗證）**： [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-11.md:6:8 -->
-- B3b 新系列動態（持續更新）: `Y3nt8oHuZKE`：B3b 首個錦標賽冠軍，勾魂眼 + 惡系; `9x9BzxnTZs`：百人比賽 TOP 1，超級勾魂眼 ex + 甲賀忍蛙 + 達克萊伊 ex; 惡系連續兩個影片奪冠，B3b 新卡（超級勾魂眼 ex）帶動迴歸 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-11.md:6-8]
-
-## Promoted From Short-Term Memory (2026-07-17)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:10:10 -->
-- 今日處理記錄: **翻譯字典更新：** [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-12.md:10-10]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:11:11 -->
-- 今日處理記錄: `Mandibuzz` → `禿鷹娜` ✅（之前誤翻為 `md`） [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-12.md:11-11]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:15:15 -->
-- 重要修正：惡系崛起預測錯誤: **之前預測（2026-07-03）**：「惡系上升趨勢確認，超級勾魂眼 ex 帶動惡系迴歸」 [score=0.852 recalls=0 avg=0.620 source=memory/2026-07-12.md:15-15]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:17:17 -->
-- 重要修正：惡系崛起預測錯誤: **實際 Meta（2026-07-11）**： [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:17-17]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:18:21 -->
-- 重要修正：惡系崛起預測錯誤: 超級勾魂眼 ex + Greninja：AWR 47.01%，使用率 11.7% → 陷阱確認; 超級勾魂眼 ex + 達克萊伊 ex：AWR 46.12%; 三眼奪魂 + 巨翅鳥：AWR 48.66%; 惡系全軍覆沒，預測完全錯誤 [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:18-21]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:23:23 -->
-- 重要修正：惡系崛起預測錯誤: **原因分析**：錦標賽奪冠（影片）與整體 Meta 表現是不同維度，樣本偏差。 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-12.md:23-23]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:6:7 -->
-- 今日處理記錄: `L7ZU_dqrypk`：禿鷹娜 + 甲賀忍蛙 — 冷門狙擊牌組（Cool Kid Aura）; 「比樹梟還快」可能是針對草系的反制 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-12.md:6-7]
-
 ## Promoted From Short-Term Memory (2026-07-18)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:5:5 -->
@@ -125,3 +89,8 @@
 ## Meta 對外輸出：數值與族群名必須照抄筆記（2026-11-06）
 - 三日彙整貼文禁止改寫族群名：筆記寫「龍／惡系」不可寫成「三龍／惡系」。族群名是 `grp()` 定義的固定集合（龍／惡系、水系、火／超能系、超能系、電系、格鬥／草／鋼系、飛行系、一般／妖精系、火箭隊系等），成稿後逐項回查當日筆記原文。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 - 貼文交付後要驗證：前五 AWR／份額／三日變化與環境數字逐項比對 `memory/ptcgp_meta_<YYYYMMDD>_std_comb.json`，錯字也要出更正（2026-11-06 已發更正）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+
+## Promoted From Short-Term Memory (2026-11-14)
+
+<!-- openclaw-memory-promotion:memory:claim:6e37ad0c351b -->
+- --- <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela --> [score=0.771 signals=9 recalls=0 avg=0.620 source=memory/2026-11-10.md:1-1] <!-- trigger:  --> <!-- importance: 8 -->
