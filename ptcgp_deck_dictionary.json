@@ -1,7 +1,7 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.14",
+  "version": "4.15",
   "last_updated": "2026-11-14",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 791
+  "deck_names_count": 807
  },
  "corrections": [
   {
@@ -1400,7 +1400,23 @@
   "Suicune ex Mega Swampert ex": "水君ex 超級巨沼怪ex",
   "Team Rocket's Raticate ex Mega Pidgeot ex": "火箭隊的拉達 ex 超級大比鳥ex",
   "Umbreon Hoopa ex": "月亮伊布 胡帕ex",
-  "Umbreon ex Eevee ex": "月亮伊布ex 伊布ex"
+  "Umbreon ex Eevee ex": "月亮伊布ex 伊布ex",
+  "Aegislash Mega Mawile ex": "堅盾劍怪 超級大嘴娃ex",
+  "Alolan Ninetales ex Pidgeot": "阿羅拉 九尾ex 大比鳥",
+  "Crobat Umbreon": "叉字蝠 月亮伊布",
+  "Fuecoco ex Lopunny": "呆火鱷ex 長耳兔",
+  "Magnezone Mega Absol ex": "自爆磁怪 超級阿勃梭魯ex",
+  "Malamar Umbreon": "烏賊王 月亮伊布",
+  "Mega Charizard X ex Greninja": "超級噴火龍Xex 甲賀忍蛙",
+  "Mega Gallade ex Lucario": "超級艾路雷朵ex 路卡利歐",
+  "Mega Gyarados ex Milotic ex": "超級暴鯉龍ex 美納斯ex",
+  "Mega Mewtwo X ex Mimikyu ex": "超級超夢Xex 謎擬Ｑex",
+  "Mega Sceptile ex Mega Venusaur ex": "超級蜥蜴王ex 超級妙蛙花ex",
+  "Mega Sceptile ex Shaymin": "超級蜥蜴王ex 謝米",
+  "Mega Tyranitar ex Dusknoir": "超級班基拉斯ex 黑夜魔靈",
+  "Pidgeot Pikachu ex": "大比鳥 皮卡丘ex",
+  "Umbreon Pidgeot": "月亮伊布 大比鳥",
+  "Venusaur ex Indeedee ex": "妙蛙花ex 愛管侍ex"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
