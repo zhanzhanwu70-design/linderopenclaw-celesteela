@@ -9,7 +9,7 @@
 2. **蜂女王 ex** — **54.11%**（份額 5.05%，牌組數 415，1172-963-28，N=2,163；主分支「蜂女王ex 壺壺ex」54.28%／4.99%）：份額 5.03→**5.05%**、AWR 54.08→**54.11%**，止跌回升。壓胡帕 ex **73.3%**（N=172）、超級甲賀忍蛙 ex **78.2%**（N=55）、水君 ex **68.5%**（N=165）、月亮伊布 **69.1%**（N=81）、超級七夕青鳥 ex **55.9%**（N=68）；輸自爆磁怪 **91.8%**（N=85，自身 8.2%）、輸超級路卡利歐 ex **67.6%**（N=145，自身 32.4%）。**對胡帕線 73.3% 是今日全環境最硬的單一剋星位之一**（胡帕自身僅 25.6%）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 3. **超級七夕青鳥 ex** — **54.00%**（份額 8.42%，牌組數 692，1994-1584-112，N=3,690；兩大分支：甲賀忍蛙線 4.08%／54.50%、太陽伊布線 3.95%／54.48%）：份額 7.25→7.69→**8.42%（+0.73pt，今日全環境最大升幅）**，AWR 53.93→54.05→**54.00%**（微跌 0.05pt，實質持平）。**份額第三與 AWR 第三合一**，且這是「雙分支同步擴張、雙線 AWR 都 >54.4%」的高品質擴張，與超夢 X 的弱線獨撐是相反型態。壓路卡利歐 **62.1%**（N=95）、月亮伊布 **68.5%**（N=89）、自爆磁怪 **59.1%**（N=66）、三首惡龍 **58.8%**（N=34）、水君 ex **54.0%**（N=124）、超級噴火龍 Y ex **54.2%**（N=177）；輸胡帕 ex **66.7%**（N=117，自身 32.5%）、輸超級甲賀忍蛙 ex **61.2%**（N=67，自身 37.3%）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 4. **三首惡龍** — **53.89%**（份額 2.57%，牌組數 211，577-474-17，N=1,068；主分支「三首惡龍 超級阿勃梭魯ex」54.17%／2.09%）：AWR 54.19→54.14→**53.89%**（今日 −0.26pt），份額 2.44→2.48→**2.57%** 微升。低曝光高效率席位不變。壓自爆磁怪 **71.4%**（N=28）、騎拉帝納 ex **75.9%**（N=29）、蜂女王 ex **61.0%**（N=41）、超級噴火龍 Y ex **52.6%**（N=78）；輸胡帕 ex **61.8%**（N=55，自身 36.4%）、輸月亮伊布 **55.2%**（N=58，自身 43.1%）。對月亮伊布今日退潮 5.0pt 是 AWR 下滑主因。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-5. **胡帕 ex** — **53.23%**（份額 7.02%，牌組數 577，1645-1364-77，N=3,088；主分支「胡帕ex 超級阿勃梭魯ex」53.45%／5.83%）：份額 6.88→**7.02%** 續升，AWR 53.49→**53.23%**（−0.26pt），動能由 +0.06 轉負為 −0.26。壓騎拉帝納 ex **78.5%**（N=65）、超級雷電獸 ex **73.4%**（N=79）、超級超夢 X ex **73.4%**（N=64）、超級七夕青鳥 ex **66.7%**（N=117）、水君 ex **56.7%**（N=171）、超級甲賀忍蛙 ex **54.8%**（N=84）、超級噴火龍 Y ex **54.6%**（N=238）；輸蜂女王 ex **73.3%**（N=172，自身 25.6%）、輸自爆磁怪 **56.8%**（N=95，自身 41.1%）。**份額升但強度跌，與路卡利歐同型的靶心初期徵兆**；且它最大的剋星（蜂女王）份額仍在擴張。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+5. **胡帕 ex** — **53.23%**（份額 7.02%，牌組數 577，1645-1364-79，N=3,088；主分支「胡帕ex 超級阿勃梭魯ex」53.45%／5.83%）：份額 6.88→**7.02%** 續升，AWR 53.49→**53.23%**（−0.26pt），動能由 +0.06 轉負為 −0.26。壓騎拉帝納 ex **78.5%**（N=65）、超級雷電獸 ex **73.4%**（N=79）、超級超夢 X ex **73.4%**（N=64）、超級七夕青鳥 ex **66.7%**（N=117）、水君 ex **56.7%**（N=171）、超級甲賀忍蛙 ex **54.8%**（N=84）、超級噴火龍 Y ex **54.6%**（N=238）；輸蜂女王 ex **73.3%**（N=172，自身 25.6%）、輸自爆磁怪 **56.8%**（N=95，自身 41.1%）。**份額升但強度跌，與路卡利歐同型的靶心初期徵兆**；且它最大的剋星（蜂女王）份額仍在擴張。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 
 *第六名超級蒂安希ex 51.56%（0.64%，N=264）、第七名水君 ex 51.44%（8.01%，N=3,305）、第八名超級路卡利歐 ex 50.97%（5.88%，N=2,355）、第九名哈克龍 50.96%（1.05%，N=446）、第十名密勒頓ex 50.80%（1.41%，N=599）。* <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 
@@ -58,17 +58,16 @@
 
 ## 五、族群變化（合併口徑；11-13→11-14→11-15） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 
-- 族群　11-13　11-14　11-15 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 龍/惡系　28.35%／50.67%　28.63%／50.86%　**29.36%／50.80%**（份額續升，強度微跌） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 水系　22.31%／47.44%　22.07%／47.50%　22.01%／47.54%　（份額續跌，強度仍低於大盤 1.43pt） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 火/超能系　20.08%／48.52%　21.04%／48.59%　**21.45%／48.77%**（份額與強度同升） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 電系　14.50%／49.52%　14.42%／49.57%　**14.53%／49.43%**（份額微升、強度續跌） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 格鬥/草/鋼系　12.04%／49.12%　12.71%／48.72%　**12.74%／48.66%**（路卡利歐靶心拖累族群） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 超能系　10.48%／48.21%　10.36%／48.12%　**10.16%／48.04%**（五連降，今日跌破 10.2%） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 其他　8.45%／49.98%　8.82%／50.22%　9.25%／50.09% <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 一般/妖精系　2.23%／44.20%　2.34%／44.68%　2.36%／45.59% <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 飛行系　1.38%／38.97%　1.37%／39.42%　1.38%／39.89% <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
-- 火箭隊系　0.62%／40.57%　0.69%／41.44%　0.69%／42.01% <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **龍／惡系**：28.35%／50.67% → 28.63%／50.86% → **29.36%／50.80%**。份額 +0.73pt 續升但強度微跌 0.06pt，仍是最大族群與資金池；胡帕 ex 份額升、強度跌是族群層面的內部分化。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **水系**：22.31%／47.44% → 22.07%／47.50% → **22.01%／47.54%**。份額續跌、強度微升，族群 AWR 仍低於大盤 1.43pt。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **火／超能系**：20.08%／48.52% → 21.04%／48.59% → **21.45%／48.77%**。連兩日份額上升且今日強度也升，是唯一份額與強度同升的族群（噴火龍 Y ex 持續吸金）。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **電系**：14.50%／49.52% → 14.42%／49.57% → **14.53%／49.43%**。份額微升但強度續跌 0.14pt，自爆磁怪份額破 4% 卻 AWR 見頂，是族群轉弱的先行訊號。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **格鬥／草／鋼系**：12.04%／49.12% → 12.71%／48.72% → **12.74%／48.66%**。份額續升、強度續跌，路卡利歐的靶心效應仍在拖累族群。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **超能系**：10.48%／48.21% → 10.36%／48.12% → **10.16%／48.04%**。五連降，今日跌破 10.2%，族群 AWR 連五跌。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **其他**：8.45%／49.98% → 8.82%／50.22% → **9.25%／50.09%**。份額續升、強度持平。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **一般／妖精系**：2.23%／44.20% → 2.34%／44.68% → **2.36%／45.59%**。AWR 連兩日回升，但仍是低於大盤的族群。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **飛行系**：1.38%／38.97% → 1.37%／39.42% → **1.38%／39.89%**。份額不動、強度微升，仍是最差族群。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- **火箭隊系**：0.62%／40.57% → 0.69%／41.44% → **0.69%／42.01%**。AWR 緩升但仍低於大盤 6.96pt，零回潮。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 
 **族群判讀**：最大族群（龍/惡系 29.36%）仍高於大盤 1.83pt，是資金池；火/超能系是唯一份額與強度同升的族群（21.45%／48.77%）；**水系是環境最大效率黑洞**（22.01% 份額、族群 AWR 47.54%），但這是因為族群裡塞了 43.74% 的忍蛙系——**水君 ex 本身 51.44% 高於大盤 2.47pt**，族群平均被拖累而非水君本身弱。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
 
