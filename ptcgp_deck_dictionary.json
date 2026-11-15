@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.13",
-  "last_updated": "2026-11-13",
+  "version": "4.14",
+  "last_updated": "2026-11-14",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 766
+  "deck_names_count": 791
  },
  "corrections": [
   {
@@ -1375,7 +1375,32 @@
   "Mega Greninja ex Milotic ex": "超級甲賀忍蛙ex 美納斯ex",
   "Mega Sharpedo ex Dewgong": "超級巨牙鯊ex 白海獅",
   "Team Rocket's Weezing ex Umbreon": "火箭隊的雙彈瓦斯 ex 月亮伊布",
-  "Umbreon Aerodactyl": "月亮伊布 化石翼龍"
+  "Umbreon Aerodactyl": "月亮伊布 化石翼龍",
+  "Charizard Flareon": "噴火龍 火伊布",
+  "Charizard Flareon ex": "噴火龍 火伊布ex",
+  "Dragonite Mega Rayquaza ex": "快龍 超級烈空坐ex",
+  "Flutter Mane ex Greninja": "振翼髮ex 甲賀忍蛙",
+  "Garchomp Mantyke": "烈咬陸鯊 小球飛魚",
+  "Haxorus Meowth": "雙斧戰龍 喵喵",
+  "Incineroar ex Ceruledge": "熾焰咆哮虎ex 蒼炎刃鬼",
+  "Jigglypuff Igglybuff": "胖丁 寶寶丁",
+  "Jolteon ex Tapu Koko ex": "雷伊布ex 卡璞・鳴鳴ex",
+  "Jumpluff ex Team Rocket's Electrode": "毽子棉ex 火箭隊的頑皮彈",
+  "Mega Audino ex Indeedee ex": "超級差不多娃娃ex 愛管侍ex",
+  "Mega Gyarados ex Manaphy": "超級暴鯉龍ex 瑪納霏",
+  "Mega Mewtwo X ex Mewtwo ex": "超級超夢Xex 超夢ex",
+  "Mega Sableye ex Hoopa ex": "超級勾魂眼ex 胡帕ex",
+  "Mega Sceptile ex Goomy": "超級蜥蜴王ex 黏黏寶",
+  "Mega Skarmory ex Pichu": "超級盔甲鳥ex 皮丘",
+  "Mega Skarmory ex Unown": "超級盔甲鳥ex 未知圖騰",
+  "Mew ex Mimikyu ex": "夢幻ex 謎擬Ｑex",
+  "Milotic ex Chien-Pao ex": "美納斯ex 古劍豹ex",
+  "Raikou ex Miraidon ex": "雷公ex 密勒頓ex",
+  "Solgaleo ex Suicune ex": "索爾迦雷歐ex 水君ex",
+  "Suicune ex Mega Swampert ex": "水君ex 超級巨沼怪ex",
+  "Team Rocket's Raticate ex Mega Pidgeot ex": "火箭隊的拉達 ex 超級大比鳥ex",
+  "Umbreon Hoopa ex": "月亮伊布 胡帕ex",
+  "Umbreon ex Eevee ex": "月亮伊布ex 伊布ex"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2920,7 +2945,7 @@
   "Juliana": "小青",
   "Kid's Room": "兒童房"
  },
- "last_updated": "2026-11-13",
+ "last_updated": "2026-11-14",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",

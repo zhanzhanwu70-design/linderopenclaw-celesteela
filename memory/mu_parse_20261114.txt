@@ -1,0 +1,216 @@
+== Alolan Exeggutor ex Ribombee 84
+   Mega Charizard Y ex Entei ex                          28.0%  N=25
+   Umbreon Hydreigon                                     78.3%  N=23
+   Giratina ex Dragonair                                 42.9%  N=21
+   Suicune ex Baxcalibur                                  9.5%  N=21
+   Mega Mewtwo X ex Mew ex                               36.8%  N=19
+   Mega Greninja ex Greninja ex                          43.8%  N=16
+   Mega Greninja ex Suicune ex                           60.0%  N=15
+   Hoopa ex Mega Absol ex                                61.5%  N=13
+== Giratina ex Dragonair 206
+   Mega Charizard Y ex Entei ex                          44.1%  N=143
+   Suicune ex Baxcalibur                                 59.4%  N=101
+   Umbreon Hydreigon                                     45.3%  N=95
+   Hoopa ex Mega Absol ex                                18.5%  N=65
+   Vespiquen ex Shuckle ex                               65.6%  N=64
+   Mega Manectric ex Heliolisk                           42.9%  N=63
+   Mega Altaria ex Espeon                                50.0%  N=60
+   Mega Greninja ex Greninja ex                          69.0%  N=58
+== Greninja ex Mega Greninja ex 181
+   Mega Charizard Y ex Entei ex                          59.0%  N=139
+   Umbreon Hydreigon                                     60.5%  N=81
+   Hoopa ex Mega Absol ex                                41.1%  N=73
+   Suicune ex Baxcalibur                                 41.5%  N=65
+   Greninja ex Mega Greninja ex                          46.3%  N=54
+   Magnezone Miraidon ex                                 21.6%  N=51
+   Mega Manectric ex Heliolisk                           28.6%  N=49
+   Mega Greninja ex Greninja ex                          58.7%  N=46
+== Hoopa ex Mega Absol ex 217
+   Mega Charizard Y ex Entei ex                          55.1%  N=227
+   Hoopa ex Mega Absol ex                                48.8%  N=170
+   Vespiquen ex Shuckle ex                               26.0%  N=169
+   Suicune ex Baxcalibur                                 57.1%  N=161
+   Mega Lucario ex Lucario                               46.3%  N=123
+   Mega Altaria ex Espeon                                65.8%  N=111
+   Umbreon Hydreigon                                     61.7%  N=94
+   Magnezone Miraidon ex                                 41.6%  N=89
+== Hydreigon Mega Absol ex 126
+   Mega Charizard Y ex Entei ex                          53.9%  N=76
+   Suicune ex Baxcalibur                                 43.6%  N=55
+   Hoopa ex Mega Absol ex                                35.2%  N=54
+   Umbreon Hydreigon                                     48.1%  N=52
+   Vespiquen ex Shuckle ex                               61.5%  N=39
+   Mega Greninja ex Greninja ex                          48.5%  N=33
+   Mega Altaria ex Espeon                                43.8%  N=32
+   Giratina ex Dragonair                                 75.9%  N=29
+== Lopunny Raboot 112
+   Mega Charizard Y ex Entei ex                          44.2%  N=52
+   Suicune ex Baxcalibur                                 26.3%  N=38
+   Umbreon Hydreigon                                     41.7%  N=24
+   Mega Lucario ex Lucario                               55.0%  N=20
+   Mega Greninja ex Greninja ex                          77.8%  N=18
+   Greninja ex Mega Greninja ex                          44.4%  N=18
+   Mega Manectric ex Heliolisk                           22.2%  N=18
+   Magnezone Miraidon ex                                 64.7%  N=17
+== Magnezone Miraidon ex 181
+   Mega Charizard Y ex Entei ex                          46.2%  N=169
+   Magnezone Miraidon ex                                 48.1%  N=108
+   Hoopa ex Mega Absol ex                                56.2%  N=89
+   Vespiquen ex Shuckle ex                               91.6%  N=83
+   Suicune ex Baxcalibur                                 55.4%  N=83
+   Mega Lucario ex Lucario                               42.7%  N=82
+   Umbreon Hydreigon                                     42.1%  N=76
+   Mega Altaria ex Espeon                                39.7%  N=63
+== Mega Altaria ex Espeon 184
+   Mega Charizard Y ex Entei ex                          56.8%  N=162
+   Suicune ex Baxcalibur                                 52.9%  N=121
+   Hoopa ex Mega Absol ex                                33.3%  N=111
+   Umbreon Hydreigon                                     67.1%  N=85
+   Mega Lucario ex Lucario                               60.0%  N=85
+   Vespiquen ex Shuckle ex                               39.4%  N=66
+   Magnezone Miraidon ex                                 57.1%  N=63
+   Mega Greninja ex Greninja ex                          38.1%  N=63
+== Mega Altaria ex Greninja 199
+   Mega Charizard Y ex Entei ex                          52.4%  N=147
+   Suicune ex Baxcalibur                                 55.7%  N=115
+   Umbreon Hydreigon                                     59.5%  N=79
+   Vespiquen ex Shuckle ex                               57.3%  N=75
+   Hoopa ex Mega Absol ex                                35.6%  N=73
+   Mega Lucario ex Lucario                               74.6%  N=67
+   Mega Altaria ex Greninja                              48.3%  N=60
+   Magnezone Miraidon ex                                 43.1%  N=51
+== Mega Charizard Y ex Entei ex 306
+   Mega Charizard Y ex Entei ex                          48.6%  N=552
+   Suicune ex Baxcalibur                                 26.5%  N=279
+   Umbreon Hydreigon                                     49.2%  N=254
+   Hoopa ex Mega Absol ex                                41.4%  N=227
+   Vespiquen ex Shuckle ex                               52.3%  N=199
+   Mega Lucario ex Lucario                               55.9%  N=179
+   Magnezone Miraidon ex                                 52.1%  N=169
+   Mega Altaria ex Espeon                                40.7%  N=162
+== Mega Greninja ex Greninja ex 201
+   Mega Charizard Y ex Entei ex                          43.8%  N=146
+   Umbreon Hydreigon                                     58.2%  N=98
+   Suicune ex Baxcalibur                                 28.4%  N=95
+   Hoopa ex Mega Absol ex                                42.7%  N=82
+   Mega Greninja ex Greninja ex                          48.5%  N=68
+   Mega Altaria ex Espeon                                60.3%  N=63
+   Mega Manectric ex Heliolisk                           30.5%  N=59
+   Giratina ex Dragonair                                 31.0%  N=58
+== Mega Greninja ex Suicune ex 158
+   Mega Charizard Y ex Entei ex                          50.6%  N=87
+   Umbreon Hydreigon                                     46.0%  N=50
+   Mega Greninja ex Suicune ex                           47.6%  N=42
+   Suicune ex Baxcalibur                                 33.3%  N=42
+   Giratina ex Dragonair                                 29.3%  N=41
+   Mega Greninja ex Greninja ex                          50.0%  N=40
+   Pikachu ex Pawmot                                     55.6%  N=27
+   Greninja ex Mega Greninja ex                          42.3%  N=26
+== Mega Lucario ex Lucario 196
+   Mega Charizard Y ex Entei ex                          42.5%  N=179
+   Mega Lucario ex Lucario                               49.3%  N=152
+   Vespiquen ex Shuckle ex                               66.9%  N=142
+   Suicune ex Baxcalibur                                 61.4%  N=140
+   Hoopa ex Mega Absol ex                                52.8%  N=123
+   Mega Altaria ex Espeon                                36.5%  N=85
+   Magnezone Miraidon ex                                 54.9%  N=82
+   Umbreon Hydreigon                                     50.7%  N=73
+== Mega Manectric ex Heliolisk 180
+   Mega Charizard Y ex Entei ex                          43.1%  N=130
+   Suicune ex Baxcalibur                                 54.4%  N=103
+   Umbreon Hydreigon                                     39.5%  N=81
+   Hoopa ex Mega Absol ex                                24.0%  N=75
+   Vespiquen ex Shuckle ex                               42.2%  N=64
+   Giratina ex Dragonair                                 55.6%  N=63
+   Mega Greninja ex Greninja ex                          66.1%  N=59
+   Mega Altaria ex Espeon                                50.9%  N=53
+== Mega Mewtwo X ex Mega Diancie ex 110
+   Mega Charizard Y ex Entei ex                          42.9%  N=70
+   Mega Mewtwo X ex Mega Diancie ex                      50.0%  N=36
+   Suicune ex Baxcalibur                                 46.9%  N=32
+   Magnezone Miraidon ex                                 46.4%  N=28
+   Mega Lucario ex Lucario                               51.9%  N=27
+   Vespiquen ex Shuckle ex                               66.7%  N=21
+   Hoopa ex Mega Absol ex                                55.6%  N=18
+   Mega Altaria ex Greninja                              29.4%  N=17
+== Mega Mewtwo X ex Mew ex 176
+   Mega Charizard Y ex Entei ex                          48.0%  N=127
+   Suicune ex Baxcalibur                                 62.5%  N=64
+   Hoopa ex Mega Absol ex                                26.6%  N=64
+   Umbreon Hydreigon                                     38.1%  N=63
+   Vespiquen ex Shuckle ex                               66.7%  N=51
+   Mega Mewtwo X ex Mew ex                               47.9%  N=48
+   Mega Altaria ex Espeon                                29.2%  N=48
+   Mega Lucario ex Lucario                               65.1%  N=43
+== Mega Sceptile ex Greninja 151
+   Mega Charizard Y ex Entei ex                          41.8%  N=110
+   Suicune ex Baxcalibur                                 39.5%  N=81
+   Mega Lucario ex Lucario                               50.9%  N=55
+   Umbreon Hydreigon                                     69.8%  N=43
+   Mega Greninja ex Greninja ex                          44.2%  N=43
+   Mega Altaria ex Espeon                                40.5%  N=42
+   Hoopa ex Mega Absol ex                                65.9%  N=41
+   Mega Altaria ex Greninja                              53.7%  N=41
+== Miraidon ex Magnezone 113
+   Mega Charizard Y ex Entei ex                          52.3%  N=65
+   Hoopa ex Mega Absol ex                                40.5%  N=37
+   Suicune ex Baxcalibur                                 58.8%  N=34
+   Mega Greninja ex Greninja ex                          77.8%  N=27
+   Umbreon Hydreigon                                     44.0%  N=25
+   Mega Manectric ex Heliolisk                           58.3%  N=24
+   Vespiquen ex Shuckle ex                               54.2%  N=24
+   Mega Mewtwo X ex Mew ex                               31.8%  N=22
+== Pikachu ex Pawmot 127
+   Mega Charizard Y ex Entei ex                          41.8%  N=55
+   Mega Greninja ex Greninja ex                          58.3%  N=36
+   Giratina ex Dragonair                                 42.9%  N=28
+   Suicune ex Baxcalibur                                 35.7%  N=28
+   Umbreon Hydreigon                                     28.6%  N=28
+   Mega Greninja ex Suicune ex                           40.7%  N=27
+   Hoopa ex Mega Absol ex                                27.3%  N=22
+   Mega Lucario ex Lucario                               27.8%  N=18
+== Suicune ex Baxcalibur 263
+   Mega Charizard Y ex Entei ex                          69.5%  N=279
+   Suicune ex Baxcalibur                                 49.1%  N=218
+   Hoopa ex Mega Absol ex                                40.4%  N=161
+   Vespiquen ex Shuckle ex                               29.4%  N=160
+   Umbreon Hydreigon                                     66.0%  N=150
+   Mega Lucario ex Lucario                               36.4%  N=140
+   Mega Altaria ex Espeon                                43.8%  N=121
+   Mega Altaria ex Greninja                              38.3%  N=115
+== Umbreon Hydreigon 259
+   Mega Charizard Y ex Entei ex                          50.0%  N=254
+   Suicune ex Baxcalibur                                 31.3%  N=150
+   Umbreon Hydreigon                                     49.2%  N=132
+   Mega Greninja ex Greninja ex                          41.8%  N=98
+   Giratina ex Dragonair                                 51.6%  N=95
+   Hoopa ex Mega Absol ex                                36.2%  N=94
+   Mega Altaria ex Espeon                                31.8%  N=85
+   Mega Manectric ex Heliolisk                           59.3%  N=81
+== Umbreon Mega Absol ex 131
+   Mega Charizard Y ex Entei ex                          64.5%  N=62
+   Umbreon Hydreigon                                     52.2%  N=46
+   Suicune ex Baxcalibur                                 35.9%  N=39
+   Hoopa ex Mega Absol ex                                37.9%  N=29
+   Giratina ex Dragonair                                 76.9%  N=26
+   Greninja ex Mega Greninja ex                          39.1%  N=23
+   Mega Greninja ex Greninja ex                          70.0%  N=20
+   Magnezone Miraidon ex                                 68.4%  N=19
+== Umbreon Mega Sableye ex 114
+   Umbreon Mega Sableye ex                               45.7%  N=46
+   Mega Charizard Y ex Entei ex                          68.2%  N=44
+   Giratina ex Dragonair                                 56.1%  N=41
+   Suicune ex Baxcalibur                                 41.7%  N=36
+   Umbreon Hydreigon                                     55.9%  N=34
+   Hoopa ex Mega Absol ex                                32.0%  N=25
+   Mega Mewtwo X ex Mew ex                               61.9%  N=21
+   Mega Altaria ex Espeon                                42.9%  N=21
+== Vespiquen ex Shuckle ex 202
+   Mega Charizard Y ex Entei ex                          47.7%  N=199
+   Hoopa ex Mega Absol ex                                72.8%  N=169
+   Vespiquen ex Shuckle ex                               49.4%  N=162
+   Suicune ex Baxcalibur                                 69.4%  N=160
+   Mega Lucario ex Lucario                               33.1%  N=142
+   Magnezone Miraidon ex                                  8.4%  N=83
+   Umbreon Hydreigon                                     68.8%  N=80
+   Mega Altaria ex Greninja                              41.3%  N=75
