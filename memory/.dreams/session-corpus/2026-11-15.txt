@@ -1,0 +1,1 @@
+[celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L23005] Assistant: Operational; ready for tasks. Heartbeat scratch = `HEARTBEAT_OK`，無待辦。 （註：本次 scratch 讀取第一次逾時未回，重新執行才拿到值；若之後 heartbeat turn 再現這種空輸出，當作暫時性 CLI 卡頓處理，重試一次即可。）

@@ -1,0 +1,2 @@
+[celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L22993] Assistant: Operational; ready for tasks. Heartbeat scratch = `HEARTBEAT_OK`，無待辦。 逾時根因已確認：`agents.defaults.heartbeat.target=last` 會喚醒本 session，所以逾時的那個 turn 就是我自己的 heartbeat 回覆——11-13、11-14 連兩天 03:25 都撞 600 秒上限，原因是我在 heartbeat turn 裡做了太多查核工具呼叫。對策已寫入 `memory/2026-11-13.
+[celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L22997] Assistant: Operational; ready for tasks. Heartbeat scratch = `HEARTBEAT_OK`，無待辦。
