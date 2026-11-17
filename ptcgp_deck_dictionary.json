@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.15",
-  "last_updated": "2026-11-14",
+  "version": "4.16",
+  "last_updated": "2026-11-16",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,8 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 807
+  "deck_names_count": 819,
+  "card_names_count": 1542
  },
  "corrections": [
   {
@@ -1416,7 +1417,19 @@
   "Mega Tyranitar ex Dusknoir": "超級班基拉斯ex 黑夜魔靈",
   "Pidgeot Pikachu ex": "大比鳥 皮卡丘ex",
   "Umbreon Pidgeot": "月亮伊布 大比鳥",
-  "Venusaur ex Indeedee ex": "妙蛙花ex 愛管侍ex"
+  "Venusaur ex Indeedee ex": "妙蛙花ex 愛管侍ex",
+  "Alolan Exeggutor ex Alolan Exeggutor": "阿羅拉 椰蛋樹ex 阿羅拉 椰蛋樹",
+  "Charizard Entei ex": "噴火龍 炎帝ex",
+  "Darkrai ex Umbreon": "達克萊伊ex 月亮伊布",
+  "Dedenne ex Team Rocket's Electrode": "咚咚鼠ex 火箭隊的頑皮彈",
+  "Fuecoco ex Charmeleon": "呆火鱷ex 火恐龍",
+  "Galarian Obstagoon Umbreon ex": "伽勒爾 堵攔熊 月亮伊布ex",
+  "Lycanroc ex Claydol": "鬃岩狼人ex 念力土偶",
+  "Lycanroc ex Mega Gallade ex": "鬃岩狼人ex 超級艾路雷朵ex",
+  "Mega Ampharos ex Ampharos": "超級電龍ex 電龍",
+  "Mega Houndoom ex Castform Sunny Form": "超級黑魯加ex 漂浮泡泡 太陽的樣子",
+  "Team Rocket's Raticate ex Jolteon ex": "火箭隊的拉達 ex 雷伊布ex",
+  "Team Rocket's Raticate ex Team Rocket's Electrode": "火箭隊的拉達 ex 火箭隊的頑皮彈"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2959,9 +2972,10 @@
   "Calem": "卡魯穆",
   "Hiking Trail": "健行步道",
   "Juliana": "小青",
-  "Kid's Room": "兒童房"
+  "Kid's Room": "兒童房",
+  "Mega Houndoom ex": "超級黑魯加ex"
  },
- "last_updated": "2026-11-14",
+ "last_updated": "2026-11-16",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
