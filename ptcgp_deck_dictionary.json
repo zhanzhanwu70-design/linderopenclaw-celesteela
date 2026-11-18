@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.16",
-  "last_updated": "2026-11-16",
+  "version": "4.17",
+  "last_updated": "2026-11-17",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,8 +15,8 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 819,
-  "card_names_count": 1542
+  "deck_names_count": 826,
+  "card_names_count": 1543
  },
  "corrections": [
   {
@@ -1429,7 +1429,14 @@
   "Mega Ampharos ex Ampharos": "超級電龍ex 電龍",
   "Mega Houndoom ex Castform Sunny Form": "超級黑魯加ex 漂浮泡泡 太陽的樣子",
   "Team Rocket's Raticate ex Jolteon ex": "火箭隊的拉達 ex 雷伊布ex",
-  "Team Rocket's Raticate ex Team Rocket's Electrode": "火箭隊的拉達 ex 火箭隊的頑皮彈"
+  "Team Rocket's Raticate ex Team Rocket's Electrode": "火箭隊的拉達 ex 火箭隊的頑皮彈",
+  "Dewgong Mantyke": "白海獅 小球飛魚",
+  "Flutter Mane ex Gardevoir": "振翼髮ex 沙奈朵",
+  "Hydreigon Absol": "三首惡龍 阿勃梭魯",
+  "Mega Blastoise ex Cryogonal": "超級水箭龜ex 幾何雪花",
+  "Mega Mewtwo X ex Mega Audino ex": "超級超夢Xex 超級差不多娃娃ex",
+  "Pikachu ex Galvantula": "皮卡丘ex 電蜘蛛",
+  "Suicune ex Inteleon": "水君ex 狙射樹梟"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2973,9 +2980,10 @@
   "Hiking Trail": "健行步道",
   "Juliana": "小青",
   "Kid's Room": "兒童房",
-  "Mega Houndoom ex": "超級黑魯加ex"
+  "Mega Houndoom ex": "超級黑魯加ex",
+  "Inteleon": "狙射樹梟"
  },
- "last_updated": "2026-11-16",
+ "last_updated": "2026-11-17",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",

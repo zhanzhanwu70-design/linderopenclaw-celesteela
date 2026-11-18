@@ -4,7 +4,7 @@ import io, os
 
 TAG = '<!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->'
 
-NOTE = f"""# 2026-11-16 PTCGP Meta 每日摘要（晚間 20:05，C1 第十九日） {TAG}
+NOTE = f"""## 2026-11-16 PTCGP Meta 每日摘要（晚間 20:05，C1 第十九日） {TAG}
 
 ### 資料狀態 {TAG}
 - C1 Standard：72 錦標賽／8,555 玩家／26,341 對局，較 11-15 增加 4 場／337 人／**1,103 對局（+4.37%）**；分支 646 條、合併 190 條（昨 631／188）；全環境加權 AWR **48.99%**（+0.02pt）。Standard 與 set=C1 頁逐 slug 一致（646 = 646）；B4a 頁仍凍結於 210／15,008／38,924（連續二十天）。 {TAG}
