@@ -29,25 +29,6 @@
 - 處理流程：下載 → 截圖分析 → 寫 wiki → 回報 Discord
 - Whisper API 配額不足時用 frame analysis 截圖代替
 
-## Promoted From Short-Term Memory (2026-07-18)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:5:5 -->
-- 今日處理記錄: **YouTube 影片處理：** [score=0.818 recalls=0 avg=0.620 source=memory/2026-07-12.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:10:13 -->
-- 今日 Meta 分析（2026-07-13 已發布）: 超級七夕青鳥 + 太陽伊布 52.48%; 超級蜥蜴王 ex + 忍蛙 52.37%; 美納斯 ex + 獅烈颚 ex 52.29%; 愛管仕 ex + 騎拉帝納 51.96% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:10-13]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:14:15 -->
-- 今日 Meta 分析（2026-07-13 已發布）: 超級雷電獸 ex + 傑拉 51.40%; 超級路卡利歐 ex 51.20% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:14-15]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:17:17 -->
-- 今日 Meta 分析（2026-07-13 已發布）: **強度分級：** [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:17-17]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:18:21 -->
-- 今日 Meta 分析（2026-07-13 已發布）: T0：佐羅克+阿博梭魯 / 密樂頓 / 水君+戟脊龍（53%+）; T1：火焰雞 / 七夕青鳥 / 蜥蜴王 / 美納斯+獅烈颚 / 愛管仕（51-53%）; T1.5：雷電獸 / 路卡利歐 / 三眼奪魂+勾魂眼（50-52%）; T2：巴大蝶+蜥蜴王（48.77%） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:18-21]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:22:22 -->
-- 今日 Meta 分析（2026-07-13 已發布）: 陷阱：Greninja+超級勾魂眼 ex（47.48%，使用率12.5%） [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:22-22]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:24:24 -->
-- 今日 Meta 分析（2026-07-13 已發布）: **Cron 故障原因：** MiniMax API 短暫過載（overloaded），7次連續錯誤，非程式碼問題。 [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:24-24]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:6:9 -->
-- 今日 Meta 分析（2026-07-13 已發布）: 佐羅克 ex + 阿博梭魯 ex 53.44% 🌟 新AWR王; 密樂頓 ex + 自爆磁怪 53.15%（使用率 18.1%）; 水君 ex + 戟脊龍 53.05%; 超級火焰雞 ex + 忍蛙 52.82% [score=0.806 recalls=0 avg=0.620 source=memory/2026-07-13.md:6-9]
-
 ## Promoted From Short-Term Memory (2026-07-19)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:5:5 -->
@@ -94,3 +75,8 @@
 
 <!-- openclaw-memory-promotion:memory:claim:6e37ad0c351b -->
 - --- <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela --> [score=0.771 signals=9 recalls=0 avg=0.620 source=memory/2026-11-10.md:1-1] <!-- trigger:  --> <!-- importance: 8 -->
+
+## Promoted From Short-Term Memory (2026-11-19)
+
+<!-- openclaw-memory-promotion:memory:claim:c5e70decff6b -->
+- 新卡／規則影響 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->: 今日無新卡包或規則變更。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela --> [score=0.854 signals=11 recalls=0 avg=0.620 source=memory/2026-11-15.md:35-35] <!-- trigger: 規則, 影響, 今日 --> <!-- importance: 9 -->

@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.17",
-  "last_updated": "2026-11-17",
+  "version": "4.18",
+  "last_updated": "2026-11-18",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 826,
+  "deck_names_count": 841,
   "card_names_count": 1543
  },
  "corrections": [
@@ -1436,7 +1436,22 @@
   "Mega Blastoise ex Cryogonal": "超級水箭龜ex 幾何雪花",
   "Mega Mewtwo X ex Mega Audino ex": "超級超夢Xex 超級差不多娃娃ex",
   "Pikachu ex Galvantula": "皮卡丘ex 電蜘蛛",
-  "Suicune ex Inteleon": "水君ex 狙射樹梟"
+  "Suicune ex Inteleon": "水君ex 狙射樹梟",
+  "Brambleghast Mega Audino ex": "怖納噬草 超級差不多娃娃ex",
+  "Charizard Typhlosion ex": "噴火龍 火爆獸ex",
+  "Dedenne ex Furfrou": "咚咚鼠ex 多麗米亞",
+  "Eevee ex Espeon ex": "伊布ex 太陽伊布ex",
+  "Gengar ex Mega Diancie ex": "耿鬼ex 超級蒂安希ex",
+  "Greninja Lurantis": "甲賀忍蛙 蘭螳花",
+  "Growlithe Rockruff": "卡蒂狗 岩狗狗",
+  "Hydreigon Igglybuff": "三首惡龍 寶寶丁",
+  "Mega Ampharos ex Greninja": "超級電龍ex 甲賀忍蛙",
+  "Mega Lucario ex Dugtrio": "超級路卡利歐 ex 三地鼠",
+  "Mew ex Mega Kangaskhan ex": "夢幻ex 超級袋獸ex",
+  "Musharna Darkrai": "夢夢蝕 達克萊伊",
+  "Pidgeot Rampardos": "大比鳥 戰槌龍",
+  "Primarina ex Primarina": "西獅海壬ex 西獅海壬",
+  "Team Rocket's Weezing ex Toxapex": "火箭隊的雙彈瓦斯 ex 超壞星"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2983,7 +2998,7 @@
   "Mega Houndoom ex": "超級黑魯加ex",
   "Inteleon": "狙射樹梟"
  },
- "last_updated": "2026-11-17",
+ "last_updated": "2026-11-18",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
