@@ -79,12 +79,12 @@ If unsure whether text is user-visible, treat it as user-visible and do not use 
 - Video workspace: `video/`, `video2/`, `video3/`
 
 ### 卡圖工作區
-- 卡圖目錄: `cards/`（23個系列，DB 記錄 3792 張含 C1）
+- 卡圖目錄: `cards/`（25個系列，DB 記錄 4039 張含 C1／B3／P-C）
 - 卡圖下載: `scripts/download_limitless.sh`（從 Limitless TCG 網站）
 - 卡號格式: `{SET}_{NUM}.webp`，例如 `A1_001.webp`, `B2a_042.webp`
 
 ### 卡片資料庫
-- 完整資料: `memory/ptcgp_cards_full.json`（3792張卡，含 C1 雙元融合 217 張）
+- 完整資料: `memory/ptcgp_cards_full.json`（4039張卡，25 系列；含 C1 雙元融合 217 張、B3 234 張、Promo-C 13 張）
 - 欄位: name, type, hp, weakness, retreat, attacks（+ stage / ability / attack_details）
 - 查詢方式: `node -e "const d=require('./memory/ptcgp_cards_full.json'); console.log(d['A1_001'])"`
 - 卡圖路徑: `cards/{SET}/{SET}_{NUM}.webp`
@@ -119,7 +119,7 @@ If unsure whether text is user-visible, treat it as user-visible and do not use 
 | B2 Fantastical Parade | cards/B2/ | 234 |
 | B2a Paldean Wonders | cards/B2a/ | 131 |
 | B2b Mega Shine | cards/B2b/ | 117 |
-| B3 Pulsing Aura | cards/B3/ | 234（卡圖已下載）|
+| B3 Pulsing Aura | cards/B3/ | 234（卡圖已下載；2026-11-19 補入本地卡庫）|
 | B3a Paradox Drive | cards/B3a/ | 109 |
 | B3b Everyday Wonders | cards/B3b/ | 106（2026-06-30 新卡包，2026-11-19 補齊）|
 | B4 Ruler of Skies | cards/B4/ | 233（2026-07-30 新擴展）|
@@ -127,8 +127,9 @@ If unsure whether text is user-visible, treat it as user-visible and do not use 
 | C1 Dual Fusion 雙元融合 | cards/C1/ | 217（2026-10-29 新卡包，C系列首發）|
 | P-A Promo-A | cards/P-A/ | 117 |
 | P-B Promo-B | cards/P-B/ | 40 |
+| P-C Promo-C | cards/P-C/ | 13（2026-11-19 新系列，含超級超夢 Y ex 170HP；卡圖未下載）|
 
-> 卡圖總數：DB 記錄 3792 張（含 C1 新卡 217 張）| 卡圖實際下載：B2b/B3/B3a/B3b/B4/C1 有圖
+> 卡圖總數：DB 記錄 4039 張（25 系列，含 C1 217 張、B3 234 張、P-C 13 張）| 卡圖實際下載：B2b/B3/B3a/B3b/B4/C1 有圖
 
 ### YouTube 影片下載
 ```bash
@@ -195,4 +196,4 @@ OPENAI_API_KEY_DIR = /home/amr/.openclaw/secrets/openai-api-key.txt
 - 翻譯更新 `72a0c6ef-3762-4ec5-b529-0cc1d9c585eb`：**已停用**（enabled=false，最後成功 2026-08-11）。字典翻譯改由每日 Meta job 順帶處理。
 - Video Auto-Monitor `a938be42-bca6-4ba0-8e6f-141f2b8b2fab`：**已刪除**（automation not found）。
 - 本機原生 heartbeat `46242a4c-915b-4f97-9163-5fd924f1f81e`（heartbeat:celesteela，每 30 分鐘）：payload=heartbeat，靠 scratch 傳遞狀態，`openclaw cron scratch <id>` 可讀寫。舊的 `~/.openclaw/task-queue/heartbeat_check.py` 機制已不存在，不要再找。
-- Celesteela Keep-Alive `880b5c17-1395-494b-8ed5-a25282eb8699`（每 3 小時探活，delivery=none）：2026-11-19 13:02 起 payload 為自足巡檢清單 + `lightContext=true` + `timeoutSeconds=600`，fallbacks 三路不重複（minimax/MiniMax-M3 → minimax-portal/MiniMax-M2.7 → minimax-portal/MiniMax-M2.7-highspeed）。診斷狀態寫在該 job 的 scratch。cron 執行期用 `automations` 工具受限（只允許讀自身），改設定要走 `openclaw cron edit <id> ...`。
+- Celesteela Keep-Alive `880b5c17-1395-494b-8ed5-a25282eb8699`（每 3 小時探活，delivery=none）：2026-11-19 13:02 起 payload 為自足巡檢清單 + `lightContext=true` + `timeoutSeconds=600`，fallbacks 於 2026-11-19 22:02 核對為全域正規化後的兩路不重複（minimax/MiniMax-M3 → minimax-portal/MiniMax-M2.7；`MiniMax-M2.7-highspeed` 已從全部 24 個有 fallback 的 job 移除，非本 job 個別狀態，勿再單獨補回、勿與它們對抗）。診斷狀態寫在該 job 的 scratch。cron 執行期用 `automations` 工具受限（只允許讀自身），改設定要走 `openclaw cron edit <id> ...`。

@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.18",
-  "last_updated": "2026-11-18",
+  "version": "4.19",
+  "last_updated": "2026-11-19",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,8 +15,8 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 841,
-  "card_names_count": 1543
+  "deck_names_count": 851,
+  "card_names_count": 1544
  },
  "corrections": [
   {
@@ -1451,7 +1451,17 @@
   "Musharna Darkrai": "夢夢蝕 達克萊伊",
   "Pidgeot Rampardos": "大比鳥 戰槌龍",
   "Primarina ex Primarina": "西獅海壬ex 西獅海壬",
-  "Team Rocket's Weezing ex Toxapex": "火箭隊的雙彈瓦斯 ex 超壞星"
+  "Team Rocket's Weezing ex Toxapex": "火箭隊的雙彈瓦斯 ex 超壞星",
+  "Blastoise Eiscue": "水箭龜 冰砌鵝",
+  "Eevee ex Greninja ex": "伊布ex 甲賀忍蛙ex",
+  "Galarian Obstagoon Igglybuff": "伽勒爾 堵攔熊 寶寶丁",
+  "Guzzlord ex Nihilego": "惡食大王ex 虛吾伊德",
+  "Haxorus Greninja": "雙斧戰龍 甲賀忍蛙",
+  "Mega Blaziken ex Blaziken": "超級火焰雞ex 火焰雞",
+  "Mega Mewtwo X ex Mega Mewtwo Y ex": "超級超夢Xex 超級超夢Yex",
+  "Mega Mewtwo Y ex Giratina ex": "超級超夢Yex 騎拉帝納ex",
+  "Mega Skarmory ex Dialga ex": "超級盔甲鳥ex 帝牙盧卡ex",
+  "Pidgeot Zoroark": "大比鳥 索羅亞克"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -2996,9 +3006,10 @@
   "Juliana": "小青",
   "Kid's Room": "兒童房",
   "Mega Houndoom ex": "超級黑魯加ex",
-  "Inteleon": "狙射樹梟"
+  "Inteleon": "狙射樹梟",
+  "Mega Mewtwo Y ex": "超級超夢Yex"
  },
- "last_updated": "2026-11-18",
+ "last_updated": "2026-11-19",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
