@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.19",
-  "last_updated": "2026-11-19",
+  "version": "4.20",
+  "last_updated": "2026-11-20",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 851,
+  "deck_names_count": 857,
   "card_names_count": 1544
  },
  "corrections": [
@@ -1461,7 +1461,13 @@
   "Mega Mewtwo X ex Mega Mewtwo Y ex": "超級超夢Xex 超級超夢Yex",
   "Mega Mewtwo Y ex Giratina ex": "超級超夢Yex 騎拉帝納ex",
   "Mega Skarmory ex Dialga ex": "超級盔甲鳥ex 帝牙盧卡ex",
-  "Pidgeot Zoroark": "大比鳥 索羅亞克"
+  "Pidgeot Zoroark": "大比鳥 索羅亞克",
+  "Dedenne ex Chingling": "咚咚鼠ex 鈴鐺響",
+  "Glimmora Kingambit": "晶光花 仆斬將軍",
+  "Greninja ex Samurott": "甲賀忍蛙ex 大劍鬼",
+  "Mega Gardevoir ex Mega Mewtwo Y ex": "超級沙奈朵ex 超級超夢Yex",
+  "Mega Mewtwo Y ex Mega Diancie ex": "超級超夢Yex 超級蒂安希ex",
+  "Team Rockets Articuno ex": "火箭隊的 急凍鳥ex"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -3009,7 +3015,7 @@
   "Inteleon": "狙射樹梟",
   "Mega Mewtwo Y ex": "超級超夢Yex"
  },
- "last_updated": "2026-11-19",
+ "last_updated": "2026-11-20",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",

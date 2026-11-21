@@ -1,0 +1,84 @@
+Magnezone              vs Vespiquen ex          :  91.5% N= 106 | 反向 Vespiquen ex          ->Magnezone           :   8.5% N= 106 | 昨  91.3% N= 103
+Magnezone              vs Hoopa ex              :  57.6% N= 151 | 反向 Hoopa ex              ->Magnezone           :  39.6% N= 134 | 昨  57.6% N= 146
+Magnezone              vs Mega Altaria ex       :  45.9% N= 207 | 反向 Mega Altaria ex       ->Magnezone           :  49.5% N= 210 | 昨  45.6% N= 204
+Magnezone              vs Mega Greninja ex      :  71.3% N=  80 | 反向 Mega Greninja ex      ->Magnezone           :  28.0% N=  82 | 昨  72.2% N=  79
+Magnezone              vs Suicune ex            :  52.9% N= 119 | 反向 Suicune ex            ->Magnezone           :  45.5% N= 121 | 昨  53.9% N= 115
+Magnezone              vs Mega Lucario ex       :  43.0% N= 100 | 反向 Mega Lucario ex       ->Magnezone           :  55.2% N=  96 | 昨  43.0% N= 100
+Magnezone              vs Hydreigon             :  32.1% N=  53 | 反向 Hydreigon             ->Magnezone           :  68.8% N=  48 | 昨  28.6% N=  49
+Magnezone              vs Umbreon               :  41.4% N= 128 | 反向 Umbreon               ->Magnezone           :  57.4% N= 136 | 昨  40.9% N= 127
+Magnezone              vs Mega Charizard Y ex   :  45.2% N= 228 | 反向 Mega Charizard Y ex   ->Magnezone           :  54.1% N= 227 | 昨  45.7% N= 221
+Hydreigon              vs Vespiquen ex          :  58.3% N=  48 | 反向 Vespiquen ex          ->Hydreigon           :  47.4% N=  57 | 昨  59.6% N=  47
+Hydreigon              vs Magnezone             :  68.8% N=  48 | 反向 Magnezone             ->Hydreigon           :  32.1% N=  53 | 昨  72.7% N=  44
+Hydreigon              vs Mega Altaria ex       :  35.5% N=  93 | 反向 Mega Altaria ex       ->Hydreigon           :  63.3% N= 109 | 昨  34.5% N=  87
+Hydreigon              vs Hoopa ex              :  35.4% N=  79 | 反向 Hoopa ex              ->Hydreigon           :  56.8% N=  74 | 昨  34.6% N=  78
+Hydreigon              vs Umbreon               :  46.8% N=  94 | 反向 Umbreon               ->Hydreigon           :  49.1% N= 116 | 昨  46.8% N=  94
+Hydreigon              vs Mega Charizard Y ex   :  52.8% N= 106 | 反向 Mega Charizard Y ex   ->Hydreigon           :  47.0% N= 115 | 昨  52.3% N= 105
+Vespiquen ex           vs Hoopa ex              :  73.9% N= 214 | 反向 Hoopa ex              ->Vespiquen ex        :  25.0% N= 196 | 昨  73.7% N= 213
+Vespiquen ex           vs Suicune ex            :  68.2% N= 179 | 反向 Suicune ex            ->Vespiquen ex        :  31.1% N= 177 | 昨  68.2% N= 179
+Vespiquen ex           vs Mega Altaria ex       :  47.6% N= 212 | 反向 Mega Altaria ex       ->Vespiquen ex        :  50.0% N= 212 | 昨  47.9% N= 211
+Vespiquen ex           vs Mega Mewtwo X ex      :  31.2% N=  80 | 反向 Mega Mewtwo X ex      ->Vespiquen ex        :  67.1% N=  79 | 昨  31.2% N=  80
+Vespiquen ex           vs Mega Lucario ex       :  32.9% N= 173 | 反向 Mega Lucario ex       ->Vespiquen ex        :  67.5% N= 160 | 昨  32.9% N= 173
+Vespiquen ex           vs Magnezone             :   8.5% N= 106 | 反向 Magnezone             ->Vespiquen ex        :  91.5% N= 106 | 昨   8.7% N= 103
+Hoopa ex               vs Mega Altaria ex       :  62.8% N= 339 | 反向 Mega Altaria ex       ->Hoopa ex            :  34.7% N= 378 | 昨  62.8% N= 328
+Hoopa ex               vs Suicune ex            :  55.6% N= 205 | 反向 Suicune ex            ->Hoopa ex            :  44.4% N= 239 | 昨  55.8% N= 204
+Hoopa ex               vs Mega Charizard Y ex   :  55.7% N= 334 | 反向 Mega Charizard Y ex   ->Hoopa ex            :  41.1% N= 368 | 昨  56.0% N= 320
+Hoopa ex               vs Mega Mewtwo X ex      :  62.1% N= 116 | 反向 Mega Mewtwo X ex      ->Hoopa ex            :  39.0% N= 136 | 昨  61.8% N= 115
+Hoopa ex               vs Mega Lucario ex       :  46.0% N= 174 | 反向 Mega Lucario ex       ->Hoopa ex            :  53.1% N= 173 | 昨  46.2% N= 169
+Hoopa ex               vs Mega Greninja ex      :  52.3% N= 128 | 反向 Mega Greninja ex      ->Hoopa ex            :  45.4% N= 141 | 昨  52.4% N= 126
+Mega Altaria ex        vs Mega Lucario ex       :  69.1% N= 217 | 反向 Mega Lucario ex       ->Mega Altaria ex     :  30.3% N= 205 | 昨  69.4% N= 212
+Mega Altaria ex        vs Mega Mewtwo X ex      :  65.2% N= 175 | 反向 Mega Mewtwo X ex      ->Mega Altaria ex     :  31.3% N= 163 | 昨  65.2% N= 175
+Mega Altaria ex        vs Umbreon               :  63.8% N= 307 | 反向 Umbreon               ->Mega Altaria ex     :  34.2% N= 295 | 昨  63.9% N= 305
+Mega Altaria ex        vs Mega Charizard Y ex   :  51.3% N= 493 | 反向 Mega Charizard Y ex   ->Mega Altaria ex     :  45.8% N= 478 | 昨  51.1% N= 483
+Mega Altaria ex        vs Suicune ex            :  54.0% N= 317 | 反向 Suicune ex            ->Mega Altaria ex     :  42.8% N= 306 | 昨  53.5% N= 314
+Mega Altaria ex        vs Mega Greninja ex      :  43.5% N= 200 | 反向 Mega Greninja ex      ->Mega Altaria ex     :  56.3% N= 190 | 昨  43.6% N= 197
+Mega Altaria ex        vs Vespiquen ex          :  50.0% N= 212 | 反向 Vespiquen ex          ->Mega Altaria ex     :  47.6% N= 212 | 昨  49.8% N= 211
+Mega Altaria ex        vs Magnezone             :  49.5% N= 210 | 反向 Magnezone             ->Mega Altaria ex     :  45.9% N= 207 | 昨  50.2% N= 207
+Mega Altaria ex        vs Hoopa ex              :  34.7% N= 378 | 反向 Hoopa ex              ->Mega Altaria ex     :  62.8% N= 339 | 昨  34.6% N= 367
+Suicune ex             vs Mega Greninja ex      :  68.0% N= 156 | 反向 Mega Greninja ex      ->Suicune ex          :  30.1% N= 153 | 昨  67.8% N= 155
+Suicune ex             vs Mega Altaria ex       :  42.8% N= 306 | 反向 Mega Altaria ex       ->Suicune ex          :  54.0% N= 317 | 昨  43.2% N= 303
+Suicune ex             vs Mega Charizard Y ex   :  69.4% N= 344 | 反向 Mega Charizard Y ex   ->Suicune ex          :  26.6% N= 338 | 昨  69.6% N= 343
+Suicune ex             vs Hoopa ex              :  44.4% N= 239 | 反向 Hoopa ex              ->Suicune ex          :  55.6% N= 205 | 昨  43.9% N= 237
+Suicune ex             vs Magnezone             :  45.5% N= 121 | 反向 Magnezone             ->Suicune ex          :  52.9% N= 119 | 昨  44.5% N= 117
+Suicune ex             vs Vespiquen ex          :  31.1% N= 177 | 反向 Vespiquen ex          ->Suicune ex          :  68.2% N= 179 | 昨  31.1% N= 177
+Mega Charizard Y ex    vs Hoopa ex              :  41.1% N= 368 | 反向 Hoopa ex              ->Mega Charizard Y ex :  55.7% N= 334 | 昨  41.1% N= 353
+Mega Charizard Y ex    vs Mega Altaria ex       :  45.8% N= 478 | 反向 Mega Altaria ex       ->Mega Charizard Y ex :  51.3% N= 493 | 昨  46.0% N= 470
+Mega Charizard Y ex    vs Mega Lucario ex       :  55.1% N= 234 | 反向 Mega Lucario ex       ->Mega Charizard Y ex :  44.4% N= 216 | 昨  55.2% N= 232
+Mega Charizard Y ex    vs Suicune ex            :  26.6% N= 338 | 反向 Suicune ex            ->Mega Charizard Y ex :  69.4% N= 344 | 昨  26.6% N= 338
+Mega Charizard Y ex    vs Mega Greninja ex      :  49.1% N= 271 | 反向 Mega Greninja ex      ->Mega Charizard Y ex :  47.0% N= 268 | 昨  49.1% N= 271
+Mega Charizard Y ex    vs Mega Mewtwo X ex      :  53.9% N= 239 | 反向 Mega Mewtwo X ex      ->Mega Charizard Y ex :  43.8% N= 235 | 昨  54.0% N= 237
+Mega Mewtwo X ex       vs Mega Altaria ex       :  31.3% N= 163 | 反向 Mega Altaria ex       ->Mega Mewtwo X ex    :  65.2% N= 175 | 昨  31.3% N= 163
+Mega Mewtwo X ex       vs Hoopa ex              :  39.0% N= 136 | 反向 Hoopa ex              ->Mega Mewtwo X ex    :  62.1% N= 116 | 昨  39.2% N= 135
+Mega Mewtwo X ex       vs Magnezone             :  46.3% N=  80 | 反向 Magnezone             ->Mega Mewtwo X ex    :  50.5% N=  85 | 昨  46.3% N=  80
+Mega Mewtwo X ex       vs Vespiquen ex          :  67.1% N=  79 | 反向 Vespiquen ex          ->Mega Mewtwo X ex    :  31.2% N=  80 | 昨  67.1% N=  79
+Umbreon                vs Mega Altaria ex       :  34.2% N= 295 | 反向 Mega Altaria ex       ->Umbreon             :  63.8% N= 307 | 昨  34.1% N= 293
+Umbreon                vs Magnezone             :  57.4% N= 136 | 反向 Magnezone             ->Umbreon             :  41.4% N= 128 | 昨  57.8% N= 135
+Umbreon                vs Suicune ex            :  34.2% N= 254 | 反向 Suicune ex            ->Umbreon             :  64.1% N= 253 | 昨  34.2% N= 254
+Umbreon                vs Mega Greninja ex      :  52.3% N= 241 | 反向 Mega Greninja ex      ->Umbreon             :  47.9% N= 238 | 昨  52.5% N= 240
+Umbreon                vs Mega Mewtwo X ex      :  62.7% N= 145 | 反向 Mega Mewtwo X ex      ->Umbreon             :  36.1% N= 155 | 昨  62.2% N= 143
+Umbreon                vs Hoopa ex              :  34.9% N= 229 | 反向 Hoopa ex              ->Umbreon             :  63.7% N= 182 | 昨  34.8% N= 227
+Mega Greninja ex       vs Suicune ex            :  30.1% N= 153 | 反向 Suicune ex            ->Mega Greninja ex    :  68.0% N= 156 | 昨  30.2% N= 152
+Mega Greninja ex       vs Magnezone             :  28.0% N=  82 | 反向 Magnezone             ->Mega Greninja ex    :  71.3% N=  80 | 昨  27.1% N=  81
+Mega Greninja ex       vs Mega Manectric ex     :  27.3% N=  88 | 反向 Mega Manectric ex     ->Mega Greninja ex    :  71.8% N=  92 | 昨  27.3% N=  88
+Mega Greninja ex       vs Mega Altaria ex       :  56.3% N= 190 | 反向 Mega Altaria ex       ->Mega Greninja ex    :  43.5% N= 200 | 昨  56.1% N= 187
+Mega Greninja ex       vs Hoopa ex              :  45.4% N= 141 | 反向 Hoopa ex              ->Mega Greninja ex    :  52.3% N= 128 | 昨  44.9% N= 138
+Mega Lucario ex        vs Mega Altaria ex       :  30.3% N= 205 | 反向 Mega Altaria ex       ->Mega Lucario ex     :  69.1% N= 217 | 昨  30.0% N= 200
+Mega Lucario ex        vs Magnezone             :  55.2% N=  96 | 反向 Magnezone             ->Mega Lucario ex     :  43.0% N= 100 | 昨  55.2% N=  96
+Mega Lucario ex        vs Hoopa ex              :  53.1% N= 173 | 反向 Hoopa ex              ->Mega Lucario ex     :  46.0% N= 174 | 昨  52.7% N= 169
+Mega Lucario ex        vs Vespiquen ex          :  67.5% N= 160 | 反向 Vespiquen ex          ->Mega Lucario ex     :  32.9% N= 173 | 昨  67.5% N= 160
+
+### 顯著分支清單
+  Mega Altaria ex          -> ['Mega Altaria ex Greninja', 'Mega Altaria ex Espeon']
+  Mega Greninja ex         -> ['Mega Greninja ex Greninja ex', 'Mega Greninja ex Suicune ex', 'Mega Greninja ex Greninja']
+  Umbreon                  -> ['Umbreon Hydreigon', 'Umbreon Mega Absol ex', 'Umbreon Mega Sableye ex', 'Umbreon ex Umbreon']
+  Mega Mewtwo X ex         -> ['Mega Mewtwo X ex Mew ex', 'Mega Mewtwo X ex Mega Diancie ex', 'Mega Mewtwo X ex Greninja']
+  Hoopa ex                 -> ['Hoopa ex Mega Absol ex', 'Hoopa ex Mega Sableye ex', 'Hoopa ex Greninja']
+  Vespiquen ex             -> ['Vespiquen ex Shuckle ex']
+  Magnezone                -> ['Magnezone Miraidon ex', 'Magnezone ex Magnezone']
+  Hydreigon                -> ['Hydreigon Mega Absol ex', 'Hydreigon Mega Sableye ex']
+  Suicune ex               -> ['Suicune ex Baxcalibur', 'Suicune ex Blastoise']
+  Mega Charizard Y ex      -> ['Mega Charizard Y ex Entei ex', 'Mega Charizard Y ex Fuecoco ex', 'Mega Charizard Y ex Charizard']
+  Mega Lucario ex          -> ['Mega Lucario ex Lucario', 'Mega Lucario ex', 'Mega Lucario ex Paldean Clodsire', 'Mega Lucario ex Hitmonchan ex']
+  Chien Pao ex             -> ['Chien Pao ex']
+  Pikachu ex               -> ['Pikachu ex Pawmot', 'Pikachu ex Pichu', 'Pikachu ex Dedenne ex', 'Pikachu ex Raikou ex']
+  Lopunny                  -> ['Lopunny Raboot']
+  Greninja                 -> ['Greninja ex Mega Greninja ex', 'Greninja Mega Mewtwo X ex', 'Greninja ex Suicune ex', 'Greninja Mega Absol ex']
