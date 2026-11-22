@@ -3349,8 +3349,36 @@
   "most_likely": "B",
   "confidence": "medium",
   "check_date": "2026-11-21",
-  "verification": null,
-  "reflection": null,
+  "verification": {
+   "date": "2026-11-21",
+   "check_date": "2026-11-21",
+   "result": "2/3",
+   "results": [
+    {
+     "scenario": "A",
+     "predicted": "超級路卡利歐 ex 合併 AWR <50.00%",
+     "actual": "49.6469%（raw 1394/2807）",
+     "result": "HIT",
+     "note": "AWR 50.1893→49.6469%，動能 −0.0020→−0.5424pt 重新放大；格鬥／草／鋼系族群 AWR 47.9601→47.6724% 同步六跌，族群確認成立。"
+    },
+    {
+     "scenario": "B",
+     "predicted": "超級雷電獸 ex 合併份額 <3.40%",
+     "actual": "3.3395%",
+     "result": "HIT",
+     "note": "3.4444→3.3395%，方向重新轉負，續降 0.1049pt；N 佔比 2.7919→2.7030%。"
+    },
+    {
+     "scenario": "C",
+     "predicted": "騎拉帝納 ex 合併份額 <4.20%",
+     "actual": "4.3062%",
+     "result": "MISS",
+     "note": "4.2694→4.3062%，份額反彈 +0.0368pt；動力耗盡後方向反轉。"
+    }
+   ],
+   "lesson": "內檢時判為「一條動能失效、一條方向反轉」低估了 A、B 的復活能力：+1,753 的回補增量日讓兩條份額型門檻重新可達，份額型在增量回補日的可靠性顯著高於低增量日。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+  },
+  "reflection": "PRED_20261119 正式命中 2/3。最大教訓：**增量日規模會決定份額型門檻的可达性**——同一條門檻（0.0439pt）在 +378 的迷你日是噪音、在 +1,753 的回補日卻是可達訊號。因此設定份額型條件時，除了動能衰減率，還必須把「檢查日的預估增量」納入距離換算。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
   "interim_check": {
    "date": "2026-11-20",
    "check_date": "2026-11-21",
@@ -3409,7 +3437,69 @@
   "most_likely": "A",
   "confidence": "medium",
   "check_date": "2026-11-22",
+  "verification": {
+   "date": "2026-11-21",
+   "check_date": "2026-11-21",
+   "result": "2/3",
+   "results": [
+    {
+     "scenario": "A",
+     "predicted": "超級七夕青鳥 ex 合併份額 ≥9.85%",
+     "actual": "9.9795%",
+     "result": "HIT",
+     "note": "9.6937→9.9795%，動能 +0.0946→+0.2858pt 重新放大 3.0 倍（衰減逆轉）；N 佔比 8.5965→8.8461%、AWR 53.3902→53.5383%、龍／惡系族群 50.9267→51.0284% 同步走強。"
+    },
+    {
+     "scenario": "B",
+     "predicted": "自爆磁怪 合併份額 ≥4.42%",
+     "actual": "4.5308%",
+     "result": "HIT",
+     "note": "4.3003→4.5308%，動能 +0.0608→+0.2305pt 放大 3.8 倍；N 佔比 3.6791→3.8944%。但 AWR 54.6710→54.2317% 同步驟降，擴張品質轉為觀察級。"
+    },
+    {
+     "scenario": "C",
+     "predicted": "胡帕 ex 合併 AWR <53.00%",
+     "actual": "53.2971%（raw 2340/4388）",
+     "result": "MISS",
+     "note": "53.2795→53.2971%，AWR 反彈 +0.0176pt，方向反轉；族群同步走強，AWR 型條件失效。"
+    }
+   ],
+   "lesson": "PRED_20261120 命中 2/3。**份額型在增量回補日可靠、AWR 型仍被單日噪音推翻**（第三次驗證）。同時出現一個新結構：**自爆磁怪把「份額升＋AWR 升＋族群升」翻成「份額升＋AWR 跌＋族群升」**——即擴張線會在擴張加速當天轉為靶心觀察級，擴張強度與擴張速度互斥。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+  },
+  "reflection": "PRED_20261120 正式命中 2/3。核心教訓：**擴張品質與擴張速度互斥**——自爆磁怪與胡帕今日同時出現「份額加速上升 + AWR 走弱」，此時再把 AWR 型條件掛在擴張線上必然反向命中失敗。另一條：**份額型門檻必須以檢查日預估增量換算距離**，不能只看動能衰減率。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+ },
+ {
+  "id": "PRED_20261121",
+  "date": "2026-11-21",
+  "session": "晚間 20:05（C1 第二十四日） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+  "set": "C1 Day 24",
+  "source": "Limitless TCG 即時資料 2026-11-21 20:05（UTC+8），C1 標準賽制 90 錦標賽／10,241 玩家／31,210 對局（+4 場／+544 人／+1,753 對局／+5.95%，近兩週最大增量日），713 分支／197 合併列（同名加總後 181 組，合併頁零新名稱）；同一支 parser 重解析 11-18～11-21 raw；對位取自前 24 張牌組對位頁並經 scripts/verify_mu_20261121.py 覆核 84 條全數通過（合併 72＋分支 12）；字典補 16 條牌組名（deck_names 857→873，version 4.21） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+  "environment_summary": "C1 第二十四日，單日增加 4 場錦標賽／544 玩家／1,753 對局（+5.95%，近兩週最大增量日），全環境加權 AWR 48.9860%（+0.0141pt，N=61,858）。合併份額前五：超級噴火龍 Y ex 12.9870%／50.2318%、超級七夕青鳥 ex 9.9795%／53.5383%、月亮伊布 8.3684%／48.3504%、胡帕 ex 7.9094%／53.2971%、水君 ex 7.6164%／51.4603%。AWR 前五：自爆磁怪 54.2317%、三首惡龍 53.7324%、超級七夕青鳥 ex 53.5383%、胡帕 ex 53.2971%、蜂女王 ex 52.9856%。最大結構變化：超級七夕青鳥 ex 份額五連升且動能衰減逆轉（+0.2858pt）、擴張四要素（份額／N 佔比／AWR／族群）全數成立，為本輪最乾淨的真品質擴張；胡帕 ex 份額八連升、動能放大 4.8 倍但 AWR 止跌回穩，前兩日的靶心雛形被打斷；自爆磁怪由「三項同升」翻成「份額升＋AWR 跌」而電系族群仍升，依 11-14 規則只能列觀察級；超級路卡利歐 ex 與蜂女王 ex 各出現 0.54／0.58pt 的單日 AWR 驟降；超級甲賀忍蛙 ex 七連降且忍蛙家族合計四連降至 10.9267%，屬純份額外流。C1 新舊卡差距 3.0599→3.2149pt 反向擴大 0.1550pt，連兩日擴大。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+  "predictions": [
+   {
+    "scenario": "A",
+    "name": "超級甲賀忍蛙 ex 合併份額 <6.30% <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "probability": 0.4,
+    "description": "超級甲賀忍蛙 ex 合併份額 **<6.30%**（今日 6.4154%，距離 0.1154pt）。份額 6.8625→6.6890→6.6412→**6.4154%** 七連降；動能 −0.1735→−0.0478→**−0.2258pt**（放大 4.7 倍，衰減逆轉）；N 佔比 5.1916→5.0827→5.0408→**4.8385%** 四連降；忍蛙家族合計 11.5026→11.3577→11.2921→**10.9267%** 四連降；AWR 43.8974→43.9932→44.0364→**44.0358%** 持平（本來就低於大盤 4.95pt，沒有崩潰可補跌）→ **純份額外流**；水系族群 AWR 47.6224→**47.5917%** 同步微跌 → 族群確認成立。預計 0.1154÷0.2258≈**0.51 天**（以最近兩日最小動能 0.0478 計 2.41 天）。風險：距離僅 0.1154pt（約 11.8 副牌），單日噪音可一次抵消；AWR 已在地板附近，若主流再度擴張可能止跌。**停止條件：單日份額動能轉正即失效。** <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+   },
+   {
+    "scenario": "B",
+    "name": "胡帕 ex 合併份額 ≥8.10% <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "probability": 0.35,
+    "description": "胡帕 ex 合併份額 **≥8.10%**（今日 7.9094%，距離 0.1906pt）。份額 7.3395→7.4741→7.5487→**7.9094%** 八連升；動能 +0.1346→+0.0746→**+0.3607pt**（放大 4.8 倍，衰減逆轉）；N 佔比 6.5468→6.7012→6.7467→**7.0937%** 四連升；AWR 53.2795→**53.2971%** 不跌；龍／惡系族群 AWR 50.9267→**51.0284%** 走強 → **擴張四要素齊備且族群確認**。預計 0.1906÷0.3607≈**0.53 天**（以最近兩日最小動能 0.0746 計 2.56 天）。風險：單日 +0.36pt 的跳躍可能部分回吐；胡帕仍是觀察級靶心候選，若 AWR 續跌則擴張暫停；安全餘裕僅 0.19pt，未加滿 11-18 規則的 0.15pt 額外餘裕，機率壓到 0.35。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+   },
+   {
+    "scenario": "C",
+    "name": "月亮伊布 合併份額 <8.20% <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->",
+    "probability": 0.25,
+    "description": "月亮伊布 合併份額 **<8.20%**（今日 8.3684%，距離 0.1684pt）。份額 8.7922→8.6151→8.5696→**8.3684%** 八連降；動能 −0.1771→−0.0455→**−0.2012pt**（放大 4.4 倍）；N 佔比 7.2683→7.1679→7.1150→**6.9175%** 四連降；AWR 48.4087→**48.3504%** 走低；超能系族群 AWR 48.1992→**48.1665%** 同步微跌 → 族群確認成立。預計 0.1684÷0.2012≈**0.84 天**（以最近兩日最小動能 0.0455 計 3.70 天）。風險：份額第三大的牌組，均值回歸力強；0.1684pt 約等於 17 副牌，若七夕青鳥擴張放緩即可能止跌。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
+   }
+  ],
+  "most_likely": "A",
+  "confidence": "medium",
+  "check_date": "2026-11-22",
   "verification": null,
-  "reflection": null
+  "reflection": null,
+  "excluded_strongest_signal": "超級路卡利歐 ex 合併 AWR <49.40%（今日 49.6469%，動能 −0.0020→**−0.5424pt** 重新放大、門檻距離僅 0.2469pt 約 0.46 天、格鬥／草／鋼系族群 AWR 同步六跌確認；因（超級路卡利歐 ex, AWR）已於 PRED_20261119 使用，落在去重規則內故排除。依 11-20 教訓必須明列被排除的最強訊號。） <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->"
  }
 ]

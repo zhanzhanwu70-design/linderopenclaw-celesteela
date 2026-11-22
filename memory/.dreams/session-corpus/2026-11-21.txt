@@ -1,1 +1,2 @@
 [celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L23082] Assistant: Operational; ready for tasks. Heartbeat scratch = `HEARTBEAT_OK`，無待辦。
+[celesteela/sessions/celesteela/877e0afe-66be-40d2-ae05-f0cb09b666b0#L2696] Assistant: 【PTCGP Meta 三日彙整】11-18 → 11-20（C1） 自爆磁怪｜54.67%｜4.30%｜份額三連升、AWR 三連升，全環境冠軍 三首惡龍｜53.83%｜2.61%｜低曝光高效率，AWR 持平微升 蜂女王 ex｜53.57%｜4.97%｜份額三連降，AWR 今日微跌 0.03pt 超級七夕青鳥 ex｜53.39%｜9.69%｜份額連升，AWR 反彈 0.14pt 胡帕 ex｜53.28%｜7.55%｜份額連升，AWR 今日轉跌 0.12pt 使用率前三：超級噴火龍 Y ex 12.84%（觸頂
