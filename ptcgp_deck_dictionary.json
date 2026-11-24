@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.22",
-  "last_updated": "2026-11-22",
+  "version": "4.23",
+  "last_updated": "2026-11-23",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 877,
+  "deck_names_count": 901,
   "card_names_count": 1544
  },
  "corrections": [
@@ -1487,7 +1487,31 @@
   "Electivire Magmortar": "電擊魔獸 鴨嘴炎獸",
   "Gengar Absol": "耿鬼 阿勃梭魯",
   "Growlithe Magby": "卡蒂狗 鴨嘴寶寶",
-  "Pyukumuku Tatsugiri": "拳海參 米立龍"
+  "Pyukumuku Tatsugiri": "拳海參 米立龍",
+  "Crabominable ex Greninja": "好勝毛蟹ex 甲賀忍蛙",
+  "Crabominable ex Greninja ex": "好勝毛蟹ex 甲賀忍蛙ex",
+  "Dedenne ex Teal Mask Ogerpon ex": "咚咚鼠ex 厄鬼椪 碧草面具ex",
+  "Entei ex Greninja": "炎帝ex 甲賀忍蛙",
+  "Gallade ex Mega Gallade ex": "艾路雷朵ex 超級艾路雷朵ex",
+  "Giratina ex Greninja": "騎拉帝納ex 甲賀忍蛙",
+  "Incineroar ex Fuecoco ex": "熾焰咆哮虎ex 呆火鱷ex",
+  "Jigglypuff Ditto": "胖丁 百變怪",
+  "Lucario Paldean Clodsire": "路卡利歐 帕底亞 土王",
+  "Lunala Mew ex": "露奈雅拉 夢幻ex",
+  "Lycanroc ex Paldean Clodsire": "鬃岩狼人ex 帕底亞 土王",
+  "Magnezone Umbreon ex": "自爆磁怪 月亮伊布ex",
+  "Malamar Mega Mewtwo Y ex": "烏賊王 超級超夢Yex",
+  "Mega Greninja ex Blastoise": "超級甲賀忍蛙ex 水箭龜",
+  "Mega Greninja ex Omastar": "超級甲賀忍蛙ex 多刺菊石獸",
+  "Mega Mewtwo Y ex Indeedee ex": "超級超夢Yex 愛管侍ex",
+  "Mega Sharpedo ex Inteleon": "超級巨牙鯊ex 狙射樹梟",
+  "Mega Steelix ex Melmetal": "超級大鋼蛇ex 美錄梅塔",
+  "Meowscarada Exeggutor": "魔幻假面喵 椰蛋樹",
+  "Palkia ex Manaphy": "帕路奇亞ex 瑪納霏",
+  "Salamence Miltank": "暴飛龍 大奶罐",
+  "Team Rocket's Slowking ex Team Rocket's Weezing ex": "火箭隊的呆呆王 ex 火箭隊的雙彈瓦斯 ex",
+  "Umbreon ex Pidgeot": "月亮伊布ex 大比鳥",
+  "Ursaluna Meowth": "月月熊 喵喵"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -3035,7 +3059,7 @@
   "Inteleon": "狙射樹梟",
   "Mega Mewtwo Y ex": "超級超夢Yex"
  },
- "last_updated": "2026-11-22",
+ "last_updated": "2026-11-23",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
