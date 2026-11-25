@@ -1,1 +1,2 @@
 [celesteela/sessions/celesteela/a365590b-ef1a-4bb8-bdad-052262b578c9#L23114] Assistant: Operational; ready for tasks. Heartbeat scratch = `HEARTBEAT_OK`，無待辦。
+[celesteela/sessions/celesteela/877e0afe-66be-40d2-ae05-f0cb09b666b0#L2697] Assistant: PTCGP Meta 三日彙整（11-21→11-23） 自爆磁怪｜53.87%｜4.79%｜AWR 三連跌 −0.37pt，份額七連升 +0.26pt 三首惡龍｜53.68%｜2.75%｜AWR −0.05pt，份額五連升 +0.07pt 超級七夕青鳥 ex｜53.62%｜10.15%｜AWR +0.08pt，份額 +0.18pt 突破 10% 胡帕 ex｜53.30%｜8.29%｜AWR 持平，份額 +0.38pt 十連升 蜂女王 ex｜52.96%｜5.25%｜AWR −0.03pt，份額 +0.24p

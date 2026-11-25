@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.23",
-  "last_updated": "2026-11-23",
+  "version": "4.24",
+  "last_updated": "2026-11-24",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 901,
+  "deck_names_count": 903,
   "card_names_count": 1544
  },
  "corrections": [
@@ -1511,7 +1511,9 @@
   "Salamence Miltank": "暴飛龍 大奶罐",
   "Team Rocket's Slowking ex Team Rocket's Weezing ex": "火箭隊的呆呆王 ex 火箭隊的雙彈瓦斯 ex",
   "Umbreon ex Pidgeot": "月亮伊布ex 大比鳥",
-  "Ursaluna Meowth": "月月熊 喵喵"
+  "Ursaluna Meowth": "月月熊 喵喵",
+  "Blastoise Regice": "水箭龜 雷吉艾斯",
+  "Crobat ex Crobat": "叉字蝠ex 叉字蝠"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -3059,7 +3061,7 @@
   "Inteleon": "狙射樹梟",
   "Mega Mewtwo Y ex": "超級超夢Yex"
  },
- "last_updated": "2026-11-23",
+ "last_updated": "2026-11-24",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
