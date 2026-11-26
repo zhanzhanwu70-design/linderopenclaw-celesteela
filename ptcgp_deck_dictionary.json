@@ -1,8 +1,8 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.24",
-  "last_updated": "2026-11-24",
+  "version": "4.25",
+  "last_updated": "2026-11-25",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
   "c1_dual_fusion_added": "2026-10-29",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 903,
+  "deck_names_count": 913,
   "card_names_count": 1544
  },
  "corrections": [
@@ -1513,7 +1513,17 @@
   "Umbreon ex Pidgeot": "月亮伊布ex 大比鳥",
   "Ursaluna Meowth": "月月熊 喵喵",
   "Blastoise Regice": "水箭龜 雷吉艾斯",
-  "Crobat ex Crobat": "叉字蝠ex 叉字蝠"
+  "Crobat ex Crobat": "叉字蝠ex 叉字蝠",
+  "Alolan Raichu ex Pawmot": "阿羅拉 雷丘ex 巴布土撥",
+  "Carracosta Eiscue": "肋骨海龜 冰砌鵝",
+  "Dragonair Giratina": "哈克龍 騎拉帝納",
+  "Dusknoir Galarian Cursola": "黑夜魔靈 伽勒爾 魔靈珊瑚",
+  "Mega Kangaskhan ex Mega Mewtwo Y ex": "超級袋獸ex 超級超夢Yex",
+  "Mega Lucario ex Crabominable": "超級路卡利歐 ex 好勝毛蟹",
+  "Mega Mewtwo Y ex Flutter Mane ex": "超級超夢Yex 振翼髮ex",
+  "Porygon Z": "多邊獸Ｚ",
+  "Porygon-Z Hisuian Zoroark ex": "多邊獸Ｚ 洗翠 索羅亞克ex",
+  "Wigglytuff ex Darkrai": "胖可丁ex 達克萊伊"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",
@@ -3061,7 +3071,7 @@
   "Inteleon": "狙射樹梟",
   "Mega Mewtwo Y ex": "超級超夢Yex"
  },
- "last_updated": "2026-11-24",
+ "last_updated": "2026-11-25",
  "Mega Sableye ex": "超級勾魂眼 ex",
  "Mega Sableye": "超級勾魂眼",
  "Dedenne": "咚咚鼠",
