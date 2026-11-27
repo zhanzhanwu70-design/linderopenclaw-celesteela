@@ -80,3 +80,7 @@
 
 <!-- openclaw-memory-promotion:memory:claim:c5e70decff6b -->
 - 新卡／規則影響 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->: 今日無新卡包或規則變更。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela --> [score=0.854 signals=11 recalls=0 avg=0.620 source=memory/2026-11-15.md:35-35] <!-- trigger: 規則, 影響, 今日 --> <!-- importance: 9 -->
+
+## 模型備援的隱含前提（2026-11-27 教訓）
+- minimax 與 minimax-portal 兩個 provider **共用同一 baseUrl `api.minimax.io`**：把兩者都列為 fallback 不等於跨主機備援，該主機 DNS／連線層級故障會一次打掉全部備援（2026-11-27 三日彙整連敗四次即此因）。真正的跨主機備援需接 openai，但 `providers.openai` 目前無 apiKey，接上屬 gateway 設定變更，需 Linder 授權。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->
+- 排程連續失敗時先查失敗訊息層級：`network connection error`／`DNS lookup ... failed`＝主機層級，`API rate limit reached`＝配額層級，兩者處置不同。 <!-- project: github.com/zhanzhanwu70-design/linderopenclaw-celesteela -->

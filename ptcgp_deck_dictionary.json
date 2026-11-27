@@ -1,7 +1,7 @@
 {
  "metadata": {
   "name": "PTCGP 牌組名稱中英字典",
-  "version": "4.25",
+  "version": "4.26",
   "last_updated": "2026-11-25",
   "notes": "用於 Meta 分析時翻譯牌組名稱。發布 Meta 前必須先查本字典；缺漏翻譯需補進字典再發布。翻譯若有錯誤請糾正。",
   "last_video_ingest_update": "2026-06-02T16:09Z",
@@ -15,7 +15,7 @@
    "Team Rockets Raticate ex",
    "Team Rockets Weezing ex"
   ],
-  "deck_names_count": 913,
+  "deck_names_count": 920,
   "card_names_count": 1544
  },
  "corrections": [
@@ -1523,7 +1523,14 @@
   "Mega Mewtwo Y ex Flutter Mane ex": "超級超夢Yex 振翼髮ex",
   "Porygon Z": "多邊獸Ｚ",
   "Porygon-Z Hisuian Zoroark ex": "多邊獸Ｚ 洗翠 索羅亞克ex",
-  "Wigglytuff ex Darkrai": "胖可丁ex 達克萊伊"
+  "Wigglytuff ex Darkrai": "胖可丁ex 達克萊伊",
+  "Garchomp Meowth": "烈咬陸鯊 喵喵",
+  "Gengar Ditto": "耿鬼 百變怪",
+  "Giratina ex Pidgeot": "騎拉帝納ex 大比鳥",
+  "Mega Lopunny ex Goomy": "超級長耳兔ex 黏黏寶",
+  "Mega Lucario ex Tyrogue": "超級路卡利歐 ex 無畏小子",
+  "Rotom ex Smeargle": "洛托姆ex 圖圖犬",
+  "Team Rocket's Weezing ex Team Rocket's Magmar": "火箭隊的雙彈瓦斯 ex 火箭隊的鴨嘴火獸"
  },
  "card_names": {
   "Bulbasaur": "妙蛙種子",

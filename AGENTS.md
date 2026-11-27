@@ -198,3 +198,8 @@ OPENAI_API_KEY_DIR = /home/amr/.openclaw/secrets/openai-api-key.txt
 - 本機原生 heartbeat `46242a4c-915b-4f97-9163-5fd924f1f81e`（heartbeat:celesteela，每 30 分鐘）：payload=heartbeat，靠 scratch 傳遞狀態，`openclaw cron scratch <id>` 可讀寫。舊的 `~/.openclaw/task-queue/heartbeat_check.py` 機制已不存在，不要再找。
 - Celesteela Keep-Alive `880b5c17-1395-494b-8ed5-a25282eb8699`（每 3 小時探活，delivery=none）：2026-11-19 13:02 起 payload 為自足巡檢清單 + `lightContext=true`；`timeoutSeconds` 已於 2026-11-20 調為 **1800**（舊值 600 已過時）。fallbacks 現為三路不重複：`minimax/MiniMax-M3` → `minimax-portal/MiniMax-M2.7` → `openai/gpt-5.4-mini`（2026-11-22 13:02 讀回驗證；`MiniMax-M2.7-highspeed` 已從全部有 fallback 的 job 移除，非本 job 個別狀態，勿再單獨補回、勿與它們對抗）。model=`minimax-portal/MiniMax-M3`。診斷狀態寫在該 job 的 scratch。cron 執行期用 `automations` 工具受限（只允許讀自身），改設定要走 `openclaw cron edit <id> ...`。
 - **Keep-Alive 巡檢 token 紀律（2026-11-22 補）**：巡檢時**禁用 `automations runs`**（回傳每筆完整 summary，單次約 60–75KB）；改用 `openclaw cron list --json` ＋ python 欄位過濾（job 狀態）與 `openclaw cron get <id>`（設定讀回驗證），單次控制在數百 bytes。`~/.openclaw/skills/tool-output-discipline` 為 openclaw-managed，Skill Workshop 無法改寫，故規則記於此處與當日筆記。**注意：本檔案不會被 cron session 注入**（僅 workspace 主 session 讀取），故同樣禁令已於 2026-11-22 16:02 直接寫進 Keep-Alive job 自身 payload message 末段（語意保留，837B→960B）——單靠本處無法約束 cron 巡檢。
+
+### Meta 排程的 provider 風險（2026-11-27 實測）
+- 三日彙整 `6ddc8b4c` 與每日記錄 `09c7940b` 的 fallback 全部落在 minimax 家族（minimax／minimax-portal 兩條線但同一組 endpoint）。2026-11-27 10:16 起 `api.minimax.io` DNS／連線層故障，兩個 job 與其他 agent 多數 job 同時掛掉（`network connection error`／`DNS lookup for the provider endpoint failed`／429），三日彙整貼文因此延遲約一小時才送出。
+- `providers.openai` 目前無 apiKey（models list 顯示 Auth=no），無法直接作為跨 provider 備援；要用需先取得憑證並寫入 config。
+- 故障排除法：`getent hosts api.minimax.io` 與 `node -e dns.lookup(...)` 若本機正常，即為對端／上游解析問題，不需改本機網路設定。
